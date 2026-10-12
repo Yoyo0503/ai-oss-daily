@@ -4,5 +4,5 @@ Aurora Audio Studio · Windows 与 macOS 本地 AI 音频创作工作台。音�
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：21
+**Stars**：22
 **Source**：https://github.com/swy2018/Aurora-Audio-Studio

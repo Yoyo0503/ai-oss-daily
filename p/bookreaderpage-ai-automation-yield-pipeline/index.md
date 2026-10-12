@@ -1,0 +1,10 @@
+# bookreaderpage/ai-automation-yield-pipeline
+
+提供使用 LLM 和 AI 自動化建立數位產出管道的技術藍圖和工作流程指南。
+
+**為何上榜**：近期新建立，已獲 20★
+
+**商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
+
+**Stars**：20
+**原始連結**：https://github.com/bookreaderpage/ai-automation-yield-pipeline
