@@ -509,7 +509,7 @@ _Daily archive · 2026-10-10_
 - [FlashML-org/FreeVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flashml-org-freevideo/) — Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB…
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hamzabagirsakci-turkish-court-decisions/) — · task_categories:text-generation, task_categories:text-retrieval, task_categories:text-classification
 - [UmutKocasari/FaceAnything](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-umutkocasari-faceanything/) — · gradio, face, 4d-reconstruction
-- [longsurf-ai/openchart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/longsurf-ai-openchart/) — OSS trading workspace with agents
+- [longsurf-ai/openchart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/longsurf-ai-openchart/) — OSS trading workspace with your favorite agents
 - [multimodalart/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-misotts/) — · gradio, region:us
 - [build-small-hackathon/OpenMythos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-openmythos/) — · gradio, build-small-hackathon, backyard-ai
 - [fffiloni/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fffiloni-scail-2/) — · gradio, region:us
@@ -703,7 +703,7 @@ _Daily archive · 2026-10-10_
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [agent-memory-leaderboard/leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-agent-memory-leaderboard-leaderboard/) — · static, leaderboard, benchmark
 - [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dayona-morphix-studio-client/) — · static, region:us
-- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [someone-in-the-world/HighQualityVideoGeneration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-someone-in-the-world-highqualityvideogeneration/) — · gradio, region:us
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
@@ -1159,7 +1159,6 @@ _Daily archive · 2026-10-10_
 - [ARahim3/kaggle-tpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arahim3-kaggle-tpu-lab/) — Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~165 tok/s, our own JAX engine…
 - [milind-soni/OpenMausBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/milind-soni-openmausbot/) — Open-source Grok Bot alternative with a virtual machine that bots can use
 - [flaqai/Awesome_SEO_Writing_Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/flaqai-awesome-seo-writing-skill/) — Share the awesome skills for SEO Writing. All the skills are developed by Flaq AI Team
-- [mlfoundations/MINT-1T-HTML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mlfoundations-mint-1t-html/) — · task_categories:image-to-text, task_categories:text-generation, language:en
 - [elie222/rakazo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elie222-rakazo/) — Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dontplantoend-ugi-leaderboard/) — · docker, leaderboard, submission:manual
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ather-techie-rag-interview-questions/) — A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architect…
@@ -1767,7 +1766,7 @@ _Daily archive · 2026-10-10_
 - [jdevalk/specification.website](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jdevalk-specification-website/) — Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
 - [mvanhorn/cli-printing-press](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mvanhorn-cli-printing-press/) — Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds …
 - [heymrun/heym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heymrun-heym/) — Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect eve…
-- [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syrizelink-openfic/) — 专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Wrting 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe W…
+- [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syrizelink-openfic/) — 专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Writing 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe …
 - [google-antigravity/antigravity-sdk-python](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/google-antigravity-antigravity-sdk-python/) — A Python library for building AI agents that leverage the full power of Google Antigravity.
 - [apache/maka](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/apache-maka/) — Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it …
 - [milisp/codexia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/milisp-codexia/) — Lightweight Agent Workstation for Codex CLI + Claude Code — with task scheduler, git worktree & remote contro…

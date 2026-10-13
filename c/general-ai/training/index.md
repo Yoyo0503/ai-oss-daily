@@ -11,25 +11,25 @@
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ilkerzgi-fal-krea-2-style-loras/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Labs-Audex-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-audex-30b-a3b/) — NVIDIA開發的文本生成模型，具備推理能力。
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-clean-plate/) — 影片去背及物件移除工具，適用於後期製作。
-- [arudradey/qwen-image-2.1-uncensored-aio-loras](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-arudradey-qwen-image-2-1-uncensored-aio-loras/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/) — 基於 LoRA 技術生成影片，支援多角度合成。
 - [fal/MiniMax-H3-Realism-People-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-minimax-h3-realism-people-lora/) — 基於MiniMax-H3的LoRA模型，用於生成真實人物的影片。
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pepe104-minimax-h3-turbo-lora-uncensored/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-viggle-qwen-image-2-1-viggle-turbo/) — Hugging Face 示範應用(Space)，關鍵字：文生圖（依標籤自動歸類，詳細看下方原文）
+- [arudradey/qwen-image-2.1-uncensored-aio-loras](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-arudradey-qwen-image-2-1-uncensored-aio-loras/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Viggle/Viggle-Animate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-animate/) — Viggle-Animate 是一個用於影片轉換和角色替換的工具。
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — 用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。
+- [Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pepe104-minimax-h3-turbo-lora-uncensored/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-viggle-qwen-image-2-1-viggle-turbo/) — Hugging Face 示範應用(Space)，關鍵字：文生圖（依標籤自動歸類，詳細看下方原文）
 - [amisima/LTX-2.3-10Eros_I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-ltx-2-3-10eros-i2v/) — Hugging Face 示範應用(Space)，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mothersuperior-yue2-mothersuperior-realaudio-tokenizer-v4/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [conradlocke/krea2-identity-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conradlocke-krea2-identity-edit/) — 基於Krea-2的影像編輯工具，適用於ComfyUI。
 - [Soofi-Project/Pretraining-Tech-Report-old](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-soofi-project-pretraining-tech-report-old/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-m3st3rj4k3l-flux-2-klein-multi-lora-v2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/krea2-lora-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-krea2-lora-trainer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [obsxrver/wan22-i2v-omni-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-obsxrver-wan22-i2v-omni-lora/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [XYZAILab/XYZ-Aquila-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xyzailab-xyz-aquila-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ovi054/Qwen-Image-Edit-2511-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ovi054-qwen-image-edit-2511-lora/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/kroma-krea2-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-kroma-krea2-lora-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [amisima/minimax-h3-reference-4-step-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-minimax-h3-reference-4-step-lora/) — Hugging Face 示範應用(Space)，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
+- [M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-m3st3rj4k3l-flux-2-klein-multi-lora-v2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alissonerdx-charactersheet-lora-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [faunix/Qwen3.8-27B-Distillation-40K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-faunix-qwen3-8-27b-distillation-40k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [IFM/SFT-Reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ifm-sft-reasoning/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -41,6 +41,7 @@
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-mms-300m/) — 一個使用wav2vec2的轉換器模型，適用於多語言預訓練。
 - [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/akashpriyadarshii-jev-curate/) — 用於TypeSafe Jev的高吞吐量資料篩選工具，支援Parquet和JSONL格式。
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — 詳細介紹 LLM 微調方法（lora, qlora, unsloth）的教程。
+- [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-hh-rlhf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Alg-Khlifa-Mouad-Iyad/GPT2-MathRiddle-Forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alg-khlifa-mouad-iyad-gpt2-mathriddle-forge/) — 使用 Transformers 和 TRL 對 GPT-2 進行微調，使其能生成數學謎題。
 - [petkyletampu28-a11y/tasknet-multitask](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/petkyletampu28-a11y-tasknet-multitask/) — 現代多工 NLP 微調框架，使用 ModernBERT 進行高效能訓練。
 - [Himanshu-giri-01/k8s-ai-runtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/himanshu-giri-01-k8s-ai-runtime/) — 在 Kubernetes 上流暢執行 AI 負載的通用 Python SDK 指南。
@@ -48,7 +49,6 @@
 - [Tranvanviet27/NLP-LLM-Fine-Tuning-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tranvanviet27-nlp-llm-fine-tuning-studio/) — NLP-LLM-Fine-Tuning-Studio 是一個用於自然語言處理模型微調的開源框架。
 - [fh6312/kubeflow-pipeline-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fh6312-kubeflow-pipeline-forge/) — 用 Python 為 Kubernetes 最佳化 AI 工作負載的工具。
 - [STEAM-DROPS/finetune-lab-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/steam-drops-finetune-lab-notes/) — 2026 年 Transformer 微調指南，涵蓋 LLM、LoRA 和 PEFT。
-- [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-hh-rlhf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RNetworks2019/fine-tuning-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rnetworks2019-fine-tuning-playground/) — 掌握 2026 年 LLM 微調技巧：從 Hugging Face 基礎到生產實踐
 - [StudioFoysal/RiddleGen-FineTuned-GPT2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/studiofoysal-riddlegen-finetuned-gpt2/) — 2026 年數學謎題生成：微調 GPT-2 自動解謎
 - [chrisipanaque/qwen-lora-finetune](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrisipanaque-qwen-lora-finetune/) — 使用 QLoRA 在自定義資料集上微調 Qwen2.5-Coder，生成可分享的 LoRA 介面卡。
@@ -64,8 +64,8 @@
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enping-hu-minimind-deep-dive/) — MiniMind 原始碼精讀及大模型技術體系中文學習筆記。
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-can-i-finetune-this/) — 估計Hugging Face模型是否能在你的本地GPU上微調。
 - [LingyiChen-AI/ModelForge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lingyichen-ai-modelforge/) — 一站式NLP小模型平臺，提供資料集管理、訓練、評估和線上部署等服務。
-- [DaoyuanLi2816/tracedistill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-tracedistill/) — 將教師模型的思想鏈轉換為 LoRA 介面卡，以訓練推理模型。
 - [arkorlab/arkor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arkorlab-arkor/) — 用於微調的 TypeScript 框架，支援 GPU 和多種機器學習模型。
+- [DaoyuanLi2816/tracedistill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-tracedistill/) — 將教師模型的思想鏈轉換為 LoRA 介面卡，以訓練推理模型。
 - [THU-BPM/RLCSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thu-bpm-rlcsd/) — 對比自我蒸餾的強化學習框架，適用於大型語言模型。
 - [hlpun/Train-in-Silence](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hlpun-train-in-silence/) — 自動化 VRAM 計算器，為 LLM 微調選擇最便宜的 GPU。
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。

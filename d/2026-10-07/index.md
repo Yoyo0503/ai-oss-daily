@@ -15,7 +15,7 @@ _每日存檔 · 2026-10-07_
 - [himovo/movo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/himovo-movo/) — 將DeepSeek Harness轉換為具知識、深入研究、內容生成等功能的企業級代理平臺。
 - [KKKKhazix/sun-style-writing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-sun-style-writing/) — 從孫割19年白月光的痛徹心扉中蒸餾出的文學寫作心法。
 - [vercel-labs/eve-software-factory-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-labs-eve-software-factory-template/) — Foreman，一個為軟體工廠設計的AI工具。
-- [mlfoundations/MINT-1T-HTML](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mlfoundations-mint-1t-html/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syrizelink-openfic/) — 跨平臺、使用者友好的小說創作AI工具，支援人機協作。
 
 ## 🚀 Star 竄升
 
@@ -1147,7 +1147,6 @@ _每日存檔 · 2026-10-07_
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HoppouAI/Breeze-TTS-2.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hoppouai-breeze-tts-2-cpp/) — Breeze-TTS-2.cpp 是一個雙語文字轉語音的 C++ 模型，支援英語和中文。
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-autonomous-vehicles/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [mlfoundations/MINT-1T-HTML](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mlfoundations-mint-1t-html/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [miqdadbadjuber/anti-slop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miqdadbadjuber-anti-slop/) — 規則過濾AI生成的通用UI設計、文本和程式碼，提高AI程式碼代理的品質。
 - [GongZhiren/State-of-Thought](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gongzhiren-state-of-thought/) — 在測試時間計算中啟動內在推理的大型語言模型。
 - [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amazingdraw-amazingdraw/) — AmazingDraw 是一個本地 ComfyUI 抽卡引擎，解決不會寫提示詞的問題。

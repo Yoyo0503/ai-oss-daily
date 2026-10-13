@@ -1159,7 +1159,6 @@ _每日存檔 · 2026-10-10_
 - [ARahim3/kaggle-tpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arahim3-kaggle-tpu-lab/) — 在免費的 Kaggle TPU 上執行 Qwen3.8-27B，支援 Claude Code 等。
 - [milind-soni/OpenMausBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/) — OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。
 - [flaqai/Awesome_SEO_Writing_Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-awesome-seo-writing-skill/) — Awesome_SEO_Writing_Skill 分享由 Flaq AI 團隊開發的 SEO 寫作技巧。
-- [mlfoundations/MINT-1T-HTML](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mlfoundations-mint-1t-html/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [elie222/rakazo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elie222-rakazo/) — 開源 Grok Bot 替代品，可自選模型和沙盒。
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dontplantoend-ugi-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。

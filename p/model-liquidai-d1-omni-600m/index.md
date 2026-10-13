@@ -2,7 +2,7 @@
 
 一種使用 Transformers 的模型，可將圖文轉換為文字。
 
-**為何上榜**：HF trending 105 · 106 likes · 10,489 下載
+**為何上榜**：HF trending 114 · 115 likes · 10,942 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

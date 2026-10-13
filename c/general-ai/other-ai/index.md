@@ -5,17 +5,17 @@
 - [open-gigaai/Giga-World-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-open-gigaai-giga-world-1/) — 基於Apache 2.0授權的影像生成模型。
 - [Comfy-Org/MiniMax-Music-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-minimax-music-3/) — Apache授權的音樂生成模型。
 - [fastino/GLiNER2.5-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/) — 文本分類模型，用於判斷意圖和情感。
-- [XiaomiMiMo/MiMo-V2.6-RL-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SupersonicLabs/Julia-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/) — Julia-1 是一個用於多語言文本分類的決策模型。
 - [ReverseFaceSearch/Reverse-Face-Search](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-reversefacesearch-reverse-face-search/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LongCat 數位人影片(美團)](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-5/) — 美團 LongCat 的數位人/虛擬主播影片生成模型(diffusers+onnx)。
+- [XiaomiMiMo/MiMo-V2.6-RL-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [google/timesfm-3.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/) — Google 的 timesfm 模型，用於時間序列預測。
 - [XGENlabs/XGEN-JING](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xgenlabs-xgen-jing/) — 將影像和文本轉換為影片的模型，適用於第一人稱視角的音影片生成。
-- [tardellirs/model-pulse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tardellirs-model-pulse/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Kijai/MiniMax-H3-TAE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-tae/) — Apache 2.0授權的MiniMax-H3相關專案。
 - [TenStrip/10Eros-Max](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tenstrip-10eros-max/) — 將文字和影像轉換為影片的模型，基於 MiniMax-H3 和 MiniM 細化。
 - [RazzzHF/Realism_Engine_Ideogram_4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-razzzhf-realism-engine-ideogram-4/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [signsur4739379373/LTX-2.3-10Eros](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-10eros/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [tardellirs/model-pulse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tardellirs-model-pulse/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-bernini-r/) — 字節 Bernini-R 影片渲染模型（圖＋文生影片）。
 - [Kijai/MiniMax-H3-experimental](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kijai-minimax-h3-experimental/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [Comfy-Org/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-krea-2/) — Krea-2 文字轉影像模型。
@@ -24,18 +24,18 @@
 - [Comfy-Org/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-mage-flow/) — 基於Microsoft Mage-Flow的擴充套件模型，支援單檔案擴散式生成。
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/) — AI 相關專案，關鍵字：擴散模型（依標籤自動歸類，詳細看下方原文）
 - [Comfy-Org/Boogu-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/) — 一個基於 ComfyUI 的影像生成工具。
-- [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/) — 將影像和文字轉換為影片的模型。
 - [LBH-123-AI/Minimax_h3_latent_Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lbh-123-ai-minimax-h3-latent-upscaler/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
+- [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/) — 將影像和文字轉換為影片的模型。
 - [Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [Danny-Lynote/humanizer-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-danny-lynote-humanizer-lite/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — NVIDIA開發的語音聊天模型，支援多種語言和研究論文。
+- [FineEnvs/openai-math](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fineenvs-openai-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [autotrust/JEV-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-autotrust-jev-27b-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Wan-AI/Wan2.2-Animate-2-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan2-2-animate-2-14b/) — 一個大型的動畫生成模型，基於arxiv研究。
-- [webml-community/embeddinggemma-2-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-embeddinggemma-2-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [RekaAI/CS2-10k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-cs2-10k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [neuronpedia/jacobian-lens](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-neuronpedia-jacobian-lens/) — 一個用於分析和視覺化神經網路雅可比矩陣的工具。
+- [webml-community/embeddinggemma-2-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-embeddinggemma-2-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [mpasila/Krea-2-Turbo_I2I](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mpasila-krea-2-turbo-i2i/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [FineEnvs/openai-math](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fineenvs-openai-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [XDOF/ABC-130k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xdof-abc-130k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/LFM2.5-ColBERT-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-colbert-350m/) — 用於句子相似性分析的深度學習模型。
 - [Saravutw/Omni-videos-custom](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-saravutw-omni-videos-custom/) — Hugging Face 示範應用(Space)，關鍵字：文生影片（依標籤自動歸類，詳細看下方原文）
@@ -46,7 +46,6 @@
 - [Lynote/free-ai-detector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-detector/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [huuyfytryr/Jigarrzz](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huuyfytryr-jigarrzz/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [webml-community/ternary-bonsai-2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-ternary-bonsai-2-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [hotchpotch/S1MB-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hotchpotch-s1mb-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [victor/DeepSeek-V4-Flash-0731-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-deepseek-v4-flash-0731-free-endpoint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [webml-community/gemma-4-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-gemma-4-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-demos-marlin-2b-video-understanding/) — Marlin-2B 影片理解線上示範。
@@ -55,7 +54,6 @@
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tencent-hy-embodied-0-5-vla-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ginigen-ai/Metacognition-Leaderboard-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ginigen-ai-metacognition-leaderboard-space/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [eidon-ai/tracker-pov](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-eidon-ai-tracker-pov/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-venvoo-china-a-share-l2-level2-limit-order-book-tick-data/) — Hugging Face 資料集，關鍵字：交易（依標籤自動歸類，詳細看下方原文）
 - [linoyts/sun-direction-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-sun-direction-flux2-klein/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ZzWater/ViiTorVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-zzwater-viitorvoice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [dayona/I2V-VIP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-i2v-vip/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -66,11 +64,12 @@
 - [TuringEnterprises/Open-MM-RL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-turingenterprises-open-mm-rl/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PsiBotAI/SynData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-psibotai-syndata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HiDream-ai/HiDream-O1-Image-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hidream-ai-hidream-o1-image-dev/) — HiDream O1 文生圖線上示範。
-- [Logolabs/agate-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-logolabs-agate-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [hotchpotch/S1MB-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hotchpotch-s1mb-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-venvoo-china-a-share-l2-level2-limit-order-book-tick-data/) — Hugging Face 資料集，關鍵字：交易（依標籤自動歸類，詳細看下方原文）
 - [simple-world-lab/HiFi-UMI-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-simple-world-lab-hifi-umi-2k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [LiquidAI/system-one-arcade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-system-one-arcade/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceBio/carbon-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacebio-carbon-demo/) — HF 生物團隊的 carbon 示範 Space。
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-supertone-supertonic-3/) — Hugging Face 示範應用(Space)，關鍵字：語音合成（依標籤自動歸類，詳細看下方原文）
-- [LiquidAI/system-one-arcade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-system-one-arcade/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/small-talk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-small-talk/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [stabilityai/stable-audio-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-stabilityai-stable-audio-3/) — Stability stable-audio-3 文字生成音樂的示範 Space。
 - [FINAL-Bench/open-discovery-challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-open-discovery-challenge/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -103,6 +102,7 @@
 - [facebook/vggt-omega](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-facebook-vggt-omega/) — Meta VGGT 3D 視覺幾何重建示範（HF Space）。
 - [Yootta/World-SimReady-Home](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yootta-world-simready-home/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/FamilyLegacy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-familylegacy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [Logolabs/agate-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-logolabs-agate-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-markov-ai-cad-1000-hours/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [BitRobot/HIW-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bitrobot-hiw-500/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/mulacover-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-mulacover-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -190,17 +190,17 @@
 - [tencent/AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tencent-auk/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/LocalDuo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-localduo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [amphibiousrizz/Browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amphibiousrizz-browser/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [google/embedding-draw-challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-google-embedding-draw-challenge/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [someone-in-the-world/HighQualityVideoGeneration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-someone-in-the-world-highqualityvideogeneration/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/sbgrid-storyboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-sbgrid-storyboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/krea2-turbo-sda-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-krea2-turbo-sda-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [snapwre/amharic-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-snapwre-amharic-speech/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [google/embedding-draw-challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-google-embedding-draw-challenge/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [RealCADBench/RealCADBench-V1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-realcadbench-realcadbench-v1-0/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prathoshap/vagdhenu-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-prathoshap-vagdhenu-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [amphibiousrizz/Browser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amphibiousrizz-browser/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wxDai/joyai-video-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-wxdai-joyai-video-edit/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [NodeLinker/deepseek-ai-Thinking-with-Visual-Primitives-deleted-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nodelinker-deepseek-ai-thinking-with-visual-primitives-deleted-repo/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [kulibinai/cadena-stepwise-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulibinai-cadena-stepwise-cad/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -251,13 +251,14 @@
 - [embedl/hfviewer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-embedl-hfviewer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [facebook/WearableQA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-facebook-wearableqa/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AutoArk-AI/ark-asr-open-asr-leaderboard-results](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-autoark-ai-ark-asr-open-asr-leaderboard-results/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [pollen-robotics/microduck-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pollen-robotics-microduck-arena/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [humanplus-ai/humanplus-1000](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-humanplus-ai-humanplus-1000/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bench-labs/slop-classification](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bench-labs-slop-classification/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/) — 一切皆可作為外掛的AI代理框架。
 - [dronefreak/ExDark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-dronefreak-exdark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [suvadityamuk/3d-representations-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-suvadityamuk-3d-representations-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [RefVideo6M/RefVideo6M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-refvideo6m-refvideo6m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zai-org/OpenVuln](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-zai-org-openvuln/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/) — 一切皆可作為外掛的AI代理框架。
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-precisionaiinc-agristress-500/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [xlangai/osworld_v2_tasks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xlangai-osworld-v2-tasks/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [WithinUsAI/Opus_4.7_Distilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-withinusai-opus-4-7-distilled/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -270,8 +271,6 @@
 - [microsoft/Echoverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-microsoft-echoverse/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Sneak-Moose/FireRed-Image-Edit-Stripped](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-sneak-moose-firered-image-edit-stripped/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [CohereLabs/cohere-parse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-coherelabs-cohere-parse/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [genrobot2025/Gen-HumanEgo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-genrobot2025-gen-humanego/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [LightwheelAI/EgoStandard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lightwheelai-egostandard/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-techfreakworm-ltx2-3-studio/) — LTX 2.3 影片生成工作室線上示範（HF Space）。
 - [CMRobot/MotionDecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cmrobot-motiondecode/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NeoteAIEmbodied/OpenNeoData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-neoteaiembodied-openneodata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -280,7 +279,9 @@
 - [Grio43/Tag_cleaning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-grio43-tag-cleaning/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-translate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-medharvix-systems-bhasaflow-khasi-english-translate/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/OpenH-RF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-openh-rf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [LightwheelAI/EgoStandard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lightwheelai-egostandard/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HuggingAI4Engineering/CADGenBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingai4engineering-cadgenbench/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [genrobot2025/Gen-HumanEgo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-genrobot2025-gen-humanego/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/Raon-OpenTTS-Pool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-krafton-raon-opentts-pool/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-locallaws-locus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FlyRank/internship-warehouse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-flyrank-internship-warehouse/) — Hugging Face 資料集，關鍵字：SEO（依標籤自動歸類，詳細看下方原文）
@@ -296,17 +297,18 @@
 - [Jintae-Park/ReDesign-Figma909](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jintae-park-redesign-figma909/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-corpus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bleckhert/uncensored-image-to-video-alchemist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-bleckhert-uncensored-image-to-video-alchemist/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [Lichess/standard-chess-games](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lichess-standard-chess-games/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AI4Editing/MagicQuill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ai4editing-magicquill/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-Robotics-Locomanipulation-GRAIL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-robotics-locomanipulation-grail/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [milind-soni/OpenMausBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/) — OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。
 - [hexgrad/Kokoro-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hexgrad-kokoro-tts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [finebooks/bhl-impact-gt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-finebooks-bhl-impact-gt/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dontplantoend-ugi-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [milind-soni/OpenMausBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/) — OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [k2-fsa/OmniVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-k2-fsa-omnivoice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-autonomous-vehicles/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hf-audio/open_asr_leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hf-audio-open-asr-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [k2-fsa/OmniVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-k2-fsa-omnivoice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AimeeBingmouQu/ProtectBirds](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-aimeebingmouqu-protectbirds/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [raubatz/fk9b-headswap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-raubatz-fk9b-headswap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [open-thoughts/OpenThoughts-114k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-114k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -323,13 +325,13 @@
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-wikimedia-structured-wikipedia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [google/WaxalNLP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-waxalnlp/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [kongyiji/face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kongyiji-face-swap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [witfoo/precinct6-cybersecurity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-witfoo-precinct6-cybersecurity/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-neuralfalcon-remove-silence-from-audio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ratschlab/TCGA_virtual_spatial_transcriptomics_atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ratschlab-tcga-virtual-spatial-transcriptomics-atlas/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mlabonne/open-perfectblend](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mlabonne-open-perfectblend/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SakanaAI/AI-CUDA-Engineer-Archive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sakanaai-ai-cuda-engineer-archive/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ASLP-lab/WSC-Train](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aslp-lab-wsc-train/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [shootstuff/flux-img2img-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-shootstuff-flux-img2img-uncensored/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [witfoo/precinct6-cybersecurity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-witfoo-precinct6-cybersecurity/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/BioMysteryBench-full](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-biomysterybench-full/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ai4bharat-msmarco-xi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -619,7 +619,7 @@ _Daily archive · 2026-10-06_
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openmoss-team-moss-tts-v1-5/) — · gradio, region:us
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alissonerdx-charactersheet-lora-demo/) — · gradio, mcp-server, region:us
 - [ZJU-REAL/Easel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zju-real-easel/) — An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn wha…
-- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [TencentARC/WorldCrafter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentarc-worldcrafter/) — [Arxiv 2026] WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
 - [inclusionAI/FinFIRST](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-inclusionai-finfirst/) — · task_categories:question-answering, language:zh, language:en
 - [FINAL-Bench/AX-RAY](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-ax-ray/) — · task_categories:text-generation, task_categories:question-answering, annotations_creators:expert-generated

@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-10-12 09:06 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-10-13 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-10-13](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-13/)
 - [2026-10-12](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-12/)
 - [2026-10-10](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-10/)
 - [2026-10-09](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-09/)
@@ -26,15 +27,14 @@
 - [2026-10-01](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-01/)
 - [2026-09-30](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-30/)
 - [2026-09-29](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-29/)
-- [2026-09-28](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-09-28/)
 
 ## 今日精選 Today's picks
-- [speridlabs/iris-3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-speridlabs-iris-3b/)
-- [LiquidAI/d1-omni-600M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-omni-600m/)
-- [perplexity-ai/pplx-decider-v1.1-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-perplexity-ai-pplx-decider-v1-1-27b/)
-- [morluto/rea](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/)
-- [lexmount/moli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lexmount-moli/)
-- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/)
+- [zhuyansen/new-term-radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-new-term-radar/)
+- [zhutoumeme/mcd-git](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhutoumeme-mcd-git/)
+- [drowzeys/keys-Wasserman-Slate-AI-Studio-powered-by-TensorFold-Mac-DGXSpark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drowzeys-keys-wasserman-slate-ai-studio-powered-by-tensorfold-mac-dgxspark/)
+- [storytold/filmcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/storytold-filmcraft/)
+- [cathrynlavery/diagram-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/)
+- [Qwen/Qwen-Image-2.1-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

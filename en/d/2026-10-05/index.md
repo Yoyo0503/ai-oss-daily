@@ -9,7 +9,7 @@ _Daily archive · 2026-10-05_
 - [autotrust/jev-9b-decision-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-autotrust-jev-9b-decision-demo/) — · gradio, mcp-server, region:us
 - [nvidia/Kumo-Tabular](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-kumo-tabular/) — · tabular-foundation-model, structured-data-models, license:openmdw-1.1
 - [ceyyy427/finathink](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ceyyy427-finathink/) — Finathink — Financial Research Optimizer for auditable, point-in-time research, mathematical learning, and co…
-- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [biglam/europeana_newspapers_images](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-biglam-europeana-newspapers-images/) — · task_categories:image-to-text, multilinguality:multilingual, source_datasets:biglam/europeana_newspapers
 - [inssist/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inssist-mcp/) — MCP server that lets AI agents (Claude Code, Codex, Cursor) work inside your own Instagram session through th…
 - [wpydcr/NanoAvatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wpydcr-nanoavatar/) — Real-time, high-quality talking avatars, even on a old Android phone: 41 FPS with just 103 ms to the first fr…
@@ -376,7 +376,7 @@ _Daily archive · 2026-10-05_
 - [janishar/qwen-image-2.1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/janishar-qwen-image-2-1-studio/) — Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with …
 - [jaredpalmer/kev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jaredpalmer-kev/) — · gradio, decision-model, calibration
 - [RekaAI/RekaDaily-10k-raw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rekaai-rekadaily-10k-raw/) — · task_categories:video-classification, task_categories:image-to-video, language:en
-- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bugtraceai-bugtraceai-core-ultra-27b-q6/) — · gguf, qwen3, security
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rl-llm-wiki-knowledge-base/) — · license:cc-by-4.0, arxiv:2203.02155, region:us
 - [tencent/Hy-Embodied-0.5-VLA-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tencent-hy-embodied-0-5-vla-data/) — · task_categories:robotics, task_categories:reinforcement-learning, license:cc-by-4.0

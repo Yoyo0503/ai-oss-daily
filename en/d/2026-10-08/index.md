@@ -368,7 +368,7 @@ _Daily archive · 2026-10-08_
 - [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shekmohammedakram-stable-diffusion-2026-free-local/) — Stable Diffusion Free Local - run Stable Diffusion locally for free AI image generation.
 - [OpenMOSS-Team/MOSS-Transcribe-Diarize](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-transcribe-diarize/) — audio-text-to-text · transformers, safetensors, moss_transcribe_diarize
 - [victor/DeepSeek-V4-Flash-0731-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-deepseek-v4-flash-0731-free-endpoint/) — · static, region:us
-- [longsurf-ai/openchart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/longsurf-ai-openchart/) — OSS trading workspace with agents
+- [longsurf-ai/openchart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/longsurf-ai-openchart/) — OSS trading workspace with your favorite agents
 - [webml-community/gemma-4-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-gemma-4-webgpu-kernels/) — · static, region:us
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-demos-marlin-2b-video-understanding/) — · gradio, region:us
 - [janishar/qwen-image-2.1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/janishar-qwen-image-2-1-studio/) — Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with …
@@ -686,7 +686,7 @@ _Daily archive · 2026-10-08_
 - [letorig/video-generator-client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/letorig-video-generator-client/) — Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI
 - [nvidia/Nemotron-Labs-TwoTower-30B-A3B-Base-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-twotower-30b-a3b-base-bf16/) — text-generation · transformers, safetensors, nvidia
 - [KKKKhazix/AIHOT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-aihot/) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [agent-memory-leaderboard/leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-agent-memory-leaderboard-leaderboard/) — · static, leaderboard, benchmark
 - [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dayona-morphix-studio-client/) — · static, region:us
 - [someone-in-the-world/HighQualityVideoGeneration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-someone-in-the-world-highqualityvideogeneration/) — · gradio, region:us
@@ -1158,7 +1158,6 @@ _Daily archive · 2026-10-08_
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dontplantoend-ugi-leaderboard/) — · docker, leaderboard, submission:manual
 - [worldbench/DiffusionOPSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldbench-diffusionopsd/) — 🔥 On-Policy Self-Distillation in Diffusion Models
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ather-techie-rag-interview-questions/) — A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architect…
-- [mlfoundations/MINT-1T-HTML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mlfoundations-mint-1t-html/) — · task_categories:image-to-text, task_categories:text-generation, language:en
 - [PotionUI/PotionUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/potionui-potionui/) — A self-hosted studio for generating images, video, and audio with diffusion models.
 - [jzjzzzzzzz/agent-me](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jzjzzzzzzz-agent-me/) — Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-claude-fable-5-claude-code/) — · task_categories:text-generation, size_categories:n<1K, format:json
@@ -1728,7 +1727,7 @@ _Daily archive · 2026-10-08_
 - [Saivineeth147/lora-speedrun](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saivineeth147-lora-speedrun/) — Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt fo…
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…
 - [congchuanling-dot/Cohort](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/congchuanling-dot-cohort/) — Local-first Agent Runtime connecting LLMs to controlled tools, Chrome, desktop automation, MCP, context gover…
-- [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syrizelink-openfic/) — 专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Wrting 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe W…
+- [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syrizelink-openfic/) — 专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Writing 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe …
 - [loopx-project/loopx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/loopx-project-loopx/) — A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving…
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abhi1693-openclaw-mission-control/) — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration v…
 - [thu-ml/Causal-Forcing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thu-ml-causal-forcing/) — [ICML 2026] Official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-…

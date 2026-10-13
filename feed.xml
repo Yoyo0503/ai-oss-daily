@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-12T08:00:00+00:00</updated>
+<updated>2026-10-13T08:00:00+00:00</updated>
 <entry>
-<title>speridlabs/iris-3b</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-speridlabs-iris-3b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-speridlabs-iris-3b/</id>
-<updated>2026-10-12T08:00:00+00:00</updated>
-<summary>一種使用 PyTorch 的影像生成模型，可將文字轉換為影像。</summary>
+<title>zhuyansen/new-term-radar</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-new-term-radar/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-new-term-radar/</id>
+<updated>2026-10-13T08:00:00+00:00</updated>
+<summary>每日追蹤新 AI 熱詞，包括新模型、產品和 GitHub 存放庫，提供 SEO 和趨勢分析。</summary>
 </entry>
 <entry>
-<title>LiquidAI/d1-omni-600M</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-omni-600m/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-omni-600m/</id>
-<updated>2026-10-12T08:00:00+00:00</updated>
-<summary>一種使用 Transformers 的模型，可將圖文轉換為文字。</summary>
+<title>zhutoumeme/mcd-git</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhutoumeme-mcd-git/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhutoumeme-mcd-git/</id>
+<updated>2026-10-13T08:00:00+00:00</updated>
+<summary>使用 Git 命令模擬點餐，生成麥當勞消費貢獻圖，非官方應用。</summary>
 </entry>
 <entry>
-<title>perplexity-ai/pplx-decider-v1.1-27b</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-perplexity-ai-pplx-decider-v1-1-27b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-perplexity-ai-pplx-decider-v1-1-27b/</id>
-<updated>2026-10-12T08:00:00+00:00</updated>
-<summary>一個使用 PyTorch 的多模態分類模型，用於決策。</summary>
+<title>drowzeys/keys-Wasserman-Slate-AI-Studio-powered-by-TensorFold-Mac-DGXSpark</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drowzeys-keys-wasserman-slate-ai-studio-powered-by-tensorfold-mac-dgxspark/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drowzeys-keys-wasserman-slate-ai-studio-powered-by-tensorfold-mac-dgxspark/</id>
+<updated>2026-10-13T08:00:00+00:00</updated>
+<summary>基於 TensorFold 的 AI 影片工作室，適用於 Mac 和 NVIDIA DGX Spark。</summary>
 </entry>
 <entry>
-<title>morluto/rea</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</id>
-<updated>2026-10-12T08:00:00+00:00</updated>
-<summary>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</summary>
+<title>storytold/filmcraft</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/storytold-filmcraft/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/storytold-filmcraft/</id>
+<updated>2026-10-13T08:00:00+00:00</updated>
+<summary>使用 Rust 語言重新實現的 Adobe Premiere Pro 開源版本。</summary>
 </entry>
 <entry>
-<title>lexmount/moli</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lexmount-moli/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lexmount-moli/</id>
-<updated>2026-10-12T08:00:00+00:00</updated>
-<summary>Moli 是一個輕量級、快速且相容性高的無頭瀏覽器，專為 AI 代理設計。</summary>
+<title>cathrynlavery/diagram-design</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</id>
+<updated>2026-10-13T08:00:00+00:00</updated>
+<summary>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</summary>
 </entry>
 <entry>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
-<updated>2026-10-12T08:00:00+00:00</updated>
-<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
+<title>Qwen/Qwen-Image-2.1-Turbo</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/</id>
+<updated>2026-10-13T08:00:00+00:00</updated>
+<summary>Qwen-Image-2.1-Turbo 是一個文字轉影像的模型，用於影像生成和編輯。</summary>
 </entry>
 </feed>

@@ -8,14 +8,14 @@ _Daily archive · 2026-10-07_
 - [google/embeddinggemma-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-embeddinggemma-2/) — feature-extraction · transformers, safetensors, embedding_gemma2
 - [datasocial/tiktok-5.6B-videos](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-datasocial-tiktok-5-6b-videos/) — · license:cc-by-nc-4.0, size_categories:1B<n<10B, format:parquet
 - [VoltAgent/official-mcp-servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/voltagent-official-mcp-servers/) — A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks,…
-- [longsurf-ai/openchart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/longsurf-ai-openchart/) — OSS trading workspace with agents
+- [longsurf-ai/openchart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/longsurf-ai-openchart/) — OSS trading workspace with your favorite agents
 - [BoatswainValve94/1min-ai-download](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/boatswainvalve94-1min-ai-download/) — 1min.AI — Business SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.
 - [mdpsec/bug-bounty-hunting-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mdpsec-bug-bounty-hunting-prompts/) — Reusable prompts for a structured, evidence-first bug bounty hunting workflow
 - [sIlENtbuffER/Generative-Models](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/silentbuffer-generative-models/) — Generative models from scratch, progressively implemented in NumPy, C, and CUDA to uncover what ML frameworks…
 - [himovo/movo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/himovo-movo/) — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content gen…
 - [KKKKhazix/sun-style-writing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-sun-style-writing/) — 从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法
 - [vercel-labs/eve-software-factory-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-eve-software-factory-template/) — Meet Foreman, an eve Software Factory.
-- [mlfoundations/MINT-1T-HTML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mlfoundations-mint-1t-html/) — · task_categories:image-to-text, task_categories:text-generation, language:en
+- [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syrizelink-openfic/) — 专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Writing 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe …
 
 ## 🚀 Climbing
 
@@ -337,7 +337,7 @@ _Daily archive · 2026-10-07_
 - [XDOF/ABC-130k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xdof-abc-130k/) — · task_categories:robotics, language:en, license:apache-2.0
 - [hokindeng/object-permanence](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hokindeng-object-permanence/) — Training Object Permanence in World Models — the codebase
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pat-jj-harness-1/) — text-generation · transformers, safetensors, gpt_oss
-- [longsurf-ai/openchart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/longsurf-ai-openchart/) — OSS trading workspace with agents
+- [longsurf-ai/openchart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/longsurf-ai-openchart/) — OSS trading workspace with your favorite agents
 - [cloud0day3/alania-synthetic-speech-tr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cloud0day3-alania-synthetic-speech-tr/) — · task_categories:text-to-speech, task_categories:automatic-speech-recognition, language:tr
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ale2348-trading-bot/) — A TypeScript versioned Polymarket Trading Bot for **Polymarket 5-minute crypto Up/Down** markets: **BTC, ETH,…
 - [PaddlePaddle/HPD-Parsing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-hpd-parsing/) — image-text-to-text · transformers, safetensors, internvl_chat
@@ -674,7 +674,7 @@ _Daily archive · 2026-10-07_
 - [mayafree/Model-Genome-Korea](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mayafree-model-genome-korea/) — · static, korean-llm, korean-ai
 - [AdvocateArouse/DaVinci-Resolve-Studio-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/advocatearouse-davinci-resolve-studio-2026/) — DaVinci Resolve Studio workflow — color grading, Fusion comps and delivery presets on Windows.
 - [zhu1090093659/dsh-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhu1090093659-dsh-trading/) — Agent-native trading terminal built on DeepSeek Harness. Crypto, US, CN and HK in one three-column GUI, 19+ h…
-- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [mfzheng/Scene2Wave](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mfzheng-scene2wave/) — · task_categories:feature-extraction, license:other, size_categories:n<1K
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-image-studio/) — · static, text-to-image, korean
 - [ceyyy427/financial-research-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ceyyy427-financial-research-optimizer/) — Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics…
@@ -1147,7 +1147,6 @@ _Daily archive · 2026-10-07_
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-fka-prompts-chat/) — · task_categories:question-answering, task_categories:text-generation, license:cc0-1.0
 - [HoppouAI/Breeze-TTS-2.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hoppouai-breeze-tts-2-cpp/) — Bilingual English and Mandarin text to speech in C++ and GGUF. Voice design, cloning, direction and experimen…
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-autonomous-vehicles/) — · license:other, region:us
-- [mlfoundations/MINT-1T-HTML](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mlfoundations-mint-1t-html/) — · task_categories:image-to-text, task_categories:text-generation, language:en
 - [miqdadbadjuber/anti-slop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/miqdadbadjuber-anti-slop/) — Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
 - [GongZhiren/State-of-Thought](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gongzhiren-state-of-thought/) — [NeurIPS 2026] State of Thought Enables Endogenous Reasoning
 - [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，解决不会写提示词的问题。
@@ -1653,7 +1652,7 @@ _Daily archive · 2026-10-07_
 - [sbhooley/ainativelang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sbhooley-ainativelang/) — AINL helps turn AI from "a smart conversation" into "a structured worker." It is designed for teams building …
 - [FLARE-MedFM/PancancerCTSeg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-flare-medfm-pancancerctseg/) — · license:cc-by-nc-4.0, size_categories:10K<n<100K, arxiv:2504.03600
 - [myc0576/SmartMoney-Cub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/myc0576-smartmoney-cub/) — Read-only AI trading companion harness for decision logging, D1/D3 review, and rule evolution.
-- [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syrizelink-openfic/) — 专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Wrting 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe W…
+- [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syrizelink-openfic/) — 专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Writing 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe …
 - [Trendyol/Trendyol-Cybersecurity-Instruction-Tuning-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-trendyol-trendyol-cybersecurity-instruction-tuning-dataset/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [Imbad0202/academic-research-skills-codex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills-codex/) — Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows
 - [Agents365-ai/video-podcast-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agents365-ai-video-podcast-maker/) — Automated 4K video podcast creation for coding agents
