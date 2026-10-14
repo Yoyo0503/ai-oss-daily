@@ -4,5 +4,5 @@ Curated map of 3,000+ open-source AI agent tools: coding agents, agent framework
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：24
+**Stars**：28
 **Source**：https://github.com/tayyabimam1/awesome-ai-agent-stack

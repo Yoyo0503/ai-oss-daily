@@ -4,5 +4,5 @@ ARTEMIS turns natural-language instructions into reliable Android automation. It
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：11,435
+**Stars**：11,548
 **Source**：https://github.com/google/artemis

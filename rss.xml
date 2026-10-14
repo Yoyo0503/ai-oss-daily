@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>13 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>14 Oct 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>zhuyansen/new-term-radar</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-new-term-radar/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-new-term-radar/</guid>
-<pubDate>13 Oct 2026 08:00:00 +0000</pubDate>
-<description>每日追蹤新 AI 熱詞，包括新模型、產品和 GitHub 存放庫，提供 SEO 和趨勢分析。</description>
+<title>openbmb/MiniCPM-V-4.7-35B-A3B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-v-4-7-35b-a3b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-v-4-7-35b-a3b/</guid>
+<pubDate>14 Oct 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為文字的模型。</description>
 </item>
 <item>
-<title>zhutoumeme/mcd-git</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhutoumeme-mcd-git/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhutoumeme-mcd-git/</guid>
-<pubDate>13 Oct 2026 08:00:00 +0000</pubDate>
-<description>使用 Git 命令模擬點餐，生成麥當勞消費貢獻圖，非官方應用。</description>
+<title>autotrust/JEV-35B-NVFP4</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-35b-nvfp4/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-35b-nvfp4/</guid>
+<pubDate>14 Oct 2026 08:00:00 +0000</pubDate>
+<description>用於文本分類的決策模型。</description>
 </item>
 <item>
-<title>drowzeys/keys-Wasserman-Slate-AI-Studio-powered-by-TensorFold-Mac-DGXSpark</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drowzeys-keys-wasserman-slate-ai-studio-powered-by-tensorfold-mac-dgxspark/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drowzeys-keys-wasserman-slate-ai-studio-powered-by-tensorfold-mac-dgxspark/</guid>
-<pubDate>13 Oct 2026 08:00:00 +0000</pubDate>
-<description>基於 TensorFold 的 AI 影片工作室，適用於 Mac 和 NVIDIA DGX Spark。</description>
+<title>LiquidAI/LFM2.5-24B-A2B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-24b-a2b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-24b-a2b/</guid>
+<pubDate>14 Oct 2026 08:00:00 +0000</pubDate>
+<description>生成文本的模型，適用於邊緣計算。</description>
 </item>
 <item>
-<title>storytold/filmcraft</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/storytold-filmcraft/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/storytold-filmcraft/</guid>
-<pubDate>13 Oct 2026 08:00:00 +0000</pubDate>
-<description>使用 Rust 語言重新實現的 Adobe Premiere Pro 開源版本。</description>
+<title>yetone/magpie</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</guid>
+<pubDate>14 Oct 2026 08:00:00 +0000</pubDate>
+<description>從選單欄存取 Codex 和 Claude Code 的代理程式。</description>
 </item>
 <item>
-<title>cathrynlavery/diagram-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</guid>
-<pubDate>13 Oct 2026 08:00:00 +0000</pubDate>
-<description>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>14 Oct 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>Qwen/Qwen-Image-2.1-Turbo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/</guid>
-<pubDate>13 Oct 2026 08:00:00 +0000</pubDate>
-<description>Qwen-Image-2.1-Turbo 是一個文字轉影像的模型，用於影像生成和編輯。</description>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</guid>
+<pubDate>14 Oct 2026 08:00:00 +0000</pubDate>
+<description>自動語音辨識模型，支援即時語音轉文字。</description>
 </item>
 </channel>
 </rss>
