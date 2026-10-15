@@ -4,5 +4,5 @@ Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfo
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：27
+**Stars**：29
 **Source**：https://github.com/PkLavc/Autotrader

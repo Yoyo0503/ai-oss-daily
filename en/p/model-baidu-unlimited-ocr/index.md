@@ -1,6 +1,6 @@
 # baidu/Unlimited-OCR
 
-image-text-to-text · transformers, safetensors, unlimited-ocr
+image-text-to-text · transformers, safetensors, unlimited_ocr
 
 **Commercial license**：License unclear — 未知授權代碼 mit — 請人工確認商用條款
 

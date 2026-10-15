@@ -2,9 +2,9 @@
 
 MLX 版本的 DSpark，適用於 Apple Silicon，加速 LLM 解碼。
 
-**為何上榜**：近一日新增 5★（現 714★）
+**為何上榜**：近一日新增 1★（現 715★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：714
+**Stars**：715
 **原始連結**：https://github.com/ARahim3/mlx-dspark

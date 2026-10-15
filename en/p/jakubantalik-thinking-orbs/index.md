@@ -4,5 +4,5 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,680
+**Stars**：3,696
 **Source**：https://github.com/Jakubantalik/thinking-orbs
