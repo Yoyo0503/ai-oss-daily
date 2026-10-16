@@ -4,5 +4,5 @@ Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：95
+**Stars**：99
 **Source**：https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill

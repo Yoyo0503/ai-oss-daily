@@ -2,9 +2,9 @@
 
 AllModels語音模型的Hermes代理TTS和STT外掛。
 
-**為何上榜**：201★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 202★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：201
+**Stars**：202
 **原始連結**：https://github.com/allmodels-io/hermes-speech

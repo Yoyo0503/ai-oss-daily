@@ -4,5 +4,5 @@ QuantBot（AI 量化机器人）的全量源码。基于 **Go+React + TypeScript
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：79
+**Stars**：81
 **Source**：https://github.com/jeokeo011222/quantbot

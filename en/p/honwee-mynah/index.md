@@ -4,5 +4,5 @@ Mynah — self-hosted realtime digital human. One GPU, full admin console, Apach
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：176
+**Stars**：186
 **Source**：https://github.com/honwee/mynah

@@ -1,6 +1,6 @@
 # ovdtze56q1zgksb4/kling3-kling-3-prompts
 
-影音製作相關 AI，關鍵字：文生影片（依標籤自動歸類，詳細看下方原文）
+提供 Kling-3 模型的 API 檔案和範例，支援 OpenAI 相容閘道器。
 
 **為何上榜**：近期新建立，已獲 91★
 

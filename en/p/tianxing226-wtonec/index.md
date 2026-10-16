@@ -4,5 +4,5 @@ Wtonec：微信 / QQ / 小红书 / 抖音文字转语音、语音包、语音播
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：72
+**Stars**：73
 **Source**：https://github.com/tianxing226/wtonec
