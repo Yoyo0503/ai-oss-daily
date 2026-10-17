@@ -2370,7 +2370,6 @@ _每日存檔 · 2026-09-20_
 - [Durden7/ai-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/durden7-ai-skills/) — 提升 AI 能力的模組化技能集合，適用於專門工作流程、工具整合及領域知識。
 - [kevinnft/ai-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kevinnft-ai-agent-skills/) — Hermes Agent、Claude Code 和 Cursor 的技能集，涵蓋 28 個類別。
 - [jrswab/slipbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jrswab-slipbot/) — AI Agent 使用的 Zettelkasten 技能定義，支援筆記和想法管理。
-- [VectorPeak/LLM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectorpeak-llm-wiki/) — 大型語言模型技術知識庫，涵蓋訓練與評估方法。
 - [abdulsamed1/AI-skills-bank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdulsamed1-ai-skills-bank/) — 統一的多工具平臺，整合和路由各種工作流程中的AI技能。
 - [Avyayalaya/pm-skills-arsenal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/avyayalaya-pm-skills-arsenal/) — 提供高階專案管理技能的程式碼庫，適用於資深PM、創辦人及AI代理。
 - [frankxai/agentic-creator-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/frankxai-agentic-creator-os/) — 為 AI 開發者設計的作業系統，支援多種技能和命令。

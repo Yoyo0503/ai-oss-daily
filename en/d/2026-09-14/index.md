@@ -2267,7 +2267,6 @@ _Daily archive · 2026-09-14_
 - [radcrew/radcrew-unveiled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/radcrew-radcrew-unveiled/) — RadCrew.org website with LLM-powered chatbot
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackohhhh-medllm-finetuning/) — 一个开箱即用、用于二分类任务的大语言微调模型框架。An out-of-the-box LLM fine-tuning framework for medical binary classification.
 - [ohdearquant/lattice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ohdearquant-lattice/) — Run, quantize, and fine-tune LLMs on Apple Silicon. Pure Rust, no Python, no CUDA, no ONNX
-- [VectorPeak/LLM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vectorpeak-llm-wiki/) — A structured knowledge base for large language model technologies, covering LLMs, Agents, RAG, model training…
 - [yshishenya/stitchflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yshishenya-stitchflow/) — StitchFlow turns prompts into UI directions, Tailwind-friendly HTML, and screenshots across Codex, Claude Cod…
 - [DaoyuanLi2816/llm-gpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-llm-gpu-lab/) — One GPU. Full LLM workflow. Real benchmarks. No cloud required.
 - [rlacombe/switchback-running](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rlacombe-switchback-running/) — Ultrarunning training companion agent powered by Intervals.icu.

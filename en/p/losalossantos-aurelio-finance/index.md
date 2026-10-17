@@ -4,5 +4,5 @@ Open-source personal finance app with an AI financial advisor: track your net wo
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,495
+**Stars**：3,944
 **Source**：https://github.com/LosaLosSantos/aurelio-finance

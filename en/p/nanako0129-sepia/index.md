@@ -4,5 +4,5 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,188
+**Stars**：3,197
 **Source**：https://github.com/Nanako0129/sepia

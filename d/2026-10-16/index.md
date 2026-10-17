@@ -2769,7 +2769,6 @@ _每日存檔 · 2026-10-16_
 - [ToDealMarket/tdm-agentpay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/todealmarket-tdm-agentpay/) — 為TDM設計的專用支付工作流程和範例。
 - [EVEDensity/AgentHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evedensity-agenthub/) — 生產級多代理平臺，提供編排、會話管理和審計功能。
 - [Durden7/ai-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/durden7-ai-skills/) — 提升 AI 能力的模組化技能集合，適用於專門工作流程、工具整合及領域知識。
-- [VectorPeak/LLM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectorpeak-llm-wiki/) — 大型語言模型技術知識庫，涵蓋訓練與評估方法。
 - [Avyayalaya/pm-skills-arsenal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/avyayalaya-pm-skills-arsenal/) — 提供高階專案管理技能的程式碼庫，適用於資深PM、創辦人及AI代理。
 - [HASEEBGAMING/antigravity-stock-analysis-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/haseebgaming-antigravity-stock-analysis-workflow/) — 自動化股票分析工作流程，從資料收集到風險評估和交易報告一應俱全。
 - [insight68/Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/insight68-skills/) — 安全且多審計的代理技能系統。

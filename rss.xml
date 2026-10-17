@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>16 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>17 Oct 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>black-forest-labs/flux-3-image-klein</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein/</guid>
-<pubDate>16 Oct 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為新影像的模型，支援影像生成和編輯。</description>
+<title>OpenMOSS-Team/MOSS-Image-SFT</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-image-sft/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-image-sft/</guid>
+<pubDate>17 Oct 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換成影像的AI模型。</description>
 </item>
 <item>
-<title>black-forest-labs/flux-3-image-klein-comfy</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</guid>
-<pubDate>16 Oct 2026 08:00:00 +0000</pubDate>
-<description>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</description>
+<title>nvidia/Qwen3.8-Flash-Next-FP4-Local</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-8-flash-next-fp4-local/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-8-flash-next-fp4-local/</guid>
+<pubDate>17 Oct 2026 08:00:00 +0000</pubDate>
+<description>將圖文轉換成文字的模型最佳化版本。</description>
 </item>
 <item>
-<title>meta-models/Muse-Spark-Open-816B-A42B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-spark-open-816b-a42b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-spark-open-816b-a42b/</guid>
-<pubDate>16 Oct 2026 08:00:00 +0000</pubDate>
-<description>將影像和文字轉換為文字的模型，支援影像文字轉換。</description>
+<title>datalab-to/indra-ocr</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-datalab-to-indra-ocr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-datalab-to-indra-ocr/</guid>
+<pubDate>17 Oct 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換成文字的OCR模型。</description>
 </item>
 <item>
-<title>cathrynlavery/diagram-design</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</guid>
-<pubDate>16 Oct 2026 08:00:00 +0000</pubDate>
-<description>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</description>
+<title>yetone/magpie</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</guid>
+<pubDate>17 Oct 2026 08:00:00 +0000</pubDate>
+<description>從選單欄存取 Codex 和 Claude Code 的代理程式。</description>
 </item>
 <item>
-<title>storytold/filmcraft</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/storytold-filmcraft/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/storytold-filmcraft/</guid>
-<pubDate>16 Oct 2026 08:00:00 +0000</pubDate>
-<description>使用 Rust 語言重新實現的 Adobe Premiere Pro 開源版本。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>17 Oct 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>Qwen/Qwen-Image-2.1-Turbo</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/</guid>
-<pubDate>16 Oct 2026 08:00:00 +0000</pubDate>
-<description>Qwen-Image-2.1-Turbo 是一個文字轉影像的模型，用於影像生成和編輯。</description>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</guid>
+<pubDate>17 Oct 2026 08:00:00 +0000</pubDate>
+<description>自動語音辨識模型，支援即時語音轉文字。</description>
 </item>
 </channel>
 </rss>

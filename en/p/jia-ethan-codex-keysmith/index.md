@@ -4,5 +4,5 @@ Versioned Codex instruction deployment with preview, ownership manifests, hook i
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,743
+**Stars**：4,750
 **Source**：https://github.com/Jia-Ethan/codex-keysmith

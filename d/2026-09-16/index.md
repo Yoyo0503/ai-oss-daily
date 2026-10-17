@@ -2305,7 +2305,6 @@ _每日存檔 · 2026-09-16_
 - [anyshift-io/sre-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anyshift-io-sre-skills/) — 開源 SRE 技能庫，提供給 AI 代理進行事故管理與後事分析。
 - [ToDealMarket/tdm-agentpay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/todealmarket-tdm-agentpay/) — 為TDM設計的專用支付工作流程和範例。
 - [EVEDensity/AgentHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evedensity-agenthub/) — 生產級多代理平臺，提供編排、會話管理和審計功能。
-- [VectorPeak/LLM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectorpeak-llm-wiki/) — 大型語言模型技術知識庫，涵蓋訓練與評估方法。
 - [Renakoni/note-organizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/renakoni-note-organizer/) — Claude Skill：整理課程資料和 PDF 為 Markdown/Obsidian 復習筆記
 - [Durden7/ai-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/durden7-ai-skills/) — 提升 AI 能力的模組化技能集合，適用於專門工作流程、工具整合及領域知識。
 - [kevinnft/ai-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kevinnft-ai-agent-skills/) — Hermes Agent、Claude Code 和 Cursor 的技能集，涵蓋 28 個類別。

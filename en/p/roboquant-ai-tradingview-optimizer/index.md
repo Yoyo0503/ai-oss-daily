@@ -4,5 +4,5 @@ Free, open-source TradingView strategy optimizer for Chrome. Grid search, walk-f
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：58
+**Stars**：59
 **Source**：https://github.com/Roboquant-AI/tradingview-optimizer

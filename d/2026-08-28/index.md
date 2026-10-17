@@ -1843,7 +1843,6 @@ _每日存檔 · 2026-08-28_
 - [taco-group/PISCO](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taco-group-pisco/) — PISCO：精確影片實體插入工具，支援稀疏控制和影像轉動畫。
 - [Leotaby/MicroExchange](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leotaby-microexchange/) — 高效能的金融市場撮合引擎和微結構分析工具。
 - [WillEhrendreich/SageFs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/willehrendreich-sagefs/) — F#開發模式下的即時測試和熱過載工具，支援解決方案或專案載入。
-- [VectorPeak/LLM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vectorpeak-llm-wiki/) — 大型語言模型技術知識庫，涵蓋訓練與評估方法。
 - [ayushozha/AdobePremiereProMCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayushozha-adobepremierepromcp/) — 適用於Adobe Premiere Pro的AI驅動MCP伺服器，提供自然語言控制功能。
 - [Niceck/hhxg-top-hhxg-python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/niceck-hhxg-top-hhxg-python/) — 零配置獲取A股每日市場資料，包含賺錢效應等資訊。
 - [EvoLinkAI/gpt-image-2-for-e-commerce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-for-e-commerce/) — 如何使用GPT Image 2為電商生成列表照片和其他創意內容。

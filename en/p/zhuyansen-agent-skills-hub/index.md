@@ -4,5 +4,5 @@ Discover and compare open-source Agent Skills, tools & MCP servers — with qual
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：452
+**Stars**：454
 **Source**：https://github.com/zhuyansen/agent-skills-hub
