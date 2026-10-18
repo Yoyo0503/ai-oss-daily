@@ -124,7 +124,6 @@ _每日存檔 · 2026-10-14_
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/) — 將影像和文字轉換為文本的模型，適用於對話式應用。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/) — NVIDIA最佳化的GLM模型，適用於四位元精度的量化。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [openbmb/MiniCPM5-2B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-2b/) — MiniCPM5-2B 是一個長上下文支援的文本生成模型，適用於工具呼叫等應用。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/) — 無審查限制的 Qwen 生成模型，支援 gguf 格式。
@@ -160,7 +159,6 @@ _每日存檔 · 2026-10-14_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/) — 對比學習模型，用於文本排名和重排序。
@@ -1146,7 +1144,6 @@ _每日存檔 · 2026-10-14_
 - [mat-nolen/tldr-radio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mat-nolen-tldr-radio/) — tldr-radio 是一個將每日 TLDR 電子報轉換為播客的工具。
 - [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinxuxin-keystone-bench/) — 臨床決策支援的評估基準，基於 HealthBench 建立。
 - [tswawa/xianyu-saas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tswawa-xianyu-saas/) — 閒魚多店舖智慧運營系統，整合AI客服和自動發貨。
-- [ronitgupta138/vectra-core](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronitgupta138-vectra-core/) — vectra-core 是一個 Java 21 Loom 實現的向量搜尋引擎，支援高吞吐量和快速檢索。
 - [QwenAudio/qwen-audio-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qwenaudio-qwen-audio-agent/) — 即時語音執行框架，讓 AI 代理保持線上和互動。
 - [hzy1522/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hzy1522-tickflow-stock-panel/) — 多市場智慧量化交易平臺，支援A股、港股及美股，提供選股、監控及回測功能。
 - [muratmula/ai-robinhood-chain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/muratmula-ai-robinhood-chain/) — ai-robinhood-chain 是一個基於 Discord 和 Telegram 的自動化加密貨幣交易生態系統。

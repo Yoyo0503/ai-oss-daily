@@ -17,7 +17,6 @@ _Daily archive · 2026-05-30_
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jasperai-monet/) — · task_categories:text-to-image, task_categories:image-feature-extraction, task_categories:zero-shot-image-cl…

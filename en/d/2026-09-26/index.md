@@ -82,7 +82,6 @@ _Daily archive · 2026-09-26_
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — text-to-image · diffusers, safetensors, ternary
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-nava/) — text-to-video · custom, ti2v, text-to-video
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
 - [phasefield-audio/Irodori-TTS-v4.1-Anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-phasefield-audio-irodori-tts-v4-1-anime/) — text-to-speech · safetensors, text-to-speech, base_model:Aratako/Irodori-TTS-v4.1-Small
 - [IndexTeam/IndexTTS-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-indexteam-indextts-2-5/) — text-to-speech · indextts, safetensors, text-to-speech
@@ -136,7 +135,6 @@ _Daily archive · 2026-09-26_
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1379,7 +1377,7 @@ _Daily archive · 2026-09-26_
 - [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-video/) — Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s wit…
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
 - [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eugeniughelbur-obsidian-second-brain/) — Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, …
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atilaahmettaner-tradingview-mcp/) — TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatG…
 - [HuggingFaceFW/finepdfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-finepdfs/) — · task_categories:text-generation, language:aai, language:aak

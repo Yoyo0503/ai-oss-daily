@@ -65,7 +65,6 @@ _Daily archive · 2026-06-19_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
@@ -600,7 +599,7 @@ _Daily archive · 2026-06-19_
 - [FireRedTeam/FireRed-OpenStoryline](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fireredteam-firered-openstoryline/) — FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven direc…
 - [alexpospekhov/searchstack-aeo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexpospekhov-searchstack-aeo/) — Searchstack — Open-source AEO/GEO/SEO tech stack for AI-native founders. Monitor your visibility across Googl…
 - [mergisi/awesome-openclaw-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mergisi-awesome-openclaw-agents/) — 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/breaking-brake-cc-wf-studio/) — CC Workflow Studio
 - [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/florianbruniaux-claude-code-ultimate-guide/) — The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and product…
 - [VernonOY/alpha-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vernonoy-alpha-skills/) — Quantitative factor research skills for AI coding assistants

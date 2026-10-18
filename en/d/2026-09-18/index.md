@@ -49,7 +49,6 @@ _Daily archive · 2026-09-18_
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-image2video/) — image-to-video · cosmos, diffusers, safetensors
 - [alibaba-pai/MiniMax-H3-Fun-Controlnet-Union](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/) — text-to-video · videox_fun, controlnet, video-to-video
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-patil-krea-2-depth-controlnet/) — image-to-image · controlnet, lora, depth
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [Gazingstars123/Anima-2.9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gazingstars123-anima-2-9b/) — text-to-image · diffusion-single-file, anima, comfyui
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — automatic-speech-recognition · transformers, safetensors, cohere_asr
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-ltx-2-3-3dreal-lora/) — image-to-video · lora, ic-lora, ltx
@@ -123,7 +122,6 @@ _Daily archive · 2026-09-18_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1456,7 +1454,7 @@ _Daily archive · 2026-09-18_
 - [soniqo/speech-swift](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/soniqo-speech-swift/) — AI speech toolkit for Apple Silicon — ASR, TTS, speech-to-speech, VAD, and diarization powered by MLX and Cor…
 - [ibm-research/AssetOpsBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ibm-research-assetopsbench/) — · task_categories:question-answering, task_categories:time-series-forecasting, language:en
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [estebanstifli/LocalText2Voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/estebanstifli-localtext2voice/) — Free open-source AI desktop app for audiobooks, podcasts, documentaries, films and animated videos with local…
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abhi1693-openclaw-mission-control/) — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration v…
 - [thu-ml/Causal-Forcing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thu-ml-causal-forcing/) — [ICML 2026] Official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-…

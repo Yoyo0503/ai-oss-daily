@@ -65,7 +65,6 @@ _Daily archive · 2026-06-26_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -667,7 +666,7 @@ _Daily archive · 2026-06-26_
 - [0xSanei/darwinia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xsanei-darwinia/) — The Self-Evolving Agent Ecosystem — Trading agents that evolve through Darwinian selection and adversarial se…
 - [swarmclawai/swarmvault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/swarmclawai-swarmvault/) — The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Bu…
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [mukul975/Anthropic-Cybersecurity-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-anthropic-cybersecurity-skills/) — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE…
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
 - [kevin801221/stock-strategies-only](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kevin801221-stock-strategies-only/) — 📈 台股每日自動選股機器人 — 基本面×技術面×歷史回測，Telegram 推播，GitHub Actions 免費自動跑

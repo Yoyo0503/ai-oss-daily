@@ -69,7 +69,6 @@ _Daily archive · 2026-07-03_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
@@ -745,7 +744,7 @@ _Daily archive · 2026-07-03_
 - [LeoYeAI/openclaw-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leoyeai-openclaw-marketing-skills/) — 33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai
 - [mukul975/Anthropic-Cybersecurity-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-anthropic-cybersecurity-skills/) — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE…
 - [sipeter/CloneTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sipeter-clonetts/) — A lightweight, offline Android Text-to-Speech (TTS) engine enabling seamless system-wide voice cloning and hi…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
 - [mnfst/awesome-free-llm-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mnfst-awesome-free-llm-apis/) — List of Permanent Free LLM API (API Keys)
 - [alvinreal/awesome-opensource-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alvinreal-awesome-opensource-ai/) — Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.

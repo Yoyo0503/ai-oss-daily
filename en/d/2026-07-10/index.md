@@ -80,7 +80,6 @@ _Daily archive · 2026-07-10_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [markov-ai/gaming-500-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-gaming-500-hours/) — · size_categories:n<1K, format:json, modality:tabular
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
@@ -780,7 +779,7 @@ _Daily archive · 2026-07-10_
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archestra-ai-archestra/) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
 - [VectifyAI/OpenKB](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vectifyai-openkb/) — OpenKB: Open LLM Knowledge Base
 - [amitshekhariitbhu/llm-internals](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-llm-internals/) — Learn LLM internals step by step - from tokenization to attention to inference optimization.

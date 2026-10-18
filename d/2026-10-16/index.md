@@ -120,7 +120,6 @@ _每日存檔 · 2026-10-16_
 - [TokenRhythm/NeoHorse-1-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/) — 具備程式碼生成和工具使用能力的文本生成模型。
 - [XingChen-AGI/TeleOCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-teleocr/) — 將影像文字轉換為純文字的OCR工具。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — 一個基於轉換器的文本生成模型，支援GGUF格式。
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
 - [XingChen-AGI/Xing4.0-29B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-xing4-0-29b-a4b/) — 使用transformers的Xing4.0模型，適用於對話生成。
@@ -165,7 +164,6 @@ _每日存檔 · 2026-10-16_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/) — 對比學習模型，用於文本排名和重排序。
@@ -1173,7 +1171,6 @@ _每日存檔 · 2026-10-16_
 - [hzy1522/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hzy1522-tickflow-stock-panel/) — 多市場智慧量化交易平臺，支援A股、港股及美股，提供選股、監控及回測功能。
 - [zekaiwang/trex_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zekaiwang-trex-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-matraix2026-matraix-persona-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ronitgupta138/vectra-core](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronitgupta138-vectra-core/) — vectra-core 是一個 Java 21 Loom 實現的向量搜尋引擎，支援高吞吐量和快速檢索。
 - [CopilotKit/OpenBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/copilotkit-openbot/) — OpenBot 是一個開源的 AI 同事系統，每個代理都有自己的電腦和工具。
 - [Huang-Hg/alpha-foundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huang-hg-alpha-foundry/) — 透過強型態 GP 和 GFlowNet 搜尋進行公式化 alpha 礦採。
 - [QwenAudio/qwen-audio-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qwenaudio-qwen-audio-agent/) — 即時語音執行框架，讓 AI 代理保持線上和互動。

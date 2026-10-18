@@ -88,7 +88,6 @@ _Daily archive · 2026-10-04_
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — text-to-image · diffusers, safetensors, ternary
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-nava/) — text-to-video · custom, ti2v, text-to-video
 - [SulphurAI/Sulphur-2-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-2-base/) — text-to-video · diffusers, safetensors, gguf
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
 - [phasefield-audio/Irodori-TTS-v4.1-Anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-phasefield-audio-irodori-tts-v4-1-anime/) — text-to-speech · safetensors, text-to-speech, base_model:Aratako/Irodori-TTS-v4.1-Small
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-contrastive-lm-clm-v0-1-8b/) — text-ranking · contrastive-lm, clm, contrastive-learning
@@ -155,7 +154,6 @@ _Daily archive · 2026-10-04_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [nisten/opus5-5-doctor-patient-conversations-all-human-diseases](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nisten-opus5-5-doctor-patient-conversations-all-human-diseases/) — · task_categories:question-answering, task_categories:text-generation, language:en
@@ -1445,7 +1443,7 @@ _Daily archive · 2026-10-04_
 - [ciddwd/overlay-translator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ciddwd-overlay-translator/) — 无需 ROOT 的开源 Android 屏幕实时翻译工具，适合游戏、视觉小说和漫画。支持端侧与云端 OCR、离线 LLM、多种翻译服务和文字朗读（TTS），译文可直接显示在画面上。Open-source no-root…
 - [deeplethe/forkd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deeplethe-forkd/) — Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KV…
 - [wiltodelta/remove-ai-watermarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wiltodelta-remove-ai-watermarks/) — AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Bana…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [spinabot/brigade](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/spinabot-brigade/) — Brigade — Your personal intelligence, built enterprise-grade
 - [xixihhhh/hotclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xixihhhh-hotclip/) — 免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频,直发抖音/快手/B站/小红书/视频号——AI 找高光金句、弹幕热度进爆点判断、自动加字幕、横屏转竖屏,本地运行无水印不上传 | F…
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentcloud-tencentdb-agent-memory/) — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline,…

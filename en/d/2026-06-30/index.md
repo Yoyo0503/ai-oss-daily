@@ -66,7 +66,6 @@ _Daily archive · 2026-06-30_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Comfy-Org/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-krea-2/) — · comfyui, license:other, region:us
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
@@ -702,7 +701,7 @@ _Daily archive · 2026-06-30_
 - [mukul975/Anthropic-Cybersecurity-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-anthropic-cybersecurity-skills/) — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE…
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
 - [ling-0729/KHunter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ling-0729-khunter/) — KHunter 是一套开箱即用的A股量化交易系统，集数据管理、策略选股、择时交易、风险控制、回测验证于一体，为个人投资者提供从数据到交易的全流程量化解决方案。
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [SamurAIGPT/seedance-2-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samuraigpt-seedance-2-generator/) — Open-source Next.js SaaS for Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini video generation — Stripe billin…
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atilaahmettaner-tradingview-mcp/) — TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatG…
 - [LLMQuant/data-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmquant-data-mcp/) — The knowledge harness for AI‑native finance — MCP server for LLMQuant Data.

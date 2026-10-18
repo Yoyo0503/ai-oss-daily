@@ -70,7 +70,6 @@ _Daily archive · 2026-07-05_
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
@@ -755,7 +754,7 @@ _Daily archive · 2026-07-05_
 - [Leonxlnx/agentic-ai-prompt-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leonxlnx-agentic-ai-prompt-research/) — Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and s…
 - [F-R-L/forge-film](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/f-r-l-forge-film/) — Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generat…
 - [JenniferZhao0531/ICLR2026-Guide-CN](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jenniferzhao0531-iclr2026-guide-cn/) — 不想啃 5000+ 全文？我已经替你和 LLM 啃完了 — ICLR 2026 全景中文导读
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [vatsbjn/nsfw-img2img](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vatsbjn-nsfw-img2img/) — · gradio, region:us
 - [SamurAIGPT/seedance-2-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samuraigpt-seedance-2-generator/) — Open-source Next.js SaaS for Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini video generation — Stripe billin…
 - [ohdearquant/lattice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ohdearquant-lattice/) — Run, quantize, and fine-tune LLMs on Apple Silicon. Pure Rust, no Python, no CUDA, no ONNX

@@ -57,7 +57,6 @@ _Daily archive · 2026-06-10_
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [ideogram-ai/ideogram4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ideogram-ai-ideogram4/) — · gradio, region:us

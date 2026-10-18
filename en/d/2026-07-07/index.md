@@ -75,7 +75,6 @@ _Daily archive · 2026-07-07_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [markov-ai/gaming-500-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-gaming-500-hours/) — · size_categories:n<1K, format:json, modality:tabular
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
@@ -763,7 +762,7 @@ _Daily archive · 2026-07-07_
 - [mukul975/Anthropic-Cybersecurity-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-anthropic-cybersecurity-skills/) — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE…
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS for ComfyUI. 30 languages, voice design, controllable cloning, 48kHz audio, and LoRA training
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star…
 - [vatsbjn/nsfw-img2img](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vatsbjn-nsfw-img2img/) — · gradio, region:us
 - [pattern-ai-labs/agentcall](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pattern-ai-labs-agentcall/) — AgentCall lets AI Agents join meetings with voice, video & screen-share to build together. Supports Google Me…

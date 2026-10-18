@@ -44,7 +44,6 @@ _Daily archive · 2026-06-02_
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jasperai-monet/) — · task_categories:text-to-image, task_categories:image-feature-extraction, task_categories:zero-shot-image-cl…
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — image-text-to-text · transformers, safetensors, KeyeVL2
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-privacy-filter/) — token-classification · transformers, onnx, safetensors

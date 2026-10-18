@@ -124,7 +124,6 @@ _每日存檔 · 2026-10-13_
 - [Aleph-Alpha/Kolibri-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aleph-alpha-kolibri-1/) — Kolibri-1 是一個支援多語文的對話生成模型，適用於推理和對話。
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/) — NVIDIA最佳化的GLM模型，適用於四位元精度的量化。
 - [openbmb/MiniCPM5-2B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm5-2b/) — MiniCPM5-2B 是一個長上下文支援的文本生成模型，適用於工具呼叫等應用。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jonathancoletti-qwen3-8-27b-uncensored-gguf/) — 無審查限制的 Qwen 生成模型，支援 gguf 格式。
 - [Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-blackfrost-ai-qwen3-8-27b-abliterated-gguf/) — Qwen 3.8 模型的量化版本，適用於影像和文本生成任務。
@@ -157,7 +156,6 @@ _每日存檔 · 2026-10-13_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/) — 對比學習模型，用於文本排名和重排序。
@@ -1132,7 +1130,6 @@ _每日存檔 · 2026-10-13_
 - [wpydcr/NanoAvatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wpydcr-nanoavatar/) — NanoAvatar 是一個即時生成高品質的講話頭像的工具。
 - [aipoch/open-science](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aipoch-open-science/) — 開放原始碼的本地化AI研究平臺，支援重現性研究和發現。
 - [bleckhert/uncensored-image-to-video-alchemist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-bleckhert-uncensored-image-to-video-alchemist/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [ronitgupta138/vectra-core](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronitgupta138-vectra-core/) — vectra-core 是一個 Java 21 Loom 實現的向量搜尋引擎，支援高吞吐量和快速檢索。
 - [syv-ai/qwen38-27b-rtx3090](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syv-ai-qwen38-27b-rtx3090/) — 在單個RTX 3090上執行Qwen3.8-27B的模型推理工具。
 - [agentpit-io/hunter-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentpit-io-hunter-community/) — 開源私人金融AI團隊，提供自託管多智慧體系統。
 - [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/akashpriyadarshii-jev-curate/) — 用於TypeSafe Jev的高吞吐量資料篩選工具，支援Parquet和JSONL格式。

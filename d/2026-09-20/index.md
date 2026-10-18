@@ -38,7 +38,6 @@ _每日存檔 · 2026-09-20_
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/) — 文字轉影片生成工具，適用於長片。
 - [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/) — Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。
 - [MOSS-TTS v1.5（開源語音合成）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-tts-v1-5/) — 復旦 MOSS 團隊的開源 TTS 模型（pipeline: text-to-speech）。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nineninesix-gepard-1-0/) — 一款基於轉換器的文本轉語音模型，適用於生成自然語言。
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-krea2-turbo-style-reference/) — 基於Krea-2-Turbo的風格參考模型，用於文字轉影像。
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/) — 使用 Krea2 的文字轉影像模型，支援 FP8 和 ComfyUI。
@@ -128,7 +127,6 @@ _每日存檔 · 2026-09-20_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — 未審核的Qwen3.8圖文轉文字模型。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。

@@ -58,7 +58,6 @@ _Daily archive · 2026-06-22_
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
@@ -630,7 +629,7 @@ _Daily archive · 2026-06-22_
 - [tirth8205/code-review-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tirth8205-code-review-graph/) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding to…
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [didilili/shopkeeper-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/didilili-shopkeeper-agent/) — 📊 电商数仓智能问数 AI Agent，最适合用于系统学习 LangGraph 的实战项目：基于 LangGraph、FastAPI、Qdrant、Elasticsearch、MySQL 与 React，完整实现元数据…
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/markbrezina-ctrl-alt-defeatthemarket/) — An unofficial guide to IMC Prosperity algorithmic trading
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.

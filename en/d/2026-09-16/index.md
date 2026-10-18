@@ -35,7 +35,6 @@ _Daily archive · 2026-09-16_
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — text-to-video · diffusers, safetensors, text-to-video
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
@@ -123,7 +122,6 @@ _Daily archive · 2026-09-16_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1440,7 +1438,7 @@ _Daily archive · 2026-09-16_
 - [team-telnyx/telnyx-code-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-telnyx-telnyx-code-examples/) — Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs
 - [iSEngLab/Psearch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/isenglab-psearch/) — [ASE 2026] PSearch: Search-based Patch Generation in the Era of LLM-based Automated Program Repair
 - [techjarves/Portable-Diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-portable-diffusion/) — [Deprecated] Zero-configuration local AI studio. Active development has moved to Uncensored-Local-Studio.
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [myccarl/ai-shortVideo-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/myccarl-ai-shortvideo-pipeline/) — End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model f…
 - [Alisa0808/vibe-creating-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alisa0808-vibe-creating-skill/) — Open-source, bilingual AI video-prompt skill — rewrite ideas into model-ready text-to-video prompts. A portab…
 - [larlarua/AutoCVE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/larlarua-autocve/) — Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and repor…

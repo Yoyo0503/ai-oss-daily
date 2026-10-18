@@ -107,7 +107,6 @@ _Daily archive · 2026-10-08_
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — image-text-to-video · diffusers, text-to-video, image-to-video
 - [TokenRhythm/NeoHorse-1-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tokenrhythm-neohorse-1-4b/) — text-generation · transformers, safetensors, qwen3_5_text
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [XingChen-AGI/TeleOCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xingchen-agi-teleocr/) — image-text-to-text · transformers, safetensors, qwen2_5_vl
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — text-generation · transformers, gguf, text-generation
@@ -154,7 +153,6 @@ _Daily archive · 2026-10-08_
 - [TaichuAI/ZDTaichu5.0-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-taichuai-zdtaichu5-0-9b/) — image-text-to-text · safetensors, zdtaichu5_0, multimodal
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-contrastive-lm-clm-v0-1-8b/) — text-ranking · contrastive-lm, clm, contrastive-learning
@@ -1502,7 +1500,7 @@ _Daily archive · 2026-10-08_
 - [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eugeniughelbur-obsidian-second-brain/) — Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, …
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atilaahmettaner-tradingview-mcp/) — TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatG…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [HuggingFaceFW/finepdfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-finepdfs/) — · task_categories:text-generation, language:aai, language:aak
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — crypto trading bot liquidity order book market microstructure algorithmic trading quant Python Node.js websoc…
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/calesthio-generative-media-skills/) — Research-backed agent skills and tools for premium image, video, audio, voice, and generative media productio…

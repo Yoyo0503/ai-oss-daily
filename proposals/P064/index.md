@@ -12,6 +12,5 @@ career-ops 已證明『AI 幫你篩職缺、改履歷、你自己按送出』有
 
 - [career-ops-hq/career-ops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/career-ops-hq-career-ops/) — 自動化職業搜尋和申請流程的AI代理。
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oomol-lab-open-connector/) — 開源認證門戶，連線SaaS供應商與AI代理。
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。

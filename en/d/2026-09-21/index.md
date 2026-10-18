@@ -81,7 +81,6 @@ _Daily archive · 2026-09-21_
 - [microsoft/Mage-Flow-Edit-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow-edit-turbo/) — image-to-image · diffusers, safetensors, image-to-image
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
 - [microsoft/VibeVoice-ASR-BitNet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-vibevoice-asr-bitnet/) — automatic-speech-recognition · ggml, safetensors, gguf
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-pid/) — image-to-image · pytorch, diffusers, safetensors
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — text-generation · Model Optimizer, safetensors, qwen3_5_moe
@@ -123,7 +122,6 @@ _Daily archive · 2026-09-21_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1325,7 +1323,7 @@ _Daily archive · 2026-09-21_
 - [stablyai/orca](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stablyai-orca/) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription.…
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archestra-ai-archestra/) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eugeniughelbur-obsidian-second-brain/) — Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, …
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atilaahmettaner-tradingview-mcp/) — TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatG…

@@ -61,7 +61,6 @@ _每日存檔 · 2026-06-12_
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vast-ai-triposplat/) — VAST AI TripoSplat：圖像轉 3D 高斯潑濺(3DGS)線上示範。
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-bernini-r/) — 字節 Bernini-R 影片渲染模型（圖＋文生影片）。
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
 - [ideogram-ai/ideogram4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ideogram-ai-ideogram4/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

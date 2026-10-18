@@ -49,7 +49,6 @@ _每日存檔 · 2026-09-18_
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-image2video/) — NVIDIA Cosmos3 圖生影片模型（世界模型系列，授權受限）。
 - [alibaba-pai/MiniMax-H3-Fun-Controlnet-Union](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/) — 將文字轉換為影片的AI模型，支援控制網格和影片生成。
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-patil-krea-2-depth-controlnet/) — 用於影像轉換的控制網路，支援深度、LoRA和Flow Matching。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [Gazingstars123/Anima-2.9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gazingstars123-anima-2-9b/) — Anime風格的影像生成模型，支援文字轉圖片。
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — 自動語音辨識模型，支援阿拉伯語轉錄。
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/) — 將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。
@@ -123,7 +122,6 @@ _每日存檔 · 2026-09-18_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — 未審核的Qwen3.8圖文轉文字模型。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。

@@ -13,4 +13,3 @@
 - [sunmughan/meta-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sunmughan-meta-automation/) — 自動化 AI 市場推廣工具，適用於 Threads 和 Instagram。
 - [ZJU-REAL/Easel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/) — 一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。
 - [inclusionAI/Ming-Image-0.1-Design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ming-image-0-1-design/) — 自訂的文本轉影像模型，適用於圖形設計和 RGBA 渲染。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。

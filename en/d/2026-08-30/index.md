@@ -112,7 +112,6 @@ _Daily archive · 2026-08-30_
 - [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — text-generation · llama.cpp, gguf, dflash2
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1161,7 +1160,7 @@ _Daily archive · 2026-08-30_
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jcodesmore-ai-website-cloner-template/) — Clone any website with one command using AI coding agents
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [databricks/databricks-dolly-15k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-databricks-databricks-dolly-15k/) — · task_categories:question-answering, task_categories:summarization, language:en
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/knockoutez-wigolo/) — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, n…
 - [mito0o852/OHLCV-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mito0o852-ohlcv-1m/) — · region:us

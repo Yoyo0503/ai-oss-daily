@@ -115,7 +115,6 @@ _Daily archive · 2026-10-09_
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-models-muse-glimmer-30b/) — image-text-to-text · transformers, safetensors, muse_glimmer
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-diffusiongemma-26b-a4b-it/) — image-text-to-text · transformers, safetensors, diffusion_gemma
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-glm-5-2-nvfp4/) — text-generation · Model Optimizer, safetensors, glm_moe_dsa
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [jialinyyzz/humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jialinyyzz-humanizer/) — text-generation · gguf, safetensors, gemma4_unified
 - [openbmb/MiniCPM5-2B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm5-2b/) — text-generation · transformers, safetensors, llama
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
@@ -153,7 +152,6 @@ _Daily archive · 2026-10-09_
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — image-text-to-text · gguf, gsq, rco
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-contrastive-lm-clm-v0-1-8b/) — text-ranking · contrastive-lm, clm, contrastive-learning
@@ -1482,7 +1480,7 @@ _Daily archive · 2026-10-09_
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [ArcReel/ArcReel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arcreel-arcreel/) — AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Age…
 - [deeplethe/forkd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deeplethe-forkd/) — Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KV…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [wiltodelta/remove-ai-watermarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wiltodelta-remove-ai-watermarks/) — AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Bana…
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/faizalimam990-startup-builder-pro/) — AI-powered skill that turns product ideas or existing repositories into secure, tested, production-ready SaaS…
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentcloud-tencentdb-agent-memory/) — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline,…

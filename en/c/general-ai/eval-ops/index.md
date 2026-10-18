@@ -1,8 +1,8 @@
 # 📊 Eval / Observability / Safety
 
 - [LocalLLaMA/typed-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-localllama-typed-decisions/) — · benchmark:official, benchmark:eval-yaml, task_categories:text-classification
-- [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonworks-lunara-art-eval/) — · task_categories:text-to-image, license:apache-2.0, size_categories:1K<n<10K
 - [Qwen/BlenderWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-blenderworld/) — · language:en, language:zh, license:mit
+- [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonworks-lunara-art-eval/) — · task_categories:text-to-image, license:apache-2.0, size_categories:1K<n<10K
 - [FINAL-Bench/leadboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-leadboard/) — · docker, drug-discovery, admet
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-redmadrobot-rnd-pii-benchmark/) — · task_categories:token-classification, language:ru, license:mit
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning

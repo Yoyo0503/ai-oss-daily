@@ -106,7 +106,6 @@ _Daily archive · 2026-08-24_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — text-generation · llama.cpp, gguf, dflash2
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
@@ -1121,7 +1120,7 @@ _Daily archive · 2026-08-24_
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — crypto trading bot liquidity order book market microstructure algorithmic trading quant Python Node.js websoc…
 - [autonomous-ai/autonomous-grid](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/autonomous-ai-autonomous-grid/) — Your AI intranet: network the computers you already own for inference and training.
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-higgs-v3-tts-comfyui/) — ComfyUI nodes for higgs-audio-v3-tts-4b multilingual (100 languages) conversational TTS, zero-shot voice clon…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
 - [TexasBedouin/vibe-check](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/texasbedouin-vibe-check/) — By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then …
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackwener-opencli/) — Make Any Website into CLI & Use your logged-in browser by AI agent.

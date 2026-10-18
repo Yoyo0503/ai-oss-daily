@@ -30,7 +30,6 @@ _Daily archive · 2026-09-15_
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-warmbloodaban-minimax-h3-singularity/) — image-to-video · minimax-h3, video-generation, text-to-video
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — text-to-video · diffusers, safetensors, text-to-video
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
@@ -123,7 +122,6 @@ _Daily archive · 2026-09-15_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1431,7 +1429,7 @@ _Daily archive · 2026-09-15_
 - [ibm-research/AssetOpsBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ibm-research-assetopsbench/) — · task_categories:question-answering, task_categories:time-series-forecasting, language:en
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…
 - [perso-ai/perso-dubbing-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/perso-ai-perso-dubbing-plugin/) — AI video auto-dubbing plugin for coding agents — translate & dub videos into multiple languages via the Perso…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [MLNLP-World/Paper-Rebuttal-Tips](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mlnlp-world-paper-rebuttal-tips/) — MLNLP社区用来帮助大家论文Rebuttal的整理仓库。
 - [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beijingcao-binance-deribit-btc/) — Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask …
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abhi1693-openclaw-mission-control/) — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration v…

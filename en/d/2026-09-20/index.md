@@ -38,7 +38,6 @@ _Daily archive · 2026-09-20_
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jdopensource-joyai-echo/) — text-to-video · ltx-video, JoyAI-Echo, text-to-video
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-krea2-turbo-style-reference/) — text-to-image · diffusers, text-to-image, lora
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alperkts-krea2-fp8/) — text-to-image · diffusers, krea2, text-to-image
@@ -128,7 +127,6 @@ _Daily archive · 2026-09-20_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1472,7 +1470,7 @@ _Daily archive · 2026-09-20_
 - [ibm-research/AssetOpsBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ibm-research-assetopsbench/) — · task_categories:question-answering, task_categories:time-series-forecasting, language:en
 - [lcy362/agnes-video-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lcy362-agnes-video-generator/) — Open-source, self-hosted AI video generator — completely free. Text to multi-scene video with narration, subt…
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abhi1693-openclaw-mission-control/) — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration v…
 - [thu-ml/Causal-Forcing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thu-ml-causal-forcing/) — [ICML 2026] Official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-…
 - [nvidia/SPEED-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-speed-bench/) — · license:other, size_categories:1K<n<10K, format:parquet

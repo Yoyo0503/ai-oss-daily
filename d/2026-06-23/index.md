@@ -59,7 +59,6 @@ _每日存檔 · 2026-06-23_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。

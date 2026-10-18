@@ -92,7 +92,6 @@ _Daily archive · 2026-10-05_
 - [phasefield-audio/Irodori-TTS-v4.1-Anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-phasefield-audio-irodori-tts-v4-1-anime/) — text-to-speech · safetensors, text-to-speech, base_model:Aratako/Irodori-TTS-v4.1-Small
 - [IndexTeam/IndexTTS-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-indexteam-indextts-2-5/) — text-to-speech · indextts, safetensors, text-to-speech
 - [microsoft/Mage-Flow-Edit-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow-edit-turbo/) — image-to-image · diffusers, safetensors, image-to-image
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
 - [microsoft/VibeVoice-ASR-BitNet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-vibevoice-asr-bitnet/) — automatic-speech-recognition · ggml, safetensors, gguf
 - [XiaomiMiMo/MiMo-V2.6-RL-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xiaomimimo-mimo-v2-6-rl-oss/) — · license:apache-2.0, size_categories:1K<n<10K, format:parquet
@@ -152,7 +151,6 @@ _Daily archive · 2026-10-05_
 - [arudradey/qwen-image-2.1-uncensored-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-arudradey-qwen-image-2-1-uncensored-gguf/) — · gradio, mcp-server, region:us
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1479,7 +1477,7 @@ _Daily archive · 2026-10-05_
 - [HuggingFaceFW/finepdfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-finepdfs/) — · task_categories:text-generation, language:aai, language:aak
 - [deepmemteam/deepmem](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deepmemteam-deepmem/) — Drop-in AI memory layer with 2x faster retrieval and 10x lower cost. Fully compatible with Mem0 API. Migrate …
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — crypto trading bot liquidity order book market microstructure algorithmic trading quant Python Node.js websoc…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [HiThink-Tech/Financial-API](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hithink-tech-financial-api/) — 同花顺官方 A股金融数据服务，提供股票实时行情、历史行情、财务报表、指数、板块、涨停等数据，适用于 AI Agent、量化研究和应用开发，支持 API、MCP、CLI 和 Python。Official Tonghua…
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackwener-opencli/) — Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madslorentzen-ai-job-search/) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate posting…

@@ -67,7 +67,6 @@ _每日存檔 · 2026-09-24_
 - [OpenVDN/vdn-minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/) — 文字轉動畫模型，使用MiniMax-H3架構。
 - [Wan-AI/Wan-Dancer-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/) — 將影像轉換為動畫的模型，支援音樂生成舞蹈動作。
 - [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/) — 將文字轉換成音樂的模型。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [mgwr/M87](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/) — 一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/) — 文字轉影像模型，使用擴散和流匹配技術生成影像。
 - [larryvrh/MiniMax-H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/) — 一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。
@@ -135,7 +134,6 @@ _每日存檔 · 2026-09-24_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — 未審核的Qwen3.8圖文轉文字模型。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [yandex/AliceAI-Foundation-80B-A3B-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yandex-aliceai-foundation-80b-a3b-base/) — 基於轉換器的文本生成模型，支援專家混合系統和vllm引擎。

@@ -70,7 +70,6 @@ _Daily archive · 2026-07-04_
 - [nationaldesignstudio/rampart](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nationaldesignstudio-rampart/) — token-classification · transformers.js, onnx, bert
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
@@ -747,7 +746,7 @@ _Daily archive · 2026-07-04_
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archestra-ai-archestra/) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
 - [mukul975/Anthropic-Cybersecurity-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-anthropic-cybersecurity-skills/) — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [ChaosRealmsAI/gpt-image-2-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chaosrealmsai-gpt-image-2-gallery/) — AI image inspiration atlas · 3,800+ GPT-Image-2 works across 445 themes with full copy-paste prompts · MIT + …
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
 - [vatsbjn/nsfw-img2img](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vatsbjn-nsfw-img2img/) — · gradio, region:us

@@ -65,7 +65,6 @@ _每日存檔 · 2026-06-17_
 - [nvidia/diffusiongemma-26B-A4B-it-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/) — NVIDIA 的量化模型，用於文本生成和影像擴散。
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — 一個支援影像和文字轉換為任何格式的通用模型。
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-12b/) — 多功能模型，支援各種資料型別之間的轉換。
 - [LongCat 數位人影片(美團)](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-5/) — 美團 LongCat 的數位人/虛擬主播影片生成模型(diffusers+onnx)。

@@ -124,7 +124,6 @@ _Daily archive · 2026-09-10_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1399,7 +1398,7 @@ _Daily archive · 2026-09-10_
 - [myc0576/SmartMoney-Cub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/myc0576-smartmoney-cub/) — Read-only AI trading companion harness for decision logging, D1/D3 review, and rule evolution.
 - [team-reflect/reflect-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-reflect-reflect-open/) — Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thenicolas1894-awesome-claude-fable-5-prompt-vault/) — Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abhi1693-openclaw-mission-control/) — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration v…
 - [thu-ml/Causal-Forcing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thu-ml-causal-forcing/) — [ICML 2026] Official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-…
 - [Aliu-AiRobot/ESEILANE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aliu-airobot-eseilane/) — High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelli…

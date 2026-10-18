@@ -91,7 +91,6 @@ _Daily archive · 2026-09-29_
 - [microsoft/Mage-Flow-Edit-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow-edit-turbo/) — image-to-image · diffusers, safetensors, image-to-image
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
 - [microsoft/VibeVoice-ASR-BitNet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-vibevoice-asr-bitnet/) — automatic-speech-recognition · ggml, safetensors, gguf
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/) — · gguf, quantized, fp8
 - [XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-6-distill-qwen-9b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-contrastive-lm-clm-v0-1-8b/) — text-ranking · contrastive-lm, clm, contrastive-learning
@@ -142,7 +141,6 @@ _Daily archive · 2026-09-29_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [AlexWortega/openjev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-openjev/) — text-classification · transformers, safetensors, nli
@@ -1414,7 +1412,7 @@ _Daily archive · 2026-09-29_
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
 - [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eugeniughelbur-obsidian-second-brain/) — Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, …
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atilaahmettaner-tradingview-mcp/) — TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatG…
 - [HuggingFaceFW/finepdfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-finepdfs/) — · task_categories:text-generation, language:aai, language:aak
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — crypto trading bot liquidity order book market microstructure algorithmic trading quant Python Node.js websoc…

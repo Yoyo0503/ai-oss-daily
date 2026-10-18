@@ -106,7 +106,6 @@ _Daily archive · 2026-08-31_
 - [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — text-generation · llama.cpp, gguf, dflash2
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1155,7 +1154,7 @@ _Daily archive · 2026-08-31_
 - [lexlex47/game-art-prompt-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lexlex47-game-art-prompt-kit/) — Reusable prompt profiles for game art, pixel spritesheets, character concepts, and 2D environments.
 - [mito0o852/OHLCV-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mito0o852-ohlcv-1m/) — · region:us
 - [stablyai/orca](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stablyai-orca/) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription.…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archestra-ai-archestra/) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 - [seuksaedu-beep/Persona-Flow-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seuksaedu-beep-persona-flow-chat/) — Simulate AI Personas in Social Feeds with Real-Time Chat Bots 2026
 - [KunAgent/Kun](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kunagent-kun/) — Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for deskto…

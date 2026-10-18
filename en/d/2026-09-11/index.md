@@ -4,7 +4,6 @@ _Daily archive · 2026-09-11_
 
 ## 🆕 New
 
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-m-a-p-yue2-3b/) — text-to-audio · safetensors, yue2, music-generation
 - [ProjectDXAI/continuous-record-llm-trading-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/projectdxai-continuous-record-llm-trading-agents/) — Paper artifacts, figures, aggregate data, and share cards for the DXRG paper: What LLM Trading Agents Actuall…
 - [HuggingEnvs/geoguesser-article](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingenvs-geoguesser-article/) — · docker, research-article-template, rl-environments
@@ -16,6 +15,7 @@ _Daily archive · 2026-09-11_
 - [huawei-bayerlab/marigold-v2-web](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huawei-bayerlab-marigold-v2-web/) — · static, region:us
 - [tencent/AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-tencent-auk/) — · gradio, region:us
 - [facebook/sam3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-facebook-sam3/) — mask-generation · transformers, safetensors, sam3_video
+- [facebook/WearableQA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-facebook-wearableqa/) — · task_categories:question-answering, task_categories:multiple-choice, language:en
 
 ## 🚀 Climbing
 
@@ -31,7 +31,6 @@ _Daily archive · 2026-09-11_
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-warmbloodaban-minimax-h3-singularity/) — image-to-video · minimax-h3, video-generation, text-to-video
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — text-to-video · diffusers, safetensors, text-to-video
 - [OpenVDN/vdn-minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openvdn-vdn-minimax-h3/) — text-to-video · diffusers, safetensors, text-to-video
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
@@ -126,7 +125,6 @@ _Daily archive · 2026-09-11_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — image-text-to-text · gguf, abliterated, uncensored
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1261,7 +1259,7 @@ _Daily archive · 2026-09-11_
 - [databricks/databricks-dolly-15k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-databricks-databricks-dolly-15k/) — · task_categories:question-answering, task_categories:summarization, language:en
 - [mito0o852/OHLCV-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mito0o852-ohlcv-1m/) — · region:us
 - [stablyai/orca](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stablyai-orca/) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription.…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archestra-ai-archestra/) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
 - [LichAmnesia/awesome-ad-video-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lichamnesia-awesome-ad-video-prompts/) — Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to H…

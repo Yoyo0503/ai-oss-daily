@@ -109,7 +109,6 @@ _Daily archive · 2026-08-28_
 - [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — text-generation · llama.cpp, gguf, dflash2
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1167,7 +1166,7 @@ _Daily archive · 2026-08-28_
 - [Loklokguo/Pixelle-Video-HappyHorse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/loklokguo-pixelle-video-happyhorse/) — 🎬 AI全自动短视频引擎 — 基于 Pixelle-Video，新增 HappyHorse (DashScope) 云端文生视频。无需GPU，输入主题一键生成完整视频。Apache 2.0。
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
 - [ZICXR/A-Stock-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zicxr-a-stock-skills/) — 📈 Claude Agent Skills for A股分析 | 29个即插即用 Skills 覆盖数据采集/大盘分析/资金流向/涨停追踪/技术面/基本面/估值/财报/多因子/回测/风控/智能报告 | 含自选股监控 |…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [vatsbjn/nsfw-img2img](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vatsbjn-nsfw-img2img/) — · gradio, region:us
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/claudiodrews-memory-os/) — A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric …
 - [yaojingang/GEOFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-geoflow/) — Open-source GEO content engineering and multi-site distribution system with AI tasks, RAG/semantic chunking, …

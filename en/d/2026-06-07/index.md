@@ -57,7 +57,6 @@ _Daily archive · 2026-06-07_
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline

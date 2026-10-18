@@ -32,7 +32,6 @@ _每日存檔 · 2026-09-14_
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/) — 將影像轉換為影片的AI模型。
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/) — 一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — 快速生成文字轉影片的AI模型。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/) — 將影像轉換為影片的模型，支援差分擴散和影像到影片技術。
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/) — 文字轉影片生成工具，適用於長片。
 - [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/) — Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。
@@ -123,7 +122,6 @@ _每日存檔 · 2026-09-14_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — 未審核的Qwen3.8圖文轉文字模型。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [TokenRhythm/NeoHorse-1-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/) — 具備程式碼生成和工具使用能力的文本生成模型。

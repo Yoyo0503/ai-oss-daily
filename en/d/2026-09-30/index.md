@@ -92,7 +92,6 @@ _Daily archive · 2026-09-30_
 - [microsoft/Mage-Flow-Edit-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow-edit-turbo/) — image-to-image · diffusers, safetensors, image-to-image
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
 - [microsoft/VibeVoice-ASR-BitNet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-vibevoice-asr-bitnet/) — automatic-speech-recognition · ggml, safetensors, gguf
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pottokao-qwen-image-2-1-text-encoder-heretic-gguf/) — · gguf, quantized, fp8
 - [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — image-text-to-text · gguf, gsq, rco
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — automatic-speech-recognition · nemo, safetensors, nemotron3_5_asr
@@ -144,7 +143,6 @@ _Daily archive · 2026-09-30_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1405,7 +1403,7 @@ _Daily archive · 2026-09-30_
 - [xerj-org/xerj](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xerj-org-xerj/) — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data withou…
 - [deeplethe/forkd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deeplethe-forkd/) — Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KV…
 - [wiltodelta/remove-ai-watermarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wiltodelta-remove-ai-watermarks/) — AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Bana…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentcloud-tencentdb-agent-memory/) — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline,…
 - [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国 A 股数据基础设施。55个日更数据集：股票行情、基本面、期货数据、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
 - [rostamlabs/rostam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rostamlabs-rostam/) — Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run…

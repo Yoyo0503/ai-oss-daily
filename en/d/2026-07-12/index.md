@@ -75,7 +75,6 @@ _Daily archive · 2026-07-12_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — text-generation · transformers, safetensors, nemotron_h_puzzle
 - [markov-ai/gaming-500-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-gaming-500-hours/) — · size_categories:n<1K, format:json, modality:tabular
@@ -792,7 +791,7 @@ _Daily archive · 2026-07-12_
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品 · 海外销售公司调研 Claude Skill — 30 分钟产出五看六定标准报告 · 适用于客户拜访 / 代理商尽调 / 竞品分析 / 新市场进入 / 求职面试
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackwener-opencli/) — Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-anthropic-cybersecurity-skills/) — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star…
 - [DottedSign-Official/dottedsign-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dottedsign-official-dottedsign-mcp/) — A DottedSign MCP server that enables AI assistants (Claude, ChatGPT) to manage signing tasks, templates, and …
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World

@@ -120,7 +120,6 @@ _Daily archive · 2026-10-16_
 - [TokenRhythm/NeoHorse-1-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tokenrhythm-neohorse-1-4b/) — text-generation · transformers, safetensors, qwen3_5_text
 - [XingChen-AGI/TeleOCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xingchen-agi-teleocr/) — image-text-to-text · transformers, safetensors, qwen2_5_vl
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — text-generation · transformers, gguf, text-generation
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
 - [XingChen-AGI/Xing4.0-29B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xingchen-agi-xing4-0-29b-a4b/) — text-generation · transformers, safetensors, xing4_0
@@ -165,7 +164,6 @@ _Daily archive · 2026-10-16_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-contrastive-lm-clm-v0-1-8b/) — text-ranking · contrastive-lm, clm, contrastive-learning
@@ -1173,7 +1171,6 @@ _Daily archive · 2026-10-16_
 - [hzy1522/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hzy1522-tickflow-stock-panel/) — 多市场智能量化工作台（A股/港股/美股）— 基于 shy3130/tickflow-stock-panel 二次开发，新增港美股多市场支持。自托管选股+监控+回测。MIT。
 - [zekaiwang/trex_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zekaiwang-trex-dataset/) — · task_categories:robotics, language:en, license:mit
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, license:other, size_categories:n<1K
-- [ronitgupta138/vectra-core](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronitgupta138-vectra-core/) — ⚡ In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scala…
 - [CopilotKit/OpenBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/copilotkit-openbot/) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action…
 - [Huang-Hg/alpha-foundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/huang-hg-alpha-foundry/) — Formulaic alpha mining: strongly-typed GP + GFlowNet search over a typed DSL, with C++/OpenMP portfolio backt…
 - [QwenAudio/qwen-audio-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/qwenaudio-qwen-audio-agent/) — A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agen…
@@ -1588,7 +1585,7 @@ _Daily archive · 2026-10-16_
 - [mukul975/Anthropic-Cybersecurity-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-anthropic-cybersecurity-skills/) — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE…
 - [Loklokguo/Pixelle-Video-HappyHorse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/loklokguo-pixelle-video-happyhorse/) — 🎬 AI全自动短视频引擎 — 基于 Pixelle-Video，新增 HappyHorse (DashScope) 云端文生视频。无需GPU，输入主题一键生成完整视频。Apache 2.0。
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [sonilo-ai/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sonilo-ai-skills/) — Agent skills for Sonilo's licensed music, sound-effects, dubbing, and audio-ducking API
 - [MeiGen-AI/OPSD-V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/meigen-ai-opsd-v/) — On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators
 - [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — Google Ads MCP server + Meta Ads MCP (Facebook Ads MCP) + GA4 + Search Console in one hosted remote MCP for C…

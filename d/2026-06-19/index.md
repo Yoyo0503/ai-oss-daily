@@ -65,7 +65,6 @@ _每日存檔 · 2026-06-19_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — Qwen3.6-35B 的去審查(uncensored) GGUF 量化版。
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-mini-code-1-0/) — 一個用於生成程式碼和對話的文本生成模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。

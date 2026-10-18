@@ -4,5 +4,5 @@ Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Ru
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：19,008
+**Stars**：19,270
 **Source**：https://github.com/lexmount/moli

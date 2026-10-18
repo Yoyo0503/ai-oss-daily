@@ -2,7 +2,7 @@
 
 基於 LiquidAI 的影像到文字轉換模型，適用於邊緣裝置。
 
-**為何上榜**：HF trending 165 · 438 likes · 17,820 下載
+**為何上榜**：HF trending 144 · 444 likes · 19,829 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

@@ -64,7 +64,6 @@ _Daily archive · 2026-06-18_
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-claude-fable-5-claude-code/) — · task_categories:text-generation, size_categories:n<1K, format:json
@@ -640,7 +639,7 @@ _Daily archive · 2026-06-18_
 - [ahatem/QTranslate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ahatem-qtranslate/) — A fast, extensible desktop translation suite. Translate, OCR, TTS, spell check — with a plugin system.
 - [Hainrixz/claude-banana](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hainrixz-claude-banana/) — AI agent that turns your rough ideas into perfect image generation prompts. 7-component formula, 70+ creative…
 - [Dynamis-Labs/spectralquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dynamis-labs-spectralquant/) — SpectralQuant: Calibrated Eigenbasis Rotation and Water-Filled Bit Allocation for KV-Cache Compression
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [brandononchain/opentrade](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brandononchain-opentrade/) — The most powerful open-source TradingView AI agent. 50 tools, 15 models (Claude, GPT, Gemini, Qwen, DeepSeek,…
 - [1756141021/HainTag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/1756141021-haintag/) — AI 绘画 TAG 生成器 · AI Drawing Tag Generator
 - [jundot/omlx](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundot-omlx/) — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu b…

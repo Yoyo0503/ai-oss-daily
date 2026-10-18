@@ -110,7 +110,6 @@ _Daily archive · 2026-08-29_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [tencent/Hy4-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy4-preview/) — text-generation · transformers, safetensors, hy_v4
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1144,7 +1143,7 @@ _Daily archive · 2026-08-29_
 - [zeroclaw-labs/zeroclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zeroclaw-labs-zeroclaw/) — Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywher…
 - [Genesis1231/Eva01](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/genesis1231-eva01/) — Eva01 is NOT an assistant. She is an AI being with her own mind, feelings, and intrinsic drives. Supports bot…
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/esengine-deepseek-reasonix/) — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it runnin…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/netease-youdao-confucius4-tts/) — Confucius4-TTS: a Multilingual and Cross-Lingual Zero-Shot TTS Engine
 - [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text

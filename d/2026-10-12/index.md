@@ -120,7 +120,6 @@ _每日存檔 · 2026-10-12_
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
 - [XingChen-AGI/Xing4.0-29B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-xing4-0-29b-a4b/) — 使用transformers的Xing4.0模型，適用於對話生成。
 - [owensong/Inflect-Micro-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-micro-v2/) — 一個小型的本地語音合成模型，適用於邊緣裝置。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/) — 將影像和文字轉換為文本的模型，適用於對話式應用。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
 - [nvidia/GLM-5.2-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-glm-5-2-nvfp4/) — NVIDIA最佳化的GLM模型，適用於四位元精度的量化。
@@ -158,7 +157,6 @@ _每日存檔 · 2026-10-12_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/) — 對比學習模型，用於文本排名和重排序。
@@ -1117,7 +1115,6 @@ _每日存檔 · 2026-10-12_
 - [Jintae-Park/ReDesign-Figma909](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jintae-park-redesign-figma909/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CopilotKit/OpenBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/copilotkit-openbot/) — OpenBot 是一個開源的 AI 同事系統，每個代理都有自己的電腦和工具。
 - [agentpit-io/hunter-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentpit-io-hunter-community/) — 開源私人金融AI團隊，提供自託管多智慧體系統。
-- [ronitgupta138/vectra-core](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronitgupta138-vectra-core/) — vectra-core 是一個 Java 21 Loom 實現的向量搜尋引擎，支援高吞吐量和快速檢索。
 - [hzy1522/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hzy1522-tickflow-stock-panel/) — 多市場智慧量化交易平臺，支援A股、港股及美股，提供選股、監控及回測功能。
 - [modelscope/ms-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelscope-ms-cookbook/) — ms-cookbook 是一個面向開發者的開源模型應用實戰指南，涵蓋模型選型、推理、微調等內容。
 - [decionis/docker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/decionis-docker/) — 在Docker中管理AI代理行動，確保政策確定性和人為批准。

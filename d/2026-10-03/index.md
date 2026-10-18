@@ -88,7 +88,6 @@ _每日存檔 · 2026-10-03_
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。
 - [phasefield-audio/Irodori-TTS-v4.1-Anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-phasefield-audio-irodori-tts-v4-1-anime/) — 一款基於 Irodori-TTS-v4.1-Small 的 Anime 風格文字轉語音模型。
 - [IndexTeam/IndexTTS-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/) — 一款多語言文字轉語音模型，支援零樣本跨語言語音克隆。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [microsoft/Mage-Flow-Edit-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow-edit-turbo/) — 影像編輯模型，支援指令式編輯和影像轉換。
 - [SupersonicLabs/Julia-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supersoniclabs-julia-1/) — Julia-1 是一個用於多語言文本分類的決策模型。
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-8-27b-nvfp4/) — Qwen 27B 模型的量化版本。
@@ -148,7 +147,6 @@ _每日存檔 · 2026-10-03_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [NaiveAI/Naive-N0.5-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-naiveai-naive-n0-5-flash/) — 一個支援長上下文的對話生成模型，適用於程式碼生成。

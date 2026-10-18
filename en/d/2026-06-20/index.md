@@ -57,7 +57,6 @@ _Daily archive · 2026-06-20_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-qwen3-6-35b-a3b-uncensored-hauhaucs-aggressive/) — image-text-to-text · gguf, uncensored, qwen3.6
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [CohereLabs/North-Mini-Code-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-mini-code-1-0/) — text-generation · transformers, safetensors, cohere2_moe
@@ -575,7 +574,7 @@ _Daily archive · 2026-06-20_
 - [WJZ-P/gemini-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjz-p-gemini-skill/) — gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 …
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/builderz-labs-mission-control/) — Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and go…
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/osaurus-ai-osaurus/) — Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cr…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [zjunlp/SciAtlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zjunlp-sciatlas/) — A Large-Scale Knowledge Graph for Automated Scientific Research
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/trailofbits-skills/) — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows

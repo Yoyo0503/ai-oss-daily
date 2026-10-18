@@ -44,7 +44,6 @@ _每日存檔 · 2026-06-02_
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jasperai-monet/) — Jasper monet 文生圖／影像特徵抽取資料集。
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-privacy-filter/) — OpenAI 隱私過濾模型（詞元分類，偵測/遮蔽敏感資訊）。

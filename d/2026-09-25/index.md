@@ -72,7 +72,6 @@ _每日存檔 · 2026-09-25_
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/) — 文字轉影像模型，使用擴散和流匹配技術生成影像。
 - [larryvrh/MiniMax-H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/) — 一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
 - [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/) — 一款基於轉換器的語音合成模型，支援語音克隆和設計。
 - [SexGod1979/PinkCherry_MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sexgod1979-pinkcherry-minimax-h3/) — 基於MiniMax-H3的文字生成影片模型。
@@ -137,7 +136,6 @@ _每日存檔 · 2026-09-25_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [yandex/AliceAI-Foundation-80B-A3B-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yandex-aliceai-foundation-80b-a3b-base/) — 基於轉換器的文本生成模型，支援專家混合系統和vllm引擎。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。

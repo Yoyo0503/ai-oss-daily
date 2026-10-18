@@ -88,7 +88,6 @@ _Daily archive · 2026-10-02_
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos2/) — text-to-speech · ZONOS2, text-to-speech, license:apache-2.0
 - [phasefield-audio/Irodori-TTS-v4.1-Anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-phasefield-audio-irodori-tts-v4-1-anime/) — text-to-speech · safetensors, text-to-speech, base_model:Aratako/Irodori-TTS-v4.1-Small
 - [IndexTeam/IndexTTS-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-indexteam-indextts-2-5/) — text-to-speech · indextts, safetensors, text-to-speech
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [microsoft/Mage-Flow-Edit-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow-edit-turbo/) — image-to-image · diffusers, safetensors, image-to-image
 - [Cloudflare/clef](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cloudflare-clef/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
@@ -147,7 +146,6 @@ _Daily archive · 2026-10-02_
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [akhilaaa3/Jev-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akhilaaa3-jev-omni/) — text-classification · transformers, safetensors, gemma4_unified
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [multimodalart/jev-decision-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-jev-decision-index/) — · static, region:us
@@ -1417,7 +1415,7 @@ _Daily archive · 2026-10-02_
 - [mars-tw/anti-gambling-trader-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mars-tw-anti-gambling-trader-tw/) — 免費開源的投資反詐、交易統計與自動化交易程式工具：預設 PaperBroker，提供 14 種券商／交易所選項；交易紀錄分析在本機執行。
 - [deeplethe/forkd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deeplethe-forkd/) — Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KV…
 - [wiltodelta/remove-ai-watermarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wiltodelta-remove-ai-watermarks/) — AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Bana…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentcloud-tencentdb-agent-memory/) — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline,…
 - [zeroclaw-labs/zeroclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zeroclaw-labs-zeroclaw/) — Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywher…
 - [Genesis1231/Eva01](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/genesis1231-eva01/) — Eva01 is NOT an assistant. She is an AI being with her own mind, feelings, and intrinsic drives. Supports bot…

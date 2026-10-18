@@ -47,7 +47,6 @@ _Daily archive · 2026-06-03_
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [jasperai/monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jasperai-monet/) — · task_categories:text-to-image, task_categories:image-feature-extraction, task_categories:zero-shot-image-cl…
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video

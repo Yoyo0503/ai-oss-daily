@@ -104,7 +104,6 @@ _每日存檔 · 2026-08-14_
 - [deepgrove/maple-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepgrove-maple-preview/) — 一個使用 Transformers 的文本生成模型，支援 Mixture of Experts 進行推理。
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — NVIDIA開發的語音聊天模型，支援多種語言和研究論文。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。

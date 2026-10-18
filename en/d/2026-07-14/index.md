@@ -86,7 +86,6 @@ _Daily archive · 2026-07-14_
 - [SupraLabs/Supra-Router-51M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supralabs-supra-router-51m/) — text-generation · transformers, safetensors, llama
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [jlnsrk/GLM-5.2-colibri-int4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jlnsrk-glm-5-2-colibri-int4/) — · glm_moe_dsa, int4, cpu
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
@@ -804,7 +803,7 @@ _Daily archive · 2026-07-14_
 - [Bomx/qwoted-seo-backlinks-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bomx-qwoted-seo-backlinks-skill/) — Claude Code skill: find PR/backlink opportunities on Qwoted, build a sourced statistics page as a linkable as…
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackwener-opencli/) — Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-anthropic-cybersecurity-skills/) — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [large-performance-model/large-performance-model.github.io](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/large-performance-model-large-performance-model-github-io/) — LPM 1.0: Video-based Character Performance Model
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
 - [bigmacman1129/crypto-arbitrage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bigmacman1129-crypto-arbitrage/) — Crypto arbitrage trading bot that detects triangular and cross-exchange opportunities, executes trades automa…

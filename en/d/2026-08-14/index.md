@@ -104,7 +104,6 @@ _Daily archive · 2026-08-14_
 - [deepgrove/maple-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepgrove-maple-preview/) — text-generation · transformers, safetensors, text-generation
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — · safetensors, en, arxiv:2410.17196
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1020,7 +1019,7 @@ _Daily archive · 2026-08-14_
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jcodesmore-ai-website-cloner-template/) — Clone any website with one command using AI coding agents
 - [mito0o852/OHLCV-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mito0o852-ohlcv-1m/) — · region:us
 - [stablyai/orca](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stablyai-orca/) — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription.…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [codepurse/SEOCORE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/codepurse-seocore/) — Enterprise-grade, multi-threaded SEO Crawler, Rule Engine, and Link Graph Analyzer. Built in TypeScript for s…
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archestra-ai-archestra/) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…

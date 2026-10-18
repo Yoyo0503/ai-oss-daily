@@ -107,7 +107,6 @@ _每日存檔 · 2026-10-08_
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — 將文字、圖片轉換為影片的多模態模型。
 - [TokenRhythm/NeoHorse-1-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tokenrhythm-neohorse-1-4b/) — 具備程式碼生成和工具使用能力的文本生成模型。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [XingChen-AGI/TeleOCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-teleocr/) — 將影像文字轉換為純文字的OCR工具。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — 一個基於轉換器的文本生成模型，支援GGUF格式。
@@ -154,7 +153,6 @@ _每日存檔 · 2026-10-08_
 - [TaichuAI/ZDTaichu5.0-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-taichuai-zdtaichu5-0-9b/) — 將影像和文字轉換為文字的多模態模型，支援空間推理和影片理解。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/) — 對比學習模型，用於文本排名和重排序。

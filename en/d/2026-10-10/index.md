@@ -112,7 +112,6 @@ _Daily archive · 2026-10-10_
 - [TokenRhythm/NeoHorse-1-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tokenrhythm-neohorse-1-4b/) — text-generation · transformers, safetensors, qwen3_5_text
 - [XingChen-AGI/TeleOCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xingchen-agi-teleocr/) — image-text-to-text · transformers, safetensors, qwen2_5_vl
 - [sapientinc/HRM-Text-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sapientinc-hrm-text-1b/) — text-generation · transformers, safetensors, hrm_text
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — text-generation · transformers, gguf, text-generation
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-1-8b/) — translation · transformers, safetensors, hunyuan_v1_dense
 - [XingChen-AGI/Xing4.0-29B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xingchen-agi-xing4-0-29b-a4b/) — text-generation · transformers, safetensors, xing4_0
@@ -157,7 +156,6 @@ _Daily archive · 2026-10-10_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-contrastive-lm-clm-v0-1-8b/) — text-ranking · contrastive-lm, clm, contrastive-learning
@@ -925,7 +923,6 @@ _Daily archive · 2026-10-10_
 - [microsoft/Echoverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-microsoft-echoverse/) — · task_categories:other, language:en, license:mit
 - [ducklelabs/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ducklelabs-duckle/) — Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB.…
 - [kinzaaliakbar18u-netizen/flux-lora-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kinzaaliakbar18u-netizen-flux-lora-forge/) — Open Source Spirit LoRA Trainer 2026: Ultimate Flux1 AI Model Fine Tuning Toolkit
-- [ronitgupta138/vectra-core](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronitgupta138-vectra-core/) — ⚡ In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scala…
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronesfe-polymarket-automated-trading-bot/) — Automated trading bot for Polymarket prediction markets. Supports 4 strategies, optional AI integration, and …
 - [trillionlabs/TheBioCollection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-trillionlabs-thebiocollection/) — · task_categories:text-generation, language:en, size_categories:10M<n<100M
 - [Qyrou/reasoning-corpus-4K-5M-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qyrou-reasoning-corpus-4k-5m-v1/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -1520,7 +1517,7 @@ _Daily archive · 2026-10-10_
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atilaahmettaner-tradingview-mcp/) — TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatG…
 - [HuggingFaceFW/finepdfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-finepdfs/) — · task_categories:text-generation, language:aai, language:aak
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — crypto trading bot liquidity order book market microstructure algorithmic trading quant Python Node.js websoc…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [Gitruck/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gitruck-cli/) — 一条命令，把口播毛片变成可二次精修的剪辑工程。
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackwener-opencli/) — Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madslorentzen-ai-job-search/) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate posting…

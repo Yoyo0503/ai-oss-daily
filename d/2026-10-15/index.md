@@ -118,7 +118,6 @@ _每日存檔 · 2026-10-15_
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — 一個基於轉換器的文本生成模型，支援GGUF格式。
 - [tencent/Hy-MT2-1.8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-1-8b/) — 騰訊混元 MT2 機器翻譯模型（1.8B 稠密）。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [XingChen-AGI/Xing4.0-29B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-xing4-0-29b-a4b/) — 使用transformers的Xing4.0模型，適用於對話生成。
 - [owensong/Inflect-Micro-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-micro-v2/) — 一個小型的本地語音合成模型，適用於邊緣裝置。
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/) — 將影像和文字轉換為文本的模型，適用於對話式應用。
@@ -160,7 +159,6 @@ _每日存檔 · 2026-10-15_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/) — 對比學習模型，用於文本排名和重排序。
@@ -1160,7 +1158,6 @@ _每日存檔 · 2026-10-15_
 - [Jwuthri/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jwuthri-selfjev/) — 基於Jev API的決策模型，提供帶機率的型別答案，適用於評估和推理。
 - [muratmula/ai-robinhood-chain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/muratmula-ai-robinhood-chain/) — ai-robinhood-chain 是一個基於 Discord 和 Telegram 的自動化加密貨幣交易生態系統。
 - [sIlENtbuffER/Generative-Models](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/silentbuffer-generative-models/) — 從零開始實現生成模型，逐步在NumPy、C和CUDA上實現。
-- [ronitgupta138/vectra-core](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronitgupta138-vectra-core/) — vectra-core 是一個 Java 21 Loom 實現的向量搜尋引擎，支援高吞吐量和快速檢索。
 - [zekaiwang/trex_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zekaiwang-trex-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-matraix2026-matraix-persona-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wpydcr/NanoAvatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wpydcr-nanoavatar/) — NanoAvatar 是一個即時生成高品質的講話頭像的工具。

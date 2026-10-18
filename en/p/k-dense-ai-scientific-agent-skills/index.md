@@ -4,5 +4,5 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：51,516
+**Stars**：52,256
 **Source**：https://github.com/K-Dense-AI/scientific-agent-skills

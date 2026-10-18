@@ -88,7 +88,6 @@ _每日存檔 · 2026-10-04_
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — 三元權重 2-bit 量化的文生圖模型，主打極致輕量、可在低階硬體跑。
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-nava/) — 百度 NAVA 文字／圖像生成影片模型（TI2V）。
 - [Sulphur-2（文字生成影片模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/) — 輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。
 - [phasefield-audio/Irodori-TTS-v4.1-Anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-phasefield-audio-irodori-tts-v4-1-anime/) — 一款基於 Irodori-TTS-v4.1-Small 的 Anime 風格文字轉語音模型。
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/) — 對比學習模型，用於文本排名和重排序。
@@ -155,7 +154,6 @@ _每日存檔 · 2026-10-04_
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [nisten/opus5-5-doctor-patient-conversations-all-human-diseases](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nisten-opus5-5-doctor-patient-conversations-all-human-diseases/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

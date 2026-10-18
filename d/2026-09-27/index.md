@@ -85,7 +85,6 @@ _每日存檔 · 2026-09-27_
 - [Sulphur-2（文字生成影片模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/) — 輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。
 - [phasefield-audio/Irodori-TTS-v4.1-Anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-phasefield-audio-irodori-tts-v4-1-anime/) — 一款基於 Irodori-TTS-v4.1-Small 的 Anime 風格文字轉語音模型。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [IndexTeam/IndexTTS-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-indexteam-indextts-2-5/) — 一款多語言文字轉語音模型，支援零樣本跨語言語音克隆。
 - [Altworld/Hemmingway-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-altworld-hemmingway-1/) — 一個基於轉換器的文本生成模型，支援創意寫作和對話。
 - [microsoft/Mage-Flow-Edit-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow-edit-turbo/) — 影像編輯模型，支援指令式編輯和影像轉換。
@@ -141,7 +140,6 @@ _每日存檔 · 2026-09-27_
 - [akhilaaa3/Jev-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akhilaaa3-jev-omni/) — 多模態文本分類模型，適用於多種任務。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-needle3/) — needle3 是一個在裝置上執行的工具呼叫模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。

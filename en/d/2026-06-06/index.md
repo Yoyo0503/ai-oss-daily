@@ -57,7 +57,6 @@ _Daily archive · 2026-06-06_
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-bernini-r/) — image-text-to-video · safetensors, bernini_renderer, image-text-to-video
 - [meituan-longcat/LongCat-Video-Avatar-1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-video-avatar-1-5/) — · longcat-video-avatar-1.5, onnx, diffusers
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-bernini/) — Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner …
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us

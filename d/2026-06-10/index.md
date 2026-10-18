@@ -57,7 +57,6 @@ _每日存檔 · 2026-06-10_
 - [ByteDance/Bernini-R](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-bernini-r/) — 字節 Bernini-R 影片渲染模型（圖＋文生影片）。
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vast-ai-triposplat/) — VAST AI TripoSplat：圖像轉 3D 高斯潑濺(3DGS)線上示範。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — 一個支援影像和文字轉換為任何格式的通用模型。
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。
 - [ideogram-ai/ideogram4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ideogram-ai-ideogram4/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

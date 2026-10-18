@@ -77,7 +77,6 @@ _Daily archive · 2026-07-09_
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
@@ -773,7 +772,7 @@ _Daily archive · 2026-07-09_
 - [heymrun/heym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heymrun-heym/) — Build agentic systems. Run them with confidence. Orchestrate agents, automate business processes, inspect eve…
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
 - [Frank-ay/mimo-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/frank-ay-mimo-mcp/) — 把小米 MiMo 全模态能力(对话/图像/视频/TTS/声音克隆)封装成 stdio MCP Server,Claude Code 与 Codex 可直接调用
 - [DaoyuanLi2816/llm-gpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-llm-gpu-lab/) — One GPU. Full LLM workflow. Real benchmarks. No cloud required.

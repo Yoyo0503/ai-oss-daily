@@ -2,9 +2,9 @@
 
 公開的Vybe Solana API元資料 registry。
 
-**為何上榜**：近一日新增 20★（現 1,937★）
+**為何上榜**：近一日新增 38★（現 1,975★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：1,937
+**Stars**：1,975
 **原始連結**：https://github.com/vybenetwork/solana-mcp-vybe

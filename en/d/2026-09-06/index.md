@@ -118,7 +118,6 @@ _Daily archive · 2026-09-06_
 - [peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/) — image-text-to-text · gguf, llama.cpp, qwen35moe
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1374,7 +1373,7 @@ _Daily archive · 2026-09-06_
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abhi1693-openclaw-mission-control/) — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration v…
 - [thu-ml/Causal-Forcing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thu-ml-causal-forcing/) — [ICML 2026] Official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-…
 - [nvidia/SPEED-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-speed-bench/) — · license:other, size_categories:1K<n<10K, format:parquet
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gauss314-skills/) — Financial market data consumption skills for claude code and AI agents
 - [cyyself/OpenTihui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cyyself-opentihui/) — on-device LLM for iOS with keyboard shortcuts
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server

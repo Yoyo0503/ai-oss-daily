@@ -4,7 +4,6 @@ _每日存檔 · 2026-09-11_
 
 ## 🆕 新上榜
 
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/) — 將文字轉換為音樂的模型。
 - [ProjectDXAI/continuous-record-llm-trading-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/projectdxai-continuous-record-llm-trading-agents/) — 記錄和分析LLM交易代理在生產環境中的行為。
 - [HuggingEnvs/geoguesser-article](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingenvs-geoguesser-article/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -16,6 +15,7 @@ _每日存檔 · 2026-09-11_
 - [huawei-bayerlab/marigold-v2-web](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huawei-bayerlab-marigold-v2-web/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [tencent/AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tencent-auk/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [facebook/sam3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-sam3/) — 用於生成遮罩的模型。
+- [facebook/WearableQA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-facebook-wearableqa/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -31,7 +31,6 @@ _每日存檔 · 2026-09-11_
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/) — 將影像轉換為影片的AI模型。
 - [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/) — 將影像轉換為影片的擴散模型。
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/) — 一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — 快速生成文字轉影片的AI模型。
 - [OpenVDN/vdn-minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/) — 文字轉動畫模型，使用MiniMax-H3架構。
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/) — 將影像轉換為影片的模型，支援差分擴散和影像到影片技術。
@@ -126,7 +125,6 @@ _每日存檔 · 2026-09-11_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — 未審核的Qwen3.8圖文轉文字模型。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。

@@ -116,7 +116,6 @@ _每日存檔 · 2026-09-22_
 - [orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-qwen3-8-flash-next-uncensored-gguf/) — 未審核的Qwen3.8圖文轉文字模型。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-video-moe-30b-a3b/) — 一個用於影片生成和混合專家預訓練的模型。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。
@@ -206,7 +205,6 @@ _每日存檔 · 2026-09-22_
 - [InternScience/Agents-A1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1/) — 基於 Qwen3_5_MoE 模型的對話式文本生成系統。
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/) — AI 相關專案，關鍵字：擴散模型（依標籤自動歸類，詳細看下方原文）
 - [convaiinnovations/laya](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-convaiinnovations-laya/) — 一個基於轉換器的強化學習代理，用於決策和分類。
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash/) — 將影像和文字轉換為文字的模型。
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [unsloth/Inkling-Small-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-inkling-small-gguf/) — 基於影像和文字生成文字的對話式模型。
 - [Comfy-Org/Boogu-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/) — 一個基於 ComfyUI 的影像生成工具。

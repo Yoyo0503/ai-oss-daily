@@ -68,7 +68,6 @@ _每日存檔 · 2026-07-02_
 - [InternScience/Agents-A1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1/) — 基於 Qwen3_5_MoE 模型的對話式文本生成系統。
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — 一款去識別化的 GLM 模型，支援文本生成。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-mt2-30b-a3b/) — 騰訊混元 MT2 機器翻譯模型（30B MoE，A3B 啟用）。
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [Comfy-Org/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-krea-2/) — Krea-2 文字轉影像模型。
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。

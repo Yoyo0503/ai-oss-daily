@@ -78,7 +78,6 @@ _Daily archive · 2026-07-19_
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
@@ -830,7 +829,7 @@ _Daily archive · 2026-07-19_
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
 - [shootthesound/comfyui-CleanFreak](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-comfyui-cleanfreak/) — One-click tidy-by-role for ComfyUI workflows. Loaders / encoders / samplers / decoders / outputs each get the…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackwener-opencli/) — Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [gaosu0715-lgtm/Evolutionary-Alpha-Miner](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gaosu0715-lgtm-evolutionary-alpha-miner/) — Family-aware evolutionary alpha mining with LLM-guided symbolic hybridization.
 - [Bomx/qwoted-seo-backlinks-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bomx-qwoted-seo-backlinks-skill/) — Claude Code skill: find PR/backlink opportunities on Qwoted, build a sourced statistics page as a linkable as…

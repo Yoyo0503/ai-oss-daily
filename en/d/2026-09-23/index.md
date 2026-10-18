@@ -52,7 +52,6 @@ _Daily archive · 2026-09-23_
 - [nvidia/Cosmos3-Super-Image2Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-image2video/) — image-to-video · cosmos, diffusers, safetensors
 - [alibaba-pai/MiniMax-H3-Fun-Controlnet-Union](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/) — text-to-video · videox_fun, controlnet, video-to-video
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-patil-krea-2-depth-controlnet/) — image-to-image · controlnet, lora, depth
-- [deepseek-ai/DeepSeek-V4.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [Gazingstars123/Anima-2.9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gazingstars123-anima-2-9b/) — text-to-image · diffusion-single-file, anima, comfyui
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — automatic-speech-recognition · transformers, safetensors, cohere_asr
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-ltx-2-3-3dreal-lora/) — image-to-video · lora, ic-lora, ltx
@@ -131,7 +130,6 @@ _Daily archive · 2026-09-23_
 - [yandex/AliceAI-Foundation-80B-A3B-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yandex-aliceai-foundation-80b-a3b-base/) — text-generation · transformers, safetensors, alice_ai
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
-- [tencent/Hy-MT2-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy-mt2-30b-a3b/) — translation · transformers, safetensors, hy_v3
 - [robbyant/lingbot-video-moe-30b-a3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-video-moe-30b-a3b/) — · diffusers, safetensors, license:apache-2.0
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
@@ -1344,7 +1342,7 @@ _Daily archive · 2026-09-23_
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/archestra-ai-archestra/) — Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 - [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nexu-io-html-video/) — Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s wit…
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cloakhq-cloakbrowser/) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level finge…
-- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Serv…
+- [TabularisDB/tabularis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tabularisdb-tabularis/) — Open-source desktop SQL workspace with 3 built-in database drivers and 24 shipped driver plugins, including S…
 - [growthack88/growth-marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/growthack88-growth-marketing-os/) — Growth Marketing OS | Mahmoud Omar — open-source AI marketing prompts, Claude skills, agents & growth playboo…
 - [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eugeniughelbur-obsidian-second-brain/) — Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, …
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
