@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-18T08:00:00+00:00</updated>
+<updated>2026-10-19T08:00:00+00:00</updated>
 <entry>
-<title>deepseek-ai/DeepSeek-V4.1-Flash-1017</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash-1017/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash-1017/</id>
-<updated>2026-10-18T08:00:00+00:00</updated>
-<summary>將影像和文字轉換為文字，適用於圖文生成。</summary>
+<title>Comfy-Org/MOSS-Image</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-moss-image/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-moss-image/</id>
+<updated>2026-10-19T08:00:00+00:00</updated>
+<summary>MOSS-Image 是一個使用 ComfyUI 的影像生成模型。</summary>
 </entry>
 <entry>
-<title>tencent/Hy-Memory-30B-A3B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-memory-30b-a3b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-memory-30b-a3b/</id>
-<updated>2026-10-18T08:00:00+00:00</updated>
-<summary>基於轉換器的對話生成模型，支援多種語言。</summary>
+<title>lodestones/MOSS-Image-SFT-8-steps-dmd</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-moss-image-sft-8-steps-dmd/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-moss-image-sft-8-steps-dmd/</id>
+<updated>2026-10-19T08:00:00+00:00</updated>
+<summary>MOSS-Image-SFT-8-steps-dmd 是一個基於 MOSS-Image-SFT 的微調模型。</summary>
 </entry>
 <entry>
-<title>songconmaisaix31-design/mcpet</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/songconmaisaix31-design-mcpet/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/songconmaisaix31-design-mcpet/</id>
-<updated>2026-10-18T08:00:00+00:00</updated>
-<summary>麥當勞主題的桌面 AI 機器人，提醒用餐和工作進度。</summary>
+<title>reflection/Beam-1.0-501B-A23B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reflection-beam-1-0-501b-a23b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reflection-beam-1-0-501b-a23b/</id>
+<updated>2026-10-19T08:00:00+00:00</updated>
+<summary>Beam-1.0-501B-A23B 是一個使用 Beam 技術的文本生成模型。</summary>
 </entry>
 <entry>
-<title>morluto/rea</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</id>
-<updated>2026-10-18T08:00:00+00:00</updated>
-<summary>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</summary>
+<title>cathrynlavery/diagram-design</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</id>
+<updated>2026-10-19T08:00:00+00:00</updated>
+<summary>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</summary>
 </entry>
 <entry>
-<title>Ebony-Vinyl/dsh-our-free-model</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</id>
-<updated>2026-10-18T08:00:00+00:00</updated>
-<summary>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-10-19T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
-<updated>2026-10-18T08:00:00+00:00</updated>
-<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
+<title>black-forest-labs/flux-3-image-klein-comfy</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</id>
+<updated>2026-10-19T08:00:00+00:00</updated>
+<summary>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</summary>
 </entry>
 </feed>

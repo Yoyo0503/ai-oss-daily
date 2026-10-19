@@ -2,7 +2,7 @@
 
 Qwen-Image-2.1-Turbo 是一個文字轉影像的模型，用於影像生成和編輯。
 
-**為何上榜**：HF trending 376 · 964 likes · 20,703 下載
+**為何上榜**：HF trending 312 · 984 likes · 23,131 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

@@ -4,5 +4,5 @@ Build a talking mascot that turns any script into a lip-synced vertical video. F
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：28
+**Stars**：29
 **Source**：https://github.com/kevinbadi/claude-codes-influencers
