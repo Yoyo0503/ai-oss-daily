@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-19T08:00:00+00:00</updated>
+<updated>2026-10-20T08:00:00+00:00</updated>
 <entry>
-<title>Comfy-Org/MOSS-Image</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-moss-image/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-moss-image/</id>
-<updated>2026-10-19T08:00:00+00:00</updated>
-<summary>MOSS-Image 是一個使用 ComfyUI 的影像生成模型。</summary>
+<title>mistralai/Timestral-209M</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-timestral-209m/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-timestral-209m/</id>
+<updated>2026-10-20T08:00:00+00:00</updated>
+<summary>用於時間序列預測的模型，適用於時間序列資料分析。</summary>
 </entry>
 <entry>
-<title>lodestones/MOSS-Image-SFT-8-steps-dmd</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-moss-image-sft-8-steps-dmd/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-moss-image-sft-8-steps-dmd/</id>
-<updated>2026-10-19T08:00:00+00:00</updated>
-<summary>MOSS-Image-SFT-8-steps-dmd 是一個基於 MOSS-Image-SFT 的微調模型。</summary>
+<title>nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-dory1-0-4b-bf16/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-dory1-0-4b-bf16/</id>
+<updated>2026-10-20T08:00:00+00:00</updated>
+<summary>NVIDIA 的 Dory1.0 模型，用於生成文本和對話。</summary>
 </entry>
 <entry>
-<title>reflection/Beam-1.0-501B-A23B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reflection-beam-1-0-501b-a23b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reflection-beam-1-0-501b-a23b/</id>
-<updated>2026-10-19T08:00:00+00:00</updated>
-<summary>Beam-1.0-501B-A23B 是一個使用 Beam 技術的文本生成模型。</summary>
+<title>Sharpa-Robotics/SharpaDex-v1.0</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sharpa-robotics-sharpadex-v1-0/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sharpa-robotics-sharpadex-v1-0/</id>
+<updated>2026-10-20T08:00:00+00:00</updated>
+<summary>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>cathrynlavery/diagram-design</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/</id>
-<updated>2026-10-19T08:00:00+00:00</updated>
-<summary>提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。</summary>
+<title>xerj-org/xerj</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/</id>
+<updated>2026-10-20T08:00:00+00:00</updated>
+<summary>XERJ 是一種自動索引資料的新方式，可快速建立搜尋索引。</summary>
 </entry>
 <entry>
-<title>deepseek-ai/deepseek-harness</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
-<updated>2026-10-19T08:00:00+00:00</updated>
-<summary>一切皆可作為外掛的AI代理框架。</summary>
+<title>yetone/magpie</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</id>
+<updated>2026-10-20T08:00:00+00:00</updated>
+<summary>從選單欄存取 Codex 和 Claude Code 的代理程式。</summary>
 </entry>
 <entry>
-<title>black-forest-labs/flux-3-image-klein-comfy</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</id>
-<updated>2026-10-19T08:00:00+00:00</updated>
-<summary>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</summary>
+<title>black-forest-labs/flux-3-image-klein</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein/</id>
+<updated>2026-10-20T08:00:00+00:00</updated>
+<summary>將影像轉換為新影像的模型，支援影像生成和編輯。</summary>
 </entry>
 </feed>

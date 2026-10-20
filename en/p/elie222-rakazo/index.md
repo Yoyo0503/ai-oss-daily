@@ -4,5 +4,5 @@ Open-source Grok Bot alternative. Choose your own model and sandbox.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,591
+**Stars**：4,787
 **Source**：https://github.com/elie222/rakazo

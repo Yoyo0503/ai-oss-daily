@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：319
+**Stars**：332
 **Source**：https://github.com/liyupi/ai-promo-video-maker
