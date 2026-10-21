@@ -1,13 +1,13 @@
 # AI 開源日報 — 今日精選
 
-_最後更新: 2026-10-20 09:05 CST_
+_最後更新: 2026-10-21 09:05 CST_
 
-- [songconmaisaix31-design/mcpet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/songconmaisaix31-design-mcpet/) — 麥當勞主題的桌面 AI 機器人，提醒用餐和工作進度。
+- [yuxinlaile/McD-saver](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuxinlaile-mcd-saver/) — 麥當勞點餐助手，提供成本最佳化和券組合建議。
 - [feder-cr/invisible_playwright_mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/feder-cr-invisible-playwright-mcp/) — invisible_playwright_mcp 是一個使用 AI 代理在隱藏模式下瀏覽網頁的工具。
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/illiahaidar-mcptrustchecker/) — 用於掃描 MCP 伺服器的安全工具，檢查潛在風險。
 - [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jub0t-concat/) — Concat 是一個免費的跨平臺影片編輯器，可替代 CapCut。
+- [songconmaisaix31-design/mcpet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/songconmaisaix31-design-mcpet/) — 麥當勞主題的桌面 AI 機器人，提醒用餐和工作進度。
 - [VoltAgent/official-mcp-servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/voltagent-official-mcp-servers/) — 官方MCP伺服器目錄，涵蓋各大產品公司的伺服器。
-- [zhutoumeme/mcd-git](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhutoumeme-mcd-git/) — 使用 Git 命令模擬點餐，生成麥當勞消費貢獻圖，非官方應用。
 - [Ryze-AI-Adgent/open-seo-mcp-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryze-ai-adgent-open-seo-mcp-skills/) — 開源 SEO 工具，支援關鍵字研究和排名追蹤。
 - [AkashPriyadarshii/jev-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/akashpriyadarshii-jev-superpowers/) — 為 AI 程式設計代理增強的系統化軟體開發框架，使用 TypeSafe Jev System One 進行型別安全決策。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
@@ -23,15 +23,15 @@ _最後更新: 2026-10-20 09:05 CST_
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/) — 用於Polymarket超短期市場的自動化交易機器人。
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ale2348-trading-bot/) — 用於Polymarket五分鐘加密貨幣市場的自動化交易機器人。
 - [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/) — 提供加密貨幣交易後的K線圖生成工具及範例。
+- [Jakeschincariol/day-trader-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-day-trader-skill/) — Claude的11個日交易技能，用於分析市場和制定交易策略。
+- [Polytutor-AI-Labs/polymarket-black-scholes-hft-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-ai-labs-polymarket-black-scholes-hft-bot/) — 一個結合多個交易所價格和模型的即時高頻交易機器人。
 - [gprokaznik4-bit/CryptoGridMaster-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-cryptogridmaster-bot/) — CryptoGridMaster-Bot 是一個整合多個交易所 API 的加密貨幣交易機器人。
-- [gprokaznik4-bit/Solana-Jito-Bundler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-solana-jito-bundler/) — Solana-Jito-Bundler 是一個分散式交易捆綁器，防止先進攻擊。
-- [gprokaznik4-bit/SolanaSniperBot-OpenSource](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-solanasniperbot-opensource/) — SolanaSniperBot-OpenSource 是一個高頻交易的加密貨幣機器人。
 - [zhuyansen/new-term-radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-new-term-radar/) — 每日追蹤新 AI 熱詞，包括新模型、產品和 GitHub 存放庫，提供 SEO 和趨勢分析。
-- [JeffLi1993/saas-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeffli1993-saas-seo-playbook/) — 一本專門為 AI 工具站和 SaaS 官網設計的 SEO 指南。
+- [Fangx-AI/geo-doctor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/) — GEO醫生是一個生成式引擎最佳化技能，用於評估和最佳化AI助手。
 - [jaikydota/BullFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaikydota-bullflow/) — 企業級知識庫和內容自動化生產的開源解決方案。
+- [JeffLi1993/saas-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeffli1993-saas-seo-playbook/) — 一本專門為 AI 工具站和 SaaS 官網設計的 SEO 指南。
+- [yanstd888/threads-auto-poster](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanstd888-threads-auto-poster/) — 自動釋出內容的AI助手，提供草稿和審核功能。
 - [TraceCohenTech/ai-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tracecohentech-ai-seo-playbook/) — AI SEO 手冊，涵蓋方法論、指令碼和安全防護。
-- [springvoiceswell/semrush-ai-tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/springvoiceswell-semrush-ai-tool/) — semrush-ai-tool 是一個基於 Semrush 的 AI 功能 SEO 分析工具。
-- [SelmiAbderrahim/rankme.fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/selmiabderrahim-rankme-fast/) — 自建的SEO平臺。
 - [autotrust/GEV-26B-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-gev-26b-decide/) — 進行文本分類的模型。
 - [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash-1017/) — 將影像和文字轉換為文字，適用於圖文生成。
 - [openbmb/MiniCPM-V-4.7-35B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-v-4-7-35b-a3b/) — 將影像和文字轉換為文字的模型。

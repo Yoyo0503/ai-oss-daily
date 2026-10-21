@@ -274,7 +274,6 @@ _每日存檔 · 2026-10-19_
 - [AikidoSec/altar-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aikidosec-altar-1/) — 基於 GLM 的文本生成模型，支援多專家系統和量化壓縮。
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
 - [fal/MiniMax-H3-Realism-People-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-minimax-h3-realism-people-lora/) — 基於MiniMax-H3的LoRA模型，用於生成真實人物的影片。
-- [inclusionAI/Ling-3.0-tiny](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-0-tiny/) — 一個小型的自定義編碼模型。
 - [dealignai/GLM-5.3-CYBERSECURITY-FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-dealignai-glm-5-3-cybersecurity-fp8/) — 專門用於網路安全的文本生成模型。
 - [Comfy-Org/YuE2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-yue2/) — 一款基於ComfyUI的單檔案擴散模型，適用於影像生成。
 - [Comfy-Org/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-mage-flow/) — 基於Microsoft Mage-Flow的擴充套件模型，支援單檔案擴散式生成。
@@ -431,7 +430,6 @@ _每日存檔 · 2026-10-19_
 - [gprokaznik4-bit/SolanaSniperBot-OpenSource](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-solanasniperbot-opensource/) — SolanaSniperBot-OpenSource 是一個高頻交易的加密貨幣機器人。
 - [APIMART-12W22W/gpt-image2.5-api-prompt-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-12w22w-gpt-image2-5-api-prompt-gallery/) — gpt-image2.5-api-prompt-gallery 提供 GPT Image 2.5 API 的範例提示和渲染。
 - [julien-c/synthtraces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-julien-c-synthtraces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [polytutor-ai/polymarket-black-scholes-hft-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-ai-polymarket-black-scholes-hft-bot/) — 使用 Black-Scholes 模型的高頻率加密貨幣交易機器人。
 - [spatialverse/UniPhys-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-spatialverse-uniphys-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [inclusionAI/ming-image-0-1-design-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-inclusionai-ming-image-0-1-design-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [webml-community/embeddinggemma-2-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-embeddinggemma-2-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -808,7 +806,6 @@ _每日存檔 · 2026-10-19_
 - [hugging-apps/firered-tts3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-firered-tts3/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [m-a-p/WildSongBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-m-a-p-wildsongbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [averoo/low_resource_parallel_corpora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-averoo-low-resource-parallel-corpora/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [multimodalart/minimax-h3-audio-to-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-minimax-h3-audio-to-video/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [microsoft/ThinkingBox-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-microsoft-thinkingbox-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1226,7 +1223,6 @@ _每日存檔 · 2026-10-19_
 - [Meddies/meddies-persona-vie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-meddies-meddies-persona-vie/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 - [OceanOver/Tomechat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oceanover-tomechat/) — 基於 LangChain 的知識庫聊天應用，支援 OpenAI 和 Gemini。
-- [nvidia/Nemotron-Personas-Vietnam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-personas-vietnam/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wpydcr/NanoAvatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wpydcr-nanoavatar/) — NanoAvatar 是一個即時生成高品質的講話頭像的工具。
 - [PVinh-Quant/Kairos-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pvinh-quant-kairos-v2/) — 一個基於 Python 的開源量化研究框架，支援加密貨幣期貨交易策略的研究和驗證。
 - [muratmula/ai-robinhood-chain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/muratmula-ai-robinhood-chain/) — ai-robinhood-chain 是一個基於 Discord 和 Telegram 的自動化加密貨幣交易生態系統。
@@ -2044,7 +2040,6 @@ _每日存檔 · 2026-10-19_
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/extraltodeus-j-wash/) — 基於 Anthropic 的 Jacobian 鏡頭的手動對齊工具。
 - [ttfake92-lab/ai-workflow-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ttfake92-lab-ai-workflow-prompts/) — 兩套可複製的AI影片生產工作流提示詞。
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品的Claude技能，用於生成海外銷售公司研究報告。
-- [umutcaned/turkreason](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-umutcaned-turkreason/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [team-reflect/reflect-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-reflect-reflect-open/) — 開源筆記應用，專為 AI 代理設計的 Markdown 格式。
 - [hxlog/balanced-portfolio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hxlog-balanced-portfolio/) — 基於風險平價理論的全天候投資組合管理工具。
 - [wuji-labs/nopua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuji-labs-nopua/) — 透過愛激發AI潛力的技能，鼓勵開放心態和誠實溝通。

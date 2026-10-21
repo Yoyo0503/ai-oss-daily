@@ -4,5 +4,5 @@ Finathink — Financial Research Optimizer for auditable, point-in-time research
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：228
+**Stars**：236
 **Source**：https://github.com/ceyyy427/finathink

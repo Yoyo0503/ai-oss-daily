@@ -6,14 +6,14 @@
 - [fishaudio/drama-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fishaudio-drama-3/) — 多語音合成的文本轉語音模型，支援情緒語音生成。
 - [OpenMOSS-Team/MOSS-Image-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-image-sft/) — 將文字轉換成影像的AI模型。
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/) — 自動語音辨識模型，支援即時語音轉文字。
-- [Qwen/Qwen-Image-2.1-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/) — Qwen-Image-2.1-Turbo 是一個文字轉影像的模型，用於影像生成和編輯。
 - [Cactus-Compute/whistle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-whistle/) — 自動辨識口哨聲的語音識別模型，適用於裝置端執行。
 - [canberkkkkkk/ema-lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-canberkkkkkk-ema-lightning/) — ema-lightning 是一個將文字轉換成語音的工具。
-- [kanaworksai-hue/audio-studio-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kanaworksai-hue-audio-studio-mcp/) — audio-studio-mcp 是一個在地端執行的音效生成工具。
+- [Qwen/Qwen-Image-2.1-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen-image-2-1-turbo/) — Qwen-Image-2.1-Turbo 是一個文字轉影像的模型，用於影像生成和編輯。
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/) — 文字轉影像模型，適用於影像生成和編輯。
 - [PrunaAI/Pruna-Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-pruna-qwen-image-2-1/) — 將文字轉換為影像的模型，支援 RGBA、LoRA 和少量步驟生成。
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/) — 將影像轉換為影片的AI模型。
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-flow/) — 一種使用修正流技術的文本轉影像模型，適用於影像生成和編輯。
+- [lodestones/Kromoss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kromoss/) — Kromoss 是一個使用 diffusers 和 safetensors 技術的文本轉影像模型。
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — 快速生成文字轉影片的AI模型。
 - [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/) — 將文字轉換為音樂的模型。
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/) — 將影像轉換為影片的模型，支援差分擴散和影像到影片技術。
@@ -46,7 +46,6 @@
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/) — 將文本轉換為語音的合成器。
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-text2image/) — NVIDIA Cosmos3 文生圖模型（世界模型系列，授權受限／非商用）。
 - [NicoLab28/ClipProj-MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nicolab28-clipproj-minimax-h3/) — 將文本轉換為影片的MiniMax-H3模型。
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/) — 將影像轉換為影片的擴散模型。
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — 將影像轉換為影片的模型，支援多種音影片處理。
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-ideogram-4-turbotime-lora/) — 基於LORA技術的文字轉影像模型，用於生成影像。
 - [OpenVDN/vdn-minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/) — 文字轉動畫模型，使用MiniMax-H3架構。
@@ -56,6 +55,7 @@
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/) — 文字轉影像模型，使用擴散和流匹配技術生成影像。
 - [larryvrh/MiniMax-H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/) — 一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。
+- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/) — 將影像轉換為影片的擴散模型。
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
 - [FrancisRing/Prism](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-francisring-prism/) — Prism 是一個將影像轉換成影片的工具。
 - [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/) — 一款基於轉換器的語音合成模型，支援語音克隆和設計。

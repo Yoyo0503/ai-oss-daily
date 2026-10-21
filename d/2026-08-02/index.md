@@ -216,7 +216,6 @@ _每日存檔 · 2026-08-02_
 - [TuringEnterprises/Open-MM-RL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-turingenterprises-open-mm-rl/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PsiBotAI/SynData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-psibotai-syndata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HiDream-ai/HiDream-O1-Image-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hidream-ai-hidream-o1-image-dev/) — HiDream O1 文生圖線上示範。
-- [nvidia/Nemotron-Personas-Vietnam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-personas-vietnam/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/DeepSeek-V4-Flash-0731-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-deepseek-v4-flash-0731-free-endpoint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [obsxrver/wan22-i2v-omni-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-obsxrver-wan22-i2v-omni-lora/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceBio/carbon-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacebio-carbon-demo/) — HF 生物團隊的 carbon 示範 Space。
@@ -1255,7 +1254,6 @@ _每日存檔 · 2026-08-02_
 - [imgx-studio/gpt-image-2-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imgx-studio-gpt-image-2-webui/) — 自建GPT影像生成WebUI，支援文本轉影像和多語言創意工作流程。
 - [yupoet/aurumq-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yupoet-aurumq-rl/) — 用於中國A股的強化學習股票選擇系統，內建296個因子庫和GPU訓練功能。
 - [wesammustafa/opencode-primer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wesammustafa-opencode-primer/) — OpenCode 使用指南，涵蓋設定、技能和外掛等功能。
-- [umutcaned/turkreason](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-umutcaned-turkreason/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wuji-labs/nopua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuji-labs-nopua/) — 透過愛激發AI潛力的技能，鼓勵開放心態和誠實溝通。
 - [supermemoryai/smfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/supermemoryai-smfs/) — smfs 是為 AI 們設計的檔案系統，具有自動記憶配置和同步引擎。
 - [PowerBeef/QwenVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/powerbeef-qwenvoice/) — 適用於 Apple Silicon Mac 的離線語音合成應用程式。

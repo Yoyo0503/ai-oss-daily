@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>20 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>21 Oct 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>mistralai/Timestral-209M</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-timestral-209m/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-timestral-209m/</guid>
-<pubDate>20 Oct 2026 08:00:00 +0000</pubDate>
-<description>用於時間序列預測的模型，適用於時間序列資料分析。</description>
+<title>lodestones/Kromoss</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kromoss/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kromoss/</guid>
+<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
+<description>Kromoss 是一個使用 diffusers 和 safetensors 技術的文本轉影像模型。</description>
 </item>
 <item>
-<title>nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-dory1-0-4b-bf16/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-dory1-0-4b-bf16/</guid>
-<pubDate>20 Oct 2026 08:00:00 +0000</pubDate>
-<description>NVIDIA 的 Dory1.0 模型，用於生成文本和對話。</description>
+<title>orcarouter/OrcaCyber-Nano-1.0</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-orcacyber-nano-1-0/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-orcacyber-nano-1-0/</guid>
+<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
+<description>OrcaCyber-Nano-1.0 是一個基於 gguf 格式的影像文本轉文本模型，適用於網路安全。</description>
 </item>
 <item>
-<title>Sharpa-Robotics/SharpaDex-v1.0</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sharpa-robotics-sharpadex-v1-0/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sharpa-robotics-sharpadex-v1-0/</guid>
-<pubDate>20 Oct 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
+<title>inclusionAI/Ling-3.1-flash</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-1-flash/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-1-flash/</guid>
+<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
+<description>Ling-3.1-flash 是一個使用 safetensors 和 bailing_hybrid 技術的文本生成模型。</description>
 </item>
 <item>
-<title>xerj-org/xerj</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/</guid>
-<pubDate>20 Oct 2026 08:00:00 +0000</pubDate>
-<description>XERJ 是一種自動索引資料的新方式，可快速建立搜尋索引。</description>
+<title>morluto/rea</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</guid>
+<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
+<description>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</description>
 </item>
 <item>
-<title>yetone/magpie</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</guid>
-<pubDate>20 Oct 2026 08:00:00 +0000</pubDate>
-<description>從選單欄存取 Codex 和 Claude Code 的代理程式。</description>
+<title>Ebony-Vinyl/dsh-our-free-model</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</guid>
+<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
+<description>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</description>
 </item>
 <item>
-<title>black-forest-labs/flux-3-image-klein</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein/</guid>
-<pubDate>20 Oct 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為新影像的模型，支援影像生成和編輯。</description>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
+<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
 </item>
 </channel>
 </rss>

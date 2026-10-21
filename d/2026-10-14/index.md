@@ -261,7 +261,6 @@ _每日存檔 · 2026-10-14_
 - [AikidoSec/altar-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aikidosec-altar-1/) — 基於 GLM 的文本生成模型，支援多專家系統和量化壓縮。
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
 - [fal/MiniMax-H3-Realism-People-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-minimax-h3-realism-people-lora/) — 基於MiniMax-H3的LoRA模型，用於生成真實人物的影片。
-- [inclusionAI/Ling-3.0-tiny](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-0-tiny/) — 一個小型的自定義編碼模型。
 - [dealignai/GLM-5.3-CYBERSECURITY-FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-dealignai-glm-5-3-cybersecurity-fp8/) — 專門用於網路安全的文本生成模型。
 - [Comfy-Org/YuE2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-yue2/) — 一款基於ComfyUI的單檔案擴散模型，適用於影像生成。
 - [Comfy-Org/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-mage-flow/) — 基於Microsoft Mage-Flow的擴充套件模型，支援單檔案擴散式生成。
@@ -423,7 +422,6 @@ _每日存檔 · 2026-10-14_
 - [PsiBotAI/SynData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-psibotai-syndata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HiDream-ai/HiDream-O1-Image-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hidream-ai-hidream-o1-image-dev/) — HiDream O1 文生圖線上示範。
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
-- [nvidia/Nemotron-Personas-Vietnam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-personas-vietnam/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hotchpotch/S1MB-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hotchpotch-s1mb-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [simple-world-lab/HiFi-UMI-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-simple-world-lab-hifi-umi-2k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceBio/carbon-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacebio-carbon-demo/) — HF 生物團隊的 carbon 示範 Space。
@@ -785,7 +783,6 @@ _每日存檔 · 2026-10-14_
 - [hugging-apps/firered-tts3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-firered-tts3/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [m-a-p/WildSongBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-m-a-p-wildsongbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [averoo/low_resource_parallel_corpora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-averoo-low-resource-parallel-corpora/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [multimodalart/minimax-h3-audio-to-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-minimax-h3-audio-to-video/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [QingYunA/answer-me-with-html](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qingyuna-answer-me-with-html/) — 讓 AI 用 HTML 頁面回答複雜問題。
 - [letorig/video-generator-client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/letorig-video-generator-client/) — 用於生成影片的Python客戶端，支援多個API和本地Web介面。
 - [pollen-robotics/microduck-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pollen-robotics-microduck-arena/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1998,7 +1995,6 @@ _每日存檔 · 2026-10-14_
 - [ashhart/TensorFold](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ashhart-tensorfold/) — 在Apple Silicon上快速精確解碼大型語言模型的工具。
 - [xxyshawn-creator/yuge-overseas-sales-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xxyshawn-creator-yuge-overseas-sales-research/) — 雨哥出品的Claude技能，用於生成海外銷售公司研究報告。
 - [youcefbibo53/PropGuard-Trailing-Equity-Armor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/youcefbibo53-propguard-trailing-equity-armor/) — 提供自動化交易策略，保護資金管理者的風險。
-- [umutcaned/turkreason](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-umutcaned-turkreason/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [team-reflect/reflect-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-reflect-reflect-open/) — 開源筆記應用，專為 AI 代理設計的 Markdown 格式。
 - [hxlog/balanced-portfolio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hxlog-balanced-portfolio/) — 基於風險平價理論的全天候投資組合管理工具。
 - [wuji-labs/nopua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuji-labs-nopua/) — 透過愛激發AI潛力的技能，鼓勵開放心態和誠實溝通。

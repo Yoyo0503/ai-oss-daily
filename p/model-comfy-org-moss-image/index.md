@@ -2,7 +2,7 @@
 
 MOSS-Image 是一個使用 ComfyUI 的影像生成模型。
 
-**為何上榜**：HF trending 229 · 234 likes · 673,110 下載
+**為何上榜**：HF trending 283 · 295 likes · 924,574 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

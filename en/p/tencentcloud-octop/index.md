@@ -4,5 +4,5 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：10,292
+**Stars**：10,466
 **Source**：https://github.com/TencentCloud/Octop

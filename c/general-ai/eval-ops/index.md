@@ -7,13 +7,14 @@
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-redmadrobot-rnd-pii-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zouhar-last-translation-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [prometheus-eval/into-the-unknown](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-prometheus-eval-into-the-unknown/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-treble-technologies-ffasr/) — Hugging Face 示範應用(Space)，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-cosmos-humaneval-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TIGER-Lab/MMLU-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tiger-lab-mmlu-pro/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinxuxin-keystone-bench/) — 臨床決策支援的評估基準，基於 HealthBench 建立。
-- [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibaba-yufeng-mma-safetybench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-hle/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibaba-yufeng-mma-safetybench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gaia-benchmark-gaia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PaddlePaddle/Real5-OmniDocBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-paddlepaddle-real5-omnidocbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Omni-Scientist/Awesome-AI-Scientist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omni-scientist-awesome-ai-scientist/) — Awesome-AI-Scientist 是一個包含AI科學家相關資源的清單。

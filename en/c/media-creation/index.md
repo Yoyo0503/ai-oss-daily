@@ -6,14 +6,14 @@
 - [fishaudio/drama-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fishaudio-drama-3/) — text-to-speech · safetensors, fish_omni, fish-audio
 - [OpenMOSS-Team/MOSS-Image-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-image-sft/) — text-to-image · diffusers, safetensors, moss-image
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
-- [Qwen/Qwen-Image-2.1-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen-image-2-1-turbo/) — text-to-image · diffusers, safetensors, qwen
 - [Cactus-Compute/whistle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-whistle/) — automatic-speech-recognition · cactus-needle, whistle, speech-recognition
 - [canberkkkkkk/ema-lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-canberkkkkkk-ema-lightning/) — text-to-speech · ema-lightning, text-to-speech, tts
-- [kanaworksai-hue/audio-studio-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kanaworksai-hue-audio-studio-mcp/) — Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and …
+- [Qwen/Qwen-Image-2.1-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen-image-2-1-turbo/) — text-to-image · diffusers, safetensors, qwen
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-viggle-qwen-image-2-1-viggle-turbo/) — text-to-image · diffusers, safetensors, gguf
 - [PrunaAI/Pruna-Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prunaai-pruna-qwen-image-2-1/) — text-to-image · diffusers, qwen, image-generation
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-warmbloodaban-minimax-h3-singularity/) — image-to-video · minimax-h3, video-generation, text-to-video
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
+- [lodestones/Kromoss](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lodestones-kromoss/) — text-to-image · diffusers, safetensors, moss-image
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — text-to-video · diffusers, safetensors, text-to-video
 - [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-m-a-p-yue2-3b/) — text-to-audio · safetensors, yue2, music-generation
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-turbo/) — image-to-video · diffusers, t2v, i2v
@@ -46,7 +46,6 @@
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bosonai-higgs-audio-v3-tts-4b/) — text-to-speech · transformers, safetensors, higgs_multimodal_qwen3
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-super-text2image/) — text-to-image · cosmos, diffusers, safetensors
 - [NicoLab28/ClipProj-MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nicolab28-clipproj-minimax-h3/) — text-to-video · comfyui, minimax-h3, text-to-video
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — image-to-video · diffusers, safetensors, i2v
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-ideogram-4-turbotime-lora/) — text-to-image · diffusers, text-to-image, lora
 - [OpenVDN/vdn-minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openvdn-vdn-minimax-h3/) — text-to-video · diffusers, safetensors, text-to-video
@@ -56,6 +55,7 @@
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ideogram-ai-ideogram-4-fp8/) — text-to-image · diffusers, safetensors, text-to-image
 - [larryvrh/MiniMax-H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-larryvrh-minimax-h3-turbo-lora/) — text-to-video · text-to-video, text-to-audio, audio-video
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-owensong-inflect-nano-v1/) — text-to-speech · pytorch, text-to-speech, tts
+- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-scail-2/) — image-to-video · diffusers, character-animation, video-generation
 - [FrancisRing/Prism](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-francisring-prism/) — image-to-video · diffusers, safetensors, video-generation
 - [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-breezeblue-breeze-tts-2/) — text-to-speech · transformers, safetensors, breeze

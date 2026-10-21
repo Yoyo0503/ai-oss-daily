@@ -4,5 +4,5 @@ AI-enabled Intelligent Document Processing for Python: 12+ LLM backends, Pydanti
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：280
+**Stars**：289
 **Source**：https://github.com/rollroyces/py-idp

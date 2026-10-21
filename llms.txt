@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-10-20 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-10-21 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-10-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-21/)
 - [2026-10-20](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-20/)
 - [2026-10-19](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-19/)
 - [2026-10-18](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-18/)
@@ -26,15 +27,14 @@
 - [2026-10-09](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-09/)
 - [2026-10-08](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-08/)
 - [2026-10-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-07/)
-- [2026-10-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-06/)
 
 ## 今日精選 Today's picks
-- [mistralai/Timestral-209M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-timestral-209m/)
-- [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-dory1-0-4b-bf16/)
-- [Sharpa-Robotics/SharpaDex-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sharpa-robotics-sharpadex-v1-0/)
-- [xerj-org/xerj](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/)
-- [yetone/magpie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/)
-- [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein/)
+- [lodestones/Kromoss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kromoss/)
+- [orcarouter/OrcaCyber-Nano-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-orcacyber-nano-1-0/)
+- [inclusionAI/Ling-3.1-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-1-flash/)
+- [morluto/rea](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/)
+- [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/)
+- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

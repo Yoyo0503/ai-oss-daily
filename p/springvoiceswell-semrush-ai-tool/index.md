@@ -2,9 +2,9 @@
 
 semrush-ai-tool 是一個基於 Semrush 的 AI 功能 SEO 分析工具。
 
-**為何上榜**：近一日新增 54★（現 440★）
+**為何上榜**：近一日新增 43★（現 483★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：440
+**Stars**：483
 **原始連結**：https://github.com/springvoiceswell/semrush-ai-tool
