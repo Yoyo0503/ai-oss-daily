@@ -4,5 +4,5 @@ Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、�
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,756
+**Stars**：2,768
 **Source**：https://github.com/simonlin1212/Vibe-Research

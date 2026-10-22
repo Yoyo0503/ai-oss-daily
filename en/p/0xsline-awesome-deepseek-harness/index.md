@@ -4,5 +4,5 @@ DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure fro
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：1,226
+**Stars**：1,235
 **Source**：https://github.com/0xsline/awesome-deepseek-harness

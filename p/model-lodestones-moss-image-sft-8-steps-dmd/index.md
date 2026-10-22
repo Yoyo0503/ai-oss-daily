@@ -2,7 +2,7 @@
 
 MOSS-Image-SFT-8-steps-dmd 是一個基於 MOSS-Image-SFT 的微調模型。
 
-**為何上榜**：HF trending 176 · 179 likes · 54,814 下載
+**為何上榜**：HF trending 190 · 194 likes · 68,289 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

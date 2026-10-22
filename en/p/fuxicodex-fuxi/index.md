@@ -4,5 +4,5 @@ FuXi is a fast, self-contained AI coding agent that lives in your terminal — e
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：3,341
+**Stars**：3,340
 **Source**：https://github.com/fuxicodex/Fuxi

@@ -4,5 +4,5 @@ A curated guide to the tools traders actually use: market data APIs, brokerage a
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：66
+**Stars**：79
 **Source**：https://github.com/lentrade/trading-awesome

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>21 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>22 Oct 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>lodestones/Kromoss</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kromoss/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kromoss/</guid>
-<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
-<description>Kromoss 是一個使用 diffusers 和 safetensors 技術的文本轉影像模型。</description>
+<title>RecursiveSI/flint</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-recursivesi-flint/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-recursivesi-flint/</guid>
+<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
+<description>一個用於生成文本的AI模型，支援對話式生成。</description>
 </item>
 <item>
-<title>orcarouter/OrcaCyber-Nano-1.0</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-orcacyber-nano-1-0/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-orcacyber-nano-1-0/</guid>
-<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
-<description>OrcaCyber-Nano-1.0 是一個基於 gguf 格式的影像文本轉文本模型，適用於網路安全。</description>
+<title>ornith-ai/Ornith-1.5-122B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-122b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-122b/</guid>
+<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
+<description>一個大型語言模型，用於生成文本和對話。</description>
 </item>
 <item>
-<title>inclusionAI/Ling-3.1-flash</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-1-flash/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-1-flash/</guid>
-<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
-<description>Ling-3.1-flash 是一個使用 safetensors 和 bailing_hybrid 技術的文本生成模型。</description>
+<title>junxchan54-maker/mcd-cn-assistant</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junxchan54-maker-mcd-cn-assistant/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junxchan54-maker-mcd-cn-assistant/</guid>
+<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
+<description>麥當勞中國官方MCP智慧助手，提供活動推送、聯名關注、點餐和群點聚合帳單功能。</description>
 </item>
 <item>
-<title>morluto/rea</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</guid>
-<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
-<description>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</description>
+<title>DietrichGebert/ponytail</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
+<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
+<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
 </item>
 <item>
-<title>Ebony-Vinyl/dsh-our-free-model</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</guid>
-<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
-<description>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</description>
+<title>deepseek-ai/deepseek-harness</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
+<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
+<description>一切皆可作為外掛的AI代理框架。</description>
 </item>
 <item>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
-<pubDate>21 Oct 2026 08:00:00 +0000</pubDate>
-<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
+<title>Fangx-AI/geo-doctor</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/</guid>
+<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
+<description>GEO醫生是一個生成式引擎最佳化技能，用於評估和最佳化AI助手。</description>
 </item>
 </channel>
 </rss>
