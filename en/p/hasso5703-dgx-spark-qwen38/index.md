@@ -4,5 +4,5 @@ One command turns a DGX Spark or ASUS Ascent GX10 into a private AI server: seve
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：235
+**Stars**：237
 **Source**：https://github.com/hasso5703/dgx-spark-qwen38

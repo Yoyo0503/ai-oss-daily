@@ -2595,7 +2595,6 @@ _每日存檔 · 2026-10-16_
 - [generative-computing/granite-switch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/generative-computing-granite-switch/) — 用於構建 AI 模型的軟體開發工具包。
 - [yuji-hatakeyama/opencode-gpt-imagegen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuji-hatakeyama-opencode-gpt-imagegen/) — 透過 ChatGPT 或 OpenAI API 生成影像的外掛。
 - [seedance-api/seedance-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seedance-api-seedance-api/) — 生成2K電影級AI影片的非官方Python客戶端及檔案。
-- [soniqo/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-studio/) — Speech Studio 是一款桌面語音克隆工作室，支援在裝置上合成語音。
 - [PMZFX/intel-arc-pro-b70-benchmarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pmzfx-intel-arc-pro-b70-benchmarks/) — Intel Arc Pro B70 GPU 的效能資料和測試結果，適用於 LLM 推論等。
 - [hu-haibin/wonderful-launcher-comfyui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hu-haibin-wonderful-launcher-comfyui/) — ComfyUI一站式啟動器，具備模型查詢、AI診斷和批次佇列等功能。
 - [KadenMc/work-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadenmc-work-buddy/) — 基於Claude Code和Obsidian的個人代理框架，實現協調、自動化和智慧跨聊天記憶。

@@ -2,9 +2,9 @@
 
 學習大型語言模型推理工程的步驟指南。
 
-**為何上榜**：375★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 376★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：375
+**Stars**：376
 **原始連結**：https://github.com/amitshekhariitbhu/llm-inference-engineering

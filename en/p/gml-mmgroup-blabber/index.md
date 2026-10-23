@@ -4,5 +4,5 @@ Blabber — 首个 Agentic 播客视频生成平台。一句提示词，生成�
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：21
+**Stars**：22
 **Source**：https://github.com/GML-MMGroup/Blabber

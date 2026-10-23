@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-22T08:00:00+00:00</updated>
+<updated>2026-10-23T08:00:00+00:00</updated>
 <entry>
-<title>RecursiveSI/flint</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-recursivesi-flint/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-recursivesi-flint/</id>
-<updated>2026-10-22T08:00:00+00:00</updated>
-<summary>一個用於生成文本的AI模型，支援對話式生成。</summary>
+<title>Comfy-Org/Fibo-2.0</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-fibo-2-0/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-fibo-2-0/</id>
+<updated>2026-10-23T08:00:00+00:00</updated>
+<summary>Fibo-2.0 是一個基於 ComfyUI 的擴散模型，適用於影像生成。</summary>
 </entry>
 <entry>
-<title>ornith-ai/Ornith-1.5-122B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-122b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-122b/</id>
-<updated>2026-10-22T08:00:00+00:00</updated>
-<summary>一個大型語言模型，用於生成文本和對話。</summary>
+<title>KRAFTON/Raon-1-mini-preview</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-mini-preview/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-mini-preview/</id>
+<updated>2026-10-23T08:00:00+00:00</updated>
+<summary>Raon-1-mini-preview 是一個基於 Transformer 的文本生成模型，適用於對話和會話式 AI。</summary>
 </entry>
 <entry>
-<title>junxchan54-maker/mcd-cn-assistant</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junxchan54-maker-mcd-cn-assistant/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junxchan54-maker-mcd-cn-assistant/</id>
-<updated>2026-10-22T08:00:00+00:00</updated>
-<summary>麥當勞中國官方MCP智慧助手，提供活動推送、聯名關注、點餐和群點聚合帳單功能。</summary>
+<title>C4rohan/Lampline</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/c4rohan-lampline/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/c4rohan-lampline/</id>
+<updated>2026-10-23T08:00:00+00:00</updated>
+<summary>Lampline 是一個用來建立和測試 AI 聯絡中心代理人的開源工具。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-10-22T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>xerj-org/xerj</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/</id>
+<updated>2026-10-23T08:00:00+00:00</updated>
+<summary>XERJ 是一種自動索引資料的新方式，可快速建立搜尋索引。</summary>
 </entry>
 <entry>
-<title>deepseek-ai/deepseek-harness</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
-<updated>2026-10-22T08:00:00+00:00</updated>
-<summary>一切皆可作為外掛的AI代理框架。</summary>
+<title>XiaoDuoYa/codex-with-chatgpt</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoduoya-codex-with-chatgpt/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoduoya-codex-with-chatgpt/</id>
+<updated>2026-10-23T08:00:00+00:00</updated>
+<summary>使用 ChatGPT 當作規劃大腦，同時利用 Codex 進行具體操作。</summary>
 </entry>
 <entry>
-<title>Fangx-AI/geo-doctor</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/</id>
-<updated>2026-10-22T08:00:00+00:00</updated>
-<summary>GEO醫生是一個生成式引擎最佳化技能，用於評估和最佳化AI助手。</summary>
+<title>black-forest-labs/flux-3-image-klein-comfy</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</id>
+<updated>2026-10-23T08:00:00+00:00</updated>
+<summary>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</summary>
 </entry>
 </feed>

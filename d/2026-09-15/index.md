@@ -2084,7 +2084,6 @@ _每日存檔 · 2026-09-15_
 - [m4vic/socratic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/m4vic-socratic/) — 包裝成Claude/Codex技能的高階工程師編碼前問答工具。
 - [matt-k-wong/mlx-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matt-k-wong-mlx-flash/) — 讓大型模型在Apple Silicon上執行，即使記憶體不足也能流式處理權重。
 - [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — 開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。
-- [soniqo/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-studio/) — Speech Studio 是一款桌面語音克隆工作室，支援在裝置上合成語音。
 - [Rezzecup/twitter-alpha-sentiment-tracker-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rezzecup-twitter-alpha-sentiment-tracker-v2/) — 即時分析 X/Twitter 上的 Smart Money 情緒，提供買賣訊號。
 - [Rich627/whatsapp-claude-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rich627-whatsapp-claude-plugin/) — 直接在 WhatsApp 上執行 AI，支援語音轉錄和遠端工具批准。
 - [zilliztech/mfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-mfs/) — 為AI代理提供統一的上下文管理介面，整合程式碼、檔案和資料庫。

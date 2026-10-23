@@ -1833,7 +1833,6 @@ _每日存檔 · 2026-09-11_
 - [averma416/consulting-gauntlet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/averma416-consulting-gauntlet/) — 全面的諮詢技能套件，涵蓋多個框架、財務模型和零錯誤率。
 - [nai-he/fund-analysis-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nai-he-fund-analysis-agent/) — 基金資料收集與 AI 分析工具，支援多源資料和風險評估。
 - [ryan-yuuu/crypto-trading-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryan-yuuu-crypto-trading-arena/) — 開放原始碼的加密貨幣交易競技場平臺。
-- [soniqo/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-studio/) — Speech Studio 是一款桌面語音克隆工作室，支援在裝置上合成語音。
 - [mertizci/noai-watermark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mertizci-noai-watermark/) — 開源工具套件，用於移除影像中的隱藏AI水印及後設資料。
 - [hwdsl2/self-hosted-ai-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hwdsl2-self-hosted-ai-stack/) — 使用 Docker Compose 部署的完整自託管 AI 堆疊，包含多個 AI 模型和工具。
 - [worldbench/awesome-ai-auto-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldbench-awesome-ai-auto-research/) — 一份關於自動化AI研究的調查報告。

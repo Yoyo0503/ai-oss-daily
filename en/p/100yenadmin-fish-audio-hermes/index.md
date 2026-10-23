@@ -4,5 +4,5 @@ Official Fish Audio plugin for Hermes Agent: expressive text-to-speech, speech-t
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：119
+**Stars**：110
 **Source**：https://github.com/100yenadmin/fish-audio-hermes

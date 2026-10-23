@@ -1993,7 +1993,6 @@ _每日存檔 · 2026-09-12_
 - [AnyAI-Labs/AnyAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anyai-labs-anyai/) — 開源 AI 加密交易平台＋Chrome 擴充，即時行情分析。
 - [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — 開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。
 - [byliutao/CDM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/byliutao-cdm/) — 連續時間分布匹配，用於少步數擴散模型蒸餾。
-- [soniqo/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-studio/) — Speech Studio 是一款桌面語音克隆工作室，支援在裝置上合成語音。
 - [AndyLone22/MirrorMetrics](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/andylone22-mirrormetrics/) — 評估 Stable Diffusion LoRAs 的視覺診斷工具，用於檢測過度擬合和資料集品質分析。
 - [cutemarkets/cutemarkets-python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cutemarkets-cutemarkets-python/) — 官方 Python 客戶端，提供 CuteMarkets 期權市場資料 API 同步和非同步功能。
 - [Trade-With-Claude/cbt-framework](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/trade-with-claude-cbt-framework/) — AI 助力的交易回測框架，從想法到即時交易一站式解決方案。

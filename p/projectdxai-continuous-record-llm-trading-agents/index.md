@@ -2,9 +2,9 @@
 
 記錄和分析LLM交易代理在生產環境中的行為。
 
-**為何上榜**：80★ · 近期活躍
+**為何上榜**：73★ · 近期活躍
 
 **商用授權**：可商用 — 可商用，CC-BY 類需署名
 
-**Stars**：80
+**Stars**：73
 **原始連結**：https://github.com/ProjectDXAI/continuous-record-llm-trading-agents

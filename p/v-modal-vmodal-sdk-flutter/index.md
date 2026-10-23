@@ -2,9 +2,9 @@
 
 V-Modal AI：視覺影片/影像搜尋 Flutter SDK。
 
-**為何上榜**：2,209★ · 近期活躍
+**為何上榜**：2,206★ · 近期活躍
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,209
+**Stars**：2,206
 **原始連結**：https://github.com/v-modal/vmodal_sdk_flutter

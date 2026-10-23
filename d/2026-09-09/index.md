@@ -1864,7 +1864,6 @@ _每日存檔 · 2026-09-09_
 - [Houseofmvps/claude-rank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/houseofmvps-claude-rank/) — Claude Code 外掛，自動修正網站以提高 AI 發現性。
 - [sales-skills/sales](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sales-skills-sales/) — Claude Code 技能套件，適用於銷售、行銷等領域。
 - [zilliztech/vector-graph-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-vector-graph-rag/) — 純向量搜尋圖形RAG，實現多跳推理場景中的最優效能。
-- [soniqo/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-studio/) — Speech Studio 是一款桌面語音克隆工作室，支援在裝置上合成語音。
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juanjuandog-finsight-ai/) — 具備堅韌工作流程的AI股權研究代理。
 - [ShurikenTrade/shuriken-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shurikentrade-shuriken-skills/) — 適用於 Shuriken 平臺的 AI 交易技能集。
 - [my-mcp-hub/mcp-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/my-mcp-hub-mcp-kit/) — 用於建立 MCP 應用程式的 CLI 工具。

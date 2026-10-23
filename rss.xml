@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>22 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>23 Oct 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>RecursiveSI/flint</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-recursivesi-flint/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-recursivesi-flint/</guid>
-<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
-<description>一個用於生成文本的AI模型，支援對話式生成。</description>
+<title>Comfy-Org/Fibo-2.0</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-fibo-2-0/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-fibo-2-0/</guid>
+<pubDate>23 Oct 2026 08:00:00 +0000</pubDate>
+<description>Fibo-2.0 是一個基於 ComfyUI 的擴散模型，適用於影像生成。</description>
 </item>
 <item>
-<title>ornith-ai/Ornith-1.5-122B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-122b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-122b/</guid>
-<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
-<description>一個大型語言模型，用於生成文本和對話。</description>
+<title>KRAFTON/Raon-1-mini-preview</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-mini-preview/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-mini-preview/</guid>
+<pubDate>23 Oct 2026 08:00:00 +0000</pubDate>
+<description>Raon-1-mini-preview 是一個基於 Transformer 的文本生成模型，適用於對話和會話式 AI。</description>
 </item>
 <item>
-<title>junxchan54-maker/mcd-cn-assistant</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junxchan54-maker-mcd-cn-assistant/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junxchan54-maker-mcd-cn-assistant/</guid>
-<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
-<description>麥當勞中國官方MCP智慧助手，提供活動推送、聯名關注、點餐和群點聚合帳單功能。</description>
+<title>C4rohan/Lampline</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/c4rohan-lampline/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/c4rohan-lampline/</guid>
+<pubDate>23 Oct 2026 08:00:00 +0000</pubDate>
+<description>Lampline 是一個用來建立和測試 AI 聯絡中心代理人的開源工具。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>xerj-org/xerj</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/</guid>
+<pubDate>23 Oct 2026 08:00:00 +0000</pubDate>
+<description>XERJ 是一種自動索引資料的新方式，可快速建立搜尋索引。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>XiaoDuoYa/codex-with-chatgpt</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoduoya-codex-with-chatgpt/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoduoya-codex-with-chatgpt/</guid>
+<pubDate>23 Oct 2026 08:00:00 +0000</pubDate>
+<description>使用 ChatGPT 當作規劃大腦，同時利用 Codex 進行具體操作。</description>
 </item>
 <item>
-<title>Fangx-AI/geo-doctor</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/</guid>
-<pubDate>22 Oct 2026 08:00:00 +0000</pubDate>
-<description>GEO醫生是一個生成式引擎最佳化技能，用於評估和最佳化AI助手。</description>
+<title>black-forest-labs/flux-3-image-klein-comfy</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</guid>
+<pubDate>23 Oct 2026 08:00:00 +0000</pubDate>
+<description>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</description>
 </item>
 </channel>
 </rss>

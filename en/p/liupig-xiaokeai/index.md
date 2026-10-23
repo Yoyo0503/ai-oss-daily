@@ -4,5 +4,5 @@ Open-source 3D AI companion and transparent desktop pet. Also: 开源 3D AI 伴�
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：175
+**Stars**：178
 **Source**：https://github.com/liupig/xiaokeai

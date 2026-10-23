@@ -2,7 +2,7 @@
 
 OrcaCyber-Nano-1.0 是一個基於 gguf 格式的影像文本轉文本模型，適用於網路安全。
 
-**為何上榜**：HF trending 161 · 170 likes · 19,697 下載
+**為何上榜**：HF trending 179 · 190 likes · 21,727 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

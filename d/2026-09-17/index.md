@@ -2150,7 +2150,6 @@ _每日存檔 · 2026-09-17_
 - [naimkatiman/tradeclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/naimkatiman-tradeclaw/) — 自架 AI 交易訊號：5 種可換策略（Classic/HMM/regime-aware）。
 - [augiemazza/varrd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/augiemazza-varrd/) — 一個使用 AI 的交易研究平臺，可測試股票、期貨和加密貨幣的策略。
 - [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — 開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。
-- [soniqo/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/soniqo-speech-studio/) — Speech Studio 是一款桌面語音克隆工作室，支援在裝置上合成語音。
 - [superjack2050/1688-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/superjack2050-1688-cli/) — 用於 1688 資源搜尋、產品研究及訂單管理的自動化 CLI 工具。
 - [AsuraAce/ambit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asuraace-ambit/) — 本地優先的桌面應用程式，用於管理AI影像庫。
 - [elbruno/ElBruno.QwenTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elbruno-elbruno-qwentts/) — 使用 ONNX 和 C# .NET 10 的 Qwen3-TTS 音訊生成管道。
