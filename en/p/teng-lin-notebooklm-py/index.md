@@ -4,5 +4,5 @@ Unofficial Python API and agentic skill for Google Gemini Notebook. Full program
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：19,852
+**Stars**：19,868
 **Source**：https://github.com/teng-lin/notebooklm-py

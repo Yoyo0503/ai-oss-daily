@@ -4,5 +4,5 @@ Grok Bot for Hyperliquid: an open-source 7-agent trading desk with roles, system
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：142
+**Stars**：154
 **Source**：https://github.com/galleonlabs/hypergrok-trading-desk

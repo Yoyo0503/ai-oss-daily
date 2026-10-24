@@ -4,5 +4,5 @@ Strata fork: Qwen3.8-Flash-Next 125B MoE in NVFP4 on one RTX 20-50 card (12 GB+)
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：185
+**Stars**：187
 **Source**：https://github.com/sergqwer/strata-nvfp4

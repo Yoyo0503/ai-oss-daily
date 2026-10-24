@@ -4,5 +4,5 @@ Xolotl (formerly Strata-DSV4.1): DeepSeek-V4.1-Flash, all 552B, on one gaming PC
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：292
+**Stars**：313
 **Source**：https://github.com/Indras-Mirror/Xolotl

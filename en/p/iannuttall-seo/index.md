@@ -4,5 +4,5 @@ SEO for agent-native teams. Your agent gets your real Search Console, Google Ana
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：589
+**Stars**：591
 **Source**：https://github.com/iannuttall/seo
