@@ -176,7 +176,6 @@ _Daily archive · 2026-10-19_
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-contrastive-lm-clm-v0-1-8b/) — text-ranking · contrastive-lm, clm, contrastive-learning
 - [Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-infatoshi-glm-5-3-uncensored-exl3-3-0bpw/) — text-generation · exllamav3, safetensors, glm_moe_dsa
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
-- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — image-text-to-text · gguf, gsq, rco
 - [fastino/GLiNER2.5-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastino-gliner2-5-decide/) — token-classification · gliner2, safetensors, extractor
 - [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-5-mini/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
@@ -769,7 +768,6 @@ _Daily archive · 2026-10-19_
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-agenttrove/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [JonathanColetti/Qwen3.8-27B-Uncensored-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jonathancoletti-qwen3-8-27b-uncensored-demo/) — · gradio, mcp-server, region:us
 - [pollen-robotics/microduck-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pollen-robotics-microduck-arena/) — · docker, region:us
-- [BijectiveLabs/trading-research-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bijectivelabs-trading-research-agents/) — Autonomous trading agents with deterministic execution. The agents propose; the system decides.
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhen-nan-l2p-dataset/) — · license:apache-2.0, size_categories:10K<n<100K, format:webdataset
 - [Vincentwei1021/anything2explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vincentwei1021-anything2explainer/) — Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas …
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lordx64-agentic-distill-fable-5-sft/) — · task_categories:text-generation, language:en, license:agpl-3.0
@@ -1154,7 +1152,6 @@ _Daily archive · 2026-10-19_
 - [fqgate/FQGate-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fqgate-fqgate-agent/) — 大 A免费开源AI插件FQGate-agent（原插件名 tonghuasun-agent）：为 Codex、Claude Code、DeepSeek 等 AI 工具提供本机 A 股实时行情、K 线、Level2、资讯…
 - [jundizhou/easy-stock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundizhou-easy-stock/) — A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock
 - [TokenRhythm/NeoHorse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tokenrhythm-neohorse/) — NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.
-- [Jwuthri/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jwuthri-selfjev/) — Open decisions model with Jev's API: typed answers (yes/no, choice, score, multi) with probabilities from for…
 - [bojieli/ai-infra-book](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bojieli-ai-infra-book/) — 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 - [zekaiwang/trex_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zekaiwang-trex-dataset/) — · task_categories:robotics, language:en, license:mit
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, license:other, size_categories:n<1K
@@ -1534,7 +1531,7 @@ _Daily archive · 2026-10-19_
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uv-scripts-ocr/) — · arxiv:2605.27978, region:us, uv-script
 - [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-fleurs/) — · task_categories:automatic-speech-recognition, annotations_creators:expert-generated, annotations_creators:c…
 - [Q00/ouroboros](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/q00-ouroboros/) — Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result n…
-- [hasso5703/dgx-spark-qwen38](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hasso5703-dgx-spark-qwen38/) — One command turns a DGX Spark or ASUS Ascent GX10 into a private AI server: seven measured, pinned AI lanes (…
+- [hasso5703/dgx-spark-qwen38](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hasso5703-dgx-spark-qwen38/) — One command turns a DGX Spark (64 or 128 GB) or an ASUS Ascent GX10 into a private AI server: nine measured, …
 - [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star…
 - [witfoo/precinct6-cybersecurity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-witfoo-precinct6-cybersecurity/) — · task_categories:text-classification, task_categories:graph-ml, language:en
 - [Prysai/Prysai-LLM-Playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prysai-prysai-llm-playbook/) — An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for C…
@@ -1543,7 +1540,7 @@ _Daily archive · 2026-10-19_
 - [Anthropic/BioMysteryBench-full](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-biomysterybench-full/) — · license:cc-by-4.0, region:us
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rohitg00-ai-engineering-from-scratch/) — Learn it. Build it. Ship it for others.
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tylogi-tyloquant/) — Get more intelligence from every bit. Better quantization formats and smarter calibration let larger, stronge…
-- [lixiaoxiao9888-create/short-drama-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lixiaoxiao9888-create-short-drama-factory/) — 🎬 Short-Drama Factory v4.3 · 抖音/红果爆款短剧工业化编剧超级系统 | 一句创意/一部网文 → 标准60-100集·长档30-50集·漫剧带付费墙剧本 | 40赛道全图+六母型钩子+五大断章…
+- [lixiaoxiao9888-create/short-drama-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lixiaoxiao9888-create-short-drama-factory/) — 🎬 Short-Drama Factory v4.9.1 · 抖音/红果爆款短剧工业化编剧超级系统 | 一句创意/一部网文 → 标准60-100集·长档30-50集·漫剧带付费墙剧本 | v4.9 强画面支撑+15秒换…
 - [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 小优AIGC（抖音小优与AIGC的奇妙冒险）的 AI 摄影剧组 skill —— 电影摄影级生图提示词生成器，可装入 Claude Code / Codex / Hermes

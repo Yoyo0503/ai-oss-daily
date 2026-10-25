@@ -171,7 +171,6 @@ _Daily archive · 2026-10-13_
 - [harshatheg/Qwen-2.5-1B-RLCD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-harshatheg-qwen-2-5-1b-rlcd/) — text-generation · mlx, structured-generation, parallel-decoding
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — text-generation · gguf, gemma4, coding
 - [AlexWortega/openjev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-openjev/) — text-classification · transformers, safetensors, nli
-- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — image-text-to-text · gguf, gsq, rco
 - [SupraLabs/Supra-Router-51M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supralabs-supra-router-51m/) — text-generation · transformers, safetensors, llama
 - [AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/) — text-generation · transformers, safetensors, qwen3_5
 - [Jackrong/Qwopus3.8-27B-Flash-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jackrong-qwopus3-8-27b-flash-gguf/) — image-text-to-text · transformers, gguf, llama.cpp
@@ -1130,7 +1129,6 @@ _Daily archive · 2026-10-13_
 - [Lichess/standard-chess-games](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lichess-standard-chess-games/) — · license:cc0-1.0, size_categories:1B<n<10B, format:parquet
 - [Sidiora-Labs/centra-gideon-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sidiora-labs-centra-gideon-agent/) — The companion AI agent that learns, adapts and gets the work done no matter the task
 - [tayyabimam1/awesome-ai-agent-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tayyabimam1-awesome-ai-agent-stack/) — Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory a…
-- [Jwuthri/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jwuthri-selfjev/) — Open decisions model with Jev's API: typed answers (yes/no, choice, score, multi) with probabilities from for…
 - [yjh051108/dsh-routing-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yjh051108-dsh-routing-suite/) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware r…
 - [zekaiwang/trex_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zekaiwang-trex-dataset/) — · task_categories:robotics, language:en, license:mit
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, license:other, size_categories:n<1K
@@ -1327,7 +1325,7 @@ _Daily archive · 2026-10-13_
 - [arnsri33/embedflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arnsri33-embedflow/) — Zero downtime embedding upgrades
 - [Conquerer-yinn/Kakaaaa-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/conquerer-yinn-kakaaaa-quant/) — 面向 A 股研究工作流的轻量量化研究工作台 · 情绪指标 / Excel 历史主表 / 飞书卡片 / FastAPI / React
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phuryn-pm-skills/) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, la…
-- [lixiaoxiao9888-create/short-drama-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lixiaoxiao9888-create-short-drama-factory/) — 🎬 Short-Drama Factory v4.3 · 抖音/红果爆款短剧工业化编剧超级系统 | 一句创意/一部网文 → 标准60-100集·长档30-50集·漫剧带付费墙剧本 | 40赛道全图+六母型钩子+五大断章…
+- [lixiaoxiao9888-create/short-drama-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lixiaoxiao9888-create-short-drama-factory/) — 🎬 Short-Drama Factory v4.9.1 · 抖音/红果爆款短剧工业化编剧超级系统 | 一句创意/一部网文 → 标准60-100集·长档30-50集·漫剧带付费墙剧本 | v4.9 强画面支撑+15秒换…
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
 - [WayneJin0918/Omni-Rewriter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/waynejin0918-omni-rewriter/) — Open agentic prompt-expansion harness for image and video generation, bridging polished demos, public APIs, a…

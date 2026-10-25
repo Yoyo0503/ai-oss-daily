@@ -175,7 +175,6 @@ _每日存檔 · 2026-10-24_
 - [Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-infatoshi-glm-5-3-uncensored-exl3-3-0bpw/) — GLM-5.3-UNCENSORED-EXL3-3.0bpw 是一個無審核的文本生成模型，使用 exllamav3 和 glm_moe_dsa 技術。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。
 - [google/embeddinggemma-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-embeddinggemma-2/) — 用於抽取特徵的轉換器模型，適用於句子嵌入。
-- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — 文本生成模型，採用混合精度量化技術。
 - [fastino/GLiNER2.5-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/) — 文本分類模型，用於判斷意圖和情感。
 - [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-5-mini/) — 一個基於轉換器的模型，用於生成文字和對話。
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1-q4-k-m-gguf/) — AI Agent 框架／編排工具，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
@@ -939,7 +938,6 @@ _每日存檔 · 2026-10-24_
 - [suvadityamuk/3d-representations-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-suvadityamuk-3d-representations-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/academiasd-academiasd-loralab-trainerstudio/) — 訓練 LoRAs 的工具，適用於多種影像生成模型。
 - [swax/dub-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/swax-dub-anything/) — 使用 AI 控制配音過程，保留原音並在本地生成音訊。
-- [BijectiveLabs/trading-research-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bijectivelabs-trading-research-agents/) — 自動化交易代理，提出建議並由系統決定。
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Synpath-ai/synpath](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synpath-ai-synpath/) — 一個開放原始碼的預測市場 API，統一市場資料和訂單路由。
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-minimax-m3-claude-code-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1197,7 +1195,6 @@ _每日存檔 · 2026-10-24_
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flowelement-ai-m-flow/) — 生物啟發式認知記憶引擎，適用於圖形 RAG 的新方法。
 - [youngyangyang04/llm-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/youngyangyang04-llm-master/) — 大模型全棧學習路徑與中文教程，涵蓋提示工程、RAG、AI Agent 等。
 - [Yzw202011/OmniSpace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yzw202011-omnispace/) — 本地優先的 AI 漫畫創作工作站，支援多引擎本地推理。
-- [Jwuthri/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jwuthri-selfjev/) — 基於Jev API的決策模型，提供帶機率的型別答案，適用於評估和推理。
 - [monid-ai/monid](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/monid-ai-monid/) — 開放式 AI 工具平臺，提供開發者工具。
 - [zekaiwang/trex_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zekaiwang-trex-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-matraix2026-matraix-persona-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

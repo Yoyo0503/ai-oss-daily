@@ -7,7 +7,6 @@ _每日存檔 · 2026-10-18_
 - [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash-1017/) — 將影像和文字轉換為文字，適用於圖文生成。
 - [tencent/Hy-Memory-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy-memory-30b-a3b/) — 基於轉換器的對話生成模型，支援多種語言。
 - [songconmaisaix31-design/mcpet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/songconmaisaix31-design-mcpet/) — 麥當勞主題的桌面 AI 機器人，提醒用餐和工作進度。
-- [BijectiveLabs/trading-research-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bijectivelabs-trading-research-agents/) — 自動化交易代理，提出建議並由系統決定。
 - [swax/dub-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/swax-dub-anything/) — 使用 AI 控制配音過程，保留原音並在本地生成音訊。
 - [FineEnvs/RL-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fineenvs-rl-explorer/) — Hugging Face 示範應用(Space)，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 - [openspline/openspline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openspline-openspline/) — 使用五行程式碼生成與聲音同步的即時動畫。
@@ -175,7 +174,6 @@ _每日存檔 · 2026-10-18_
 - [Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-infatoshi-glm-5-3-uncensored-exl3-3-0bpw/) — GLM-5.3-UNCENSORED-EXL3-3.0bpw 是一個無審核的文本生成模型，使用 exllamav3 和 glm_moe_dsa 技術。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。
 - [datasocial/tiktok-5.6B-videos](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-datasocial-tiktok-5-6b-videos/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — 文本生成模型，採用混合精度量化技術。
 - [fastino/GLiNER2.5-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/) — 文本分類模型，用於判斷意圖和情感。
 - [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-5-mini/) — 一個基於轉換器的模型，用於生成文字和對話。
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1-q4-k-m-gguf/) — AI Agent 框架／編排工具，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
@@ -447,7 +445,6 @@ _每日存檔 · 2026-10-18_
 - [hotchpotch/S1MB-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hotchpotch-s1mb-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/Cosmos3-Nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-cosmos3-nano/) — NVIDIA Cosmos3 Nano 文生圖線上示範。
 - [distinctshov/Chain-Transaction-Logger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/distinctshov-chain-transaction-logger/) — 加密貨幣交易日誌工具，用於檢視和過濾交易資料。
-- [BijectiveLabs/trading-research-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bijectivelabs-trading-research-agents/) — 自動化交易代理，提出建議並由系統決定。
 - [Jeanorochka/julia_tradediary_analysis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeanorochka-julia-tradediary-analysis/) — 使用 Julia 和 Python 分析交易日誌的工具。
 - [FINAL-Bench/open-discovery-challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-open-discovery-challenge/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/illiahaidar-mcptrustchecker/) — 用於掃描 MCP 伺服器的安全工具，檢查潛在風險。
@@ -1154,7 +1151,6 @@ _每日存檔 · 2026-10-18_
 - [travelmapworld/awesome-micro-saas-builder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/travelmapworld-awesome-micro-saas-builder/) — 為獨立開發者快速建立和釋出微 SaaS 和數位產品的工具。
 - [calmwater998/ki-kreativsuite-bundle-erfahrungen-test](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calmwater998-ki-kreativsuite-bundle-erfahrungen-test/) — 德語區的KI-KreativSuite套件手冊，幫助建立高CTR影像和內容。
 - [raindrop668/self-hosted-utm-tracker-wordpress](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raindrop668-self-hosted-utm-tracker-wordpress/) — 德奧瑞地區適用的 WordPress 外掛，支援聯盟行銷和 UTM 追蹤。
-- [Jwuthri/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jwuthri-selfjev/) — 基於Jev API的決策模型，提供帶機率的型別答案，適用於評估和推理。
 - [chenkanglin198904/Personal_External_Brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chenkanglin198904-personal-external-brain/) — 個人知識圖譜工具，將筆記、網頁、PDF和音影片轉換為知識圖譜，完全在本地執行。
 - [fitnessgymlife/Ki-video-generator-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fitnessgymlife-ki-video-generator-tools/) — Ki-video-generator-tools 是一個自動將文本轉換為影片的工具。
 - [lexmount/moli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lexmount-moli/) — Moli 是一個輕量級、快速且相容性高的無頭瀏覽器，專為 AI 代理設計。

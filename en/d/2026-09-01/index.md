@@ -4,7 +4,6 @@ _Daily archive · 2026-09-01_
 
 ## 🆕 New
 
-- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — image-text-to-text · gguf, gsq, rco
 - [incoai/GLM-5.3-Flash-DFlash2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-glm-5-3-flash-dflash2/) — text-generation · transformers, safetensors, qwen3
 - [Ryze-AI-Adgent/open-seo-mcp-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ryze-ai-adgent-open-seo-mcp-skills/) — Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, bac…
 - [aleksandr-alhoff/seo-landing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aleksandr-alhoff-seo-landing/) — SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer. An agent skill fo…
@@ -16,6 +15,7 @@ _Daily archive · 2026-09-01_
 - [humongousissu/Arbitrage-Scanner-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/humongousissu-arbitrage-scanner-desktop/) — Gas Price Desktop Widget — Windows desktop concept for tracking blockchain network fees, gas history, and est…
 - [waryenemy/ETH-Gas-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/waryenemy-eth-gas-optimizer/) — ENS Lookup Desktop — Windows ENS lookup concept for resolving names, addresses, and common public resolver re…
 - [deadsoot/Token-Gains-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deadsoot-token-gains-reporter/) — Crypto Tax Report Generator — Windows finance utility concept for local crypto accounting, cost-basis, gain/l…
+- [mkamranr/reelforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mkamranr-reelforge/) — Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platfo…
 
 ## 🚀 Climbing
 
@@ -176,7 +176,6 @@ _Daily archive · 2026-09-01_
 - [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-thinkingmachines-inkling/) — image-text-to-text · transformers, safetensors, inkling_mm_model
 - [SexGod1979/PinkFluffyBunny-MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sexgod1979-pinkfluffybunny-minimax-h3/) — · minimax-h3, license:apache-2.0, region:us
 - [Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/) — · video-generation, lora, ic-lora
-- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — image-text-to-text · gguf, gsq, rco
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
 - [fal/MiniMax-H3-Realism-People-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fal-minimax-h3-realism-people-lora/) — image-text-to-video · minimax-h3, lora, safetensors
 - [Comfy-Org/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-mage-flow/) — · diffusion-single-file, comfyui, base_model:microsoft/Mage-Flow

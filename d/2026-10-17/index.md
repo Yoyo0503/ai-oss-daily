@@ -171,7 +171,6 @@ _每日存檔 · 2026-10-17_
 - [Contrastive-LM/CLM-v0.1-8B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-contrastive-lm-clm-v0-1-8b/) — 對比學習模型，用於文本排名和重排序。
 - [Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-infatoshi-glm-5-3-uncensored-exl3-3-0bpw/) — GLM-5.3-UNCENSORED-EXL3-3.0bpw 是一個無審核的文本生成模型，使用 exllamav3 和 glm_moe_dsa 技術。
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。
-- [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-qwen3-8-27b-gsq-rco-gguf/) — 文本生成模型，採用混合精度量化技術。
 - [fastino/GLiNER2.5-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastino-gliner2-5-decide/) — 文本分類模型，用於判斷意圖和情感。
 - [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-5-mini/) — 一個基於轉換器的模型，用於生成文字和對話。
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1-q4-k-m-gguf/) — AI Agent 框架／編排工具，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
@@ -1162,7 +1161,6 @@ _每日存檔 · 2026-10-17_
 - [forestecho66/seo-content-automatisierung](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/forestecho66-seo-content-automatisierung/) — seo-content-automatisierung 是一個自動化工具，用於最佳化線上營銷工作流程和 SEO。
 - [forestecho66/Whatsapp-ai-marketing-automation-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/forestecho66-whatsapp-ai-marketing-automation-de/) — Whatsapp-ai-marketing-automation-de 是一個基於 AI 的 WhatsApp 營銷自動化工具。
 - [ApodexAI/FrontierAgent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apodexai-frontieragent/) — 開源代理框架，支援多種代理模式和終端介面。
-- [Jwuthri/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jwuthri-selfjev/) — 基於Jev API的決策模型，提供帶機率的型別答案，適用於評估和推理。
 - [mountainview8868/distributed-link-manager-](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mountainview8868-distributed-link-manager/) — 為開發者和內容創作者提供可持續的收益鏈管理工具。
 - [mountainview8868/socialmedia-autopilot-german-starter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mountainview8868-socialmedia-autopilot-german-starter/) — 符合 GDPR 的自動化社交媒體釋出工具。
 - [inssist/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inssist-mcp/) — MCP 伺服器允許 AI 代理在 Instagram 中運作。
