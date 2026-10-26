@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-25T08:00:00+00:00</updated>
+<updated>2026-10-26T08:00:00+00:00</updated>
 <entry>
-<title>briaai/Fibo-2.0-dev</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-briaai-fibo-2-0-dev/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-briaai-fibo-2-0-dev/</id>
-<updated>2026-10-25T08:00:00+00:00</updated>
-<summary>文字轉影像模型，支援影像編輯和多參考生成。</summary>
+<title>Nanbeige/Nanbeige4.3-33B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-3-33b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-3-33b/</id>
+<updated>2026-10-26T08:00:00+00:00</updated>
+<summary>Nanbeige4.3-33B 是一個基於 Transformers 的對話生成模型，支援中文。</summary>
 </entry>
 <entry>
-<title>ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-deepseek-v4-1-flash-1017-gsq-rco-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-deepseek-v4-1-flash-1017-gsq-rco-gguf/</id>
-<updated>2026-10-25T08:00:00+00:00</updated>
-<summary>文字生成模型，使用混合精度和量化技術。</summary>
+<title>inclusionAI/Ming-3.0-tts-0.5B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ming-3-0-tts-0-5b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ming-3-0-tts-0-5b/</id>
+<updated>2026-10-26T08:00:00+00:00</updated>
+<summary>Ming-3.0-tts-0.5B 是一個將文本轉換為語音的模型，支援 ONNX 格式。</summary>
 </entry>
 <entry>
-<title>FastVideo/FastH3-Omni-Comfy</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastvideo-fasth3-omni-comfy/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastvideo-fasth3-omni-comfy/</id>
-<updated>2026-10-25T08:00:00+00:00</updated>
-<summary>單檔案擴散模型，支援參考到影片生成。</summary>
+<title>Ebony-Vinyl/EAC-design-world</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-eac-design-world/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-eac-design-world/</id>
+<updated>2026-10-26T08:00:00+00:00</updated>
+<summary>EAC-design-world 是一個用於本地影片設計的外掛，提供多軌剪輯和設計模板。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-10-25T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-10-26T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>K-Dense-AI/scientific-agent-skills</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/</id>
-<updated>2026-10-25T08:00:00+00:00</updated>
-<summary>將任何AI代理轉換為科學家，涵蓋生物化學等領域。</summary>
+<title>xerj-org/xerj</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/</id>
+<updated>2026-10-26T08:00:00+00:00</updated>
+<summary>XERJ 是一種自動索引資料的新方式，可快速建立搜尋索引。</summary>
 </entry>
 <entry>
-<title>Fangx-AI/geo-doctor</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/</id>
-<updated>2026-10-25T08:00:00+00:00</updated>
-<summary>GEO醫生是一個生成式引擎最佳化技能，用於評估和最佳化AI助手。</summary>
+<title>black-forest-labs/flux-3-image-klein-comfy</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</id>
+<updated>2026-10-26T08:00:00+00:00</updated>
+<summary>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</summary>
 </entry>
 </feed>

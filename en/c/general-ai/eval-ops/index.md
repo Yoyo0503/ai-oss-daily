@@ -8,8 +8,8 @@
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
 - [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zouhar-last-translation-benchmark/) — · task_categories:translation, task_categories:text-generation, language:en
 - [prometheus-eval/into-the-unknown](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-prometheus-eval-into-the-unknown/) — · task_categories:text-generation, license:other, size_categories:n<1K
-- [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/folkbench-folkbench/) — AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / C…
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — · task_categories:text-to-speech, language:ja, license:mit
+- [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/folkbench-folkbench/) — AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / C…
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us
 - [TIGER-Lab/MMLU-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tiger-lab-mmlu-pro/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering

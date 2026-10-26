@@ -103,7 +103,6 @@ _每日存檔 · 2026-08-05_
 - [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yuxinlu1-gemma-4-12b-coder-fable5-composer2-5-v1-gguf/) — gemma-4-12B 是用於程式碼生成和推理的模型。
 - [SupraLabs/Supra-Router-51M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra-router-51m/) — 用於邊緣計算的文本生成模型，可路由和協調多個LLM。
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacecode-stack-v3-train/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [LongCat 數位人影片(美團)](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-5/) — 美團 LongCat 的數位人/虛擬主播影片生成模型(diffusers+onnx)。
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — 一款去識別化的 GLM 模型，支援文本生成。

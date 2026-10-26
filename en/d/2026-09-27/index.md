@@ -172,7 +172,6 @@ _Daily archive · 2026-09-27_
 - [google/timesfm-3.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-timesfm-3-0-pytorch/) — time-series-forecasting · safetensors, time-series, forecasting
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
@@ -1561,7 +1560,7 @@ _Daily archive · 2026-09-27_
 - [vybenetwork/solana-mcp-vybe](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vybenetwork-solana-mcp-vybe/) — Public Solana MCP registry metadata for Vybe Solana API
 - [QuixiAI/ultrachat-uncensored](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-ultrachat-uncensored/) — · license:mit, size_categories:100K<n<1M, format:json
 - [futo-org/swipe.futo.org](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-futo-org-swipe-futo-org/) — · task_categories:other, language:en, license:mit
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [retlehs/quien](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/retlehs-quien/) — A better whois and domain intelligence toolkit
 - [Etherll/Timbre](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/etherll-timbre/) — Extract a target speaker’s clean, non-overlapped speech from multi-speaker audio and export word-safe LJSpeec…
 - [louisedesadeleer/b-roll-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/louisedesadeleer-b-roll-finder/) — Source accurate, on-brand b-roll for talking-head video — podcast & tutorial intros. Reads your transcript, r…

@@ -65,7 +65,6 @@ _每日存檔 · 2026-07-23_
 - [nvidia/nemotron-3.5-asr-streaming-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-5-asr-streaming-0-6b/) — 即時語音識別系統，支援多語言。
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/) — 一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。
 - [nvidia/PiD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-pid/) — NVIDIA 的圖像轉圖像生成模型（diffusers）。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [nvidia/Qwen3.6-35B-A3B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-6-35b-a3b-nvfp4/) — NVIDIA 釋出的 Qwen3.6-35B NVFP4 量化版（MoE，A3B 啟用，省顯存）。
 - [HRM-Text-1B（階層推理模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sapientinc-hrm-text-1b/) — HRM(階層推理模型)架構的 1B 文字模型，下載逾 13 萬。
 - [deepreinforce-ai/Ornith-1.0-35B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepreinforce-ai-ornith-1-0-35b-gguf/) — 一個基於轉換器的文本生成模型，支援GGUF格式。

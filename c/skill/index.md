@@ -5,10 +5,10 @@
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [morluto/rea](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/) — rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
-- [Razshy/Wiggle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/razshy-wiggle/) — 一個用於執行程式碼的沙盒環境。
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
-- [Vincentwei1021/video-shotcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-video-shotcraft/) — video-shotcraft 是用於Claude Code和Codex的AI影片技能，提供電影級產品宣傳片模板。
+- [Razshy/Wiggle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/razshy-wiggle/) — 一個用於執行程式碼的沙盒環境。
 - [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeaashu-claude-code/) — Claude Code 是一個終端機中的程式碼助手，能幫助你更快地編寫和管理程式碼。
+- [Vincentwei1021/video-shotcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-video-shotcraft/) — video-shotcraft 是用於Claude Code和Codex的AI影片技能，提供電影級產品宣傳片模板。
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [paperclipai/paperclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/paperclipai-paperclip/) — 用於管理工作場所中代理的開源應用程式。
 - [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/) — 本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。
@@ -24,18 +24,18 @@
 - [coreyhaines31/marketingskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/coreyhaines31-marketingskills/) — marketingskills 為 Claude Code 和 AI 代理提供行銷技能，包括 CRO、SEO 等。
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。
 - [titanwings/colleague-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-colleague-skill/) — 將冰冷的離別轉化為溫暖的技能，歡迎加入數字生命1.0！
-- [skyf0xx/gambit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skyf0xx-gambit/) — 一套AI代理技能，用於清晰思考和決策。
-- [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/) — 將技術書籍轉換為可學習、參考和使用的 AI 技能。
 - [citrolabs/ego-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/) — 用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。
+- [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/) — 將技術書籍轉換為可學習、參考和使用的 AI 技能。
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
+- [skyf0xx/gambit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skyf0xx-gambit/) — 一套AI代理技能，用於清晰思考和決策。
 - [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/googleworkspace-cli/) — Google Workspace CLI，提供 Drive、Gmail 等服務的命令列工具。
 - [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nanocoai-nanoclaw/) — 輕量級的 OpenClaw 替代方案，安全執行在容器中。
 - [eigent-ai/eigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eigent-ai-eigent/) — 開放原始碼協作桌面，免費替代Claude Cowork。
-- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nevamind-ai-memu/) — 為主動型AI代理設計的記憶系統，提供結構化儲存和意圖捕捉功能。
+- [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/) — PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。
-- [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [alchaincyf/huashu-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alchaincyf-huashu-design/) — 在Agent中快速生成網頁、App原型、PPTX等設計。
+- [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-distilly/) — Distilly 將想法轉化為可重用的技能，適用於任何代理或機器人。
 - [NVIDIA/SkillSpector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvidia-skillspector/) — 檢測 AI 代理技能中的安全風險和漏洞的掃描器。
@@ -43,8 +43,8 @@
 - [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-obsidian/) — Obsidian + Claude Code自組織AI第二大腦，協助管理知識圖譜。
 - [aden-hive/hive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aden-hive-hive/) — 多代理生產AI框架，支援自動化和協同作業。
 - [teng-lin/notebooklm-py](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/teng-lin-notebooklm-py/) — Google NotebookLM的非官方Python API及代理技能。
-- [latent-spaces/brag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/latent-spaces-brag/) — 將新專案轉換為可分享的啟動影片。
 - [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yusufkaraaslan-skill-seekers/) — 將文件網站、GitHub存庫和PDF轉換為Claude AI技能，自動檢測衝突。
+- [latent-spaces/brag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/latent-spaces-brag/) — 將新專案轉換為可分享的啟動影片。
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — 用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。
 - [nidhinjs/prompt-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nidhinjs-prompt-master/) — 一個為任何 AI 工具生成精確提示的技能，確保零浪費。
 - [AgriciDaniel/claude-ads](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-ads/) — Claude Code廣告操作技能，適用於12個平臺。

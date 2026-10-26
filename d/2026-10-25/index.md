@@ -224,7 +224,6 @@ _每日存檔 · 2026-10-25_
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
 - [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-dory1-0-4b-bf16/) — NVIDIA 的 Dory1.0 模型，用於生成文本和對話。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — 經過特殊調整的影像文字轉換模型。
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — 基於 ComfyUI 和 MiniMax H3 的圖文生成模型，支援 NVFP4 格式。
@@ -1579,7 +1578,6 @@ _每日存檔 · 2026-10-25_
 - [SnailSploit/Claude-Red](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/snailsploit-claude-red/) — 為Claude技能系統設計的進攻性安全技能庫。
 - [ratschlab/TCGA_virtual_spatial_transcriptomics_atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ratschlab-tcga-virtual-spatial-transcriptomics-atlas/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sjh9714/krea2-wildcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sjh9714-krea2-wildcards/) — 514 個 Krea 2 Turbo 提示詞，含生成範例。
-- [rookiestar28/ComfyUI-MiniMaxH3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rookiestar28-comfyui-minimaxh3-studio/) — 在 ComfyUI 中直接操作 MiniMax H3，輸入想法，輸出完成的影片。
 - [fspecii/ace-step-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fspecii-ace-step-ui/) — ACE-Step 1.5 的專業 UI，免費、本地化、無限音樂生成工具。
 - [AMAP-ML/LongHorizon-Harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amap-ml-longhorizon-harness/) — 長時間執行AI代理的工具，保持任務狀態並可靠地完成複雜工作流程。
 - [mlabonne/open-perfectblend](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mlabonne-open-perfectblend/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

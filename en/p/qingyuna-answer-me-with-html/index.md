@@ -4,5 +4,5 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,371
+**Stars**：4,430
 **Source**：https://github.com/QingYunA/answer-me-with-html

@@ -120,7 +120,6 @@ _Daily archive · 2026-08-12_
 - [KiaBush/persian-text-to-ipa-byt5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kiabush-persian-text-to-ipa-byt5/) — Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tune…
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
@@ -875,7 +874,7 @@ _Daily archive · 2026-08-12_
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
 - [worldwonderer/oh-story-claudecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-oh-story-claudecode/) — 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fict…
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agent-field-reels-af/) — Automate viral reel/tik-tok videos via AI multi-agent system. ~$0.1/reel.
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-llmaker/) — Selfhost modern LLM stacks. Run the whole fleet from your terminal
 - [citrolabs/ego-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/citrolabs-ego-lite/) — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state w…

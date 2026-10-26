@@ -5,9 +5,9 @@
 - [OpenMOSS-Team/MOSS-Image-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-image-sft/) — text-to-image · diffusers, safetensors, moss-image
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
 - [lodestones/Kromoss](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lodestones-kromoss/) — text-to-image · diffusers, safetensors, moss-image
+- [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-3-image-klein/) — image-to-image · diffusers, safetensors, image-generation
 - [Cactus-Compute/whistle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-whistle/) — automatic-speech-recognition · cactus-needle, whistle, speech-recognition
 - [fishaudio/drama-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fishaudio-drama-3/) — text-to-speech · safetensors, fish_omni, fish-audio
-- [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-3-image-klein/) — image-to-image · diffusers, safetensors, image-generation
 - [canberkkkkkk/ema-lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-canberkkkkkk-ema-lightning/) — text-to-speech · ema-lightning, text-to-speech, tts
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-viggle-qwen-image-2-1-viggle-turbo/) — text-to-image · diffusers, safetensors, gguf
 - [PrunaAI/Pruna-Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prunaai-pruna-qwen-image-2-1/) — text-to-image · diffusers, qwen, image-generation
@@ -20,6 +20,7 @@
 - [netease-youdao/Confucius4-R2T2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-netease-youdao-confucius4-r2t2/) — automatic-speech-recognition · safetensors, qwen3_asr, confucius4
 - [speridlabs/iris-3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-speridlabs-iris-3b/) — text-to-image · pytorch, safetensors, text-to-image
 - [stabilityai/stable-audio-3-medium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stabilityai-stable-audio-3-medium/) — text-to-audio · stable-audio-3, safetensors, audio-generation
+- [briaai/Fibo-2.0-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-briaai-fibo-2-0-dev/) — text-to-image · diffusers, safetensors, image-editing
 - [inclusionAI/Ming-Image-0.1-Design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-inclusionai-ming-image-0-1-design/) — text-to-image · custom, diffusers, safetensors
 - [FermionResearch/Phonon-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fermionresearch-phonon-2/) — automatic-speech-recognition · mlx, parakeet_tdt_five_value, apple-silicon
 - [OpenMOSS-Team/MOSS-TTS-v1.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-tts-v1-5/) — text-to-speech · safetensors, moss_tts_delay, text-to-speech
@@ -27,7 +28,6 @@
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-krea2-turbo-style-reference/) — text-to-image · diffusers, text-to-image, lora
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alperkts-krea2-fp8/) — text-to-image · diffusers, krea2, text-to-image
-- [briaai/Fibo-2.0-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-briaai-fibo-2-0-dev/) — text-to-image · diffusers, safetensors, image-editing
 - [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-audio8-audio8-tts-preview-0-6b/) — text-to-speech · transformers, safetensors, arktts
 - [alibaba-pai/MiniMax-H3-Acc-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-acc-loras/) — text-to-video · videox_fun, text-to-video, arxiv:2607.26004
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supertone-supertonic-3/) — text-to-speech · supertonic, onnx, text-to-speech
@@ -53,10 +53,10 @@
 - [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-music3/) — text-to-audio · diffusers, safetensors, minimax_music3
 - [mgwr/M87](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mgwr-m87/) — text-to-image · diffusers, text-to-image, lora
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ideogram-ai-ideogram-4-fp8/) — text-to-image · diffusers, safetensors, text-to-image
+- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [larryvrh/MiniMax-H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-larryvrh-minimax-h3-turbo-lora/) — text-to-video · text-to-video, text-to-audio, audio-video
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-owensong-inflect-nano-v1/) — text-to-speech · pytorch, text-to-speech, tts
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zai-org-scail-2/) — image-to-video · diffusers, character-animation, video-generation
 - [FrancisRing/Prism](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-francisring-prism/) — image-to-video · diffusers, safetensors, video-generation
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-5/) — image-to-video · diffusion-single-file, image-to-video, text-to-video
 - [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-breezeblue-breeze-tts-2/) — text-to-speech · transformers, safetensors, breeze
 - [SexGod1979/PinkCherry_MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sexgod1979-pinkcherry-minimax-h3/) — text-to-video · transformers, minimax-h3, text-to-video

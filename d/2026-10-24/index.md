@@ -216,7 +216,6 @@ _每日存檔 · 2026-10-24_
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
 - [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-dory1-0-4b-bf16/) — NVIDIA 的 Dory1.0 模型，用於生成文本和對話。
 - [jialinyyzz/humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jialinyyzz-humanizer/) — 將文本重新撰寫以更接近人類語言。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — 經過特殊調整的影像文字轉換模型。
 - [nvidia/Qwen3.8-Flash-Next-FP4-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-qwen3-8-flash-next-fp4-local/) — 將圖文轉換成文字的模型最佳化版本。
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
@@ -1553,7 +1552,6 @@ _每日存檔 · 2026-10-24_
 - [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromedevtools-chrome-devtools-mcp/) — 用於程式設計代理的Chrome開發者工具外掛。
 - [astropuzzo/ComfyUI-MiniMax-H3-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/astropuzzo-comfyui-minimax-h3-image-studio/) — 實驗性AI編輯工具，用於MiniMax H3的影像轉換和編輯。
 - [SnailSploit/Claude-Red](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/snailsploit-claude-red/) — 為Claude技能系統設計的進攻性安全技能庫。
-- [rookiestar28/ComfyUI-MiniMaxH3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rookiestar28-comfyui-minimaxh3-studio/) — 在 ComfyUI 中直接操作 MiniMax H3，輸入想法，輸出完成的影片。
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/activeing123-mcptoon/) — mcptoon 是一個高效的工具發現 CLI，支援所有 AI 代理。
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-neuralfalcon-remove-silence-from-audio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

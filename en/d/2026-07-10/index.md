@@ -433,7 +433,7 @@ _Daily archive · 2026-07-10_
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
 - [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thenicolas1894-awesome-claude-fable-5-prompt-vault/) — Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks
 - [stuinfla/Repo-Explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuinfla-repo-explainer/) — Repo Explainer — turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nxin-github-auteur/) — 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
 - [seuksaedu-beep/Persona-Flow-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seuksaedu-beep-persona-flow-chat/) — Simulate AI Personas in Social Feeds with Real-Time Chat Bots 2026

@@ -5,7 +5,6 @@ _Daily archive · 2026-07-22_
 ## 🆕 New
 
 - [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1/) — text-generation · transformers, safetensors, laguna
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [Vincentwei1021/video-shotcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vincentwei1021-video-shotcraft/) — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 m…
 - [nvidia/Cosmos3-Edge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-edge/) — · cosmos, diffusers, safetensors
 - [Kuberwastaken/megaphone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kuberwastaken-megaphone/) — Free, private, on-device dictation for Mac, powered by Apple's SpeechAnalyzer and Foundation Models.
@@ -16,6 +15,7 @@ _Daily archive · 2026-07-22_
 - [inkeep/open-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inkeep-open-knowledge/) — Beautiful, AI-native markdown IDE and LLM wiki
 - [deeplethe/forkd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deeplethe-forkd/) — Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~150ms. KV…
 - [Echo-Team-Joy-Future-Academy-JD/Echo-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/echo-team-joy-future-academy-jd-echo-memory/) — Official code for Echo-Memory: a controlled study of memory in action-conditioned video world models (Context…
+- [kitaki-Ciallo/etf-national-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kitaki-ciallo-etf-national-tracker/) — 📊 追踪国家队（汇金/社保）持仓 ETF 的份额变化与十大持有人动态，基于 Flask + PostgreSQL + ECharts 构建的量化看板
 
 ## 🚀 Climbing
 
@@ -124,7 +124,6 @@ _Daily archive · 2026-07-22_
 - [Comfy-Org/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-krea-2/) — · comfyui, license:other, region:us
 - [Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/) — · video-generation, lora, ic-lora
 - [pyannote/speaker-diarization-3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pyannote-speaker-diarization-3-1/) — automatic-speech-recognition · pyannote-audio, pyannote, pyannote-audio-pipeline
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [mradermacher/Mythos-nano-i1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mradermacher-mythos-nano-i1-gguf/) — · transformers, gguf, reasoning
 - [InternScience/Agents-A1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-boogu-boogu-image-0-1-edit/) — · diffusers, safetensors, en
@@ -566,7 +565,7 @@ _Daily archive · 2026-07-22_
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:text
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madeval-ferryai/) — Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process…
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-microsoft-trellis-2/) — · gradio, region:us
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [code-yeongyu/lazycodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-lazycodex/) — The one and only agent harness for complex codebases. Project memory, planning, execution, and verified compl…
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ather-techie-rag-interview-questions/) — A comprehensive interview preparation guide covering all major RAG (Retrieval-Augmented Generation) architect…
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thedotmack-claude-mem/) — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, com…

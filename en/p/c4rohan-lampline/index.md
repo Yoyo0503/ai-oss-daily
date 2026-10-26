@@ -4,5 +4,5 @@ Build AI phone agents on your own computer and test every change with an AI call
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：163
+**Stars**：267
 **Source**：https://github.com/C4rohan/Lampline

@@ -98,7 +98,6 @@ _Daily archive · 2026-08-01_
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — text-generation · transformers, gguf, glm_moe_dsa
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1/) — text-generation · transformers, safetensors, laguna
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacecode-stack-v3-train/) — · task_categories:text-generation, language_creators:crowdsourced, language_creators:expert-generated
@@ -704,7 +703,7 @@ _Daily archive · 2026-08-01_
 - [OtterMind/Nubase](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ottermind-nubase/) — 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, …
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agent-field-reels-af/) — Automate viral reel/tik-tok videos via AI multi-agent system. ~$0.1/reel.
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saadansha-crypto-trading-bot-v2/) — Cryptocurrency Trading Bot: For Binance, Bybit, Bitfinex, BitMEX... (Production Version)
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/billlucky-echocut/) — Turn raw footage into brand-ready, platform-optimized video with one command. Local-first: FFmpeg + WhisperX/…
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lerobot-visualize-dataset/) — · docker, region:us
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/enping-hu-minimind-deep-dive/) — 从 MiniMind 源码读起,再延伸到现代大模型技术体系的中文学习笔记。主线逐行精读预训练 / SFT / DPO / PPO / GRPO 与训练机制;附录 17 篇进阶卷覆盖量化、投机解码、RLHF 全景、模型代…

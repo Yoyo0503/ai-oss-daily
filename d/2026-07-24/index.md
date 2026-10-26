@@ -59,7 +59,6 @@ _每日存檔 · 2026-07-24_
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/) — 將文本轉換成自然語音的合成器。
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — 三元權重 2-bit 量化的文生圖模型，主打極致輕量、可在低階硬體跑。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-nava/) — 百度 NAVA 文字／圖像生成影片模型（TI2V）。
 - [Sulphur-2（文字生成影片模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-2-base/) — 輸入文字提示，直接生成影片片段的擴散模型（pipeline: text-to-video）。
 - [Zyphra/ZONOS2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos2/) — ZONOS2 是一個文字轉語音的工具。

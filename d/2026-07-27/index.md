@@ -52,7 +52,6 @@ _每日存檔 · 2026-07-27_
 - [ostris/ideogram_4_turbotime_lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-ideogram-4-turbotime-lora/) — 基於LORA技術的文字轉影像模型，用於生成影像。
 - [Wan-AI/Wan-Dancer-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/) — 將影像轉換為動畫的模型，支援音樂生成舞蹈動作。
 - [thinkingmachines/Inkling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling/) — 將影像和文字轉換為純文本的對話式模型。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [mgwr/M87](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/) — 一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/) — 文字轉影像模型，使用擴散和流匹配技術生成影像。
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。

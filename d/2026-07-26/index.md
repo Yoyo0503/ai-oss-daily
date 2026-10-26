@@ -56,7 +56,6 @@ _每日存檔 · 2026-07-26_
 - [mgwr/M87](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/) — 一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/) — 文字轉影像模型，使用擴散和流匹配技術生成影像。
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
 - [Alissonerdx/LTX-Best-Face-ID](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/) — 將文字轉換為保留身份的影片，適用於Lora和ComfyUI。
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/) — 將文本轉換成自然語音的合成器。

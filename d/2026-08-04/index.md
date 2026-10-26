@@ -108,7 +108,6 @@ _每日存檔 · 2026-08-04_
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwaipilot-kat-coder-v2-5-dev/) — 基於 Qwen3_5_MoE 的程式碼生成器，能進行程式碼生成和代理操作。
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cinderholm-wan2-2-i2v-v3/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — 基於 Qwen 的多 token 預測模型，支援 gguf 格式。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacecode-stack-v3-train/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mia-ailab-qwable-3-6-27b/) — 模型推理／部署引擎，關鍵字：transformers、GGUF量化、推理（依標籤自動歸類，詳細看下方原文）
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-leanstral-1-5-119b-a6b/) — 基於 MistralAI 的大型語言模型，使用 vllm 技術。

@@ -117,7 +117,6 @@ _Daily archive · 2026-08-17_
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited_ocr
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
@@ -945,7 +944,7 @@ _Daily archive · 2026-08-17_
 - [Poechant/davinci-resolve-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/poechant-davinci-resolve-cli/) — A CLI for DaVinci Resolve 18+ — project / media / render / timeline control for humans and AI agents.
 - [rajpurkar/squad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rajpurkar-squad/) — · task_categories:question-answering, task_ids:extractive-qa, annotations_creators:crowdsourced
 - [tatsu-lab/alpaca](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tatsu-lab-alpaca/) — · task_categories:text-generation, language:en, license:cc-by-nc-4.0
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [AgriciDaniel/claude-ads](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-ads/) — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, Linke…
 - [worldwonderer/oh-story-claudecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-oh-story-claudecode/) — 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fict…
 - [kongyiji/face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kongyiji-face-swap/) — · gradio, region:us

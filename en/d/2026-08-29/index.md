@@ -131,7 +131,6 @@ _Daily archive · 2026-08-29_
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited_ocr
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
@@ -1239,7 +1238,7 @@ _Daily archive · 2026-08-29_
 - [EvoLinkAI/Seedance-2.0-Gateway-Service](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-seedance-2-0-gateway-service/) — Seedance 2.0 Gateway Service pricing, models, examples, text-to-video, image-to-video, and reference-to-video…
 - [nitrocloudofficial/nitrostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nitrocloudofficial-nitrostack/) — The full-stack TypeScript framework to build, test, and deploy production-ready MCP servers and AI-native app…
 - [fathah/hermes-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fathah-hermes-desktop/) — Desktop Companion for Hermes Agent
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/earthtojake-text-to-cad/) — A library of agent skills for CAD, CAE and CAM
 - [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fredyrivera-dev-claude-converter/) — A zero-dependency Python module for inspecting and converting coding-agent session files (.jsonl) — Claude Co…
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agent-field-reels-af/) — Automate viral reel/tik-tok videos via AI multi-agent system. ~$0.1/reel.

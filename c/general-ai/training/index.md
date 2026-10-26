@@ -37,9 +37,9 @@
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pnemrow-qwen-image-edit-rapid-aio-loras-experimental-neo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-SFT-SWE-v3.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-sft-swe-v3-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [jwuthri-cloud/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jwuthri-cloud-selfjev/) — 自建決策模型，提供與Jev相容的API，支援細調和強化學習。
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-qwen3-8-max-glm5-2-kimi-k3-distillation/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [jwuthri-cloud/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jwuthri-cloud-selfjev/) — 自建決策模型，提供與Jev相容的API，支援細調和強化學習。
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-mms-300m/) — 一個使用wav2vec2的轉換器模型，適用於多語言預訓練。
 - [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/akashpriyadarshii-jev-curate/) — 用於TypeSafe Jev的高吞吐量資料篩選工具，支援Parquet和JSONL格式。
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — 詳細介紹 LLM 微調方法（lora, qlora, unsloth）的教程。

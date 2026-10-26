@@ -1,11 +1,11 @@
 # AI OSS Daily — Today's Picks
 
-_Last updated: 2026-10-25 09:05 CST_
+_Last updated: 2026-10-26 09:05 CST_
 
+- [polaris-smart/mcd-agent-gourmet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polaris-smart-mcd-agent-gourmet/) — 麦当劳点餐 Skill：说一句「35 元、不辣、去冰」→ 一个答案 + 一张可复制的点单卡，金额只认官方 calculate-price 当次核价（同店同时刻 单品直选 ¥48.50 vs 三件套 ¥36.50，省 ¥…
 - [junxchan54-maker/mcd-cn-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/junxchan54-maker-mcd-cn-assistant/) — 🍟 麦当劳中国官方 MCP 智能助手技能：把 35 个原子工具编排成 4 条业务流 —— 活动推送 · 联名关注 · 最优惠点餐 · 多人群点聚合账单。算价用 calculate-price 真算，下单必二次确认。｜M…
 - [feder-cr/invisible_playwright_mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/feder-cr-invisible-playwright-mcp/) — Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth F…
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/illiahaidar-mcptrustchecker/) — Security scanner for MCP (Model Context Protocol) servers — reads the real published npm/PyPI source, not jus…
-- [polaris-smart/mcd-agent-gourmet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polaris-smart-mcd-agent-gourmet/) — 把菜单价换成官方当次核价：一句话说清预算和口味，给你一个答案 + 可复制的点单卡，并算清比另一种点法省多少钱（示例：单品直选 ¥48.50 vs 三件套 ¥36.50，省 ¥12.00/24.7%）。只读 MCP、零依…
 - [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jub0t-concat/) — Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [songconmaisaix31-design/mcpet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/songconmaisaix31-design-mcpet/) — 把写代码时的 AI 搭子换上麦当劳制服，养在桌面角落：11:30 喊你干饭、汇报最划算的券、用营养数据把关；跑长任务时同步项目进度与 token 余额。
 - [Ryze-AI-Adgent/open-seo-mcp-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ryze-ai-adgent-open-seo-mcp-skills/) — Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, bac…
@@ -13,19 +13,19 @@ _Last updated: 2026-10-25 09:05 CST_
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anthropics-skills/) — Public repository for Agent Skills
 - [morluto/rea](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/morluto-rea/) — Reverse engineer anything with agents, from app behavior down to native binaries.
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [Razshy/Wiggle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/razshy-wiggle/) — Wiggle is a sandbox to run code in
+- [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thedotmack-claude-mem/) — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, com…
 - [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — text-to-image · gguf, qwen, image-generation
 - [black-forest-labs/flux-3-image-klein-comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-3-image-klein-comfy/) — image-to-image · diffusion-single-file, comfyui, image-generation
 - [OpenMOSS-Team/MOSS-Image-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-image-sft/) — text-to-image · diffusers, safetensors, moss-image
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
 - [lodestones/Kromoss](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lodestones-kromoss/) — text-to-image · diffusers, safetensors, moss-image
-- [Cactus-Compute/whistle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-whistle/) — automatic-speech-recognition · cactus-needle, whistle, speech-recognition
+- [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-3-image-klein/) — image-to-image · diffusers, safetensors, image-generation
 - [Jakeschincariol/day-trader-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jakeschincariol-day-trader-skill/) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, a…
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/malcolmmcgough-polymarket-trading-bot-scalping/) — A high-perforomance automated trading bot for Polymarket's ultra-short crypto prediction markets - 5-minute a…
 - [ale2348/trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ale2348-trading-bot/) — A TypeScript versioned Polymarket Trading Bot for **Polymarket 5-minute crypto Up/Down** markets: **BTC, ETH,…
-- [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sher1096-klinepic-agent-api-examples/) — Tested MCP server, one-click MCPB bundle, Docker image, and OpenAPI examples for turning broker or exchange f…
-- [gprokaznik4-bit/CryptoGridMaster-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gprokaznik4-bit-cryptogridmaster-bot/) — CryptoGridMaster-Bot 是一個整合多個交易所 API 的加密貨幣交易機器人。
-- [gprokaznik4-bit/Solana-Jito-Bundler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gprokaznik4-bit-solana-jito-bundler/) — Solana-Jito-Bundler 是一個分散式交易捆綁器，防止先進攻擊。
+- [theinvinciblepanther/etf-rotation-paper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/theinvinciblepanther-etf-rotation-paper-bot/) — Community-driven algo trading bot with ETF rotation, realistic backtesting, out-of-sample evaluation
+- [KhulekanisiyandaMchunu/llm-trading-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/khulekanisiyandamchunu-llm-trading-arena/) — Live trading arena for LLM agents: public reasoning, real market data, virtual capital
+- [GouveRoger12/milan-capital](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gouveroger12-milan-capital/) — Milan-Capital: Autonomous Multi-Agent Equity Trading System with Pre-Registered Hypothesis Testing
 - [Fangx-AI/geo-doctor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fangx-ai-geo-doctor/) — GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Claude 为什么不推荐你，改资料、写内容、再复查。开源中英双语 GEO（生成式引擎优化）skill。
 - [zhuyansen/new-term-radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhuyansen-new-term-radar/) — Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and …
 - [TraceCohenTech/ai-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tracecohentech-ai-seo-playbook/) — The complete AI SEO playbook: methodology, scripts, and safety guards behind a 4.6M-impression content engine…
@@ -34,7 +34,7 @@ _Last updated: 2026-10-25 09:05 CST_
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [autotrust/GEV-26B-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-autotrust-gev-26b-decide/) — text-classification · transformers, safetensors, gemma4
 - [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash-1017/) — image-text-to-text · transformers, safetensors, deepseek_v41
-- [Comfy-Org/MOSS-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-moss-image/) — · diffusion-single-file, comfyui, base_model:OpenMOSS-Team/MOSS-Image-Base
 - [RecursiveSI/flint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-recursivesi-flint/) — text-generation · transformers, safetensors, flint
+- [Comfy-Org/MOSS-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-moss-image/) — · diffusion-single-file, comfyui, base_model:OpenMOSS-Team/MOSS-Image-Base
 - [openbmb/MiniCPM-V-4.7-35B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-v-4-7-35b-a3b/) — image-text-to-text · transformers, safetensors, minicpmv4_7
 - [autotrust/JEV-27B-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-autotrust-jev-27b-vl/) — image-text-to-text · transformers, safetensors, qwen3_5

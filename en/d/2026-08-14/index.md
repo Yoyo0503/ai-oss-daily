@@ -123,7 +123,6 @@ _Daily archive · 2026-08-14_
 - [Lynote/free-ai-detector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-free-ai-detector/) — · gradio, ai-detector, free-ai-detector
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
@@ -916,7 +915,7 @@ _Daily archive · 2026-08-14_
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/debpalash-omnivoice-studio/) — Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
 - [0x4m4/hexstrike-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0x4m4-hexstrike-ai/) — HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomous…
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-caveman/) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like cave…
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agent-field-reels-af/) — Automate viral reel/tik-tok videos via AI multi-agent system. ~$0.1/reel.
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-llmaker/) — Selfhost modern LLM stacks. Run the whole fleet from your terminal

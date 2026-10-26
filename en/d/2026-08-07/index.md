@@ -113,7 +113,6 @@ _Daily archive · 2026-08-07_
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — · safetensors, en, arxiv:2410.17196
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
@@ -791,7 +790,7 @@ _Daily archive · 2026-08-07_
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
 - [tt-a1i/archify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tt-a1i-archify/) — Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex,…
 - [londonstrategicedge/lse-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/londonstrategicedge-lse-data/) — Live and historical market data for: Stocks, FX, crypto, commodities, indices and ETFs over WebSocket and RES…
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibaba-yufeng-mma-safetybench/) — · license:cc-by-4.0, size_categories:n<1K, format:imagefolder
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-netflix-vera-layered-video-dataset/) — · task_categories:text-to-video, license:apache-2.0, size_categories:10K<n<100K
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/claudiodrews-memory-os/) — A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric …

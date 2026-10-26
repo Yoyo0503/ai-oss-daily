@@ -116,7 +116,6 @@ _每日存檔 · 2026-08-08_
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwaipilot-kat-coder-v2-5-dev/) — 基於 Qwen3_5_MoE 的程式碼生成器，能進行程式碼生成和代理操作。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — 基於 Qwen 的多 token 預測模型，支援 gguf 格式。
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/) — 一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。

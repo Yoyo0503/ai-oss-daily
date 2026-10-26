@@ -32,14 +32,15 @@
 - [hugging-apps/h3-world-action-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-h3-world-action-demo/) — · gradio, mcp-server, region:us
 - [hugging-apps/ardy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-ardy/) — · gradio, mcp-server, region:us
 - [LiquidAI/prompt-routing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-prompt-routing/) — · docker, region:us
+- [kulkas2pintu/wan777](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-wan777/) — · gradio, mcp-server, region:us
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-fireredaudio-tts-demo/) — · gradio, mcp-server, region:us
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-krafton-ax-k2-raon-speech-demo/) — · gradio, mcp-server, region:us
 - [GenAI4ELab/papercli-papers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-genai4elab-papercli-papers/) — · license:cc-by-4.0, size_categories:100K<n<1M, format:parquet
-- [kulkas2pintu/wan777](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-wan777/) — · gradio, mcp-server, region:us
 - [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dayona-morphix-studio-client/) — · static, region:us
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [JoasASantos/REA-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/joasasantos-rea-prompts/) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break dow…
 - [hugging-apps/unise-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-unise-speech-enhancement/) — · gradio, mcp-server, region:us
+- [JeffKeeping/dsh-purge-plus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jeffkeeping-dsh-purge-plus/) — dsh-purge 的非官方分支（fork）：适配 DeepSeek Harness 0.2.1-rc.2、破甲内核 v3、设置页 UI 重做 / unofficial fork of YuJunZhiXue/dsh-…
 - [2akouwu/reverify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/2akouwu-reverify/) — Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not…
 - [JonathanColetti/Qwen3.8-27B-Uncensored-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jonathancoletti-qwen3-8-27b-uncensored-demo/) — · gradio, mcp-server, region:us
 - [leosayer06/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-leosayer06-wan555/) — · gradio, mcp-server, region:us
@@ -72,20 +73,20 @@
 - [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [yexi-by/dsh-unrestricted](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yexi-by-dsh-unrestricted/) — DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用
 - [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pliny-the-prompter-obliteratus/) — · gradio, abliteration, mechanistic-interpretability
-- [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skill-recorder/) — Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an …
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-caveman/) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like cave…
+- [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skill-recorder/) — Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an …
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-clickygpt-nsfw-z-image-turbo/) — · gradio, region:us
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [lixiaoxiao9888-create/short-drama-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lixiaoxiao9888-create-short-drama-factory/) — 🎬 Short-Drama Factory v4.9.1 · 抖音/红果爆款短剧工业化编剧超级系统 | 一句创意/一部网文 → 标准60-100集·长档30-50集·漫剧带付费墙剧本 | v4.9 强画面支撑+15秒换…
 - [Prysai/Prysai-LLM-Playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prysai-prysai-llm-playbook/) — An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for C…
-- [dacnay816y62-hub/photo-revival](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dacnay816y62-hub-photo-revival/) — Codex skill for turning everyday photos into poetic white-paper hand-drawn illustrations.
 - [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alistaitsacle-free-llm-api-keys/) — Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No cred…
+- [dacnay816y62-hub/photo-revival](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dacnay816y62-hub-photo-revival/) — Codex skill for turning everyday photos into poetic white-paper hand-drawn illustrations.
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thysrael-horizon/) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [NateBJones-Projects/OB1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/natebjones-projects-ob1/) — Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any…
-- [snflkd/fluent-korean](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/snflkd-fluent-korean/) — Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean
 - [Open-Less/openless](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-less-openless/) — Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for …
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/red-ead-flowblock/) — FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models
 - [dwgx/WindsurfAPI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dwgx-windsurfapi/) — Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, …
+- [snflkd/fluent-korean](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/snflkd-fluent-korean/) — Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean
 - [Raymondhou0917/speak-human-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raymondhou0917-speak-human-tw/) — 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/filiksyos-gitreverse/) — Reverse engineer any repo into it's original prompt
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.

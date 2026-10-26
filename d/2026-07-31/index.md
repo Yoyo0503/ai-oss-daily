@@ -91,7 +91,6 @@ _每日存檔 · 2026-07-31_
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — JetBrains Mellum2 程式碼模型（12B MoE，A2.5B 啟用，含思考鏈，專為寫程式）。
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacecode-stack-v3-train/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — 一個輕量級的文本生成模型，支援量化和GGUF格式。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1-q4-k-m-gguf/) — AI Agent 框架／編排工具，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — 將各種資料型別轉換為文本的模型。
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-upstage-solar-open2-250b/) — 一個大型語言模型，用於生成文本，具有強大的語義理解和生成能力。

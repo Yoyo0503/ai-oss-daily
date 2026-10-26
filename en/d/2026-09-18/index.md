@@ -150,7 +150,6 @@ _Daily archive · 2026-09-18_
 - [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-5-mini/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
@@ -1642,7 +1641,7 @@ _Daily archive · 2026-09-18_
 - [wildminder/awesome-ai-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wildminder-awesome-ai-voice/) — List of open-source TTS, voice cloning, and music generation models
 - [momori777/Artemis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/momori777-artemis/) — 破限本地AI女友后宫，Agent+画图语音向量数据库+live2D+桌宠+酒馆角色卡导入+webchat，QQ+Telegram双通道，8G显存可跑 uncensored Fully offline AI girlfr…
 - [Syh1906/openai-compatible-imagegen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syh1906-openai-compatible-imagegen/) — Standalone Skill and Codex Plugin for OpenAI-compatible image generation, editing, batch workflows, QA, and f…
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/philolabs-agentic-vbench/) — AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
 - [mukul975/cve-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mukul975-cve-mcp-server/) — Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS sc…
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/filiksyos-gitreverse/) — Reverse engineer any repo into it's original prompt

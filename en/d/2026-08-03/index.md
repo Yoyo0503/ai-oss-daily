@@ -102,7 +102,6 @@ _Daily archive · 2026-08-03_
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacecode-stack-v3-train/) — · task_categories:text-generation, language_creators:crowdsourced, language_creators:expert-generated
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
@@ -712,7 +711,7 @@ _Daily archive · 2026-08-03_
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lerobot-visualize-dataset/) — · docker, region:us
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-higgs-v3-tts-comfyui/) — ComfyUI nodes for higgs-audio-v3-tts-4b multilingual (100 languages) conversational TTS, zero-shot voice clon…
 - [mediago-dev/mediago-drama](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mediago-dev-mediago-drama/) — 小说改短剧，从文本到视频的一站式 Agent 工作台。
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [blader/humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blader-humanizer/) — Agent skill that removes signs of AI-generated writing from text
 - [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kadevin-ilab-conjure/) — 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队…
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-autonomous-vehicles/) — · license:other, region:us

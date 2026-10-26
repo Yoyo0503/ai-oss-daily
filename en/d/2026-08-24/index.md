@@ -131,7 +131,6 @@ _Daily archive · 2026-08-24_
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — · mlx, jinja, chat-template
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [openbmb/Ultra-FineWeb-L1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultra-fineweb-l1/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
@@ -1124,7 +1123,7 @@ _Daily archive · 2026-08-24_
 - [lmsys/lmsys-chat-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lmsys-lmsys-chat-1m/) — · size_categories:1M<n<10M, format:parquet, modality:text
 - [Loklokguo/Pixelle-Video-HappyHorse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/loklokguo-pixelle-video-happyhorse/) — 🎬 AI全自动短视频引擎 — 基于 Pixelle-Video，新增 HappyHorse (DashScope) 云端文生视频。无需GPU，输入主题一键生成完整视频。Apache 2.0。
 - [AbsolutelySkilled/AbsolutelySkilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/absolutelyskilled-absolutelyskilled/) — Awesome Skills from Around the World
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [vatsbjn/nsfw-img2img](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vatsbjn-nsfw-img2img/) — · gradio, region:us
 - [ruvnet/agenticow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruvnet-agenticow/) — Git for Agent Memory: Copy-On-Write vector branching for embedded multi-agent memory (83x faster, 3000x small…
 - [yaojingang/GEOFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-geoflow/) — Open-source GEO content engineering and multi-site distribution system with AI tasks, RAG/semantic chunking, …

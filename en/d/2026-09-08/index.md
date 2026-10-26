@@ -146,7 +146,6 @@ _Daily archive · 2026-09-08_
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited_ocr
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
@@ -1558,7 +1557,7 @@ _Daily archive · 2026-09-08_
 - [wildminder/awesome-ai-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wildminder-awesome-ai-voice/) — List of open-source TTS, voice cloning, and music generation models
 - [study8677/awesome-architecture](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/study8677-awesome-architecture/) — 🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases…
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/philolabs-agentic-vbench/) — AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/filiksyos-gitreverse/) — Reverse engineer any repo into it's original prompt
 - [moss-site/moss-trade-bot-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moss-site-moss-trade-bot-skills/) — LLM-powered trading agents that turn plain natural language into a five-pillar strategy: Trend, Mean-Reversio…
 - [uber/ADR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/uber-adr/) — ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed…

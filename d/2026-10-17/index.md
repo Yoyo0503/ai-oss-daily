@@ -209,7 +209,6 @@ _每日存檔 · 2026-10-17_
 - [multimodalart/jev-decision-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — 經過特殊調整的影像文字轉換模型。
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — 基於 ComfyUI 和 MiniMax H3 的圖文生成模型，支援 NVFP4 格式。
@@ -1398,7 +1397,6 @@ _每日存檔 · 2026-10-17_
 - [citrolabs/ego-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/) — 用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。
 - [Panniantong/Agent-Reach](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/panniantong-agent-reach/) — 讓 AI 代理可以瀏覽整個網際網路，支援多平臺無費率 API 查詢。
 - [astropuzzo/ComfyUI-MiniMax-H3-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/astropuzzo-comfyui-minimax-h3-image-studio/) — 實驗性AI編輯工具，用於MiniMax H3的影像轉換和編輯。
-- [rookiestar28/ComfyUI-MiniMaxH3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rookiestar28-comfyui-minimaxh3-studio/) — 在 ComfyUI 中直接操作 MiniMax H3，輸入想法，輸出完成的影片。
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/felixmelanson-quantdrift/) — 追蹤 7 個 AI 模型用不同哲學操作真實股票組合（開發中）。
 - [ChartGalaxy/ChartGalaxy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-chartgalaxy-chartgalaxy/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [xpzouying/xiaohongshu-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xpzouying-xiaohongshu-mcp/) — 小紅書的MCP伺服器。

@@ -148,7 +148,6 @@ _Daily archive · 2026-09-11_
 - [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr/) — image-text-to-text · transformers, safetensors, unlimited_ocr
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — image-text-to-text · gguf, MTP GGUFS, Regular GGUFS
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — · comfyui, minimax-h3, text-encoder
@@ -1426,7 +1425,7 @@ _Daily archive · 2026-09-11_
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thysrael-horizon/) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [lexlex47/game-art-prompt-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lexlex47-game-art-prompt-kit/) — Reusable prompt profiles for game art, pixel spritesheets, character concepts, and 2D environments.
 - [0xNyk/council-of-high-intelligence](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xnyk-council-of-high-intelligence/) — 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman,…
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [begin0808/VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/begin0808-voxcpm2/) — 基於 OpenBMB VoxCPM2 模型的離線語音合成與聲音複製桌面工作站（支援即時錄音、語音設計與極限複製） An offline desktop workstation GUI for VoxCPM2 voice…
 - [uber/ADR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/uber-adr/) — ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed…
 - [universal-tool-calling-protocol/code-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/universal-tool-calling-protocol-code-mode/) — 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.

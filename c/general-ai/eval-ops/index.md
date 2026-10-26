@@ -8,8 +8,8 @@
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zouhar-last-translation-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prometheus-eval/into-the-unknown](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-prometheus-eval-into-the-unknown/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/folkbench-folkbench/) — 評測AI API的實用性、延遲和價格的開源工具。
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/folkbench-folkbench/) — 評測AI API的實用性、延遲和價格的開源工具。
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-treble-technologies-ffasr/) — Hugging Face 示範應用(Space)，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-cosmos-humaneval-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TIGER-Lab/MMLU-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tiger-lab-mmlu-pro/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

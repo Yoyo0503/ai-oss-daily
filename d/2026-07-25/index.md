@@ -58,7 +58,6 @@ _每日存檔 · 2026-07-25_
 - [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。
 - [Alissonerdx/LTX-Best-Face-ID](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/) — 將文字轉換為保留身份的影片，適用於Lora和ComfyUI。
 - [zai-org/SCAIL-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zai-org-scail-2/) — 將影像轉換為動畫影片的AI模型，適用於角色動畫和影片生成。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [MisoLabs/MisoTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-misolabs-misotts/) — 將文本轉換成自然語音的合成器。
 - [prism-ml/bonsai-image-ternary-4B-gemlite-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-image-ternary-4b-gemlite-2bit/) — 三元權重 2-bit 量化的文生圖模型，主打極致輕量、可在低階硬體跑。
 - [baidu/NAVA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-nava/) — 百度 NAVA 文字／圖像生成影片模型（TI2V）。

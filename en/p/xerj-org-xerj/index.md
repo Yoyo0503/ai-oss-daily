@@ -4,5 +4,5 @@ Local-first search engine and MCP server for AI agents. One Rust binary indexes 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：15,300
+**Stars**：15,570
 **Source**：https://github.com/xerj-org/xerj

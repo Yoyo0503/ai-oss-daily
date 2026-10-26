@@ -206,7 +206,6 @@ _每日存檔 · 2026-10-16_
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
 - [multimodalart/jev-decision-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — 經過特殊調整的影像文字轉換模型。
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — 基於 ComfyUI 和 MiniMax H3 的圖文生成模型，支援 NVFP4 格式。
@@ -1386,7 +1385,6 @@ _每日存檔 · 2026-10-16_
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/) — 自動化生成類似 Vox 風格的紙拼貼解說影片。
 - [citrolabs/ego-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/) — 用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。
 - [LodyAI/Lody](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lodyai-lody/) — 在手機和桌面上與團隊分享編碼代理。
-- [rookiestar28/ComfyUI-MiniMaxH3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rookiestar28-comfyui-minimaxh3-studio/) — 在 ComfyUI 中直接操作 MiniMax H3，輸入想法，輸出完成的影片。
 - [Panniantong/Agent-Reach](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/panniantong-agent-reach/) — 讓 AI 代理可以瀏覽整個網際網路，支援多平臺無費率 API 查詢。
 - [wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenqi9115-glitch-systematic-etf-relative-strength-alpha-attribution/) — 系統化 ETF 相對強度研究及套利組合構建工具。
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。

@@ -108,7 +108,6 @@ _Daily archive · 2026-08-04_
 - [Kwaipilot/KAT-Coder-V2.5-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kwaipilot-kat-coder-v2-5-dev/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cinderholm-wan2-2-i2v-v3/) — · gradio, mcp-server, region:us
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacecode-stack-v3-train/) — · task_categories:text-generation, language_creators:crowdsourced, language_creators:expert-generated
 - [Mia-AiLab/Qwable-3.6-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mia-ailab-qwable-3-6-27b/) — · transformers, gguf, qwen
 - [mistralai/Leanstral-1.5-119B-A6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-leanstral-1-5-119b-a6b/) — · vllm, base_model:mistralai/Leanstral-2603, base_model:finetune:mistralai/Leanstral-2603
@@ -734,7 +733,7 @@ _Daily archive · 2026-08-04_
 - [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
 - [OpenCPIL/prima.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opencpil-prima-cpp/) — [Official] Prima.cpp: Scale Your Local AI Beyond One Device.
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [OtterMind/Nubase](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ottermind-nubase/) — 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, …
 - [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kadevin-ilab-conjure/) — 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队…
 - [mediago-dev/mediago-drama](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mediago-dev-mediago-drama/) — 小说改短剧，从文本到视频的一站式 Agent 工作台。

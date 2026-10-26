@@ -5,7 +5,6 @@ _每日存檔 · 2026-07-22_
 ## 🆕 新上榜
 
 - [poolside/Laguna-S-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1/) — Laguna-S-2.1 是一個基於轉換器的文本生成模型，適用於對話式應用。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [Vincentwei1021/video-shotcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-video-shotcraft/) — video-shotcraft 是用於Claude Code和Codex的AI影片技能，提供電影級產品宣傳片模板。
 - [nvidia/Cosmos3-Edge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-edge/) — Cosmos3-Edge 是NVIDIA開發的一個基於diffusers的模型。
 - [Kuberwastaken/megaphone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kuberwastaken-megaphone/) — megaphone 是一個免費、私人的Mac語音轉文字應用，使用Apple SpeechAnalyzer和Foundation Models。
@@ -16,6 +15,7 @@ _每日存檔 · 2026-07-22_
 - [inkeep/open-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inkeep-open-knowledge/) — open-knowledge 是一個基於AI的Markdown IDE和LLM知識庫。
 - [deeplethe/forkd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-forkd/) — 用於AI代理的微虛擬機器系統，可在毫秒級快速複製和分支活躍虛擬機器。
 - [Echo-Team-Joy-Future-Academy-JD/Echo-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/echo-team-joy-future-academy-jd-echo-memory/) — 具有記憶功能的簡單基線影片世界模型。
+- [kitaki-Ciallo/etf-national-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kitaki-ciallo-etf-national-tracker/) — 追蹤國家隊持倉ETF變動及十大持有人動態，提供量化看板。
 
 ## 🚀 Star 竄升
 
@@ -124,7 +124,6 @@ _每日存檔 · 2026-07-22_
 - [Comfy-Org/Krea-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-krea-2/) — Krea-2 文字轉影像模型。
 - [Cseti/LTX2.3-22B_IC-LoRA-CrossView-Prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cseti-ltx2-3-22b-ic-lora-crossview-prompt/) — 基於 LoRA 技術生成影片，支援多角度合成。
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [mradermacher/Mythos-nano-i1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mradermacher-mythos-nano-i1-gguf/) — 一個基於轉換器的推理模型，支援GGUF格式。
 - [InternScience/Agents-A1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1/) — 基於 Qwen3_5_MoE 模型的對話式文本生成系統。
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/) — AI 相關專案，關鍵字：擴散模型（依標籤自動歸類，詳細看下方原文）

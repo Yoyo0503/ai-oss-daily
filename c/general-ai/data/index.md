@@ -13,7 +13,7 @@
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lerobot-visualize-dataset/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [rajpurkar/squad](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rajpurkar-squad/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-fleurs/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CohereLabsCommunity/CulturalRiddles](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-coherelabscommunity-culturalriddles/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-fleurs/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CloakHQ/CloakBrowser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cloakhq-cloakbrowser/) — 隱形 Chromium 瀏覽器，通過所有機器人檢測測試，可替代 Playwright。
 - [NU-World-Model-Embodied-AI/phyground](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nu-world-model-embodied-ai-phyground/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -11,13 +11,13 @@
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-models-muse-glimmer-30b/) — image-text-to-text · transformers, safetensors, muse_glimmer
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-diffusiongemma-26b-a4b-it/) — image-text-to-text · transformers, safetensors, diffusion_gemma
 - [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-stepfun-ai-step-3-7-flash/) — image-text-to-text · transformers, safetensors, step3p7
+- [ornith-ai/Ornith-1.5-122B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ornith-ai-ornith-1-5-122b/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [PSRben/VisionHOPE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-psrben-visionhope/) — image-classification · computer-vision, pytorch, visionhope
 - [LiquidAI/d1-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-d1-3b/) — image-text-to-text · transformers, safetensors, lfm2_vl
-- [microsoft/Mage-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-vl/) — image-text-to-text · transformers, safetensors, mage_vl
 - [datalab-to/indra-ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-datalab-to-indra-ocr/) — image-to-text · onnx, safetensors, indra-ocr
+- [microsoft/Mage-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-vl/) — image-text-to-text · transformers, safetensors, mage_vl
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
-- [ornith-ai/Ornith-1.5-122B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ornith-ai-ornith-1-5-122b/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [google/embeddinggemma-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-embeddinggemma-2/) — feature-extraction · transformers, safetensors, embedding_gemma2
 - [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nex-agi-nex-n2-5-mini/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [akhilaaa3/Jev-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akhilaaa3-jev-omni/) — text-classification · transformers, safetensors, gemma4_unified

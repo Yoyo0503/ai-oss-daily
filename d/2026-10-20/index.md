@@ -209,7 +209,6 @@ _每日存檔 · 2026-10-20_
 - [google/timesfm-3.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/) — Google 的 timesfm 模型，用於時間序列預測。
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — 經過特殊調整的影像文字轉換模型。
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
 - [sakamakismile/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sakamakismile-qwen3-vl-32b-heretic-minimax-h3-nvfp4/) — 基於 ComfyUI 和 MiniMax H3 的圖文生成模型，支援 NVFP4 格式。
@@ -1460,7 +1459,6 @@ _每日存檔 · 2026-10-20_
 - [LodyAI/Lody](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lodyai-lody/) — 在手機和桌面上與團隊分享編碼代理。
 - [yusufkaraaslan/Skill_Seekers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yusufkaraaslan-skill-seekers/) — 將文件網站、GitHub存庫和PDF轉換為Claude AI技能，自動檢測衝突。
 - [pyang5166/gbro-collage-broll](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pyang5166-gbro-collage-broll/) — 生成半調紙拼貼 B-roll 的技能，使用 Gemini Omni Flash 技術。
-- [rookiestar28/ComfyUI-MiniMaxH3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rookiestar28-comfyui-minimaxh3-studio/) — 在 ComfyUI 中直接操作 MiniMax H3，輸入想法，輸出完成的影片。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-voxcpm-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。

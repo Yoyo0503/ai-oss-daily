@@ -83,7 +83,6 @@ _Daily archive · 2026-07-30_
 - [openbmb/MiniCPM-RobotManip](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-robotmanip/) — robotics · transformers, safetensors, minicpm_vla
 - [nvidia/diffusiongemma-26B-A4B-it-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-diffusiongemma-26b-a4b-it-nvfp4/) — text-generation · safetensors, diffusion_gemma, nvidia
 - [open-gigaai/Giga-World-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-open-gigaai-giga-world-1/) — · diffusers, safetensors, license:apache-2.0
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-2-0/) — text-generation · LongCat-2.0, safetensors, transformers
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
@@ -669,7 +668,7 @@ _Daily archive · 2026-07-30_
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saadansha-crypto-trading-bot-v2/) — Cryptocurrency Trading Bot: For Binance, Bybit, Bitfinex, BitMEX... (Production Version)
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, …
 - [reikwei/gu-piao-yu-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/reikwei-gu-piao-yu-ce/) — 股票预测项目,mvp版。期待openai给予额度、GPT加油。
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-neuralfalcon-remove-silence-from-audio/) — · gradio, region:us
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/enping-hu-minimind-deep-dive/) — 从 MiniMind 源码读起,再延伸到现代大模型技术体系的中文学习笔记。主线逐行精读预训练 / SFT / DPO / PPO / GRPO 与训练机制;附录 17 篇进阶卷覆盖量化、投机解码、RLHF 全景、模型代…
 - [FrancoisRost1/mini-bloomberg-terminal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/francoisrost1-mini-bloomberg-terminal/) — Unified investment research terminal. Integrates 10 standalone financial engines (LBO, PE screener, factor mo…

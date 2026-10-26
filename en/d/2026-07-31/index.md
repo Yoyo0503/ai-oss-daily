@@ -91,7 +91,6 @@ _Daily archive · 2026-07-31_
 - [JetBrains/Mellum2-12B-A2.5B-Thinking](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jetbrains-mellum2-12b-a2-5b-thinking/) — text-generation · transformers, safetensors, mellum
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacecode-stack-v3-train/) — · task_categories:text-generation, language_creators:crowdsourced, language_creators:expert-generated
 - [GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gnlolot-minicpm5-1b-claude-opus-fable5-thinking-gguf/) — text-generation · gguf, llama.cpp, quantized
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
@@ -685,7 +684,7 @@ _Daily archive · 2026-07-31_
 - [cais/mmlu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-mmlu/) — · task_categories:question-answering, task_ids:multiple-choice-qa, annotations_creators:no-annotation
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saadansha-crypto-trading-bot-v2/) — Cryptocurrency Trading Bot: For Binance, Bybit, Bitfinex, BitMEX... (Production Version)
 - [Mcp-Brasil/mcp-brasil](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mcp-brasil-mcp-brasil/) — MCP Server para 70 APIs públicas brasileiras
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [aliang2052/aliang-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aliang2052-aliang-skills/) — 阿亮开源的 Skills 合集：短剧成片 / 电商详情图 / 儿童故事 / 有声绘本 / 配音 / 多人播客。一句话触发，AI 走完整 AIGC 流程。
 - [black-forest-labs/FLUX.2-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-black-forest-labs-flux-2-dev/) — · gradio, region:us
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madeval-ferryai/) — Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process…

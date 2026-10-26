@@ -208,7 +208,6 @@ _每日存檔 · 2026-10-18_
 - [google/timesfm-3.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/) — Google 的 timesfm 模型，用於時間序列預測。
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-2-3b/) — Nanbeige4.2-3B 是一個基於轉換器的文本生成模型，適用於對話式應用。
 - [DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-the-defiant-fable-uncensored-heretic-neo-imatrix-max-mtp-gguf/) — 經過特殊調整的影像文字轉換模型。
 - [hugging-apps/bfs-best-face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-bfs-best-face-swap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — 支援長上下文和程式設計的程式碼生成模型。
@@ -1434,7 +1433,6 @@ _每日存檔 · 2026-10-18_
 - [shoal-rat/quant-research-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shoal-rat-quant-research-lab/) — 自動化量化研究辦公室，帶有動態桌面桌布功能。
 - [yanun0323/Whallm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanun0323-whallm/) — DeepSeek-V4-Flash 和 Qwen3.8-Next-FP8 在 Mac 上進行低記憶體推論
 - [wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenqi9115-glitch-systematic-etf-relative-strength-alpha-attribution/) — 系統化 ETF 相對強度研究及套利組合構建工具。
-- [rookiestar28/ComfyUI-MiniMaxH3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rookiestar28-comfyui-minimaxh3-studio/) — 在 ComfyUI 中直接操作 MiniMax H3，輸入想法，輸出完成的影片。
 - [truefoundry/trueforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/truefoundry-trueforge/) — 用於將大型語言模型轉換為工作的代理程式執行環境。
 - [AMAP-ML/LongHorizon-Harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amap-ml-longhorizon-harness/) — 長時間執行AI代理的工具，保持任務狀態並可靠地完成複雜工作流程。
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saadansha-crypto-trading-bot-v2/) — 適用於多個交易所的加密貨幣交易機器人。

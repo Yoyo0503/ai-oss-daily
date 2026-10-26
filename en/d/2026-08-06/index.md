@@ -113,7 +113,6 @@ _Daily archive · 2026-08-06_
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-obliteratus-gemma-4-12b-obliterated/) — text-generation · transformers, safetensors, gguf
 - [XYZAILab/XYZ-Aquila-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xyzailab-xyz-aquila-sft/) — · task_categories:text-generation, task_categories:question-answering, language:en
-- [Nanbeige/Nanbeige4.2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-2-3b/) — text-generation · transformers, safetensors, nanbeige
 - [XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xiaomimimo-mimo-v2-5-pro-fp4-dflash/) — text-generation · transformers, safetensors, mimo_v2
 - [bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytkim-qwen3-6-27b-mtp-pi-tune-gguf/) — text-generation · gguf, llama.cpp, qwen
 - [upstage/Solar-Open2-250B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-upstage-solar-open2-250b/) — text-generation · transformers, safetensors, solar_open2
@@ -773,7 +772,7 @@ _Daily archive · 2026-08-06_
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phuryn-pm-skills/) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, la…
 - [OtterMind/Nubase](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ottermind-nubase/) — 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, …
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
-- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or loc…
+- [OpenOSINT/OpenOSINT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openosint-openosint/) — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligen…
 - [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pliny-the-prompter-obliteratus/) — · gradio, abliteration, mechanistic-interpretability
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-higgs-v3-tts-comfyui/) — ComfyUI nodes for higgs-audio-v3-tts-4b multilingual (100 languages) conversational TTS, zero-shot voice clon…
 - [Liu-Ming-Yu/alpha-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liu-ming-yu-alpha-forge/) — Alpha Forge — an agentic AI operating system for systematic trading.
