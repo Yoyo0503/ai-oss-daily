@@ -464,7 +464,6 @@ _每日存檔 · 2026-06-29_
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chiennv2000-orthrus/) — 快速、無損的大語言模型推論，通過雙檢視擴散解碼實現。
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bladedevoff-studiomi300/) — 導演 agent＋視覺評審＋圖像/影片/音樂/語音模型，全跑在單張 AMD Instinct。
 - [daisy-engine（AI 編排平台）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daisy-workflow-daisy-engine/) — AI 編排(orchestration)平台。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/) — 本地優先的超級工作代理，快速學習並記住工作上下文。
 - [AI 商業行銷技能包（雙語）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minhnv0807-ai-business-skills/) — 63 個雙語(越南/全球) AI 行銷技能，支援 Claude Code、OpenCode、Codex 等。
 - [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromedevtools-chrome-devtools-mcp/) — 用於程式設計代理的Chrome開發者工具外掛。

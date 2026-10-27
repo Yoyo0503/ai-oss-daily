@@ -632,7 +632,6 @@ _每日存檔 · 2026-07-25_
 - [rookiestar28/ComfyUI-LongCat-Avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rookiestar28-comfyui-longcat-avatar/) — 用於生成長尾貓影片頭像的 ComfyUI 自定義節點，支援 macOS 和 Apple Silicon MLX 測試。
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raiyanyahya-llmaker/) — 現代大語言模型堆疊的自我主控工具，可在終端機上執行整個模型群組。
 - [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/runapi-ai-mcp/) — RunAPI 的模型發現和價格查詢伺服器，提供 LLM 聊天功能。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [Rath-Team/OpenRath](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rath-team-openrath/) — 開源、類似PyTorch的工作流程執行時環境，適用於多代理和多會話。
 - [derek-zhuolin/interflow-video-cut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/derek-zhuolin-interflow-video-cut/) — 將口播影片自動剪輯成卡片式影片，支援多種視覺風格與佈局。

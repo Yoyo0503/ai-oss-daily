@@ -371,7 +371,6 @@ _每日存檔 · 2026-06-19_
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chiennv2000-orthrus/) — 快速、無損的大語言模型推論，通過雙檢視擴散解碼實現。
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-open-swe-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CIntellifusion/MultiWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cintellifusion-multiworld/) — 多智慧體多視角世界的擴充套件模型。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [egalano/build-a-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egalano-build-a-skill/) — 互動教程，指導你如何在約20分鐘內為 Claude 建立技能。
 - [PatterAI/Patter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/patterai-patter/) — 開源語音 AI SDK，Vapi/Retell 的自主可控替代品（自建語音對話）。
 - [RockeyCoss/LeapAlign_Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rockeycoss-leapalign-code/) — CVPR2026：通過建立兩步軌跡進行訓練後的流匹配模型。

@@ -872,7 +872,6 @@ _Daily archive · 2026-08-18_
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibaba-yufeng-mma-safetybench/) — · license:cc-by-4.0, size_categories:n<1K, format:imagefolder
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-netflix-vera-layered-video-dataset/) — · task_categories:text-to-video, license:apache-2.0, size_categories:10K<n<100K
 - [RudySen/comfyui-muse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rudysen-comfyui-muse/) — Local LLM chat panel for ComfyUI — LM Studio & Ollama, multi-session, vision support, Guide Materials
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [google/mantis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/google-mantis/) — A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabili…
 - [team-reflect/reflect-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/team-reflect-reflect-open/) — Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 - [myc0576/SmartMoney-Cub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/myc0576-smartmoney-cub/) — Read-only AI trading companion harness for decision logging, D1/D3 review, and rule evolution.

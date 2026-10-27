@@ -237,7 +237,6 @@ _每日存檔 · 2026-09-30_
 - [mradermacher/Mythos-nano-i1-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mradermacher-mythos-nano-i1-gguf/) — 一個基於轉換器的推理模型，支援GGUF格式。
 - [InternScience/Agents-A1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internscience-agents-a1/) — 基於 Qwen3_5_MoE 模型的對話式文本生成系統。
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/) — AI 相關專案，關鍵字：擴散模型（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [unsloth/Inkling-Small-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-inkling-small-gguf/) — 基於影像和文字生成文字的對話式模型。
 - [Comfy-Org/Boogu-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/) — 一個基於 ComfyUI 的影像生成工具。
@@ -1222,7 +1221,6 @@ _每日存檔 · 2026-09-30_
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibaba-yufeng-mma-safetybench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。

@@ -177,7 +177,6 @@ _Daily archive · 2026-06-03_
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bladedevoff-studiomi300/) — Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by
 - [PatterAI/Patter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/patterai-patter/) — Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI ag…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [daisy-workflow/daisy-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daisy-workflow-daisy-engine/) — AI orchestration platform
 - [minhnv0807/ai-business-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minhnv0807-ai-business-skills/) — 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SO…
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/earthtojake-text-to-cad/) — A library of agent skills for CAD, CAE and CAM

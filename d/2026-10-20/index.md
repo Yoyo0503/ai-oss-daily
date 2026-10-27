@@ -498,7 +498,6 @@ _每日存檔 · 2026-10-20_
 - [jasperai/t2i-technical-interactive-report](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jasperai-t2i-technical-interactive-report/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-claude-protein-binder-design/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [linoyts/Qwen-Image-2.1-Move](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-qwen-image-2-1-move/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-field-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [agent-collaborations/hutter-prize-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-agent-collaborations-hutter-prize-dashboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prism-ml/Ternary-Bonsai-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prism-ml-ternary-bonsai-27b-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1375,7 +1374,6 @@ _每日存檔 · 2026-10-20_
 - [Spielewoy/autoprompt-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spielewoy-autoprompt-skill/) — 自動提示技能，減少代理程式碼任務失敗率。
 - [BaYue-SYJ/shuixian-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bayue-syj-shuixian-prompts/) — 水仙的AI繪畫提示詞庫，涵蓋多種主流生圖模型，提供檢索、分類及一鍵複製功能。
 - [KKKKhazix/sun-style-writing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-sun-style-writing/) — 從孫割19年白月光的痛徹心扉中蒸餾出的文學寫作心法。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/) — 將技術書籍轉換為可學習、參考和使用的 AI 技能。
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-hle/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [trailhq/Trail-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/trailhq-trail-code/) — 加速 Claude Code 和其他程式設計代理的效能，降低成本。

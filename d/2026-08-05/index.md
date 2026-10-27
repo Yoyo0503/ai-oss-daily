@@ -701,7 +701,6 @@ _每日存檔 · 2026-08-05_
 - [LoganBooker/SesquiLSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loganbooker-sesquilsr/) — 支援SDXL等模型的任意比例上取樣器，包含ComfyUI節點和預訓練權重。
 - [Qwen/Qwen3-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-qwen-qwen3-tts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [google/mantis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-mantis/) — 模組化安全審查工具包，讓AI編碼代理自主查詢、重現並修復漏洞。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [200lz/llm-inference-optimization-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/200lz-llm-inference-optimization-lab/) — 可重現的 llama.cpp CPU 推理分析和確定性 LLM 伺服器模擬工具。
 - [databricks/databricks-dolly-15k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-databricks-databricks-dolly-15k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。

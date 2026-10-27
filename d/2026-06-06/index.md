@@ -193,7 +193,6 @@ _每日存檔 · 2026-06-06_
 - [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gvkhosla-pi-tinker/) — 使用 Tinker 在 Pi 中微調開放原始碼模型的工具。
 - [codex-seo（Codex 優先 SEO 套件）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-codex-seo/) — Codex 優先的 SEO 技能套件：26 個工作流、24 個 TOML agent，串接 DataForSEO/Gemini/Google。
 - [calesthio/OpenMontage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/) — 號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/) — Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juanjuandog-finsight-ai/) — 具備堅韌工作流程的AI股權研究代理。
 - [reikwei/gu-piao-yu-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/reikwei-gu-piao-yu-ce/) — 股票預測專案，使用FastAPI和量化金融技術。

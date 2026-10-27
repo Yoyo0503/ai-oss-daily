@@ -266,7 +266,6 @@ _每日存檔 · 2026-09-29_
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — 用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。
 - [Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [ATH-MaaS/OvisOCR2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/) — 將影像文字轉換為純文本的 OCR 模型，支援多種檔案格式解析。
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hotdogs/qwen3.6-27b-fable5-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hotdogs-qwen3-6-27b-fable5-lora/) — 使用LoRA技術訓練的文本生成模型，適用於程式碼生成和對話。
 - [baseten/GLM-5.2-Vision-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/) — 圖文轉文字模型，支援多模態和對話功能。
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
@@ -1201,7 +1200,6 @@ _每日存檔 · 2026-09-29_
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/) — PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。

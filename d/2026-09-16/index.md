@@ -1016,7 +1016,6 @@ _每日存檔 · 2026-09-16_
 - [Ali-hey-0/audio-ai-field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ali-hey-0-audio-ai-field-guide/) — 從原始波形到生產語音系統的音訊 AI 應用指南，涵蓋 ASR、TTS 和音訊分類等。
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ggml-org-gguf-my-repo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [dnv2003/v100-skinny](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dnv2003-v100-skinny/) — 在Tesla V100上最佳化的Qwen3.6-27B模型。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-ribbi-velocut/) — 本地優先的AI影片編輯器，支援瀏覽器內執行。
 - [0xShug0/audio.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xshug0-audio-cpp/) — audio.cpp 是一個基於 C++ 的音訊模型推理引擎，支援 TTS、STT、VAD 等。
 - [khakhasshi/LLM_QUANT_FACTORY](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/khakhasshi-llm-quant-factory/) — 可審計的多代理量化研究和回測平臺。

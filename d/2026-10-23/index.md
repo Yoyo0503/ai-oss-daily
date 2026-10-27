@@ -916,7 +916,6 @@ _每日存檔 · 2026-10-23_
 - [kevinbadi/claude-codes-influencers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kevinbadi-claude-codes-influencers/) — 將指令碼轉換為唇動垂直影片的工具。
 - [r0b0tlab/deepseek-v4-pro-0813-agentic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-deepseek-v4-pro-0813-agentic/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [humanplus-ai/humanplus-1000](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-humanplus-ai-humanplus-1000/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlibabaResearch/SparkDiffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibabaresearch-sparkdiffusion/) — 加速 DiT 影片生成的高效能技術。
 - [TOPDEV99999/AI-Knowledge-Management-Platform](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/topdev99999-ai-knowledge-management-platform/) — 利用大型語言模型自動提取實體並進行結構化資料分析的知識管理平臺。
 - [bench-labs/slop-classification](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bench-labs-slop-classification/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1403,7 +1402,6 @@ _每日存檔 · 2026-10-23_
 - [Leonxlnx/unlazy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-unlazy/) — 一種讓 AI 代理提高工作效率的方法，透過深度樹法將任務拆分，提高執行效率。
 - [jzjzzzzzzz/agent-me](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jzjzzzzzzz-agent-me/) — 將知識、記憶和決策轉化為開放原始碼的 AI 代理 twin。
 - [JingHao-Leon/dsh-alpha-desk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jinghao-leon-dsh-alpha-desk/) — Alpha Desk 是一個將代理會話轉換為合規投資桌面的技能包。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ilabai/3dcodeverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ilabai-3dcodeverse/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mkamranr/reelforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mkamranr-reelforge/) — 將GitHub或Hugging Face模型轉換為垂直影片的自動化工具。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。

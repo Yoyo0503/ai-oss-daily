@@ -679,7 +679,6 @@ _Daily archive · 2026-08-06_
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thedotmack-claude-mem/) — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, com…
 - [volcengine/ark-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/volcengine-ark-cli/) — The fastest way to put Volcengine Ark in your terminal and your AI agent — go from prompt to generated media,…
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — · gradio, mcp-server, region:us
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kewal-yaduvanshi-gpt-image-2-flow-workbench/) — Best GPT Image 2 OpenAi Prompts & Tools Guide 2026
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-loveseries-wanmanlove/) — · gradio, mcp-server, region:us
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-c4/) — · task_categories:text-generation, task_categories:fill-mask, task_ids:language-modeling

@@ -500,7 +500,6 @@ _每日存檔 · 2026-10-17_
 - [jasperai/t2i-technical-interactive-report](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jasperai-t2i-technical-interactive-report/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-claude-protein-binder-design/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [linoyts/Qwen-Image-2.1-Move](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-qwen-image-2-1-move/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-field-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [agent-collaborations/hutter-prize-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-agent-collaborations-hutter-prize-dashboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HelenPeng/ExeWorldBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-helenpeng-exeworldbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1368,7 +1367,6 @@ _每日存檔 · 2026-10-17_
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mksglu-context-mode/) — 最佳化AI程式碼代理的上下文視窗，減少工具輸出。
 - [bamboostrip/Handwriting-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bamboostrip-handwriting-simulator/) — 將普通文本轉換成手寫體圖片，支援 GUI 和 CLI 入口。
 - [fuxicodex/Fuxi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fuxicodex-fuxi/) — 在終端機中執行的AI程式設計助手。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/googleworkspace-cli/) — Google Workspace CLI，提供 Drive、Gmail 等服務的命令列工具。
 - [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rootsunc-cnequity/) — 提供每日更新的中國股票資料集和自託管服務。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。

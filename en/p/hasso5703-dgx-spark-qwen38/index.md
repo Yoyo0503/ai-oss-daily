@@ -1,8 +1,8 @@
 # hasso5703/dgx-spark-qwen38
 
-One command turns a DGX Spark (64 or 128 GB) or an ASUS Ascent GX10 into a private AI server: nine measured, pinned lanes (Qwen3.8 27B and Flash up to 1M tokens, Ornith, Nemotron, Kolibri, images, video with sound), OpenAI and Anthropic APIs, and a local cockpit on a laptop or a phone. Nothing leaves the box.
+dgx-spark-qwen38 is an open-source installer that turns an NVIDIA DGX Spark, or any GB10 machine (ASUS, Dell, HP, Lenovo, MSI, GIGABYTE, Acer), into a private AI server in one command: measured model lanes, OpenAI and Anthropic APIs, and a local cockpit.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：240
+**Stars**：241
 **Source**：https://github.com/hasso5703/dgx-spark-qwen38

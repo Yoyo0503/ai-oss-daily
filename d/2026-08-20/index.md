@@ -899,7 +899,6 @@ _每日存檔 · 2026-08-20_
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mksglu-context-mode/) — 最佳化AI程式碼代理的上下文視窗，減少工具輸出。
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-thedaw/) — GANTASMO 開發的 AI 音樂創作、編輯和混音一站式工作室。
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [RudySen/comfyui-muse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rudysen-comfyui-muse/) — ComfyUI 的本地 LLM 聊天面板，支援多會話及視覺功能。
 - [teng-lin/notebooklm-py](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/teng-lin-notebooklm-py/) — Google NotebookLM的非官方Python API及代理技能。
 - [openai/gdpval](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openai-gdpval/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

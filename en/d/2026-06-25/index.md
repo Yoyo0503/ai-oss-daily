@@ -460,7 +460,6 @@ _Daily archive · 2026-06-25_
 - [OpenSenseNova/SenseNova-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opensensenova-sensenova-skills/) — Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [nidhinjs/prompt-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nidhinjs-prompt-master/) — A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context …
 - [Avarok-Cybersecurity/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avarok-cybersecurity-atlas/) — Pure Rust Inference Engine
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mikeee-qwen-7b-chat/) — · docker, region:us
 - [ILSVRC/imagenet-1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilsvrc-imagenet-1k/) — · task_categories:image-classification, task_ids:multi-class-image-classification, annotations_creators:crowd…
 - [Mcp-Brasil/mcp-brasil](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mcp-brasil-mcp-brasil/) — MCP Server para 70 APIs públicas brasileiras

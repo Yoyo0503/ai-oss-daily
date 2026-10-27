@@ -121,7 +121,6 @@ _每日存檔 · 2026-05-30_
 - [EddieTYP/image-prompt-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eddietyp-image-prompt-library/) — 本地一體化影像提示庫，用於生成、儲存和管理影像。
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juanjuandog-finsight-ai/) — 具備堅韌工作流程的AI股權研究代理。
 - [wiltodelta/remove-ai-watermarks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wiltodelta-remove-ai-watermarks/) — 移除 AI 生成內容可見/隱形浮水印與來源標記的 CLI/Python（用途敏感）。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shootthesound-fizgig/) — Flux 2 Klein 9B LoRA 工作室：訓練/profile/修復/抽取 LoRA。
 - [sanswtf/Template-Pro-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sanswtf-template-pro-desktop/) — 專業級PC影片編輯套件，提供AI增強的專案檔案和高品質LUT。
 - [Evolutionary Alpha Miner（演化式選股因子挖掘）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaosu0715-lgtm-evolutionary-alpha-miner/) — 家族感知的演化式 alpha 挖掘，用 LLM 引導符號回歸。

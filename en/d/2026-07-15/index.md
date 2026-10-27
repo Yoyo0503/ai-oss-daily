@@ -579,7 +579,6 @@ _Daily archive · 2026-07-15_
 - [quysto/QUYQUY-AntigravityAwesomeSkills-GodVersion-bumbum](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quysto-quyquy-antigravityawesomeskills-godversion-bumbum/) — Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravi…
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deepakness-google-ai-search-optimization/) — Unofficial Agent Skill based on Google Search guidance for AI Overviews, AI Mode, and SEO audits.
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/denissergeevitch-agents-best-practices/) — Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-hyperframes/) — Write HTML. Render video. Built for agents.
 - [aqm857886159/Nomi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aqm857886159-nomi/) — Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor d…
 - [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chromedevtools-chrome-devtools-mcp/) — Chrome DevTools for coding agents

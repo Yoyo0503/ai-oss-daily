@@ -498,7 +498,6 @@ _每日存檔 · 2026-10-18_
 - [jasperai/t2i-technical-interactive-report](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jasperai-t2i-technical-interactive-report/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-claude-protein-binder-design/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [linoyts/Qwen-Image-2.1-Move](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-qwen-image-2-1-move/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-field-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [agent-collaborations/hutter-prize-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-agent-collaborations-hutter-prize-dashboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prism-ml/Ternary-Bonsai-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prism-ml-ternary-bonsai-27b-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1371,7 +1370,6 @@ _每日存檔 · 2026-10-18_
 - [ruashots/open-h3-ir](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruashots-open-h3-ir/) — MiniMax H3 上下文 IR 的開源本地實現，將簡短提示轉換為結構化 H3 影片簡報。
 - [yaojingang/GEOHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geohub/) — 提供AI搜尋技能，支援SEO與內容最佳化。
 - [tayyabimam1/awesome-ai-agent-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tayyabimam1-awesome-ai-agent-stack/) — 開源 AI 代理工具地圖，涵蓋 3000 多個工具，按層級排序。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mksglu-context-mode/) — 最佳化AI程式碼代理的上下文視窗，減少工具輸出。

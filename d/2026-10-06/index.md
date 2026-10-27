@@ -347,7 +347,6 @@ _每日存檔 · 2026-10-06_
 - [nvidia/Cosmos3-Edge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-edge/) — Cosmos3-Edge 是NVIDIA開發的一個基於diffusers的模型。
 - [badtheorylabs/BTL-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-badtheorylabs-btl-3/) — BTL-3 是一個使用 PEFT 技術的文本生成模型，適用於程式設計、推理和工具使用的 AI 代理。
 - [convaiinnovations/laya-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-convaiinnovations-laya-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-registration/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [webml-community/semantic-image-field](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-semantic-image-field/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Lynote/free-ai-detector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-detector/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1276,7 +1275,6 @@ _每日存檔 · 2026-10-06_
 - [EveningStudy/asmr-dubber](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eveningstudy-asmr-dubber/) — 音影片字幕及配音工具，支援 ASR、AI 翻譯等。
 - [TheLocalLab/ComfyUI-SongScribe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thelocallab-comfyui-songscribe/) — ComfyUI音樂生成節點，支援73種風格預設和歌曲分析。
 - [joeseesun/qiaomu-cut-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joeseesun-qiaomu-cut-skill/) — 智慧影片編輯技能，提供素材管理、雙語字幕和品牌包裝功能。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Prysai/Prysai-LLM-Playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prysai-prysai-llm-playbook/) — Prysai-LLM-Playbook 是一個基於證據的 LLM 演練手冊。
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/martindelophy-ai-video-editor/) — ai-video-editor 是一個基於瀏覽器的AI影片編輯器，支援ONNX語音旁白等功能。

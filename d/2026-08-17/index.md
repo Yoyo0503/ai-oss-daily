@@ -845,7 +845,6 @@ _每日存檔 · 2026-08-17_
 - [TokenSpender/ComfyUI-Sidebar-Gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tokenspender-comfyui-sidebar-gallery/) — 提供可搜尋的媒體相簿和元資料檢視器。
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ggml-org-gguf-my-repo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
 - [titanwings/colleague-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-colleague-skill/) — 將冰冷的離別轉化為溫暖的技能，歡迎加入數字生命1.0！
 - [OranAi-Ltd/orangeo-ai-visibility-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oranai-ltd-orangeo-ai-visibility-skill/) — 開放原始碼的AI可見性檢查工具，用於檢測網站SEO和競爭對手差距。

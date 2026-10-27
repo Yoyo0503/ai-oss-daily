@@ -397,7 +397,6 @@ _每日存檔 · 2026-06-21_
 - [anyshift-io/sre-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anyshift-io-sre-skills/) — 開源 SRE 技能庫，提供給 AI 代理進行事故管理與後事分析。
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wanshuiyin-auto-claude-code-research-in-sleep/) — 輕量級Markdown技能工具，用於自動化機器學習研究和實驗。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [sanswtf/Template-Pro-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sanswtf-template-pro-desktop/) — 專業級PC影片編輯套件，提供AI增強的專案檔案和高品質LUT。
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/googleworkspace-cli/) — Google Workspace CLI，提供 Drive、Gmail 等服務的命令列工具。

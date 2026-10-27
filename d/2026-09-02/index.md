@@ -1017,7 +1017,6 @@ _每日存檔 · 2026-09-02_
 - [livecontext-ai/livecontext-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livecontext-ai-livecontext-ce/) — 自建AI自動化平臺，可描述任務並生成工作流程。
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/red-ead-flowblock/) — 自校正擴散語言模型的波前並行解碼框架。
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-wikimedia-structured-wikipedia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/) — 幫助程式碼代理生成適合ADHD使用者的清晰答案。
 - [HuggingFaceH4/ultrachat_200k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfaceh4-ultrachat-200k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Tsukimisaka/MamboTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsukimisaka-mambotts/) — 本地執行的文字轉語音工具，支援 NVIDIA 硬體加速。

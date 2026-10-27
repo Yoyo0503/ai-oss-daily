@@ -280,7 +280,6 @@ _Daily archive · 2026-09-27_
 - [amisima/LTX-2.3-10Eros_I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-ltx-2-3-10eros-i2v/) — · gradio, video, image-to-video
 - [Wan-AI/Wan2.2-Animate-2-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-wan-ai-wan2-2-animate-2-14b/) — · arxiv:2608.06009, license:apache-2.0, region:us
 - [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-diffusion-14b/) — text-generation · transformers, safetensors, nvidia
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-morethought-fable-5-1-max-reasoning-filtered-10000x/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [ProCreations/grug-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-procreations-grug-27b/) — text-generation · safetensors, qwen3_5, grug
@@ -556,7 +555,7 @@ _Daily archive · 2026-09-27_
 - [datapointai/text-to-speech-human-preferences-315k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-datapointai-text-to-speech-human-preferences-315k/) — · task_categories:text-to-speech, task_categories:reinforcement-learning, language:en
 - [victor/Qwen3.8-Flash-Next-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-qwen3-8-flash-next-free-endpoint/) — · static, region:us
 - [LearnPrompt/awesome-seedance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/learnprompt-awesome-seedance/) — 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 840+ cases traced to original posts, 490+ cross-model retes…
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [arimanyus/warrenduffer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arimanyus-warrenduffer/) — AI-driven intraday trading bot for Indian stocks. Jev ranks the Nifty 50 every 15s; code sizes each trade and…
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-cohere-transcribe-arabic-07-2026/) — · gradio, region:us
 - [Lubi153/Pro-Realism-Edit-Studio-v.17](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lubi153-pro-realism-edit-studio-v-17/) — · gradio, region:us
@@ -1002,7 +1001,7 @@ _Daily archive · 2026-09-27_
 - [shtjww/llm-inference-capacity-handbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shtjww-llm-inference-capacity-handbook/) — 大模型推理案头手册（开源版）：给定 GPU 算力，一个模型能扛多少 QPS？三层模型 × 三面墙 × 排队论 × 开环压测
 - [T8mars/comfyui-fireredaudio-T8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/t8mars-comfyui-fireredaudio-t8/) — ComfyUI V3 nodes for FireRedAudio by T8star-Aix; isolated Transformers 5.8 worker and full creator workflows
 - [bamboostrip/Handwriting-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bamboostrip-handwriting-simulator/) — 把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [rootSunc/ashare-lake](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-ashare-lake/) — ASL · 本地可日更的 A 股研究湖 · 42 数据集 · MCP 供数 AI agent · 零 token 零注册 | Local A-share research lake — history for huma…
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-monolingual-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-monolingual-corpus-v1/) — · task_categories:text-generation, language:kha, license:cc-by-nc-4.0
 - [DeepMostInnovations/sales-conversion-model-reinf-learning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepmostinnovations-sales-conversion-model-reinf-learning/) — reinforcement-learning · stable-baselines3, sales_conversion_rl, reinforcement-learning
@@ -1195,7 +1194,6 @@ _Daily archive · 2026-09-27_
 - [dnv2003/v100-skinny](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/) — Hand-written NVFP4 W4A16 CUDA kernels for Volta
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultrax-preview/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [digistoremaster/online-business-skalierung-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/digistoremaster-online-business-skalierung-tools/) — Automatisierter Export & Konsolidierung von PayPal-Transaktionen für Online-Händler im DACH-Raum. Multi-Accou…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-khazix-skills/) — 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Cl…
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sahir619-fable-method/) — The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that ke…

@@ -291,7 +291,6 @@ _每日存檔 · 2026-09-26_
 - [stepfun-ai/StepAudio-3-Music](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-stepfun-ai-stepaudio-3-music/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Soofi-Project/Soofi-S-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-soofi-project-soofi-s-base/) — 基於轉換器的文本生成模型，專為主權AI設計。
 - [Yootta/World-SimReady-Home](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yootta-world-simready-home/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [XDOF/ABC-130k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xdof-abc-130k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/) — 用於生成文本的轉換器模型，支援對話和搜尋。
 - [mrfakename/yue2-3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-yue2-3b/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1175,7 +1174,6 @@ _每日存檔 · 2026-09-26_
 - [dnv2003/v100-skinny](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dnv2003-v100-skinny/) — 在Tesla V100上最佳化的Qwen3.6-27B模型。
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/) — PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。

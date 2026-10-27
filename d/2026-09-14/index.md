@@ -1022,7 +1022,6 @@ _每日存檔 · 2026-09-14_
 - [EthanYoQ/agent-xiaohongshu-workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ethanyoq-agent-xiaohongshu-workbench/) — 小紅書內容工作臺，整合帳號定位、選題和內容創作流程。
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-generative-media-skills/) — 研究支援的代理技能和工具，用於跨平臺的 AI 媒體生產。
 - [yanun0323/Whallm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanun0323-whallm/) — DeepSeek-V4-Flash 和 Qwen3.8-Next-FP8 在 Mac 上進行低記憶體推論
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。
 - [SergiioB/intel-arc-pro-b70-inference-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergiiob-intel-arc-pro-b70-inference-cookbook/) — Intel Arc Pro B60/B70 GPU 上執行大規模語言模型推理的開源食譜和效能測試工具。
 - [MemTensor/memmy-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/memtensor-memmy-agent/) — 個人AI代理和本地記憶中心，讓所有AI共享記憶。

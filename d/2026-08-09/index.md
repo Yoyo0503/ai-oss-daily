@@ -733,7 +733,6 @@ _每日存檔 · 2026-08-09_
 - [Rolymarket/Polymarket-Arbitrage-Trading-Bot-Python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rolymarket-polymarket-arbitrage-trading-bot-python/) — 用於PolyMarket套利交易的Python機器人。
 - [sanswtf/Template-Pro-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sanswtf-template-pro-desktop/) — 專業級PC影片編輯套件，提供AI增強的專案檔案和高品質LUT。
 - [EvoLinkAI/gpt-image-2-for-e-commerce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-for-e-commerce/) — 如何使用GPT Image 2為電商生成列表照片和其他創意內容。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-thedaw/) — GANTASMO 開發的 AI 音樂創作、編輯和混音一站式工作室。
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [OranAi-Ltd/orangeo-ai-visibility-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oranai-ltd-orangeo-ai-visibility-skill/) — 開放原始碼的AI可見性檢查工具，用於檢測網站SEO和競爭對手差距。

@@ -534,7 +534,6 @@ _每日存檔 · 2026-07-13_
 - [EvoLinkAI/gpt-image-2-for-e-commerce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-for-e-commerce/) — 如何使用GPT Image 2為電商生成列表照片和其他創意內容。
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/debpalash-omnivoice-studio/) — 開源版 ElevenLabs：本機語音克隆、配音、口播設計。
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nai-he/fund-analysis-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nai-he-fund-analysis-agent/) — 基金資料收集與 AI 分析工具，支援多源資料和風險評估。
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-obsidian/) — Obsidian + Claude Code自組織AI第二大腦，協助管理知識圖譜。

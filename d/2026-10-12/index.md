@@ -387,7 +387,6 @@ _每日存檔 · 2026-10-12_
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-qwen-image-bench/) — Qwen 圖像理解基準資料集（中英）。
 - [cyjin-yl/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cyjin-yl-qwen3-8-27b-uncensored-cyber-agentic-imatrix-gguf/) — 基於Qwen3.8的影像文字轉文字模型，支援未審核內容。
 - [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-ai-notes/) — Hugging Face 示範應用(Space)，關鍵字：RAG（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/) — dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。
 - [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-venvoo-china-a-share-l2-level2-limit-order-book-tick-data/) — Hugging Face 資料集，關鍵字：交易（依標籤自動歸類，詳細看下方原文）
 - [linoyts/sun-direction-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-sun-direction-flux2-klein/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1311,7 +1310,6 @@ _每日存檔 · 2026-10-12_
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
 - [amitshekhariitbhu/llm-inference-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-llm-inference-engineering/) — 學習大型語言模型推理工程的步驟指南。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Johnson-Durui/Companion-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/johnson-durui-companion-space/) — 一款本地優先的二次元陪伴學習應用，結合虛擬角色和語音AI，支援自我託管。
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
 - [Jaycheng1103/chatgpt-video-editing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaycheng1103-chatgpt-video-editing-skills/) — 使用ChatGPT和Codex安裝AI剪輯環境，完成八大步驟的短片編輯。

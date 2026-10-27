@@ -428,7 +428,6 @@ _Daily archive · 2026-06-15_
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system
 - [DaoyuanLi2816/llm-gpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-llm-gpu-lab/) — One GPU. Full LLM workflow. Real benchmarks. No cloud required.
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jegly-box/) — The most advanced, fully offline client-side AI suite on Android today.
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beever-ai-beever-atlas/) — Your First LLM-Wiki Conversation Knowledge Base

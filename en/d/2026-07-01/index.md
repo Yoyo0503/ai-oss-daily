@@ -494,7 +494,6 @@ _Daily archive · 2026-07-01_
 - [KDAN-PDF/KDAN-PDF-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kdan-pdf-kdan-pdf-mcp/) — Connect Claude and ChatGPT to KDAN PDF — upload, edit, compress, protect, redact, and compare PDFs in chat.
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — · gradio, mcp-server, region:us
 - [Saganaki22/HiDream_O1-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-hidream-o1-comfyui/) — HiDream O1 Image nodes + LoRA training for ComfyUI
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-hyperframes/) — Write HTML. Render video. Built for agents.
 - [fikrikarim/parlor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fikrikarim-parlor/) — On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely…
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-badlogicgames-pi-mono/) — · task_categories:text-generation, language:en, language:code

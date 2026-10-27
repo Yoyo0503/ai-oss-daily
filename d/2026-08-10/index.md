@@ -721,7 +721,6 @@ _每日存檔 · 2026-08-10_
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Egonex-AI/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/) — 將程式碼轉換為可互動探索和查詢的知識圖形工具。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Meddies/meddies-persona-vie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-meddies-meddies-persona-vie/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PVinh-Quant/Kairos-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pvinh-quant-kairos-v2/) — 一個基於 Python 的開源量化研究框架，支援加密貨幣期貨交易策略的研究和驗證。
 - [calesthio/OpenMontage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/) — 號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。

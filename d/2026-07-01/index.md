@@ -494,7 +494,6 @@ _每日存檔 · 2026-07-01_
 - [KDAN-PDF/KDAN-PDF-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kdan-pdf-kdan-pdf-mcp/) — 將 Claude 和 ChatGPT 結合到 KDAN PDF，支援上傳、編輯、壓縮等 PDF 功能。
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Saganaki22/HiDream_O1-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-hidream-o1-comfyui/) — HiDream O1 圖像節點＋ComfyUI 的 LoRA 訓練。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [fikrikarim/parlor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fikrikarim-parlor/) — 端側即時多模態 AI，可做自然語音與視覺對話。
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-badlogicgames-pi-mono/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -937,7 +937,6 @@ _每日存檔 · 2026-08-30_
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-eve/) — 用於構建代理的框架。
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-voxcpm-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [armand0e/Fable-5-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-fable-5-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Saivineeth147/lora-speedrun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saivineeth147-lora-speedrun/) — 加速LoRA微調的模擬器和排行榜。
 - [spinabot/brigade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/) — 企業級個人智慧助手，支援自動化任務和協作。

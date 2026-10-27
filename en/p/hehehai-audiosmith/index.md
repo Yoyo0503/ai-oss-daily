@@ -4,5 +4,5 @@ Speech, voices, stories, audiobooks, dubbing and transcription, made on your Mac
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：55
+**Stars**：74
 **Source**：https://github.com/hehehai/AudioSmith

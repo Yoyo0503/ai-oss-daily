@@ -503,7 +503,6 @@ _每日存檔 · 2026-10-19_
 - [jasperai/t2i-technical-interactive-report](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jasperai-t2i-technical-interactive-report/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-claude-protein-binder-design/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [linoyts/Qwen-Image-2.1-Move](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-qwen-image-2-1-move/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-field-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [agent-collaborations/hutter-prize-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-agent-collaborations-hutter-prize-dashboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prism-ml/Ternary-Bonsai-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prism-ml-ternary-bonsai-27b-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1377,7 +1376,6 @@ _每日存檔 · 2026-10-19_
 - [0xsline/OpenChatCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/) — 本地化對話式AI影片編輯器，具備多軌時間線和MCP整合。
 - [shtjww/llm-inference-capacity-handbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shtjww-llm-inference-capacity-handbook/) — 大模型推理案頭手冊，提供GPU算力下的模型QPS估算。
 - [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seesee75-commits-comfyui-minimaxh3-director/) — 用於 ComfyUI 中 MiniMax H3 的時間軸編輯器，支援故事板提示和動態預覽。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [BaYue-SYJ/shuixian-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bayue-syj-shuixian-prompts/) — 水仙的AI繪畫提示詞庫，涵蓋多種主流生圖模型，提供檢索、分類及一鍵複製功能。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。

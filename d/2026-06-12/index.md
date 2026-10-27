@@ -220,7 +220,6 @@ _每日存檔 · 2026-06-12_
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [Specterchoreflect/Stable-Diffusion-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/specterchoreflect-stable-diffusion-pro/) — Stable Diffusion Pro 2026 本機出圖(SDXL/ControlNet) — 來源不明，謹慎。
 - [Lynpoint/CyberVerse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lynpoint-cyberverse/) — 自建即時數字人類代理平臺，支援 WebRTC 和工具整合。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [pineforge-4pass/pineforge-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pineforge-4pass-pineforge-engine/) — 確定性 PineScript v6 回測執行時，與 TradingView 對比驗證。
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Chz1Y/Steerable-music-transformer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chz1y-steerable-music-transformer/) — 可控節奏複雜度的自回歸音樂生成模型（PyTorch 官方實作）。

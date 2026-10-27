@@ -606,7 +606,6 @@ _每日存檔 · 2026-07-21_
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enping-hu-minimind-deep-dive/) — MiniMind 原始碼精讀及大模型技術體系中文學習筆記。
 - [codepurse/SEOCORE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codepurse-seocore/) — SEOCORE 是一個企業級 SEO 網站爬蟲工具，適用於多執行緒執行和深度網站健康審計。
 - [btitkin/ComfyUI-KSampler-Matrix-Lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/btitkin-comfyui-ksampler-matrix-lab/) — 用一個模型比較抽樣器和排程器的組合。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [withkynam/vibecode-pro-max-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/withkynam-vibecode-pro-max-kit/) — 專為開發者和企業打造的自適應AI程式設計助手，具備自我改善的上下文記憶功能。
 - [alirezarezvani/gaios](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-gaios/) — 開源 AI 作業系統藍圖，將任何代理轉換為個人第二大腦。

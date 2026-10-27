@@ -960,7 +960,6 @@ _每日存檔 · 2026-09-05_
 - [NeelM0906/Mference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/neelm0906-mference/) — 適用於 Apple Silicon 的 Swift + Metal MoE 推論引擎。
 - [xixihhhh/hotclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xixihhhh-hotclip/) — 免費開源AI剪輯工具，自動將長片、直播轉成熱門短影片。
 - [rostamlabs/rostam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rostamlabs-rostam/) — rostam 是一個開源向量資料庫和超微秒級鍵值儲存引擎，支援嵌入式和叢集部署。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-voxcpm-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [YeJe-cpu/talk-to-fengge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yeje-cpu-talk-to-fengge/) — 克隆任何人聲音和個性進行即時對話的AI系統。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。

@@ -743,7 +743,6 @@ _每日存檔 · 2026-08-14_
 - [GangOstrichCrimp/Stable-Diffusion-WebUI-Creative-Suite-Pro-Pack-Ultimate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gangostrichcrimp-stable-diffusion-webui-creative-suite-pro-pack-ultimate/) — 為Windows桌面工作流程設計的Stable Diffusion創意套件，提供導出工具和生產預設。
 - [PVinh-Quant/Kairos-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pvinh-quant-kairos-v2/) — 一個基於 Python 的開源量化研究框架，支援加密貨幣期貨交易策略的研究和驗證。
 - [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beijingcao-binance-deribit-btc/) — 跨交易所BTC套利機器人，具備Telegram通知和Flask監控儀錶板。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [taisly/agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taisly-agent/) — 用於在多個平臺發布影片的代理工具套件。
 - [techjarves/Portable-Diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-portable-diffusion/) — 行動式 AI 影像生成工具，支援多平臺離線執行。
 - [calesthio/OpenMontage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/) — 號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。

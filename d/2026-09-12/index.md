@@ -1003,7 +1003,6 @@ _每日存檔 · 2026-09-12_
 - [NVIDIA/NeMo-Speech.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvidia-nemo-speech-cpp/) — 輕量級的C++推理執行時，用於語音模型的推論。
 - [Chz1Y/Steerable-music-transformer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chz1y-steerable-music-transformer/) — 可控節奏複雜度的自回歸音樂生成模型（PyTorch 官方實作）。
 - [SergiioB/intel-arc-pro-b70-inference-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergiiob-intel-arc-pro-b70-inference-cookbook/) — Intel Arc Pro B60/B70 GPU 上執行大規模語言模型推理的開源食譜和效能測試工具。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [titanwings/colleague-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-colleague-skill/) — 將冰冷的離別轉化為溫暖的技能，歡迎加入數字生命1.0！
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-generative-media-skills/) — 研究支援的代理技能和工具，用於跨平臺的 AI 媒體生產。
 - [sjh9714/krea2-wildcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sjh9714-krea2-wildcards/) — 514 個 Krea 2 Turbo 提示詞，含生成範例。

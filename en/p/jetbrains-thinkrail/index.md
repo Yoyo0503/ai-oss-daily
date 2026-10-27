@@ -4,5 +4,5 @@ Vibe code with pi in a lightweight, real IDE that customises itself around the w
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,745
+**Stars**：2,905
 **Source**：https://github.com/JetBrains/thinkrail

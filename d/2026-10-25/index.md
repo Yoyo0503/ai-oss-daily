@@ -666,7 +666,6 @@ _每日存檔 · 2026-10-25_
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cha007-pornflux-i2v-6e9et/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Qwen/RecreationBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-recreationbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nineninesix/gepard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nineninesix-gepard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HamSanders/soundbox](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hamsanders-soundbox/) — 免費開源的音效生成工具，支援音訊生成、文字轉語音和語音克隆。
 - [hugging-apps/irodori-tts-anime-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-irodori-tts-anime-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [datapointai/text-to-speech-human-preferences-315k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-datapointai-text-to-speech-human-preferences-315k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1419,7 +1418,6 @@ _每日存檔 · 2026-10-25_
 - [fh6312/kubeflow-pipeline-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fh6312-kubeflow-pipeline-forge/) — 用 Python 為 Kubernetes 最佳化 AI 工作負載的工具。
 - [STEAM-DROPS/finetune-lab-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/steam-drops-finetune-lab-notes/) — 2026 年 Transformer 微調指南，涵蓋 LLM、LoRA 和 PEFT。
 - [tornikegomareli/Talkify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tornikegomareli-talkify/) — 快速、免費的 macOS 語音轉文字應用程式，可在裝置上進行語音辨識。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。
 - [whitecircle/halo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whitecircle-halo/) — Halo 是一個用於訓練大型語言和多模態模型的開源框架。

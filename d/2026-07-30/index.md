@@ -655,7 +655,6 @@ _每日存檔 · 2026-07-30_
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madeval-ferryai/) — PHP 8.3+的原生AI推論框架，直接在PHP中執行ONNX等模型。
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/) — 多語種對話式文字轉語音工具，支援零樣本聲音克隆和內聯標記。
 - [Alpha Forge（系統化交易 AI 作業系統）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liu-ming-yu-alpha-forge/) — 標榜 agentic 的系統化交易作業系統。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [code-yeongyu/lazycodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/code-yeongyu-lazycodex/) — 複雜程式碼庫的AI代理管理工具，支援專案記憶和執行。
 - [mediago-dev/mediago-drama](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mediago-dev-mediago-drama/) — 從文本生成短劇的 AI 工作臺，支援小說改編。

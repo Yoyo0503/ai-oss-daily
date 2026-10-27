@@ -881,7 +881,6 @@ _每日存檔 · 2026-08-27_
 - [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromedevtools-chrome-devtools-mcp/) — 用於程式設計代理的Chrome開發者工具外掛。
 - [GokuScraper/seedance-2-prompts-datasets](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gokuscraper-seedance-2-prompts-datasets/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mikeee-qwen-7b-chat/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [cais/mmlu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-mmlu/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。

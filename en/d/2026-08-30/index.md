@@ -937,7 +937,6 @@ _Daily archive · 2026-08-30_
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hirokawaguchi-open-genai/) — デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像…
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-eve/) — The Open Framework for Building Agents
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openbmb-voxcpm-demo/) — · gradio, region:us
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [armand0e/Fable-5-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-fable-5-chat/) — · task_categories:text-generation, language:en, size_categories:n<1K
 - [Saivineeth147/lora-speedrun](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saivineeth147-lora-speedrun/) — Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt fo…
 - [spinabot/brigade](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/spinabot-brigade/) — Brigade — Your personal intelligence, built enterprise-grade

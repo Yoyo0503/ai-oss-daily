@@ -481,7 +481,6 @@ _Daily archive · 2026-07-02_
 - [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — 让 ComfyUI 像 WebUI 一样写提示词：中文翻译、Tag 自动补全、LoRA 管理、区域提示词控制，支持 Anima 与 SDXL 工作流。
 - [1weiho/open-slide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/1weiho-open-slide/) — A slide framework built for agents.
 - [ConardLi/garden-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/conardli-garden-skills/) — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and mo…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [Qwen/Qwen3-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-qwen-qwen3-tts/) — · gradio, region:us
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agent-skills/) — Production-grade engineering skills for AI coding agents.
 - [tmasjc/deka-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tmasjc-deka-oss/) — Deka — Aligning Human Intuition with Semantic Space

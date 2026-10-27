@@ -306,7 +306,6 @@ _每日存檔 · 2026-09-25_
 - [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-markov-ai-cad-1000-hours/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openbmb/UltraData-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultradata-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1179,7 +1178,6 @@ _每日存檔 · 2026-09-25_
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alephaitech-workbuddyguide/) — 開源實戰指南，幫助掌握 WorkBuddy 的教程與工作流。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/faizalimam990-startup-builder-pro/) — 將產品點子轉換成安全、測試完畢的 SaaS 應用程式的人工智慧工具。
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。

@@ -690,7 +690,6 @@ _每日存檔 · 2026-08-11_
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/extraltodeus-j-wash/) — 基於 Anthropic 的 Jacobian 鏡頭的手動對齊工具。
 - [nvidia/PhysicalAI-Robotics-Locomanipulation-GRAIL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-robotics-locomanipulation-grail/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — 詳細介紹 LLM 微調方法（lora, qlora, unsloth）的教程。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
 - [not-lain/background-removal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-not-lain-background-removal/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [myccarl/ai-shortVideo-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/myccarl-ai-shortvideo-pipeline/) — 使用 FastAPI 和 Spring Boot 的端到端短影片生產管道。

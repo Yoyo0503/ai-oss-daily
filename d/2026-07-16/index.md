@@ -581,7 +581,6 @@ _每日存檔 · 2026-07-16_
 - [simchowitzlabpublic/nano-world-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simchowitzlabpublic-nano-world-model/) — 極簡、開箱即用的「世界模型」研究框架。
 - [nai-he/fund-analysis-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nai-he-fund-analysis-agent/) — 基金資料收集與 AI 分析工具，支援多源資料和風險評估。
 - [imbue-bit/NS-NTK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbue-bit-ns-ntk/) — 非穩態神經網路理論，適用於量化金融中的連續分佈變換。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [deepakness/google-ai-search-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepakness-google-ai-search-optimization/) — 依 Google 指引做 AI Overviews／AI Mode／SEO 稽核的 agent skill。
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denissergeevitch-agents-best-practices/) — Codex、Claude Code 和其他平臺的通用代理技能。

@@ -632,7 +632,6 @@ _Daily archive · 2026-07-25_
 - [rookiestar28/ComfyUI-LongCat-Avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rookiestar28-comfyui-longcat-avatar/) — ComfyUI custom nodes for LongCat Video Avatar 1.5 audio-driven human video generation; a macOS inference bran…
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-llmaker/) — Selfhost modern LLM stacks. Run the whole fleet from your terminal
 - [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runapi-ai-mcp/) — RunAPI MCP server for model discovery, pricing lookup, media task creation, and balance checks.
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-hyperframes/) — Write HTML. Render video. Built for agents.
 - [Rath-Team/OpenRath](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rath-team-openrath/) — An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.
 - [derek-zhuolin/interflow-video-cut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/derek-zhuolin-interflow-video-cut/) — 把本地口播视频自动剪成卡片式成片的 Agent Skill：抽音轨 → ElevenLabs 转录 → AI 逐张写 HTML 卡片 → 渲染 MP4。10 种视觉风格 × 4 布局，转录只走 ElevenLabs 永…

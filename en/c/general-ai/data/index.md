@@ -7,9 +7,9 @@
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhen-nan-l2p-dataset/) — · license:apache-2.0, size_categories:10K<n<100K, format:webdataset
 - [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — · task_categories:text-to-speech, task_categories:automatic-speech-recognition, annotations_creators:machine-…
 - [zekaiwang/trex_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zekaiwang-trex-dataset/) — · task_categories:robotics, language:en, license:mit
+- [ILSVRC/imagenet-1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilsvrc-imagenet-1k/) — · task_categories:image-classification, task_ids:multi-class-image-classification, annotations_creators:crowd…
 - [Meddies/meddies-persona-vie](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-meddies-meddies-persona-vie/) — · task_categories:other, annotations_creators:machine-generated, language_creators:machine-generated
 - [cais/mmlu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-mmlu/) — · task_categories:question-answering, task_ids:multiple-choice-qa, annotations_creators:no-annotation
-- [ILSVRC/imagenet-1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilsvrc-imagenet-1k/) — · task_categories:image-classification, task_ids:multi-class-image-classification, annotations_creators:crowd…
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lerobot-visualize-dataset/) — · docker, region:us
 - [rajpurkar/squad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rajpurkar-squad/) — · task_categories:question-answering, task_ids:extractive-qa, annotations_creators:crowdsourced
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-netflix-vera-layered-video-dataset/) — · task_categories:text-to-video, license:apache-2.0, size_categories:10K<n<100K

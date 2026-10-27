@@ -977,7 +977,6 @@ _每日存檔 · 2026-09-08_
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibaba-yufeng-mma-safetybench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gaia-benchmark-gaia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [xixihhhh/hotclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xixihhhh-hotclip/) — 免費開源AI剪輯工具，自動將長片、直播轉成熱門短影片。
 - [yan-labs/yan-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yan-labs-yan-skills/) — Claude Code 的 SEO 工作流程和 AI 新聞工具。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。

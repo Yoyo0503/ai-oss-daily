@@ -640,7 +640,6 @@ _Daily archive · 2026-07-26_
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-llmaker/) — Selfhost modern LLM stacks. Run the whole fleet from your terminal
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:text
 - [rookiestar28/ComfyUI-LongCat-Avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rookiestar28-comfyui-longcat-avatar/) — ComfyUI custom nodes for LongCat Video Avatar 1.5 audio-driven human video generation; a macOS inference bran…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-hyperframes/) — Write HTML. Render video. Built for agents.
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [Saganaki22/Dots-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-dots-tts-comfyui/) — ComfyUI custom nodes for Dots TTS text-to-speech generation, voice cloning, and Whisper transcription with su…

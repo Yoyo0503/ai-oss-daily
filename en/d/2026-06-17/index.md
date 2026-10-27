@@ -322,7 +322,6 @@ _Daily archive · 2026-06-17_
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bladedevoff-studiomi300/) — Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-nanotron-ultrascale-playbook/) — · static, region:us
 - [minhnv0807/ai-business-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minhnv0807-ai-business-skills/) — 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SO…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [fathah/hermes-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fathah-hermes-desktop/) — Desktop Companion for Hermes Agent
 - [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7
 - [Open-Less/openless](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-less-openless/) — Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for …

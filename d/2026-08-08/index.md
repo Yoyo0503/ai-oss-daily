@@ -699,7 +699,6 @@ _每日存檔 · 2026-08-08_
 - [geekjourneyx/hyperframes-motion-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/geekjourneyx-hyperframes-motion-director/) — 用於中文市場的 HyperFrames 動畫影片生產工具。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/) — 基於畫素的搜尋引擎，支援多模態資料。
 - [simonlin1212/TradingAgents-astock](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simonlin1212-tradingagents-astock/) — 基於AI的A股投資研究框架，適配多個資料來源和分析師。

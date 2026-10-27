@@ -151,7 +151,6 @@ _每日存檔 · 2026-06-02_
 - [Saganaki22/HiDream_O1-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-hidream-o1-comfyui/) — HiDream O1 圖像節點＋ComfyUI 的 LoRA 訓練。
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Specterchoreflect/Stable-Diffusion-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/specterchoreflect-stable-diffusion-pro/) — Stable Diffusion Pro 2026 本機出圖(SDXL/ControlNet) — 來源不明，謹慎。
 - [ConardLi/garden-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/conardli-garden-skills/) — 包含網頁設計、知識檢索等技能的開源集合。
 - [daisy-engine（AI 編排平台）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daisy-workflow-daisy-engine/) — AI 編排(orchestration)平台。

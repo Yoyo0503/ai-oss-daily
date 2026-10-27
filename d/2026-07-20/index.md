@@ -599,7 +599,6 @@ _每日存檔 · 2026-07-20_
 - [Etherll/Timbre](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/etherll-timbre/) — 從多語音錄音中提取目標講話者的清晰語音並生成 LJSpeech 風格的 TTS 資料集。
 - [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fredyrivera-dev-claude-converter/) — 無依賴Python模組，用於檢視和轉換Claude Code會話檔案為Hugging Face Transformers格式。
 - [best-of-algorithmic-trading（演算法交易精選清單）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-best-of-algorithmic-trading/) — 演算法交易精選清單：量化財務、交易機器人、回測、技術分析。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [keshik6/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keshik6-gpic/) — GPIC：大型寬鬆授權圖像語料庫（供視覺生成模型訓練）官方程式碼。
 - [zhu1090093659/deepseek-pp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-deepseek-pp/) — DeepSeek瀏覽器擴充功能，提供AI代理工作空間和自動化工具。

@@ -534,7 +534,6 @@ _Daily archive · 2026-07-13_
 - [EvoLinkAI/gpt-image-2-for-e-commerce](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-gpt-image-2-for-e-commerce/) — How to use GPT Image 2 for e-commerce: a prompt cookbook for listing photos, model try-on, product showcases,…
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/debpalash-omnivoice-studio/) — Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — · gradio, mcp-server, region:us
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [nai-he/fund-analysis-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nai-he-fund-analysis-agent/) — 国内公募基金数据采集与AI辅助分析工具 — 全栈FastAPI+React，集成AKShare多源数据、风险评分引擎、回测验证、LLM可选分析
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-hyperframes/) — Write HTML. Render video. Built for agents.
 - [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-obsidian/) — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and file…

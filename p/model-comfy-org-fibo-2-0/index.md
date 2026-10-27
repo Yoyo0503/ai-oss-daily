@@ -2,7 +2,7 @@
 
 Fibo-2.0 是一個基於 ComfyUI 的擴散模型，適用於影像生成。
 
-**為何上榜**：HF trending 178 · 179 likes · 124,557 下載
+**為何上榜**：HF trending 190 · 193 likes · 146,049 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

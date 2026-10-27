@@ -441,7 +441,7 @@ _Daily archive · 2026-10-13_
 - [barbarabax/sonora-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/barbarabax-sonora-studio/) — Free, local-first AI music studio for ACE-Step 1.5 with a friendly UI: prompt and lyrics composer, song libra…
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
 - [drinkmoonshine/parallel-constrained-decoding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-drinkmoonshine-parallel-constrained-decoding/) — · gradio, region:us
-- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Finished motion-graphics ads over their HyperFrames drafts, frame-synced. Export the breakdown as an MP4. Loc…
+- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Play a finished motion-graphics ad in sync with the rough drafts it grew from, and export the breakdown as MP…
 - [rednote-hilab/dots.tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rednote-hilab-dots-tts/) — · gradio, zerogpu, aoti
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qdrant-fineweb-10b/) — · language:en, license:odc-by, size_categories:10B<n<100B
 - [AST-1320/Qwen-2511-Plus-Flux.2-klein-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ast-1320-qwen-2511-plus-flux-2-klein-9b/) — · gradio, region:us
@@ -468,7 +468,6 @@ _Daily archive · 2026-10-13_
 - [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonworks-lunara-art-eval/) — · task_categories:text-to-image, license:apache-2.0, size_categories:1K<n<10K
 - [BitRobot/HIW-500-LeRobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitrobot-hiw-500-lerobot/) — · task_categories:robotics, language:en, license:cc-by-4.0
 - [Viggle/Meridian](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-viggle-meridian/) — · gradio, region:us
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-morethought-fable-5-1-max-reasoning-filtered-10000x/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [mlabonne/chessfly](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mlabonne-chessfly/) — · static, region:us
 - [jasperai/t2i-technical-interactive-report](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jasperai-t2i-technical-interactive-report/) — · docker, research-article-template, research paper
@@ -793,7 +792,7 @@ _Daily archive · 2026-10-13_
 - [smolagents/hf-realtime-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-smolagents-hf-realtime-voice/) — · docker, region:us
 - [CodeSoft/SLM-Arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-codesoft-slm-arena/) — · gradio, region:us
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [mvaccargiu/gitskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mvaccargiu-gitskills/) — · task_categories:other, license:cc-by-4.0, size_categories:10M<n<100M
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
@@ -1231,7 +1230,7 @@ _Daily archive · 2026-10-13_
 - [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [gojargo/jargo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gojargo-jargo/) — A WebRTC-native, audio-first conversational-AI framework for Go.
 - [smizxe/mt5-agent-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/smizxe-mt5-agent-toolkit/) — Turn a written trading strategy into a MetaTrader 5 Expert Advisor with an AI coding agent. Headless MQL5 com…
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [wassgha/rescript](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wassgha-rescript/) — 🎬 Open source, transcript-based video/audio editor that lives in the browser.
 - [himovo/movo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/himovo-movo/) — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content gen…
 - [k2-fsa/OmniVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-k2-fsa-omnivoice/) — · gradio, region:us
@@ -1316,7 +1315,6 @@ _Daily archive · 2026-10-13_
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultrax-preview/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alirezarezvani-claude-skills/) — 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable r…
 - [LodyAI/Lody](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lodyai-lody/) — Share coding agents with your team on phone and desktop
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sahir619-fable-method/) — The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that ke…

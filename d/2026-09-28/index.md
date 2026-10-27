@@ -272,7 +272,6 @@ _每日存檔 · 2026-09-28_
 - [pierrenade/short-video-generator-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pierrenade-short-video-generator-ai/) — 將YouTube影片轉換為短影片的自動生成工具。
 - [Danny-Lynote/humanizer-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-danny-lynote-humanizer-lite/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/NVIDIA-NemotronLabs-VoiceChat-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotronlabs-voicechat-11b/) — NVIDIA開發的語音聊天模型，支援多種語言和研究論文。
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-encoder-350m/) — 用於填充掩碼的大型語義模型，支援雙向掩碼語言建模。
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1-nvfp4/) — 一個適用於對話生成的文本生成模型，具有高度自訂化的能力。
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — RAG／檢索／向量庫工具（依標籤自動歸類，詳細看下方原文）
@@ -1201,7 +1200,6 @@ _每日存檔 · 2026-09-28_
 - [OWASP/OWASP-MCP-Governance-and-Risk-Project](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owasp-owasp-mcp-governance-and-risk-project/) — 提供組織在採用 Model Context Protocol (MCP) 時的實用治理框架。
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/) — 從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。

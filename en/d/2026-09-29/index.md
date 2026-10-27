@@ -266,7 +266,6 @@ _Daily archive · 2026-09-29_
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
 - [Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/) — · region:us
 - [ATH-MaaS/OvisOCR2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ath-maas-ovisocr2/) — image-text-to-text · transformers, safetensors, qwen3_5
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [hotdogs/qwen3.6-27b-fable5-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hotdogs-qwen3-6-27b-fable5-lora/) — text-generation · peft, safetensors, gguf
 - [baseten/GLM-5.2-Vision-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baseten-glm-5-2-vision-nvfp4/) — image-text-to-text · sglang, safetensors, glm5v
 - [unsloth/Qwen3.6-27B-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — image-text-to-text · transformers, gguf, unsloth
@@ -638,7 +637,7 @@ _Daily archive · 2026-09-29_
 - [someone-in-the-world/HighQualityVideoGeneration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-someone-in-the-world-highqualityvideogeneration/) — · gradio, region:us
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [hugging-apps/sbgrid-storyboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-sbgrid-storyboard/) — · gradio, region:us
 - [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inikolax-remiqora/) — Free, open-source local AI music studio: ACE-Step 1.5 and YuE2-3B text-to-music, stem separation, an AI arran…
 - [arimanyus/warrenduffer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arimanyus-warrenduffer/) — AI-driven intraday trading bot for Indian stocks. Jev ranks the Nifty 50 every 15s; code sizes each trade and…
@@ -1036,7 +1035,7 @@ _Daily archive · 2026-09-29_
 - [aipoch/open-science](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aipoch-open-science/) — Open-Source AI research workbench with scientific agents for reproducible research and discovery.
 - [bleckhert/uncensored-image-to-video-alchemist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-bleckhert-uncensored-image-to-video-alchemist/) — · static, deepsite-v3, region:us
 - [syv-ai/qwen38-27b-rtx3090](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syv-ai-qwen38-27b-rtx3090/) — Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, fp16 Delta…
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [bamboostrip/Handwriting-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bamboostrip-handwriting-simulator/) — 把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。
 - [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [Spielewoy/autoprompt-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/spielewoy-autoprompt-skill/) — Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
@@ -1201,7 +1200,6 @@ _Daily archive · 2026-09-29_
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultrax-preview/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alirezarezvani-claude-skills/) — 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable r…
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phuryn-pm-skills/) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, la…
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronak-create-fablecut/) — Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure

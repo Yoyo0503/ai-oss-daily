@@ -967,7 +967,6 @@ _每日存檔 · 2026-09-09_
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teknium-openhermes-2-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marchinthesun-epyc-max-inference-llm-optimizer/) — 針對AMD EPYC最佳化的llama.cpp分支，提升效能。
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ggml-org-gguf-my-repo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Koukyosyumei/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koukyosyumei-h5i-db/) — 用於量化研究的終端機筆記本和高效能時系列資料庫。
 - [the0cp/beatflow-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/the0cp-beatflow-skill/) — 使用 Python DSL 的音樂生成技能，具備診斷和多軌 MIDI 渲染功能。
 - [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orkas-ai-orkas-videostudio/) — 將程式碼代理轉換為影片工作室，描述文字生成影片。

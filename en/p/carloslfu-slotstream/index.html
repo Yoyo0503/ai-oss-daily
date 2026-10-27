@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>carloslfu/slotstream — 🧱 AI Foundation Stack — AI OSS Daily</title>
-<meta name="description" content="Run a 105 GB AI model on a Mac that can&#39;t hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest ex…">
+<meta name="description" content="Run a 105 GB AI model on a Mac that can&#39;t hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and…">
 <link rel="canonical" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/">
 <link rel="alternate" hreflang="zh-Hant" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carloslfu-slotstream/">
 <link rel="alternate" hreflang="en" href="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/">
@@ -14,17 +14,17 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI OSS Daily">
 <meta property="og:title" content="carloslfu/slotstream — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta property="og:description" content="Run a 105 GB AI model on a Mac that can&#39;t hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest ex…">
+<meta property="og:description" content="Run a 105 GB AI model on a Mac that can&#39;t hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and…">
 <meta property="og:url" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/">
 <meta property="og:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <meta property="og:image:type" content="image/svg+xml">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="carloslfu/slotstream — 🧱 AI Foundation Stack — AI OSS Daily">
-<meta name="twitter:description" content="Run a 105 GB AI model on a Mac that can&#39;t hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest ex…">
+<meta name="twitter:description" content="Run a 105 GB AI model on a Mac that can&#39;t hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and…">
 <meta name="twitter:image" content="https://cenxialiu7-cloud.github.io/ai-oss-daily/assets/og-default.svg">
 <link rel="stylesheet" href="/ai-oss-daily/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "carloslfu/slotstream", "description": "Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest experts in memory, so it runs on Macs with 16 to 64 GB. One native Swift binary on MLX and Metal, no Python, offline. Works with Claude Code, Codex and Ollama or OpenAI clients.", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/carloslfu/slotstream", "license": "MIT", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 483, "bestRating": "5", "worstRating": "1"}, "keywords": "apple-silicon, claude-code, inference-engine, llm, llm-inference, local-ai, local-llm, macos, metal, mixture-of-experts"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "carloslfu/slotstream", "description": "Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and Metal. Offline, no Python. CLI, Swift library, and Ollama/OpenAI/Anthropic APIs. Works with Claude Code and Codex.", "url": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Cross-platform", "sameAs": "https://github.com/carloslfu/slotstream", "license": "MIT", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5", "ratingCount": 573, "bestRating": "5", "worstRating": "1"}, "keywords": "apple-silicon, claude-code, inference-engine, llm, llm-inference, local-ai, local-llm, macos, metal, mixture-of-experts"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "AI OSS Daily", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/"}, {"@type": "ListItem", "position": 2, "name": "🧱 AI Foundation Stack", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/"}, {"@type": "ListItem", "position": 3, "name": "⚡ Inference / Serving", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/c/general-ai/inference/"}, {"@type": "ListItem", "position": 4, "name": "carloslfu/slotstream", "item": "https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/"}]}</script>
 </head>
 <body>
@@ -44,10 +44,10 @@
     <a href="/ai-oss-daily/en/c/general-ai/">🧱 AI Foundation Stack</a>
  / <a href="/ai-oss-daily/en/c/general-ai/inference/">⚡ Inference / Serving</a>  </p>
   <h1>carloslfu/slotstream</h1>
-<p class="detail-lead">Run a 105 GB AI model on a Mac that can&#39;t hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest experts in memory, so it runs on Macs with 16 to 64 GB. One native Swift binary on MLX and Metal, no Python, offline. Works with Claude Code, Codex and Ollama or OpenAI clients.</p>  <div class="cardmeta" style="margin-top:12px">
+<p class="detail-lead">Run a 105 GB AI model on a Mac that can&#39;t hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and Metal. Offline, no Python. CLI, Swift library, and Ollama/OpenAI/Anthropic APIs. Works with Claude Code and Codex.</p>  <div class="cardmeta" style="margin-top:12px">
     <span class="badge domain">🧱 AI Foundation Stack</span>
     <span class="badge lic-ok">✓ Commercial OK</span>
-<span class="badge stars">★ 483</span><span class="badge">Swift</span>  </div>
+<span class="badge stars">★ 573</span><span class="badge">Swift</span>  </div>
   <div class="hero-cta">
     <a class="btn primary" href="https://github.com/carloslfu/slotstream" rel="noopener" target="_blank">↗ Source</a>
   </div>

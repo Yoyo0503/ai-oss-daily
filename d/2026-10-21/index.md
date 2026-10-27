@@ -503,7 +503,6 @@ _每日存檔 · 2026-10-21_
 - [assafkip/claudemy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/assafkip-claudemy/) — Claude 教育平臺，根據主題生成網路上的課程。
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-claude-protein-binder-design/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [linoyts/Qwen-Image-2.1-Move](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-qwen-image-2-1-move/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-field-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [agent-collaborations/hutter-prize-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-agent-collaborations-hutter-prize-dashboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prism-ml/Ternary-Bonsai-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prism-ml-ternary-bonsai-27b-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1400,7 +1399,6 @@ _每日存檔 · 2026-10-21_
 - [aigclink/geolook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aigclink-geolook/) — 開源 GEO 實施工具，涵蓋狀態分析、診斷等。
 - [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lb623-no-negative-echo/) — 減少被否決方案在交付中的殘留，生成標題、注釋等。
 - [KKKKhazix/sun-style-writing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-sun-style-writing/) — 從孫割19年白月光的痛徹心扉中蒸餾出的文學寫作心法。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [PotionUI/PotionUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/potionui-potionui/) — 自建的影像、影片和音訊生成工作室，使用擴散模型。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。

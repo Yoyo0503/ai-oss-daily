@@ -888,7 +888,6 @@ _每日存檔 · 2026-08-21_
 - [volcengine/ark-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volcengine-ark-cli/) — 快速部署Volcengine Ark的CLI工具，支援多模態生成和回答。
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teknium-openhermes-2-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [helasaoudi/llm-inspector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helasaoudi-llm-inspector/) — 監控大型語言模型推論過程中的 GPU 記憶體使用情況，並測量量化節省。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marchinthesun-epyc-max-inference-llm-optimizer/) — 針對AMD EPYC最佳化的llama.cpp分支，提升效能。
 - [perso-ai/perso-dubbing-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perso-ai-perso-dubbing-plugin/) — 透過Perso Dubbing API自動翻譯和配音外掛，支援多語言。
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。

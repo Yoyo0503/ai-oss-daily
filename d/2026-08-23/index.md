@@ -838,7 +838,6 @@ _每日存檔 · 2026-08-23_
 - [spinabot/brigade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/) — 企業級個人智慧助手，支援自動化任務和協作。
 - [200lz/llm-inference-optimization-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/200lz-llm-inference-optimization-lab/) — 可重現的 llama.cpp CPU 推理分析和確定性 LLM 伺服器模擬工具。
 - [Saivineeth147/lora-speedrun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saivineeth147-lora-speedrun/) — 加速LoRA微調的模擬器和排行榜。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [gojargo/jargo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gojargo-jargo/) — 基於 WebRTC 的音訊優先對話 AI 框架，適用於 Go 開發。
 - [reikwei/gu-piao-yu-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/reikwei-gu-piao-yu-ce/) — 股票預測專案，使用FastAPI和量化金融技術。
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/extraltodeus-j-wash/) — 基於 Anthropic 的 Jacobian 鏡頭的手動對齊工具。

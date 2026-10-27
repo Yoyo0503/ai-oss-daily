@@ -4,5 +4,5 @@ ComfyUI nodes I made for my own workflows: click or type to mask a thing, crop, 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：89
+**Stars**：92
 **Source**：https://github.com/ausboss/ComfyUI-AusBoss

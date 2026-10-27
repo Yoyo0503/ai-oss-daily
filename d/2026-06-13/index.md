@@ -238,7 +238,6 @@ _每日存檔 · 2026-06-13_
 - [claude-skills（全網站生命週期技能包）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rampstackco-claude-skills/) — 與技術棧無關的 Claude Skills，涵蓋品牌、設計、內容到上線的完整網站生命週期。
 - [thinkpixelIab/polymarket-ai-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thinkpixeliab-polymarket-ai-trading/) — Polymarket AI 交易：模擬盤、GPT、CLOB、Kelly、均值回歸。
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-wikimedia-structured-wikipedia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/Raon-OpenTTS-Pool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-krafton-raon-opentts-pool/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [EvoLinkAI/awesome-gemini-omni-guide-api-and-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-gemini-omni-guide-api-and-prompt/) — Gemini Omni 的 prompt／API 指南與影片範例策展清單。
 - [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-servers/) — 提供模型上下文協議的伺服器。

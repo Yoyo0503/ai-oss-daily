@@ -364,7 +364,6 @@ _Daily archive · 2026-10-10_
 - [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sher1096-klinepic-agent-api-examples/) — Tested MCP server, one-click MCPB bundle, Docker image, and OpenAPI examples for turning broker or exchange f…
 - [webml-community/ternary-bonsai-2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-ternary-bonsai-2-webgpu-kernels/) — · static, region:us
 - [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shekmohammedakram-stable-diffusion-2026-free-local/) — Stable Diffusion Free Local - run Stable Diffusion locally for free AI image generation.
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [OpenMOSS-Team/MOSS-Transcribe-Diarize](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openmoss-team-moss-transcribe-diarize/) — audio-text-to-text · transformers, safetensors, moss_transcribe_diarize
 - [victor/DeepSeek-V4-Flash-0731-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-deepseek-v4-flash-0731-free-endpoint/) — · static, region:us
 - [webml-community/gemma-4-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-gemma-4-webgpu-kernels/) — · static, region:us
@@ -441,7 +440,7 @@ _Daily archive · 2026-10-10_
 - [gaalos/wan2-2-fp8da-aoti-preview-2c-finishing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gaalos-wan2-2-fp8da-aoti-preview-2c-finishing/) — · gradio, mcp-server, region:us
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
 - [drinkmoonshine/parallel-constrained-decoding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-drinkmoonshine-parallel-constrained-decoding/) — · gradio, region:us
-- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Finished motion-graphics ads over their HyperFrames drafts, frame-synced. Export the breakdown as an MP4. Loc…
+- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Play a finished motion-graphics ad in sync with the rough drafts it grew from, and export the breakdown as MP…
 - [rednote-hilab/dots.tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rednote-hilab-dots-tts/) — · gradio, zerogpu, aoti
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qdrant-fineweb-10b/) — · language:en, license:odc-by, size_categories:10B<n<100B
 - [Xenova/fruit-fly-simulation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-xenova-fruit-fly-simulation/) — · static, region:us
@@ -794,7 +793,7 @@ _Daily archive · 2026-10-10_
 - [OneMoh/html-explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onemoh-html-explainer/) — 把一个主题做成有配音、字幕、封面的讲解分析类视频 —— 全本地、用 HTML 写画面，稳定音画同步。 面向 AI 编程智能体的确定性 HTML → MP4 渲染流水线。
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
 - [BoatswainValve94/1min-ai-download](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/boatswainvalve94-1min-ai-download/) — 1min.AI — Business SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [mvaccargiu/gitskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mvaccargiu-gitskills/) — · task_categories:other, license:cc-by-4.0, size_categories:10M<n<100M
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
@@ -1166,7 +1165,7 @@ _Daily archive · 2026-10-10_
 - [Tranvanviet27/NLP-LLM-Fine-Tuning-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tranvanviet27-nlp-llm-fine-tuning-studio/) — Best Open Source NLP LLM Fine-Tuning Trainer Framework 2026
 - [veedstudio/open-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/veedstudio-open-edit/) — Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos.
 - [PVinh-Quant/Kairos-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pvinh-quant-kairos-v2/) — Kairos v2 là một framework nghiên cứu định lượng mã nguồn mở được phát triển bằng Python nhằm hỗ trợ nghiên c…
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agent-skills/) — Production-grade engineering skills for AI coding agents.
 - [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nari-labs-nari-qwen3-tts/) — Ultrafast Qwen3-TTS: sub-50 ms time-to-first-audio at 10 requests per second.
 - [PNGTRID/AnvilWiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pngtrid-anvilwiki/) — ⚒️ Open-source game wiki template. Astro + Cloudflare Pages. Free, fast, beginner-friendly. Static-first, zer…
@@ -1296,7 +1295,6 @@ _Daily archive · 2026-10-10_
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alirezarezvani-claude-skills/) — 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable r…
 - [FuRongJun-1999/dsh-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/furongjun-1999-dsh-memory/) — 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure

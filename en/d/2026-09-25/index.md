@@ -306,7 +306,6 @@ _Daily archive · 2026-09-25_
 - [markov-ai/cad-1000-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-cad-1000-hours/) — · modality:document, modality:video, region:us
 - [openbmb/UltraData-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultradata-code/) — · task_categories:text-generation, language:en, language:zh
 - [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k3/) — image-text-to-text · transformers, safetensors, kimi_k3
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-2i-pornmaster-krea2/) — · gradio, region:us
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -496,7 +495,7 @@ _Daily archive · 2026-09-25_
 - [google-bert/bert-base-uncased](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-bert-bert-base-uncased/) — fill-mask · transformers, pytorch, tf
 - [multimodalart/follow-the-mean](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-follow-the-mean/) — · gradio, flux, flux.2
 - [AxiomicLabs/Open_SLM_Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-axiomiclabs-open-slm-leaderboard/) — · static, region:us
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [ovi054/Qwen-Image-Edit-2511-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ovi054-qwen-image-edit-2511-lora/) — · gradio, mcp-server, region:us
 - [echel0nn1881/kimi-cyber-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-echel0nn1881-kimi-cyber-reasoning/) — · task_categories:text-generation, language:en, license:wtfpl
 - [LiquidAI/LFM2.5-VL-3B-WebGPU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-lfm2-5-vl-3b-webgpu/) — · docker, region:us
@@ -980,7 +979,7 @@ _Daily archive · 2026-09-25_
 - [genspark-ai/genoffice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/genspark-ai-genoffice/) — Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), Powe…
 - [chadhurley25075-png/pd-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chadhurley25075-png-pd-bridge/) — Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (Mac Studi…
 - [xcslys99/FootageFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xcslys99-footageflow/) — Open-source footage search, research workspace & link downloader for macOS and Windows.
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [avifenesh/bw24](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avifenesh-bw24/) — bw24 — from-scratch LLM inference for RTX 5090 (sm_120a) and H100 (sm_90a)
 - [re4/LibreCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/re4-librecode/) — LibreCode - A Ollama cursor like coding / Reversing Interface
 - [JakeATX/llamAmpere](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jakeatx-llamampere/) — llama.cpp fork for significantly improved performance on Ampere (especially RTX 3090 / 3090 Ti): example: 95+…
@@ -1179,7 +1178,6 @@ _Daily archive · 2026-09-25_
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-netflix-vera-layered-video-dataset/) — · task_categories:text-to-video, license:apache-2.0, size_categories:10K<n<100K
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultrax-preview/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alephaitech-workbuddyguide/) — A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/faizalimam990-startup-builder-pro/) — AI-powered skill that turns product ideas or existing repositories into secure, tested, production-ready SaaS…
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-khazix-skills/) — 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Cl…
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure

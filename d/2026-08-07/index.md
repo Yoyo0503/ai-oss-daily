@@ -686,7 +686,6 @@ _每日存檔 · 2026-08-07_
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [StarTrail-org/PixelRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startrail-org-pixelrag/) — 基於畫素的搜尋引擎，支援多模態資料。
 - [simonlin1212/TradingAgents-astock](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simonlin1212-tradingagents-astock/) — 基於AI的A股投資研究框架，適配多個資料來源和分析師。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [volcengine/ark-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volcengine-ark-cli/) — 快速部署Volcengine Ark的CLI工具，支援多模態生成和回答。
 - [amitshekhariitbhu/transformers-explained](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-transformers-explained/) — 詳細解說 Transformer 架構及其各層結構。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

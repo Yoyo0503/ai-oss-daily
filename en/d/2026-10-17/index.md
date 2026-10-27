@@ -470,7 +470,7 @@ _Daily archive · 2026-10-17_
 - [onehumanbeing/esp32-iphone-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onehumanbeing-esp32-iphone-agent/) — Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision …
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
 - [drinkmoonshine/parallel-constrained-decoding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-drinkmoonshine-parallel-constrained-decoding/) — · gradio, region:us
-- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Finished motion-graphics ads over their HyperFrames drafts, frame-synced. Export the breakdown as an MP4. Loc…
+- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Play a finished motion-graphics ad in sync with the rough drafts it grew from, and export the breakdown as MP…
 - [rednote-hilab/dots.tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rednote-hilab-dots-tts/) — · gradio, zerogpu, aoti
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qdrant-fineweb-10b/) — · language:en, license:odc-by, size_categories:10B<n<100B
 - [Xenova/fruit-fly-simulation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-xenova-fruit-fly-simulation/) — · static, region:us
@@ -500,7 +500,6 @@ _Daily archive · 2026-10-17_
 - [jasperai/t2i-technical-interactive-report](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jasperai-t2i-technical-interactive-report/) — · docker, research-article-template, research paper
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-claude-protein-binder-design/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:image
 - [linoyts/Qwen-Image-2.1-Move](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-qwen-image-2-1-move/) — · gradio, region:us
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-field-guide/) — · docker, region:us
 - [agent-collaborations/hutter-prize-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-agent-collaborations-hutter-prize-dashboard/) — · docker, agent-collab, region:us
 - [HelenPeng/ExeWorldBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-helenpeng-exeworldbench/) — · task_categories:text-generation, task_categories:image-text-to-text, language:en
@@ -821,7 +820,7 @@ _Daily archive · 2026-10-17_
 - [CodeSoft/SLM-Arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-codesoft-slm-arena/) — · gradio, region:us
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
 - [KKKKhazix/AIHOT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-aihot/) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [mvaccargiu/gitskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mvaccargiu-gitskills/) — · task_categories:other, license:cc-by-4.0, size_categories:10M<n<100M
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
@@ -1320,7 +1319,7 @@ _Daily archive · 2026-10-17_
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lerobot-visualize-dataset/) — · docker, region:us
 - [adambenhassen/minimax-music-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adambenhassen-minimax-music-ui/) — Suno-style web UI for a self-hosted MiniMax-Music3 inference server
 - [BaYue-SYJ/shuixian-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bayue-syj-shuixian-prompts/) — 水仙的AI提示词｜5,000+ 中文 AI 绘画提示词库：检索 / 分类 / 一键复制。提示词覆盖 ChatGPT、Grok、Gemini、Midjourney、Stable Diffusion、Flux、即梦、可灵、…
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [loudreader/loudkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/loudreader-loudkit/) — Local text-to-speech: 28 voices, 10 languages, voice cloning, SDKs for Python, Swift, Go, Rust and TypeScript
 - [HKUDS/Vibe-Trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-vibe-trading/) — "Vibe-Trading: Your Personal Trading Agent"
 - [Rath-Team/OpenRath](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rath-team-openrath/) — An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.
@@ -1368,7 +1367,6 @@ _Daily archive · 2026-10-17_
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…
 - [bamboostrip/Handwriting-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bamboostrip-handwriting-simulator/) — 把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。
 - [fuxicodex/Fuxi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fuxicodex-fuxi/) — FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and dri…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
 - [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国A股（A-share / AShare / AStock）股票数据与金融数据基础设施，面向量化交易与回测。55个日更数据集：沪深股票行情、财务数据与基本面、期货数据、资金面、公告事件、指数行业、宏观与风险。行级溯源…
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure

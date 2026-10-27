@@ -195,7 +195,6 @@ _每日存檔 · 2026-06-07_
 - [thinkpixelIab/polymarket-ai-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thinkpixeliab-polymarket-ai-trading/) — Polymarket AI 交易：模擬盤、GPT、CLOB、Kelly、均值回歸。
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atomflow-ai-molecode/) — Molecode 將分子表示為程式碼，使大型語言模型可以直接操作和推理化學物質。
 - [byliutao/CDM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/byliutao-cdm/) — 連續時間分布匹配，用於少步數擴散模型蒸餾。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denissergeevitch-agents-best-practices/) — Codex、Claude Code 和其他平臺的通用代理技能。
 - [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-llm-flashcards/) — 手繪的 LLM 工作原理卡片集，包含19張免費樣品卡。
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/) — DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。

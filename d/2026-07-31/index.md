@@ -660,7 +660,6 @@ _每日存檔 · 2026-07-31_
 - [EvoLinkAI/gpt-image-2-for-e-commerce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-for-e-commerce/) — 如何使用GPT Image 2為電商生成列表照片和其他創意內容。
 - [zlab-princeton/i1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zlab-princeton-i1/) — 強大的文字轉影像模型的開放式食譜程式碼。
 - [SauravP97/ai-engineering-primer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sauravp97-ai-engineering-primer/) — 學習代理AI、深度學習等技術的指南。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [UditAkhourii/adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/uditakhourii-adhd/) — 一種基於 Claude 和 Codex SDK 的程式碼代理技能，能生成並評估多種創意思路。
 - [quysto/QUYQUY-AntigravityAwesomeSkills-GodVersion-bumbum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quysto-quyquy-antigravityawesomeskills-godversion-bumbum/) — 包含1500多種代理技能的GitHub庫，適用於Claude Code等AI代理。

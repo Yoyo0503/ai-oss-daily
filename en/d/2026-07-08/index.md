@@ -527,7 +527,6 @@ _Daily archive · 2026-07-08_
 - [byliutao/CDM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/byliutao-cdm/) — Continuous-Time Distribution Matching for Few-Step Diffusion Distillation👏
 - [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thomasmoreai-legal-skills-open/) — Open library of legal AI skills (SKILL.md) for MCP-compatible agents — 18,000+ skills, 54 jurisdictions, 410+…
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mempalace-mempalace/) — The best-benchmarked open-source AI memory system. And it's free.
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-hyperframes/) — Write HTML. Render video. Built for agents.
 - [AgriciDaniel/codex-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-codex-seo/) — Codex-first SEO skill suite. 26 workflows, 24 TOML agents, DataForSEO/Gemini/Google/Firecrawl integrations, G…
 - [browser-use/browser-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/browser-use-browser-harness/) — Browser Harness | Self-healing harness that enables LLMs to complete any task.

@@ -513,7 +513,6 @@ _Daily archive · 2026-07-03_
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/philolabs-agentic-vbench/) — AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
 - [thaolst/tara-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thaolst-tara-bot/) — Tara Bot — AI Telegram agent: search flights, compare prices, inject affiliate links
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-badlogicgames-pi-mono/) — · task_categories:text-generation, language:en, language:code
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-hyperframes/) — Write HTML. Render video. Built for agents.
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jegly-box/) — The most advanced, fully offline client-side AI suite on Android today.
 - [zer0quant/zer0factor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zer0quant-zer0factor/) — 面向 A 股本地数据的 AI 因子研究工作台：因子生成、存储、注册、评估与报告。

@@ -14,7 +14,7 @@ _Daily archive · 2026-09-02_
 - [openai-community/gpt2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-community-gpt2/) — text-generation · transformers, pytorch, tf
 - [Conquerer-yinn/Kakaaaa-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/conquerer-yinn-kakaaaa-quant/) — 面向 A 股研究工作流的轻量量化研究工作台 · 情绪指标 / Excel 历史主表 / 飞书卡片 / FastAPI / React
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qdrant-fineweb-10b/) — · language:en, license:odc-by, size_categories:10B<n<100B
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [MeiGen-AI/OPSD-V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/meigen-ai-opsd-v/) — On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators
 
 ## 🚀 Climbing
@@ -638,7 +638,7 @@ _Daily archive · 2026-09-02_
 - [adambenhassen/minimax-music-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adambenhassen-minimax-music-ui/) — Suno-style web UI for a self-hosted MiniMax-Music3 inference server
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qdrant-fineweb-10b/) — · language:en, license:odc-by, size_categories:10B<n<100B
 - [ianncity/GLM-5.2-Finance-80000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ianncity-glm-5-2-finance-80000x/) — · task_categories:text-generation, task_categories:question-answering, language:en
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [xlangai/osworld_v2_tasks](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xlangai-osworld-v2-tasks/) — · license:apache-2.0, size_categories:n<1K, format:json
 - [WithinUsAI/Opus_4.7_Distilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-opus-4-7-distilled/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
 - [Zhongzhi1228/Recursive-Task-Synthesis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhongzhi1228-recursive-task-synthesis/) — · task_categories:reinforcement-learning, language:en, license:cc-by-4.0
@@ -1017,7 +1017,6 @@ _Daily archive · 2026-09-02_
 - [livecontext-ai/livecontext-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/livecontext-ai-livecontext-ce/) — The AI automation platform, self-hosted. Describe the job in chat and LiveContext builds it: readable workflo…
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/red-ead-flowblock/) — FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models
 - [wikimedia/structured-wikipedia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-wikimedia-structured-wikipedia/) — · language:en, language:fr, license:cc-by-sa-4.0
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ayghri-i-have-adhd/) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [HuggingFaceH4/ultrachat_200k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfaceh4-ultrachat-200k/) — · task_categories:text-generation, language:en, license:mit
 - [Tsukimisaka/MamboTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tsukimisaka-mambotts/) — 本地曼波配音，文字转语音工具，利用本地 NVIDIA 显卡运行，无需调用第三方API，开箱即用

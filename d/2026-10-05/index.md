@@ -307,7 +307,6 @@ _每日存檔 · 2026-10-05_
 - [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-diffusion-14b/) — NVIDIA Nemotron 14B 擴散式文字生成模型。
 - [edenfunf/reelmimic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/edenfunf-reelmimic/) — 讓AI根據喜愛的影片風格生成新影片。
 - [kulkas2pintu/kv-i2v](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-kv-i2v/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ankitjh4/bharat-government-documents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ankitjh4-bharat-government-documents/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — 經過多階段微調的影像文字轉文字模型，適用於所有場景。
 - [ProCreations/grug-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-procreations-grug-27b/) — 文本生成模型，具備推理和工具使用能力。
@@ -1255,7 +1254,6 @@ _每日存檔 · 2026-10-05_
 - [joeseesun/qiaomu-cut-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joeseesun-qiaomu-cut-skill/) — 智慧影片編輯技能，提供素材管理、雙語字幕和品牌包裝功能。
 - [patchy631/time-to-first-token](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/patchy631-time-to-first-token/) — LLM 推論服務和最佳化學習路徑。
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hassancs91/claude-youtube-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hassancs91-claude-youtube-editor/) — 使用Claude Code編輯YouTube影片的工具。
 - [Prysai/Prysai-LLM-Playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prysai-prysai-llm-playbook/) — Prysai-LLM-Playbook 是一個基於證據的 LLM 演練手冊。
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。

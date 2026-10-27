@@ -623,7 +623,6 @@ _每日存檔 · 2026-07-23_
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/) — 將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。
 - [cyyself/OpenTihui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyyself-opentihui/) — 適用於 iOS 的本地化大型語言模型，支援鍵盤快捷方式。
 - [Saganaki22/Dots-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-dots-tts-comfyui/) — Dots-TTS-ComfyUI 提供自定義節點，支援文字轉語音、聲音複製及 transcription。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [0xSero/glm-5.2-sm120](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsero-glm-5-2-sm120/) — GLM-5.2-NVFP4-REAP-469B 在SM120上執行的大規模語言模型推理工具。
 - [derek-zhuolin/interflow-video-cut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/derek-zhuolin-interflow-video-cut/) — 將口播影片自動剪輯成卡片式影片，支援多種視覺風格與佈局。

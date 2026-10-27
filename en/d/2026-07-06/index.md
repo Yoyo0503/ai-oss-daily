@@ -475,7 +475,6 @@ _Daily archive · 2026-07-06_
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — · gradio, region:us
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wenyuchiou-awesome-agentic-ai-zh/) — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, wit…
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-caveman/) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like cave…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-c4/) — · task_categories:text-generation, task_categories:fill-mask, task_ids:language-modeling
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ggml-org-gguf-my-repo/) — · docker, region:us
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.

@@ -184,7 +184,6 @@ _每日存檔 · 2026-06-08_
 - [Lynpoint/CyberVerse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lynpoint-cyberverse/) — 自建即時數字人類代理平臺，支援 WebRTC 和工具整合。
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronesfe-polymarket-automated-trading-bot/) — Polymarket 預測市場自動交易機器人，支援 4 種策略、可選 AI。
 - [Chz1Y/Steerable-music-transformer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chz1y-steerable-music-transformer/) — 可控節奏複雜度的自回歸音樂生成模型（PyTorch 官方實作）。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [byliutao/CDM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/byliutao-cdm/) — 連續時間分布匹配，用於少步數擴散模型蒸餾。
 - [huawei-csl/KVarN](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huawei-csl-kvarn/) — 為代理提供原生 vLLM KV-快取量化後端，提升上下文和吞吐量。
 - [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifuryst-open-codex-computer-use/) — Codex Computer Use的開源替代方案，提高可訪問性。

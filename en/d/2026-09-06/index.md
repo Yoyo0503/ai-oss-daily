@@ -759,7 +759,7 @@ _Daily archive · 2026-09-06_
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
 - [linoyts/smart-character-swap-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-smart-character-swap-flux2-klein/) — · gradio, region:us
 - [0xsline/OpenChatCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xsline-openchatcut/) — Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skill…
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [embodied-analysis/FinanceGym](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-embodied-analysis-financegym/) — · task_categories:image-text-to-text, license:apache-2.0, size_categories:1K<n<10K
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nxin-github-auteur/) — 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
@@ -943,7 +943,6 @@ _Daily archive · 2026-09-06_
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/manypost-manypost-app/) — O ecossistema brasileiro de automação multicanal para criadores e devs. 📧📬
 - [electkismet/AxData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/electkismet-axdata/) — AxData 是一个开源量化数据库框架，覆盖通达信、巨潮、腾讯财经、新浪财经、东方财富、财联社、开盘红等公开源接口。
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teknium-openhermes-2-5/) — · language:eng, size_categories:1M<n<10M, format:json
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [yan-labs/yan-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yan-labs-yan-skills/) — Yan's agent skills collection — Google Trends SEO workflows, AI news, autopilot, and more. For Claude Code / …
 - [marchinthesun/EPYC-Max-Inference-LLM-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marchinthesun-epyc-max-inference-llm-optimizer/) — LLM Optimizer for NUMA, and monitor LLM system
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ggml-org-gguf-my-repo/) — · docker, region:us

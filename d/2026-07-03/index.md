@@ -513,7 +513,6 @@ _每日存檔 · 2026-07-03_
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/philolabs-agentic-vbench/) — 評測 AI agent 能否完成真實影片後製任務的基準測試。
 - [thaolst/tara-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thaolst-tara-bot/) — Tara Bot 是一個智慧 Telegram 機器人，能搜尋航班、比較價格並插入聯盟連結。
 - [badlogicgames/pi-mono](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-badlogicgames-pi-mono/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jegly-box/) — 私人 Android 裝置 AI 套件，內含語音識別、影像生成等功能。
 - [zer0quant/zer0factor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zer0quant-zer0factor/) — 面向 A 股本地資料的 AI 因子研究工作臺，用於生成、儲存、註冊、評估與報告因子。

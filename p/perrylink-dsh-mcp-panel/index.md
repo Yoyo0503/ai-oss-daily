@@ -2,9 +2,9 @@
 
 DeepSeek Harness MCP客戶端管理控制台，提供健康診斷和管道試驗呼叫。
 
-**為何上榜**：89★ · 近期活躍
+**為何上榜**：近一日新增 2★（現 91★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：89
+**Stars**：91
 **原始連結**：https://github.com/PerryLink/dsh-mcp-panel

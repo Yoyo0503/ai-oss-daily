@@ -271,7 +271,6 @@ _Daily archive · 2026-10-03_
 - [thomsonreuters/Thomson-1.0-Small](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-thomsonreuters-thomson-1-0-small/) — image-text-to-text · transformers, safetensors, qwen3_5_moe
 - [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwythos-9b-claude-mythos-5-1m-gguf/) — image-text-to-text · gguf, llama.cpp, quantized
 - [yandex/AliceAI-T5-35B-A0.6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-yandex-aliceai-t5-35b-a0-6b/) — · transformers, safetensors, aliceai_t5_moe
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — text-to-speech · safetensors, qwen3_tts, text-to-speech
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — video-to-video · ltx-video, ic-lora, ltx-2.3
 - [Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/) — · region:us
@@ -449,7 +448,7 @@ _Daily archive · 2026-10-03_
 - [BitRobot/HIW-500-LeRobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitrobot-hiw-500-lerobot/) — · task_categories:robotics, language:en, license:cc-by-4.0
 - [Viggle/Meridian](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-viggle-meridian/) — · gradio, region:us
 - [jasperai/t2i-technical-interactive-report](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jasperai-t2i-technical-interactive-report/) — · docker, research-article-template, research paper
-- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Finished motion-graphics ads over their HyperFrames drafts, frame-synced. Export the breakdown as an MP4. Loc…
+- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Play a finished motion-graphics ad in sync with the rough drafts it grew from, and export the breakdown as MP…
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-claude-protein-binder-design/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:image
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-field-guide/) — · docker, region:us
 - [agent-collaborations/hutter-prize-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-agent-collaborations-hutter-prize-dashboard/) — · docker, agent-collab, region:us
@@ -667,7 +666,7 @@ _Daily archive · 2026-10-03_
 - [snapwre/amharic-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-snapwre-amharic-speech/) — · task_categories:automatic-speech-recognition, language:am, license:cc-by-4.0
 - [Synpath-ai/synpath](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synpath-ai-synpath/) — One open-source API for prediction markets. Trade Kalshi, Polymarket, Polymarket US and Opinion with one Pyth…
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-gemma-avatar/) — · docker, region:us
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [YuCrazing1/ClothTransformer-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yucrazing1-clothtransformer-dataset/) — · task_categories:other, language:en, license:cc-by-4.0
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — · task_categories:video-classification, task_categories:video-text-to-text, task_categories:text-to-video
 - [Cuongyd196/cit-voice-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cuongyd196-cit-voice-studio/) — CIT Voice Stuido - Chuyển văn bản tiếng Việt thành giọng nói, chạy hoàn toàn trên máy bạn.
@@ -1081,7 +1080,7 @@ _Daily archive · 2026-10-03_
 - [MatrAIx2026/MatrAIx_Persona_1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-matraix2026-matraix-persona-1m/) — · task_categories:text-generation, license:other, size_categories:n<1K
 - [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [Huang-Hg/alpha-foundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/huang-hg-alpha-foundry/) — Formulaic alpha mining: strongly-typed GP + GFlowNet search over a typed DSL, with C++/OpenMP portfolio backt…
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [chadhurley25075-png/pd-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chadhurley25075-png-pd-bridge/) — Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (Mac Studi…
 - [AI4Editing/MagicQuill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ai4editing-magicquill/) — · gradio, region:us
 - [nvidia/PhysicalAI-Robotics-Locomanipulation-GRAIL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-robotics-locomanipulation-grail/) — · license:apache-2.0, size_categories:1K<n<10K, modality:image
@@ -1241,7 +1240,6 @@ _Daily archive · 2026-10-03_
 - [shy3130/tick-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shy3130-tick-stock-panel/) — TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
 - [Leb947/modernbert-multi-task-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leb947-modernbert-multi-task-studio/) — ModernBERT Multi-Task Fine-Tuning Hub 2026: Streamlined AI Workflows
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blizaine-maestro/) — An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos and short …
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [erduo1998-cell/erduo-broll-loop-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/erduo1998-cell-erduo-broll-loop-engineering/) — SRT 驱动的双后端 B-roll Agent Skill：自动路由 HyperFrames / Remotion，集成 152 张 Shotcraft 镜头卡
 - [0xShug0/audio.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xshug0-audio-cpp/) — An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice con…
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-khazix-skills/) — 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Cl…

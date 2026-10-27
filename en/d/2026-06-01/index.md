@@ -150,7 +150,6 @@ _Daily archive · 2026-06-01_
 - [minhnv0807/ai-business-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/minhnv0807-ai-business-skills/) — 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SO…
 - [daisy-workflow/daisy-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daisy-workflow-daisy-engine/) — AI orchestration platform
 - [ConardLi/garden-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/conardli-garden-skills/) — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and mo…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [1weiho/open-slide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/1weiho-open-slide/) — A slide framework built for agents.
 - [bladedevoff/studiomi300](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bladedevoff-studiomi300/) — Director Agent + vision critic + image, video, music & voice models - all on a single AMD Instinct MI300X.
 - [nowork-studio/NotFair](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nowork-studio-notfair/) — Goal-driven, loop-powered marketing agents that crush your business goals 24/7

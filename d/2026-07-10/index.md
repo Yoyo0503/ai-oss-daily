@@ -545,7 +545,6 @@ _每日存檔 · 2026-07-10_
 - [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifuryst-open-codex-computer-use/) — Codex Computer Use的開源替代方案，提高可訪問性。
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atomflow-ai-molecode/) — Molecode 將分子表示為程式碼，使大型語言模型可以直接操作和推理化學物質。
 - [mlabonne/open-perfectblend](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mlabonne-open-perfectblend/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Graphify-Labs/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/) — 將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [claude-skills（全網站生命週期技能包）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rampstackco-claude-skills/) — 與技術棧無關的 Claude Skills，涵蓋品牌、設計、內容到上線的完整網站生命週期。

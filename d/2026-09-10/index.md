@@ -967,7 +967,6 @@ _每日存檔 · 2026-09-10_
 - [Vibe-Trading（個人交易 Agent）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/) — 港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。
 - [Rath-Team/OpenRath](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rath-team-openrath/) — 開源、類似PyTorch的工作流程執行時環境，適用於多代理和多會話。
 - [EvoLinkAI/gpt-image-2-gen-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-gen-skill/) — 為 OpenClaw 等平臺提供 GPT 影像生成技能，只需一條指令即可安裝。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Alinebm17/trade-backtesting-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alinebm17-trade-backtesting-engine/) — 用於 DCA 和網格交易策略的回測引擎，支援技術指標和歷史資料模擬。
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dontplantoend-ugi-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Ali-hey-0/audio-ai-field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ali-hey-0-audio-ai-field-guide/) — 從原始波形到生產語音系統的音訊 AI 應用指南，涵蓋 ASR、TTS 和音訊分類等。

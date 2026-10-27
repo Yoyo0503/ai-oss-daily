@@ -881,7 +881,6 @@ _Daily archive · 2026-08-27_
 - [ChromeDevTools/chrome-devtools-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chromedevtools-chrome-devtools-mcp/) — Chrome DevTools for coding agents
 - [GokuScraper/seedance-2-prompts-datasets](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gokuscraper-seedance-2-prompts-datasets/) — · task_categories:text-to-video, language:en, language:zh
 - [mikeee/qwen-7b-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mikeee-qwen-7b-chat/) — · docker, region:us
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hirokawaguchi-open-genai/) — デジタル庁のガバメントAI「源内(GENAI)」を完全ローカル(ローカルLLM/OpenAI互換)で動かす非公式プロジェクト。SAML認証(Keycloak)・RAG(Qdrant)・文字起こし(Whisper)・画像…
 - [cais/mmlu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-mmlu/) — · task_categories:question-answering, task_ids:multiple-choice-qa, annotations_creators:no-annotation
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-nanobot/) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, …

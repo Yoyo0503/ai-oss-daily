@@ -4,5 +4,5 @@ Hyperliquid trading desk for AI agents: 7 roles, 17 skills and keyless market to
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：203
+**Stars**：210
 **Source**：https://github.com/galleonlabs/hypergrok-trading-desk

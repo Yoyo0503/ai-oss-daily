@@ -966,7 +966,6 @@ _每日存檔 · 2026-09-04_
 - [k2-fsa/OmniVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-k2-fsa-omnivoice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-autonomous-vehicles/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Panniantong/Agent-Reach](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/panniantong-agent-reach/) — 讓 AI 代理可以瀏覽整個網際網路，支援多平臺無費率 API 查詢。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lidge-jun/opencodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lidge-jun-opencodex/) — 一個通用代理，讓使用者可以使用任何大型語言模型來驅動OpenAI Codex和Claude Code。
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/felixmelanson-quantdrift/) — 追蹤 7 個 AI 模型用不同哲學操作真實股票組合（開發中）。
 - [Saganaki22/Higgs-Audio-v3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-audio-v3-studio/) — 使用Rust/Tauri開發的跨平臺桌面應用程式，提供Higgs Audio v3 TTS本地推理功能。

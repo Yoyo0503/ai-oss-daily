@@ -377,7 +377,6 @@ _Daily archive · 2026-10-09_
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-qwen-image-bench/) — · task_categories:image-to-text, language:en, language:zh
 - [cyjin-yl/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cyjin-yl-qwen3-8-27b-uncensored-cyber-agentic-imatrix-gguf/) — image-text-to-text · gguf, imatrix, quantized
 - [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-ai-notes/) — · static, ai-notes, note-taker
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [linoyts/sun-direction-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-sun-direction-flux2-klein/) — · gradio, region:us
 - [ZzWater/ViiTorVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-zzwater-viitorvoice/) — · gradio, region:us
 - [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mothersuperior-yue2-hum-to-song/) — · gradio, mcp-server, region:us
@@ -432,7 +431,7 @@ _Daily archive · 2026-10-09_
 - [gaalos/wan2-2-fp8da-aoti-preview-2c-finishing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gaalos-wan2-2-fp8da-aoti-preview-2c-finishing/) — · gradio, mcp-server, region:us
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
 - [drinkmoonshine/parallel-constrained-decoding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-drinkmoonshine-parallel-constrained-decoding/) — · gradio, region:us
-- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Finished motion-graphics ads over their HyperFrames drafts, frame-synced. Export the breakdown as an MP4. Loc…
+- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Play a finished motion-graphics ad in sync with the rough drafts it grew from, and export the breakdown as MP…
 - [rednote-hilab/dots.tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rednote-hilab-dots-tts/) — · gradio, zerogpu, aoti
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qdrant-fineweb-10b/) — · language:en, license:odc-by, size_categories:10B<n<100B
 - [Xenova/fruit-fly-simulation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-xenova-fruit-fly-simulation/) — · static, region:us
@@ -792,7 +791,7 @@ _Daily archive · 2026-10-09_
 - [nj4naiem992lmr/seedream5.0-seedream-5.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nj4naiem992lmr-seedream5-0-seedream-5-0-prompts/) — seedream-5.0 API (seedream5.0 / seedream 5.0): 1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293. Model id, prom…
 - [duty1g/x64dbg-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/duty1g-x64dbg-mcp-server/) — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full…
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [mvaccargiu/gitskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mvaccargiu-gitskills/) — · task_categories:other, license:cc-by-4.0, size_categories:10M<n<100M
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
@@ -1179,7 +1178,7 @@ _Daily archive · 2026-10-09_
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/on-page-ai-geo-seo-superapp/) — Free macOS workspace for SEO and GEO agencies
 - [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [career-ops-hq/career-ops](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/career-ops-hq-career-ops/) — Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before yo…
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [yaojingang/GEOHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-geohub/) — GEOHub: open, evidence-bounded GEO and SEO agent skills for AI Search, with research-grounded discovery, diag…
 - [BaYue-SYJ/shuixian-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bayue-syj-shuixian-prompts/) — 水仙的AI提示词｜5,000+ 中文 AI 绘画提示词库：检索 / 分类 / 一键复制。提示词覆盖 ChatGPT、Grok、Gemini、Midjourney、Stable Diffusion、Flux、即梦、可灵、…
 - [ant-intl/DeveloperSkills-Code2Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ant-intl-developerskills-code2skill/) — · language:en, license:apache-2.0, size_categories:1M<n<10M
@@ -1292,7 +1291,6 @@ _Daily archive · 2026-10-09_
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultrax-preview/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [FuRongJun-1999/dsh-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/furongjun-1999-dsh-memory/) — 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-khazix-skills/) — 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Cl…
 - [TaoLiveAIGC/TLive-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/taoliveaigc-tlive-omni/) — TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure

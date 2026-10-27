@@ -718,7 +718,6 @@ _Daily archive · 2026-08-13_
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/extraltodeus-j-wash/) — Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Re…
 - [hexgrad/Kokoro-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hexgrad-kokoro-tts/) — · gradio, region:us
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/red-ead-flowblock/) — FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [estebanstifli/LocalText2Voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/estebanstifli-localtext2voice/) — Free open-source AI desktop app for audiobooks, podcasts, documentaries, films and animated videos with local…
 - [lambda/hermes-agent-reasoning-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lambda-hermes-agent-reasoning-traces/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — · gradio, mcp-server, region:us

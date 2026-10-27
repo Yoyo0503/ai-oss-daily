@@ -684,7 +684,6 @@ _每日存檔 · 2026-08-12_
 - [avifenesh/memra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/avifenesh-memra/) — 為RTX 5090和H100設計的從零開始構建的大語言模型推論框架。
 - [omnigent-ai/omnigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omnigent-ai-omnigent/) — 開源 AI 代理框架，可管理多個 AI 代理。
 - [deer-flow/llm-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deer-flow-llm-space/) — 用於原型設計和評估代理模型的桌面應用程式。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [larlarua/AutoCVE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/larlarua-autocve/) — 自動化漏洞發現平臺，適用於原始碼審查和報告生成。
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-eve/) — 用於構建代理的框架。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-corpus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

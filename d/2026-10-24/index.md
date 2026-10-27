@@ -924,7 +924,6 @@ _每日存檔 · 2026-10-24_
 - [r0b0tlab/deepseek-v4-pro-0813-agentic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-deepseek-v4-pro-0813-agentic/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [humanplus-ai/humanplus-1000](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-humanplus-ai-humanplus-1000/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [100yenadmin/fish-audio-hermes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/100yenadmin-fish-audio-hermes/) — Hermes Agent的Fish Audio外掛，提供語音轉換和語音設計。
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TOPDEV99999/AI-Knowledge-Management-Platform](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/topdev99999-ai-knowledge-management-platform/) — 利用大型語言模型自動提取實體並進行結構化資料分析的知識管理平臺。
 - [bench-labs/slop-classification](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bench-labs-slop-classification/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [dronefreak/ExDark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-dronefreak-exdark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1406,7 +1405,6 @@ _每日存檔 · 2026-10-24_
 - [himovo/movo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/himovo-movo/) — 將DeepSeek Harness轉換為具知識、深入研究、內容生成等功能的企業級代理平臺。
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tsingyuai/growth-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsingyuai-growth-lab/) — 從程式碼到市場的開源增長工具，自動化營銷活動。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。
 - [ilabai/3dcodeverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ilabai-3dcodeverse/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

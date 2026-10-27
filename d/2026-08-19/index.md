@@ -879,7 +879,6 @@ _每日存檔 · 2026-08-19_
 - [Cassette-Editor/oh-my-cassette](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cassette-editor-oh-my-cassette/) — 與Claude Code等合作的口袋AI剪輯外掛。
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibaba-yufeng-mma-safetybench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/) — 本地優先的超級工作代理，快速學習並記住工作上下文。
 - [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — 適用於 Google Ads、Meta Ads 和 GA4 的 MCP 伺服器，支援多種 AI 工具。
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-thedaw/) — GANTASMO 開發的 AI 音樂創作、編輯和混音一站式工作室。

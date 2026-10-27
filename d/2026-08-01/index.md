@@ -762,7 +762,6 @@ _每日存檔 · 2026-08-01_
 - [ShurikenTrade/shuriken-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shurikentrade-shuriken-skills/) — 適用於 Shuriken 平臺的 AI 交易技能集。
 - [FutureUniant/WorkShadow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/futureuniant-workshadow/) — 本地優先的桌面工作日誌應用，支援富文本記錄和語義檢索。
 - [AgriciDaniel/claude-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-seo/) — Claude Code 通用 SEO skill：25 子技能＋18 子代理，涵蓋技術 SEO。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wangchuxiaoji-oss/doubao2api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wangchuxiaoji-oss-doubao2api/) — 把豆包(Doubao)逆向成 OpenAI 相容 REST API（免費多模態，灰色用途、有風險）。
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/debpalash-omnivoice-studio/) — 開源版 ElevenLabs：本機語音克隆、配音、口播設計。
 - [btitkin/ComfyUI-KSampler-Matrix-Lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/btitkin-comfyui-ksampler-matrix-lab/) — 用一個模型比較抽樣器和排程器的組合。

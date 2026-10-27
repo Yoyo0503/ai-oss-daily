@@ -860,7 +860,6 @@ _每日存檔 · 2026-08-16_
 - [pacifio/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pacifio-atlas/) — 用於管理AI程式碼代理的原始碼控制工具，追蹤代理修改並查詢。
 - [citrolabs/ego-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/citrolabs-ego-lite/) — 用於 AI 機器人的快速瀏覽器，讓機器人可以自動化操作並存取使用者的登入狀態。
 - [begin0808/VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/begin0808-voxcpm2/) — 基於VoxCPM2模型的離線語音合成與複製桌面工作站。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [teng-lin/notebooklm-py](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/teng-lin-notebooklm-py/) — Google NotebookLM的非官方Python API及代理技能。
 - [openai/gdpval](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openai-gdpval/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RudySen/comfyui-muse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rudysen-comfyui-muse/) — ComfyUI 的本地 LLM 聊天面板，支援多會話及視覺功能。

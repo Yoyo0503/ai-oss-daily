@@ -377,7 +377,6 @@ _每日存檔 · 2026-10-09_
 - [Qwen/Qwen-Image-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-qwen-image-bench/) — Qwen 圖像理解基準資料集（中英）。
 - [cyjin-yl/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cyjin-yl-qwen3-8-27b-uncensored-cyber-agentic-imatrix-gguf/) — 基於Qwen3.8的影像文字轉文字模型，支援未審核內容。
 - [Lynote/ai-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-ai-notes/) — Hugging Face 示範應用(Space)，關鍵字：RAG（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [linoyts/sun-direction-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-sun-direction-flux2-klein/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ZzWater/ViiTorVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-zzwater-viitorvoice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mothersuperior-yue2-hum-to-song/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1292,7 +1291,6 @@ _每日存檔 · 2026-10-09_
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FuRongJun-1999/dsh-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/furongjun-1999-dsh-memory/) — 白箱AGI架構探索，包含元認知、持續學習、世界模型、自我改進等模組。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [TaoLiveAIGC/TLive-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taoliveaigc-tlive-omni/) — 適用於電商直播的全模態理解模型。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。

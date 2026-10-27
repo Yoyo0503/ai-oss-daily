@@ -645,7 +645,6 @@ _每日存檔 · 2026-07-29_
 - [code-yeongyu/lazycodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/code-yeongyu-lazycodex/) — 複雜程式碼庫的AI代理管理工具，支援專案記憶和執行。
 - [wanshuiyin/ARIS-in-AI-Offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wanshuiyin-aris-in-ai-offer/) — AI 秋招面試雙語備忘單，生成 CV 轉換器。
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-field-reels-af/) — 利用AI系統自動化製作熱門短影片和TikTok內容。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evermind-ai-raven/) — 一個記憶優先、自我改進的代理程式，基於 EverOS 和 MiroThinker 深度研究技術。
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saadansha-crypto-trading-bot-v2/) — 適用於多個交易所的加密貨幣交易機器人。

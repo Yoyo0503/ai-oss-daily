@@ -291,7 +291,6 @@ _Daily archive · 2026-09-26_
 - [stepfun-ai/StepAudio-3-Music](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-stepfun-ai-stepaudio-3-music/) — · gradio, region:us
 - [Soofi-Project/Soofi-S-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-soofi-project-soofi-s-base/) — text-generation · transformers, safetensors, soofi
 - [Yootta/World-SimReady-Home](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yootta-world-simready-home/) — · task_categories:robotics, language:en, license:cc-by-nc-sa-4.0
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [XDOF/ABC-130k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-xdof-abc-130k/) — · task_categories:robotics, language:en, license:apache-2.0
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pat-jj-harness-1/) — text-generation · transformers, safetensors, gpt_oss
 - [mrfakename/yue2-3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mrfakename-yue2-3b/) — · gradio, region:us
@@ -552,7 +551,7 @@ _Daily archive · 2026-09-26_
 - [nvidia/Nemotron-Personas-Belgium](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-personas-belgium/) — · task_categories:text-generation, language:nl, language:fr
 - [BreezeBlue/breeze-tts-2-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-breezeblue-breeze-tts-2-demo/) — · gradio, mcp-server, region:us
 - [echel0nn1881/kimi-cyber-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-echel0nn1881-kimi-cyber-reasoning/) — · task_categories:text-generation, language:en, license:wtfpl
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [build-small-hackathon/llm-cinema](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-llm-cinema/) — · gradio, build-small-hackathon, thousand-token-wood
 - [HuggingEnvs/geoguesser-article](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingenvs-geoguesser-article/) — · docker, research-article-template, rl-environments
 - [AxiomicLabs/Tiny_Theory_of_Mind](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-axiomiclabs-tiny-theory-of-mind/) — · task_categories:question-answering, language:en, license:apache-2.0
@@ -991,7 +990,7 @@ _Daily archive · 2026-09-26_
 - [shtjww/llm-inference-capacity-handbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shtjww-llm-inference-capacity-handbook/) — 大模型推理案头手册（开源版）：给定 GPU 算力，一个模型能扛多少 QPS？三层模型 × 三面墙 × 排队论 × 开环压测
 - [T8mars/comfyui-fireredaudio-T8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/t8mars-comfyui-fireredaudio-t8/) — ComfyUI V3 nodes for FireRedAudio by T8star-Aix; isolated Transformers 5.8 worker and full creator workflows
 - [bamboostrip/Handwriting-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bamboostrip-handwriting-simulator/) — 把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [rootSunc/ashare-lake](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-ashare-lake/) — ASL · 本地可日更的 A 股研究湖 · 42 数据集 · MCP 供数 AI agent · 零 token 零注册 | Local A-share research lake — history for huma…
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-monolingual-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-monolingual-corpus-v1/) — · task_categories:text-generation, language:kha, license:cc-by-nc-4.0
 - [DeepMostInnovations/sales-conversion-model-reinf-learning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepmostinnovations-sales-conversion-model-reinf-learning/) — reinforcement-learning · stable-baselines3, sales_conversion_rl, reinforcement-learning
@@ -1175,7 +1174,6 @@ _Daily archive · 2026-09-26_
 - [dnv2003/v100-skinny](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dnv2003-v100-skinny/) — Hand-written NVFP4 W4A16 CUDA kernels for Volta
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultrax-preview/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/othmanadi-planning-with-files/) — Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, sessi…
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alirezarezvani-claude-skills/) — 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable r…
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phuryn-pm-skills/) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, la…
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openenvision-worldfoundry/) — Unified World Model Inference & Evaluation Infrastructure

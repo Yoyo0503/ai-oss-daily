@@ -251,7 +251,6 @@ _每日存檔 · 2026-06-14_
 - [thinkpixelIab/polymarket-ai-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thinkpixeliab-polymarket-ai-trading/) — Polymarket AI 交易：模擬盤、GPT、CLOB、Kelly、均值回歸。
 - [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-servers/) — 提供模型上下文協議的伺服器。
 - [henrywen98/claude-vpn-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/henrywen98-claude-vpn-skill/) — 使用Claude Code AI的一鍵部署自建VPN工具。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [codex-seo（Codex 優先 SEO 套件）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-codex-seo/) — Codex 優先的 SEO 技能套件：26 個工作流、24 個 TOML agent，串接 DataForSEO/Gemini/Google。
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/) — Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。
 - [Kalshi AI 交易機器人](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bestpracticai-kalshi-ai-trading-bot/) — Kalshi 預測市場的演算法自動交易機器人。

@@ -258,7 +258,6 @@ _每日存檔 · 2026-10-02_
 - [amd/Instella-MoE-16B-A3B-Think](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-amd-instella-moe-16b-a3b-think/) — 基於AMD Instella技術的文本生成模型，適用於大規模平行計算。
 - [arudradey/qwen-image-2.1-uncensored-aio-loras](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-arudradey-qwen-image-2-1-uncensored-aio-loras/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [CohereLabs/North-Micro-Vision-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-north-micro-vision-instruct/) — 將影像和文字轉換為文本的多模態模型。
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jinaai/jina-ocr-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jinaai-jina-ocr-v1/) — 基於轉換器的影像文字轉文字模型，支援多語言和多模態識別。
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-numind-nuextract3/) — NuExtract 結構化資訊抽取多模態模型（從文件/圖抽欄位）。
 - [mistralai/Shieldstral-1.0-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-shieldstral-1-0-3b/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
@@ -1236,7 +1235,6 @@ _每日存檔 · 2026-10-02_
 - [iannuttall/seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iannuttall-seo/) — 提供70多種SEO審核工具，透過本地CLI和MCP伺服器使用自定義爬蟲、Search Console和GA4資料。
 - [tianma-if/edgeever](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tianma-if-edgeever/) — 開源知識庫，Evernote 替代品，支援原生 MCP，免費在 Cloudflare 或 Docker 上執行。
 - [Leb947/modernbert-multi-task-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leb947-modernbert-multi-task-studio/) — ModernBERT 多工微調中心 2026：簡化 AI 工作流程
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。

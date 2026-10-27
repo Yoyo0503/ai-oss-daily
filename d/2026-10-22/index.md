@@ -900,7 +900,6 @@ _每日存檔 · 2026-10-22_
 - [ceyyy427/finathink](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ceyyy427-finathink/) — Finathink 是一個用於金融研究和投資分析的最佳化工具。
 - [r0b0tlab/deepseek-v4-pro-0813-agentic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-deepseek-v4-pro-0813-agentic/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [humanplus-ai/humanplus-1000](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-humanplus-ai-humanplus-1000/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KKKKhazix/AIHOT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-aihot/) — AIHOT 是一個自動生成熱點新聞和日報的網站框架。
 - [Jakeschincariol/replica-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-replica-skill/) — Eleven 免費的 Claude 技能，用於逆向工程和測試應用程式。
 - [Synpath-ai/synpath](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synpath-ai-synpath/) — 一個開放原始碼的預測市場 API，統一市場資料和訂單路由。
@@ -1394,7 +1393,6 @@ _每日存檔 · 2026-10-22_
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FareedKhan-dev/kimi-k3-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/) — 純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。
 - [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carloslfu-slotstream/) — 在 Mac 上流式傳輸 Qwen3.8-Flash-Next 模型，減少記憶體使用。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amazingdraw-amazingdraw/) — AmazingDraw 是一個本地 ComfyUI 抽卡引擎，解決不會寫提示詞的問題。
 - [smizxe/mt5-agent-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/smizxe-mt5-agent-toolkit/) — 將交易策略轉換為 MetaTrader 5 專家顧問的 AI 工具。
 - [GongZhiren/State-of-Thought](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gongzhiren-state-of-thought/) — 在測試時間計算中啟動內在推理的大型語言模型。

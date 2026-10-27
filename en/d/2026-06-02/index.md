@@ -151,7 +151,6 @@ _Daily archive · 2026-06-02_
 - [Saganaki22/HiDream_O1-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-hidream-o1-comfyui/) — HiDream O1 Image nodes + LoRA training for ComfyUI
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — · language:en, license:other, modality:video
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [Specterchoreflect/Stable-Diffusion-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/specterchoreflect-stable-diffusion-pro/) — Stable Diffusion Pro — Stable Diffusion Pro 2026 — local image generation with SDXL, ControlNet, LoRA. Stable…
 - [ConardLi/garden-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/conardli-garden-skills/) — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and mo…
 - [daisy-workflow/daisy-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daisy-workflow-daisy-engine/) — AI orchestration platform

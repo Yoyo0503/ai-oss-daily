@@ -925,7 +925,6 @@ _每日存檔 · 2026-08-28_
 - [armand0e/Fable-5-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-fable-5-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/red-ead-flowblock/) — 自校正擴散語言模型的波前並行解碼框架。
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/extraltodeus-j-wash/) — 基於 Anthropic 的 Jacobian 鏡頭的手動對齊工具。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [FareedKhan-dev/glm-5.2-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-glm-5-2-in-c/) — GLM-5.2 模型的純 C 推理引擎，量化至 int4 並從磁碟流式傳輸專家。
 - [cathrynlavery/diagram-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/) — 提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。

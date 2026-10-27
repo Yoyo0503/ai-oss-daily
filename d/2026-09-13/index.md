@@ -1018,7 +1018,6 @@ _每日存檔 · 2026-09-13_
 - [rudrankriyam/Core-AI-Framework-Lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rudrankriyam-core-ai-framework-lab/) — 探索 Apple Core AI 框架、模型資產和裝置端推理的實驗室。
 - [sjh9714/krea2-wildcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sjh9714-krea2-wildcards/) — 514 個 Krea 2 Turbo 提示詞，含生成範例。
 - [AgriciDaniel/claude-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-seo/) — Claude Code 通用 SEO skill：25 子技能＋18 子代理，涵蓋技術 SEO。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [yanun0323/Whallm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanun0323-whallm/) — DeepSeek-V4-Flash 和 Qwen3.8-Next-FP8 在 Mac 上進行低記憶體推論
 - [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keyid-ai-agent-kit/) — 為Claude/Cursor提供電子郵件功能，包含27個MCP工具。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。

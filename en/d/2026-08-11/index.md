@@ -690,7 +690,6 @@ _Daily archive · 2026-08-11_
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/extraltodeus-j-wash/) — Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Re…
 - [nvidia/PhysicalAI-Robotics-Locomanipulation-GRAIL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-robotics-locomanipulation-grail/) — · license:apache-2.0, size_categories:1K<n<10K, modality:image
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — Fine-tuning LLM — lora, qlora, unsloth, fine tune tutorial.
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-python-sdk/) — The official Python SDK for Model Context Protocol servers and clients
 - [not-lain/background-removal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-not-lain-background-removal/) — · gradio, mcp-server, region:us
 - [myccarl/ai-shortVideo-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/myccarl-ai-shortvideo-pipeline/) — End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model f…

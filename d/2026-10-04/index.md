@@ -286,7 +286,6 @@ _每日存檔 · 2026-10-04_
 - [baseten/GLM-5.2-Vision-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/) — 圖文轉文字模型，支援多模態和對話功能。
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
 - [KRAFTON/A.X-K2-Raon-Speech-21B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-a-x-k2-raon-speech-21b-a3b/) — 基於transformers框架的多模態語音處理模型。
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [fdtn-ai/antares-1b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fdtn-ai-antares-1b/) — 一個用於生成文本的安全性強大的模型，具備檢測漏洞的能力。
 - [kulkas2pintu/kv-i2v](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-kv-i2v/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [pierrenade/short-video-generator-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pierrenade-short-video-generator-ai/) — 將YouTube影片轉換為短影片的自動生成工具。
@@ -1260,7 +1259,6 @@ _每日存檔 · 2026-10-04_
 - [Anil-matcha/zack-d-films-ai-video-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anil-matcha-zack-d-films-ai-video-generator/) — 自動生成Zack D Films風格的3D動畫短片。
 - [JustVugg/lumabri](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/justvugg-lumabri/) — 在您的計算機和伺服器上執行大型 AI 模型，由 Colibri 提供動力。
 - [kirodotdev/KiroCrew](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kirodotdev-kirocrew/) — 一個自我進化的開發工作空間，可持續多個會話。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。

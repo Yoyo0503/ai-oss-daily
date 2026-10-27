@@ -2,7 +2,7 @@
 
 Raon-1-mini-preview 是一個基於 Transformer 的文本生成模型，適用於對話和會話式 AI。
 
-**為何上榜**：HF trending 176 · 186 likes · 1,177 下載
+**為何上榜**：HF trending 182 · 196 likes · 1,450 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

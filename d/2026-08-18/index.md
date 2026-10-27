@@ -872,7 +872,6 @@ _每日存檔 · 2026-08-18_
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibaba-yufeng-mma-safetybench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RudySen/comfyui-muse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rudysen-comfyui-muse/) — ComfyUI 的本地 LLM 聊天面板，支援多會話及視覺功能。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [google/mantis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-mantis/) — 模組化安全審查工具包，讓AI編碼代理自主查詢、重現並修復漏洞。
 - [team-reflect/reflect-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/team-reflect-reflect-open/) — 開源筆記應用，專為 AI 代理設計的 Markdown 格式。
 - [myc0576/SmartMoney-Cub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/myc0576-smartmoney-cub/) — AI 貿易伴侶，用於決策日誌和規則演進。

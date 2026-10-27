@@ -937,7 +937,6 @@ _每日存檔 · 2026-08-31_
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-eve/) — 用於構建代理的框架。
 - [FareedKhan-dev/glm-5.2-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-glm-5-2-in-c/) — GLM-5.2 模型的純 C 推理引擎，量化至 int4 並從磁碟流式傳輸專家。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [discoveredlabs/awesome-aeo-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/discoveredlabs-awesome-aeo-seo/) — 工程師和增長行銷人員的AEO和SEO資源清單。
 - [techjarves/Uncensored-Local-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-uncensored-local-studio/) — 無縫安裝的AI工作室，提供影像生成、語音轉換等多種功能。
 - [spinabot/brigade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/) — 企業級個人智慧助手，支援自動化任務和協作。

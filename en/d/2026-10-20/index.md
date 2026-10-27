@@ -465,7 +465,7 @@ _Daily archive · 2026-10-20_
 - [gaalos/wan2-2-fp8da-aoti-preview-2c-finishing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gaalos-wan2-2-fp8da-aoti-preview-2c-finishing/) — · gradio, mcp-server, region:us
 - [prithivMLmods/PiD-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-pid-image-upscaler/) — · gradio, mcp-server, region:us
 - [drinkmoonshine/parallel-constrained-decoding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-drinkmoonshine-parallel-constrained-decoding/) — · gradio, region:us
-- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Finished motion-graphics ads over their HyperFrames drafts, frame-synced. Export the breakdown as an MP4. Loc…
+- [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-nullmotion/) — Play a finished motion-graphics ad in sync with the rough drafts it grew from, and export the breakdown as MP…
 - [rednote-hilab/dots.tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-rednote-hilab-dots-tts/) — · gradio, zerogpu, aoti
 - [Qdrant/FineWeb-10B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qdrant-fineweb-10b/) — · language:en, license:odc-by, size_categories:10B<n<100B
 - [Xenova/fruit-fly-simulation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-xenova-fruit-fly-simulation/) — · static, region:us
@@ -498,7 +498,6 @@ _Daily archive · 2026-10-20_
 - [jasperai/t2i-technical-interactive-report](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jasperai-t2i-technical-interactive-report/) — · docker, research-article-template, research paper
 - [Anthropic/claude-protein-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-claude-protein-binder-design/) — · license:cc-by-4.0, size_categories:100K<n<1M, modality:image
 - [linoyts/Qwen-Image-2.1-Move](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-qwen-image-2-1-move/) — · gradio, region:us
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-assembledchaos-qwen-image-2-1-studio/) — · gradio, mcp-server, region:us
 - [build-small-hackathon/field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-field-guide/) — · docker, region:us
 - [agent-collaborations/hutter-prize-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-agent-collaborations-hutter-prize-dashboard/) — · docker, agent-collab, region:us
 - [prism-ml/Ternary-Bonsai-27B-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prism-ml-ternary-bonsai-27b-demo/) — · gradio, region:us
@@ -830,7 +829,7 @@ _Daily archive · 2026-10-20_
 - [ceyyy427/finathink](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ceyyy427-finathink/) — Finathink — Financial Research Optimizer for auditable, point-in-time research, mathematical learning, and co…
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
 - [kevinbadi/claude-codes-influencers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kevinbadi-claude-codes-influencers/) — Build a talking mascot that turns any script into a lip-synced vertical video. Fork, add your mascot's art + …
-- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatG…
+- [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-motionclone/) — Rebuild a reference video as an editable HyperFrames project, compare the match against the original, and exp…
 - [mvaccargiu/gitskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mvaccargiu-gitskills/) — · task_categories:other, license:cc-by-4.0, size_categories:10M<n<100M
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarulab-speech-duplexchat/) — · task_categories:audio-to-audio, language:en, language:ja
@@ -1355,7 +1354,7 @@ _Daily archive · 2026-10-20_
 - [yexi-by/dsh-unrestricted](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yexi-by-dsh-unrestricted/) — DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用
 - [GongZhiren/State-of-Thought](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gongzhiren-state-of-thought/) — [NeurIPS 2026] State of Thought Enables Endogenous Reasoning
 - [rollroyces/py-idp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rollroyces-py-idp/) — AI-enabled Intelligent Document Processing for Python: 12+ LLM backends, Pydantic schemas, self-hosted OCR (N…
-- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of exp…
+- [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/carloslfu-slotstream/) — Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Ap…
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ggml-org-gguf-my-repo/) — · docker, region:us
 - [veedstudio/open-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/veedstudio-open-edit/) — Open-source, agent-driven editing pipeline: create subtitles, motion graphics, slides, edit and render videos.
 - [PotionUI/PotionUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/potionui-potionui/) — A self-hosted studio for generating images, video, and audio with diffusion models.
@@ -1375,7 +1374,6 @@ _Daily archive · 2026-10-20_
 - [Spielewoy/autoprompt-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/spielewoy-autoprompt-skill/) — Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.
 - [BaYue-SYJ/shuixian-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bayue-syj-shuixian-prompts/) — 水仙的AI提示词｜5,000+ 中文 AI 绘画提示词库：检索 / 分类 / 一键复制。提示词覆盖 ChatGPT、Grok、Gemini、Midjourney、Stable Diffusion、Flux、即梦、可灵、…
 - [KKKKhazix/sun-style-writing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-sun-style-writing/) — 从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/virgiliojr94-book-to-skill/) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K
 - [trailhq/Trail-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/trailhq-trail-code/) — Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual underst…
@@ -1545,7 +1543,7 @@ _Daily archive · 2026-10-20_
 - [lixiaoxiao9888-create/short-drama-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lixiaoxiao9888-create-short-drama-factory/) — 🎬 Short-Drama Factory v4.9.1 · 抖音/红果爆款短剧工业化编剧超级系统 | 一句创意/一部网文 → 标准60-100集·长档30-50集·漫剧带付费墙剧本 | v4.9 强画面支撑+15秒换…
 - [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
-- [hasso5703/dgx-spark-qwen38](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hasso5703-dgx-spark-qwen38/) — One command turns a DGX Spark (64 or 128 GB) or an ASUS Ascent GX10 into a private AI server: nine measured, …
+- [hasso5703/dgx-spark-qwen38](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hasso5703-dgx-spark-qwen38/) — dgx-spark-qwen38 is an open-source installer that turns an NVIDIA DGX Spark, or any GB10 machine (ASUS, Dell,…
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 小优AIGC（抖音小优与AIGC的奇妙冒险）的 AI 摄影剧组 skill —— 电影摄影级生图提示词生成器，可装入 Claude Code / Codex / Hermes
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [elementalsouls/Claude-BugHunter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elementalsouls-claude-bughunter/) — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 dis…

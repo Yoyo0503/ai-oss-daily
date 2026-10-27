@@ -10,17 +10,17 @@
 - [Cloudflare/clef](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cloudflare-clef/) — Cloudflare的圖文轉文字模型，支援Qwen3.5等。
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/) — 將影像和文字轉換為文本的模型，適用於對話式應用。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
-- [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [ornith-ai/Ornith-1.5-122B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-122b/) — 一個大型語言模型，用於生成文本和對話。
+- [stepfun-ai/Step-3.7-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stepfun-ai-step-3-7-flash/) — 階躍星辰 Step-3.7 Flash 多模態模型（視覺語言）。
 - [PSRben/VisionHOPE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-psrben-visionhope/) — 用於影像分類的計算機視覺模型，適用於 PyTorch。
 - [LiquidAI/d1-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-3b/) — 基於 LiquidAI 的影像到文字轉換模型，適用於邊緣裝置。
-- [datalab-to/indra-ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-datalab-to-indra-ocr/) — 將影像轉換成文字的OCR模型。
 - [microsoft/Mage-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl/) — 將影像和文字轉換為文本的多模態模型，適用於視覺語言任務。
+- [datalab-to/indra-ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-datalab-to-indra-ocr/) — 將影像轉換成文字的OCR模型。
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — 一個支援影像和文字轉換為任何格式的通用模型。
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
-- [google/embeddinggemma-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-embeddinggemma-2/) — 用於抽取特徵的轉換器模型，適用於句子嵌入。
 - [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-5-mini/) — 一個基於轉換器的模型，用於生成文字和對話。
 - [akhilaaa3/Jev-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akhilaaa3-jev-omni/) — 多模態文本分類模型，適用於多種任務。
+- [google/embeddinggemma-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-embeddinggemma-2/) — 用於抽取特徵的轉換器模型，適用於句子嵌入。
 - [AlexWortega/openjev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-openjev/) — 一個使用轉換器的文本分類模型，用於重排和評分。
 - [AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/) — 一個基於Qwen 3.5的大型語言模型，支援文本生成。
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。

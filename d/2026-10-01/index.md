@@ -269,7 +269,6 @@ _每日存檔 · 2026-10-01_
 - [yandex/AliceAI-T5-35B-A0.6B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-yandex-aliceai-t5-35b-a0-6b/) — 一個大型的文本到文本生成模型，適用於各種自然語言處理任務。
 - [Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-qwen-qwen3-tts-12hz-1-7b-customvoice/) — Qwen3-TTS 自訂音色語音合成（1.7B，可克隆指定音色做配音）。
 - [LocalLLaMA/typed-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-localllama-typed-decisions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-ingredients/) — 用於影片轉換的模型，支援 LTX-Video 和 IC-Lora 技術。
 - [Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-winnougan-krea-2-base-turbo-nvfp4-fp8-int8/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
 - [FineEnvs/SmolDataEnvs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fineenvs-smoldataenvs/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1221,7 +1220,6 @@ _每日存檔 · 2026-10-01_
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
 - [Leb947/modernbert-multi-task-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leb947-modernbert-multi-task-studio/) — ModernBERT 多工微調中心 2026：簡化 AI 工作流程
 - [erduo1998-cell/erduo-broll-loop-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/erduo1998-cell-erduo-broll-loop-engineering/) — 自動路由 HyperFrames 和 Remotion 的雙後端 B-roll 代理技能，整合 Shotcraft 鏡頭卡。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/) — 本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/) — PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。

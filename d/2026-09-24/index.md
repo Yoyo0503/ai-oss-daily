@@ -12,10 +12,10 @@ _每日存檔 · 2026-09-24_
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-viggle-qwen-image-2-1-viggle-turbo/) — Hugging Face 示範應用(Space)，關鍵字：文生圖（依標籤自動歸類，詳細看下方原文）
 - [timoncool/YuE2-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-yue2-studio/) — 本地 AI 歌曲生成器，可在 Windows 上生成完整歌曲和樂譜。
 - [jaredpalmer/kev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jaredpalmer-kev/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [apimart-66/ai-api-aggregator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-66-ai-api-aggregator/) — AI API 綜合器，提供多模型路由和成本核算。
 - [jianruntech/geo-score](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jianruntech-geo-score/) — 評估網站在 ChatGPT 中的可見性，快速打分。
 - [sunmughan/meta-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sunmughan-meta-automation/) — 自動化 AI 市場推廣工具，適用於 Threads 和 Instagram。
+- [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abrahampaulj-nightmare-mobile/) — Android 上的本地 Stable Diffusion 影像生成工具。
 
 ## 🚀 Star 竄升
 
@@ -330,7 +330,6 @@ _每日存檔 · 2026-09-24_
 - [webml-community/gemma-4-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-gemma-4-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-demos-marlin-2b-video-understanding/) — Marlin-2B 影片理解線上示範。
 - [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-venvoo-china-a-share-l2-level2-limit-order-book-tick-data/) — Hugging Face 資料集，關鍵字：交易（依標籤自動歸類，詳細看下方原文）
-- [assembledchaos/qwen-image-2-1-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-assembledchaos-qwen-image-2-1-studio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [RekaAI/RekaDaily-10k-raw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rekaai-rekadaily-10k-raw/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bugtraceai-bugtraceai-core-ultra-27b-q6/) — 模型推理／部署引擎，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
 - [rl-llm-wiki/knowledge-base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rl-llm-wiki-knowledge-base/) — Hugging Face 資料集，關鍵字：LLM（依標籤自動歸類，詳細看下方原文）
@@ -1164,7 +1163,6 @@ _每日存檔 · 2026-09-24_
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/faizalimam990-startup-builder-pro/) — 將產品點子轉換成安全、測試完畢的 SaaS 應用程式的人工智慧工具。
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [alirezarezvani/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alirezarezvani-claude-skills/) — 為Claude Code等程式設計機器人提供30多種代理技能和外掛。
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/) — PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。

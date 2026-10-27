@@ -1025,7 +1025,6 @@ _每日存檔 · 2026-09-15_
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [makralabs/makra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/makralabs-makra/) — Makra 是一個介於網路和 AI 代理之間的記憶層，提供即時結構化資料。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Kuberwastaken/megaphone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kuberwastaken-megaphone/) — megaphone 是一個免費、私人的Mac語音轉文字應用，使用Apple SpeechAnalyzer和Foundation Models。
 - [Alinebm17/trade-backtesting-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alinebm17-trade-backtesting-engine/) — 用於 DCA 和網格交易策略的回測引擎，支援技術指標和歷史資料模擬。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。

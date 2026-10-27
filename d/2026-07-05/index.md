@@ -479,7 +479,6 @@ _每日存檔 · 2026-07-05_
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — 加密貨幣流動性／訂單簿微結構的演算法交易機器人（Python）。
 - [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RightNow-AI/AutoMegaKernel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rightnow-ai-automegakernel/) — AutoMegaKernel 是一個自調優的 CUDA 巨核編譯器，適用於大型語言模型解碼。
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-frameai4687-omni-video-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Graphify-Labs/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/) — 將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。
 - [Qwen/Qwen3-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-qwen-qwen3-tts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

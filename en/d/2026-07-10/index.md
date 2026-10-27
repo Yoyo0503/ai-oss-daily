@@ -545,7 +545,6 @@ _Daily archive · 2026-07-10_
 - [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ifuryst-open-codex-computer-use/) — 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [mlabonne/open-perfectblend](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mlabonne-open-perfectblend/) — · license:apache-2.0, arxiv:2409.20370, region:us
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [Graphify-Labs/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/graphify-labs-graphify/) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphi…
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heygen-com-hyperframes/) — Write HTML. Render video. Built for agents.
 - [rampstackco/claude-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rampstackco-claude-skills/) — Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, grow…

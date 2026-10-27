@@ -397,7 +397,6 @@ _Daily archive · 2026-06-22_
 - [anyshift-io/sre-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anyshift-io-sre-skills/) — Open-source library of methodology-shaped SRE skills for AI agents (Apache 2.0)
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/addyosmani-agent-skills/) — Production-grade engineering skills for AI coding agents.
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-fineweb/) — · task_categories:text-generation, language:en, license:odc-by
-- [FrameAI4687/Omni-Video-Factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-frameai4687-omni-video-factory/) — · gradio, region:us
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wanshuiyin-auto-claude-code-research-in-sleep/) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model r…
 - [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-oh-my-openagent/) — OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [gameworkerkim/vibe-investing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gameworkerkim-vibe-investing/) — AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and …
