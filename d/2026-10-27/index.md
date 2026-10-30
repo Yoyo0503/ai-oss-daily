@@ -5,7 +5,6 @@ _每日存檔 · 2026-10-27_
 ## 🆕 新上榜
 
 - [MemTensor/MemT-1.0-Nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-memtensor-memt-1-0-nano/) — 一個基於轉換器的文本生成模型，支援記憶體技術。
-- [nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-5-bolt-e4b-4gb/) — NVIDIA 推出的文本生成模型，適用於多種語言。
 - [wlnhnoqefoxt/adult-ai-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wlnhnoqefoxt-adult-ai-video/) — 使用 AI 生成成人影片的工具，支援從文字到影片的轉換。
 - [CohereLabs/10-2026-qwen-investigation-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-coherelabs-10-2026-qwen-investigation-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [linoyts/qwen-image-2-1-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-qwen-image-2-1-realtime/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -16,6 +15,7 @@ _每日存檔 · 2026-10-27_
 - [Oldcircle/geo-sleuth](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oldcircle-geo-sleuth/) — 使用 AI 和地圖資料找到照片拍攝地點的工具。
 - [davidalmeida90/glassbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/davidalmeida90-glassbench/) — 連線和評估金融代理系統的開放平臺。
 - [GKartist75/Wan2GP-Desktop-Tauri](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gkartist75-wan2gp-desktop-tauri/) — Wan2GP 桌面啟動器，適用於多種作業系統。
+- [agibot-world/AgiBotWorld2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agibot-world-agibotworld2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -215,7 +215,6 @@ _每日存檔 · 2026-10-27_
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。
 - [huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-qwen3-8-27b-abliterated-gguf/) — 將影像和文字轉換為文字的模型。
 - [huihui-ai/Huihui-GLM-5.2-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-glm-5-2-abliterated-gguf/) — 一款去識別化的 GLM 模型，支援文本生成。
-- [nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-5-bolt-e4b-4gb/) — NVIDIA 推出的文本生成模型，適用於多種語言。
 - [NaiveAI/Naive-N0.5-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-naiveai-naive-n0-5-flash/) — 一個支援長上下文的對話生成模型，適用於程式碼生成。
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-fastcontext-1-0-4b-sft/) — 微軟的快速上下文模型，適用於對話式 AI 和語料庫探索。
 - [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akatz-ai-minimax-h3-character-swap-lora/) — 用於替換影片中角色的AI工具。
@@ -692,7 +691,6 @@ _每日存檔 · 2026-10-27_
 - [DozenTwelve/Papermorph](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dozentwelve-papermorph/) — 將書籍轉換為動畫、有聲、互動式網頁體驗的AI技能。
 - [Alissonerdx/charactersheet-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alissonerdx-charactersheet-lora-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [inclusionAI/FinFIRST](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-inclusionai-finfirst/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [Polytutor-AI-Labs/preditfun-market-maker-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-ai-labs-preditfun-market-maker-trading-bot/) — Predict.fun市場做市機器人，適用於Windows和Ubuntu。
 - [FINAL-Bench/AX-RAY](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-final-bench-ax-ray/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/enabling-independent-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-enabling-independent-research/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — NVIDIA 物理 AI 世界模型：合成物理互動場景資料集。
@@ -756,7 +754,6 @@ _每日存檔 · 2026-10-27_
 - [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [multimodalart/jev-reproductions-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-reproductions-tracker/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [christos-antono/NPCTalk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/christos-antono-npctalk/) — 讓遊戲中的NPC使用Fish Audio進行對話的AI工具。
-- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [blixvip/html-anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-html-anime/) — 將場景描述轉換為 HTML 動畫的 AI 工具。
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Polytutor-AI-Labs/polymarket-black-scholes-hft-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-ai-labs-polymarket-black-scholes-hft-bot/) — 一個結合多個交易所價格和模型的即時高頻交易機器人。
@@ -1126,7 +1123,6 @@ _每日存檔 · 2026-10-27_
 - [apimart-api-ai-Aggregator/seedance-2.5-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-api-ai-aggregator-seedance-2-5-api/) — 按秒計費的AI文本轉影片API，支援cURL和Python範例。
 - [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abrahampaulj-nightmare-mobile/) — Android 上的本地 Stable Diffusion 影像生成工具。
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [llamaindex/ExtractBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-llamaindex-extractbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tiger3807861189-j-space-cognition-suite-v3-7/) — J-Space Cognition Suite V3.7 是一個基於 J-space 全球工作空間研究的 AI 智慧增強套件。
 - [kuafuai/andee](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kuafuai-andee/) — 一個安裝在手機上的自動化代理，可操作任何應用程式，無需root許可權。
 - [apimart-API-Gateway/grok-image-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-api-gateway-grok-image-api/) — grok-image-api 是一個提供文字轉影像和影像編輯功能的 AI API。
@@ -1590,7 +1586,6 @@ _每日存檔 · 2026-10-27_
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [CohereLabsCommunity/CulturalRiddles](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-coherelabscommunity-culturalriddles/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [0xsline/awesome-deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-awesome-deepseek-harness/) — DeepSeek 應用生態系統，包含多種外掛和工具。
-- [ARTPARK-IISc/Vaani](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-artpark-iisc-vaani/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-neuralfalcon-remove-silence-from-audio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [SnailSploit/Claude-Red](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/snailsploit-claude-red/) — 為Claude技能系統設計的進攻性安全技能庫。

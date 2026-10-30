@@ -4,5 +4,5 @@ Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledg
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：391
+**Stars**：461
 **Source**：https://github.com/himovo/movo

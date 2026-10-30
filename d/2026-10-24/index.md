@@ -8,7 +8,6 @@ _每日存檔 · 2026-10-24_
 - [scenario-labs/3d-collection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-scenario-labs-3d-collection/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DozenTwelve/Papermorph](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dozentwelve-papermorph/) — 將書籍轉換為動畫、有聲、互動式網頁體驗的AI技能。
 - [Polytutor-AI-Labs/polymarket-trading-bot-strategy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-ai-labs-polymarket-trading-bot-strategy/) — Polymarket交易機器人策略指南及案例研究。
-- [Polytutor-AI-Labs/preditfun-market-maker-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-ai-labs-preditfun-market-maker-trading-bot/) — Predict.fun市場做市機器人，適用於Windows和Ubuntu。
 - [huuan26/polars-anta](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huuan26-polars-anta/) — 為Polars設計的超快速零成本技術分析庫。
 - [beckettharriman/gimp-openfill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beckettharriman-gimp-openfill/) — GIMP的生成填充和物件移除外掛，免費替代Photoshop的AI工具。
 - [genrobot2025/Gen-HumanWholeBody](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-genrobot2025-gen-humanwholebody/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -16,6 +15,7 @@ _每日存檔 · 2026-10-24_
 - [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/folkbench-folkbench/) — 評測AI API的實用性、延遲和價格的開源工具。
 - [QuickButlerPace65/AnythingLLM-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickbutlerpace65-anythingllm-desktop/) — 增強版AI桌面應用程式。
 - [ChromaDotNet/ChromaDB.Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromadotnet-chromadb-client/) — .NET客戶端庫，用於Chroma和Chroma Cloud。
+- [linoyts/ltx2-19b-distilled-faceswap-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-linoyts-ltx2-19b-distilled-faceswap-v3/) — 用於臉部交換的深度學習模型，適用於影像和影片。
 
 ## 🚀 Star 竄升
 
@@ -433,7 +433,6 @@ _每日存檔 · 2026-10-24_
 - [gprokaznik4-bit/CryptoGridMaster-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-cryptogridmaster-bot/) — CryptoGridMaster-Bot 是一個整合多個交易所 API 的加密貨幣交易機器人。
 - [gprokaznik4-bit/Solana-Jito-Bundler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-solana-jito-bundler/) — Solana-Jito-Bundler 是一個分散式交易捆綁器，防止先進攻擊。
 - [gprokaznik4-bit/SolanaSniperBot-OpenSource](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-solanasniperbot-opensource/) — SolanaSniperBot-OpenSource 是一個高頻交易的加密貨幣機器人。
-- [Polytutor-AI-Labs/preditfun-market-maker-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-ai-labs-preditfun-market-maker-trading-bot/) — Predict.fun市場做市機器人，適用於Windows和Ubuntu。
 - [APIMART-12W22W/gpt-image2.5-api-prompt-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-12w22w-gpt-image2-5-api-prompt-gallery/) — gpt-image2.5-api-prompt-gallery 提供 GPT Image 2.5 API 的範例提示和渲染。
 - [feder-cr/invisible_playwright_mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/feder-cr-invisible-playwright-mcp/) — invisible_playwright_mcp 是一個使用 AI 代理在隱藏模式下瀏覽網頁的工具。
 - [pablodawson/minimax-h3-360-orbit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pablodawson-minimax-h3-360-orbit/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -738,7 +737,6 @@ _每日存檔 · 2026-10-24_
 - [ceyyy427/financial-research-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ceyyy427-financial-research-optimizer/) — 金融研究最佳化器，提供資料線索、模型驗證、回測診斷和約束組合分析。
 - [multimodalart/jev-reproductions-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-reproductions-tracker/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [xiaoyang111222/timeline-bgm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyang111222-timeline-bgm/) — 根據時間軸解析生成影片背景音樂的本地工具。
-- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-semantique/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [agent-memory-leaderboard/leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-agent-memory-leaderboard-leaderboard/) — Hugging Face 示範應用(Space)，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
 - [dayona/Morphix-Studio-Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-morphix-studio-client/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1107,7 +1105,6 @@ _每日存檔 · 2026-10-24_
 - [Vincentwei1021/video-talkcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-video-talkcraft/) — 將Claude程式碼轉換為動畫設計工作室的技能。
 - [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abrahampaulj-nightmare-mobile/) — Android 上的本地 Stable Diffusion 影像生成工具。
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [llamaindex/ExtractBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-llamaindex-extractbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [leopard627/fire-your-seo-agency](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leopard627-fire-your-seo-agency/) — 自動審核和最佳化SEO、AEO、GEO等的Claude程式碼技能。
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tiger3807861189-j-space-cognition-suite-v3-7/) — J-Space Cognition Suite V3.7 是一個基於 J-space 全球工作空間研究的 AI 智慧增強套件。
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。

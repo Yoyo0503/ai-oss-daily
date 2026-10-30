@@ -1,9 +1,10 @@
 # 📊 評估／可觀測／安全
 
 - [Qwen/BlenderWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-blenderworld/) — Hugging Face 資料集，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
-- [LocalLLaMA/typed-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-localllama-typed-decisions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [hongzhuyi/VDEBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hongzhuyi-vdebench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FINAL-Bench/leadboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-leadboard/) — Hugging Face 示範應用(Space)，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
 - [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-moonworks-lunara-art-eval/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [LocalLLaMA/typed-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-localllama-typed-decisions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-redmadrobot-rnd-pii-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zouhar-last-translation-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

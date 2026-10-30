@@ -4,5 +4,5 @@ Real-time talking avatars on Snapdragon phones. Full: ~30 compute FPS on Snapdra
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：26
+**Stars**：27
 **Source**：https://github.com/wpydcr/NanoAvatar

@@ -556,7 +556,6 @@ _每日存檔 · 2026-10-13_
 - [Cirquar-Tech/wm_imagined](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cirquar-tech-wm-imagined/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ostris/minimax_h3_1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ostris-minimax-h3-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Photoroom/PRX-Pixel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-photoroom-prx-pixel/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [XYZAILab/XYZ-Aquila-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xyzailab-xyz-aquila-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-qwen3-7-max-pi-traces/) — Qwen3.7-max 的推理軌跡資料集（小型 <1K）。
 - [build-small-hackathon/jawbreaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-jawbreaker/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1022,7 +1021,6 @@ _每日存檔 · 2026-10-13_
 - [flaqai/backlink_skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/) — 提交網址到免費網站以獲取更多回鏈，增加流量。
 - [SkyNotSilent/awesome-MiniMax-H3-cases](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skynotsilent-awesome-minimax-h3-cases/) — 提供2052個可玩的MiniMax H3案例，657個完整公開提示和25個來源確認教程，雙語更新。
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [llamaindex/ExtractBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-llamaindex-extractbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tiger3807861189-j-space-cognition-suite-v3-7/) — J-Space Cognition Suite V3.7 是一個基於 J-space 全球工作空間研究的 AI 智慧增強套件。
 - [tbraman-dev/nt8-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tbraman-dev-nt8-mcp/) — 為 NinjaTrader 8 提供 AI 程式碼助手和無頭回測功能。
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。

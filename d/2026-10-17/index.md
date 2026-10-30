@@ -367,7 +367,6 @@ _每日存檔 · 2026-10-17_
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [nvidia/Cosmos3-Edge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-edge/) — Cosmos3-Edge 是NVIDIA開發的一個基於diffusers的模型。
 - [badtheorylabs/BTL-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-badtheorylabs-btl-3/) — BTL-3 是一個使用 PEFT 技術的文本生成模型，適用於程式設計、推理和工具使用的 AI 代理。
 - [Alissonerdx/BFS-Best-Face-Swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-bfs-best-face-swap/) — 用於替換影像中人物臉部的AI工具。
@@ -1054,7 +1053,6 @@ _每日存檔 · 2026-10-17_
 - [SkyNotSilent/awesome-MiniMax-H3-cases](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skynotsilent-awesome-minimax-h3-cases/) — 提供2052個可玩的MiniMax H3案例，657個完整公開提示和25個來源確認教程，雙語更新。
 - [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abrahampaulj-nightmare-mobile/) — Android 上的本地 Stable Diffusion 影像生成工具。
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [llamaindex/ExtractBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-llamaindex-extractbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tiger3807861189-j-space-cognition-suite-v3-7/) — J-Space Cognition Suite V3.7 是一個基於 J-space 全球工作空間研究的 AI 智慧增強套件。
 - [Human-Agent-Society/reef](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/human-agent-society-reef/) — 自我改進代理的持續學習基礎設施。
 - [Lichess/standard-chess-games](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lichess-standard-chess-games/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -4,5 +4,5 @@ Finetuned YuE2 Ruach Studio Sound Heresy. Borderless Open Weights SUNO Killer ba
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：61
+**Stars**：66
 **Source**：https://github.com/igrbible/Ruach_Studio

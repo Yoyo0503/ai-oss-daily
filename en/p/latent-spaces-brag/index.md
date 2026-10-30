@@ -4,5 +4,5 @@ You built it. Now brag. Turn the project you just created into a short, shareabl
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：18,864
+**Stars**：19,493
 **Source**：https://github.com/latent-spaces/brag

@@ -992,7 +992,6 @@ _每日存檔 · 2026-10-22_
 - [facebook/sam3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-sam3/) — 用於生成遮罩的模型。
 - [NeoteAIEmbodied/OpenNeoData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-neoteaiembodied-openneodata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heqiangdiao-wq-ai-cross-border-ecommerce-agent-toolkit/) — AI-Cross-Border-Ecommerce-Agent-Toolkit 是一個用於跨境電商的智慧運營工具。
-- [baidu/Unlimited-OCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr/) — 百度的無限 OCR 技術，將影像轉換為文字。
 - [gclef-cmu/multtipop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gclef-cmu-multtipop/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [huggingface/documentation-images](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingface-documentation-images/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rylaispirit/cinematic-video-prompt-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rylaispirit-cinematic-video-prompt-skill/) — cinematic-video-prompt-skill 提供電影攝影技巧的 AI 觀測表。
@@ -1090,7 +1089,6 @@ _每日存檔 · 2026-10-22_
 - [SkyNotSilent/awesome-MiniMax-H3-cases](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skynotsilent-awesome-minimax-h3-cases/) — 提供2052個可玩的MiniMax H3案例，657個完整公開提示和25個來源確認教程，雙語更新。
 - [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abrahampaulj-nightmare-mobile/) — Android 上的本地 Stable Diffusion 影像生成工具。
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [llamaindex/ExtractBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-llamaindex-extractbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tiger3807861189-j-space-cognition-suite-v3-7/) — J-Space Cognition Suite V3.7 是一個基於 J-space 全球工作空間研究的 AI 智慧增強套件。
 - [leopard627/fire-your-seo-agency](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leopard627-fire-your-seo-agency/) — 自動審核和最佳化SEO、AEO、GEO等的Claude程式碼技能。
 - [kinzaaliakbar18u-netizen/flux-lora-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kinzaaliakbar18u-netizen-flux-lora-forge/) — flux-lora-forge 是一個開放原始碼的 LoRA 訓練工具包，適用於 Flux1 AI 模型微調。

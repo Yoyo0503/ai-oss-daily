@@ -4,5 +4,5 @@ Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网�
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：26,761
+**Stars**：28,103
 **Source**：https://github.com/alchaincyf/huashu-design
