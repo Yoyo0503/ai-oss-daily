@@ -4,5 +4,5 @@ An agent skill that finds where a photo was taken — OpenStreetMap geometry, el
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,512
+**Stars**：4,613
 **Source**：https://github.com/Oldcircle/geo-sleuth

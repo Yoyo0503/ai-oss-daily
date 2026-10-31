@@ -1,0 +1,10 @@
+# EntranceStarfish/VoiceStudioV2
+
+離線AI語音工作室，提供語音變換和克隆功能。
+
+**為何上榜**：近期新建立，已獲 128★
+
+**商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
+
+**Stars**：128
+**原始連結**：https://github.com/EntranceStarfish/VoiceStudioV2

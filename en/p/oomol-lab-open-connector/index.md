@@ -4,5 +4,5 @@ Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SD
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：6,135
+**Stars**：6,145
 **Source**：https://github.com/oomol-lab/open-connector

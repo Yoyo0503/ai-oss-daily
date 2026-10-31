@@ -4,5 +4,5 @@ One-ink editorial print image skill — warm paper, halftone photography, active
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,544
+**Stars**：3,555
 **Source**：https://github.com/yanliudesign/mono-color-skill

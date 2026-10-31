@@ -4,5 +4,5 @@ REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：3,203
+**Stars**：3,295
 **Source**：https://github.com/JoasASantos/REA-Prompts

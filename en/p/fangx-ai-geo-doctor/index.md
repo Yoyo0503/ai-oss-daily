@@ -4,5 +4,5 @@ GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Cla
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：128
+**Stars**：132
 **Source**：https://github.com/Fangx-AI/geo-doctor

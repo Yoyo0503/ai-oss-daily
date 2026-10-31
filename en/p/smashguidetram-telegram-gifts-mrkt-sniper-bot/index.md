@@ -4,5 +4,5 @@ MRKT marketplace gifts sniper: Telegram Mini App auth, price rules by collection
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：185
+**Stars**：194
 **Source**：https://github.com/smashguidetram/telegram-gifts-mrkt-sniper-bot

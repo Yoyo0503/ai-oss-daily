@@ -4,5 +4,5 @@ OSS trading workspace with your favorite agents
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：280
+**Stars**：284
 **Source**：https://github.com/longsurf-ai/openchart

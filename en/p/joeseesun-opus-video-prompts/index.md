@@ -4,5 +4,5 @@ Claude Opus 5.5 用代码生成视频：全网案例与可直接复制的提示�
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：833
+**Stars**：859
 **Source**：https://github.com/joeseesun/opus-video-prompts
