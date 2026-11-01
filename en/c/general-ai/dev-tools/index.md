@@ -1,9 +1,9 @@
 # 🛠️ AI Dev Tools / MCP / SDK
 
 - [cinderholm/wan2-2-i2v-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cinderholm-wan2-2-i2v-v3/) — · gradio, mcp-server, region:us
-- [fishpasters/uncensored-imageTOimage2Ref](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fishpasters-uncensored-imagetoimage2ref/) — · gradio, mcp-server, region:us
 - [hugging-apps/bfs-best-face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-bfs-best-face-swap/) — · gradio, mcp-server, region:us
 - [linoyts/qwen-image-2-1-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-qwen-image-2-1-realtime/) — · gradio, mcp-server, region:us
+- [fishpasters/uncensored-imageTOimage2Ref](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fishpasters-uncensored-imagetoimage2ref/) — · gradio, mcp-server, region:us
 - [autotrust/jev-9b-decision-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-autotrust-jev-9b-decision-demo/) — · gradio, mcp-server, region:us
 - [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-black-forest-labs-flux-3-image-klein/) — · gradio, mcp-server, region:us
 - [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mothersuperior-yue2-hum-to-song/) — · gradio, mcp-server, region:us
@@ -50,15 +50,15 @@
 - [jjjjoooonnnjo/wan22fp8daaotipreview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jjjjoooonnnjo-wan22fp8daaotipreview/) — · gradio, mcp-server, region:us
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
 - [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ebony-vinyl-dsh-our-free-model/) — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install…
-- [JoasASantos/REA-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/joasasantos-rea-prompts/) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break dow…
 - [hugging-apps/bs-roformer-leap-audio-separator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-bs-roformer-leap-audio-separator/) — · gradio, mcp-server, region:us
+- [JoasASantos/REA-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/joasasantos-rea-prompts/) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break dow…
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [JeffKeeping/dsh-purge-plus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jeffkeeping-dsh-purge-plus/) — dsh-purge 的非官方分支（fork）：适配 DeepSeek Harness 0.2.1-rc.2、破甲内核 v3、设置页 UI 重做 / unofficial fork of YuJunZhiXue/dsh-…
 - [docling-project/DeskForge-1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-docling-project-deskforge-1m/) — · task_categories:image-to-text, task_categories:object-detection, language:en
 - [KKKKhazix/AIHOT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-aihot/) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 - [qsardor/Claude-Sonnet-Opus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qsardor-claude-sonnet-opus/) — · task_categories:text-generation, task_categories:question-answering, language:en
-- [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — · gradio, mcp-server, region:us
 - [NB-Corp/gpt-with-taste](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nb-corp-gpt-with-taste/) — Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.
+- [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — · gradio, mcp-server, region:us
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-fka-prompts-chat/) — · task_categories:question-answering, task_categories:text-generation, license:cc0-1.0
@@ -73,8 +73,8 @@
 - [KKKKhazix/sun-style-writing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-sun-style-writing/) — 从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法
 - [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pliny-the-prompter-obliteratus/) — · gradio, abliteration, mechanistic-interpretability
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juliusbrussee-caveman/) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like cave…
-- [yexi-by/dsh-unrestricted](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yexi-by-dsh-unrestricted/) — DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-clickygpt-nsfw-z-image-turbo/) — · gradio, region:us
+- [yexi-by/dsh-unrestricted](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yexi-by-dsh-unrestricted/) — DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用
 - [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skill-recorder/) — Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an …
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
@@ -87,8 +87,8 @@
 - [Open-Less/openless](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-less-openless/) — Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for …
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/red-ead-flowblock/) — FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models
 - [dwgx/WindsurfAPI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dwgx-windsurfapi/) — Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, …
-- [snflkd/fluent-korean](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/snflkd-fluent-korean/) — Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/filiksyos-gitreverse/) — Reverse engineer any repo into it's original prompt
+- [snflkd/fluent-korean](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/snflkd-fluent-korean/) — Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 - [xstongxue/best-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xstongxue-best-prompts/) — 通用高质量 Prompt 合集🔥
 - [Raymondhou0917/speak-human-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raymondhou0917-speak-human-tw/) — 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。

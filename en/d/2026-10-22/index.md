@@ -55,7 +55,6 @@ _Daily archive · 2026-10-22_
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-krea2-turbo-style-reference/) — text-to-image · diffusers, text-to-image, lora
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alperkts-krea2-fp8/) — text-to-image · diffusers, krea2, text-to-image
-- [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-audio8-audio8-tts-preview-0-6b/) — text-to-speech · transformers, safetensors, arktts
 - [alibaba-pai/MiniMax-H3-Acc-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-acc-loras/) — text-to-video · videox_fun, text-to-video, arxiv:2607.26004
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supertone-supertonic-3/) — text-to-speech · supertonic, onnx, text-to-speech
 - [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-drbaph-minimax-h3-turbo-lora-comfyui/) — text-to-video · minimax-h3, lora, adapter
@@ -513,7 +512,6 @@ _Daily archive · 2026-10-22_
 - [lerobot/FineART](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lerobot-fineart/) — · task_categories:robotics, license:cc-by-4.0, size_categories:100M<n<1B
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-my-pi-agent/) — · gradio, region:us
 - [Harland/OmniVChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-harland-omnivchat/) — · task_categories:video-text-to-text, language:en, language:zh
-- [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-magenta-community-magenta-rt-jam/) — · gradio, region:us
 - [VIDraft/ai-world](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vidraft-ai-world/) — · docker, llm-agents, multi-agent
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hamzabagirsakci-turkish-court-decisions/) — · task_categories:text-generation, task_categories:text-retrieval, task_categories:text-classification
@@ -698,7 +696,6 @@ _Daily archive · 2026-10-22_
 - [IFM/TxT360-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ifm-txt360-v2/) — · task_categories:text-generation, license:cc-by-4.0, size_categories:1B<n<10B
 - [joelniklaus/harness-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joelniklaus-harness-optimization/) — · docker, research-article-template, research paper
 - [Miftahul-Islam-Efaz/Motion-graphics-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/miftahul-islam-efaz-motion-graphics-skill/) — Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption …
-- [ginigen-ai/Metacognition-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ginigen-ai-metacognition-bench/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [t-tech/SynthComp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-t-tech-synthcomp/) — · language:ru, language:en, license:odc-by
 - [echel0nn1881/kimi-cyber-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-echel0nn1881-kimi-cyber-reasoning/) — · task_categories:text-generation, language:en, license:wtfpl
 - [FineEnvs/RL-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fineenvs-rl-explorer/) — · docker, reinforcement-learning, rl-environments
@@ -1616,7 +1613,6 @@ _Daily archive · 2026-10-22_
 - [Prysai/Prysai-LLM-Playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prysai-prysai-llm-playbook/) — An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for C…
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atilaahmettaner-tradingview-mcp/) — TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatG…
 - [HuggingFaceFW/finepdfs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacefw-finepdfs/) — · task_categories:text-generation, language:aai, language:aak
-- [ilabai/3dcodeverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilabai-3dcodeverse/) — · task_categories:text-to-3d, task_categories:image-to-3d, language:en
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — crypto trading bot liquidity order book market microstructure algorithmic trading quant Python Node.js websoc…
 - [jackwener/OpenCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackwener-opencli/) — Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madslorentzen-ai-job-search/) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate posting…
@@ -2016,7 +2012,7 @@ _Daily archive · 2026-10-22_
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/manypost-manypost-app/) — O ecossistema brasileiro de automação multicanal para criadores e devs. 📧📬
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yaojingang-georank/) — Open-source GEO ranking and generative engine optimization platform.
 - [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-whale99-interaction2code/) — · task_categories:image-text-to-text, language:en, size_categories:1K<n<10K
-- [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samvallad33-vestige/) — Think before doing, prove before saving. Vestige is a local, deterministic safety kernel for AI agents. Every…
+- [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samvallad33-vestige/) — Think before doing, prove before saving. Vestige is the local-first cognitive operating system and determinis…
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eval-sys-mcpmark/) — MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in…
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cporter202-agentic-ai-apis/) — The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents…
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-guide/) — Complete guide to Seedance 2.0 — multimodal AI video generation with image, video, audio & text input. Prompt…

@@ -11,7 +11,6 @@ _Daily archive · 2026-10-20_
 - [jaikydota/kk-mix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jaikydota-kk-mix/) — Windows 批量视频混剪工具，15 项批处理功能 | A Windows batch video editing toolkit — 15 batch operations.
 - [Indras-Mirror/Xolotl](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/indras-mirror-xolotl/) — Xolotl (formerly Strata-DSV4.1): run DeepSeek-V4.1-Flash, all 552B, as a local coding agent on one gaming PC …
 - [0xsline/awesome-deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xsline-awesome-deepseek-harness/) — DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the pu…
-- [ilabai/3dcodeverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilabai-3dcodeverse/) — · task_categories:text-to-3d, task_categories:image-to-3d, language:en
 
 ## 🚀 Climbing
 
@@ -54,7 +53,6 @@ _Daily archive · 2026-10-20_
 - [nineninesix/gepard-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nineninesix-gepard-1-0/) — text-to-speech · transformers, safetensors, qwen3_5_text
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-krea2-turbo-style-reference/) — text-to-image · diffusers, text-to-image, lora
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alperkts-krea2-fp8/) — text-to-image · diffusers, krea2, text-to-image
-- [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-audio8-audio8-tts-preview-0-6b/) — text-to-speech · transformers, safetensors, arktts
 - [alibaba-pai/MiniMax-H3-Acc-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-acc-loras/) — text-to-video · videox_fun, text-to-video, arxiv:2607.26004
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supertone-supertonic-3/) — text-to-speech · supertonic, onnx, text-to-speech
 - [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-drbaph-minimax-h3-turbo-lora-comfyui/) — text-to-video · minimax-h3, lora, adapter
@@ -524,7 +522,6 @@ _Daily archive · 2026-10-20_
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-my-pi-agent/) — · gradio, region:us
 - [HelenPeng/ExeWorldBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-helenpeng-exeworldbench/) — · task_categories:text-generation, task_categories:image-text-to-text, language:en
 - [Harland/OmniVChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-harland-omnivchat/) — · task_categories:video-text-to-text, language:en, language:zh
-- [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-magenta-community-magenta-rt-jam/) — · gradio, region:us
 - [VIDraft/ai-world](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vidraft-ai-world/) — · docker, llm-agents, multi-agent
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hamzabagirsakci-turkish-court-decisions/) — · task_categories:text-generation, task_categories:text-retrieval, task_categories:text-classification
@@ -693,7 +690,6 @@ _Daily archive · 2026-10-20_
 - [IFM/TxT360-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ifm-txt360-v2/) — · task_categories:text-generation, license:cc-by-4.0, size_categories:1B<n<10B
 - [joelniklaus/harness-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joelniklaus-harness-optimization/) — · docker, research-article-template, research paper
 - [Miftahul-Islam-Efaz/Motion-graphics-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/miftahul-islam-efaz-motion-graphics-skill/) — Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption …
-- [ginigen-ai/Metacognition-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ginigen-ai-metacognition-bench/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [t-tech/SynthComp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-t-tech-synthcomp/) — · language:ru, language:en, license:odc-by
 - [echel0nn1881/kimi-cyber-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-echel0nn1881-kimi-cyber-reasoning/) — · task_categories:text-generation, language:en, license:wtfpl
 - [tencent/AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-tencent-auk/) — · gradio, region:us
@@ -1442,7 +1438,6 @@ _Daily archive · 2026-10-20_
 - [img2threejs/img2threejs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/img2threejs-img2threejs/) — Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js m…
 - [arnsri33/embedflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arnsri33-embedflow/) — Zero downtime embedding upgrades
 - [Graphify-Labs/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/graphify-labs-graphify/) — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphi…
-- [ilabai/3dcodeverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilabai-3dcodeverse/) — · task_categories:text-to-3d, task_categories:image-to-3d, language:en
 - [henrywen98/claude-vpn-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/henrywen98-claude-vpn-skill/) — Claude Code Skill：AI 一键部署自建 VPN（VLESS + XHTTP + TLS + Cloudflare CDN）· One-command VPN setup on any VPS using…
 - [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-claude-obsidian/) — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and file…
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skillopt/) — SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through…
@@ -1971,7 +1966,7 @@ _Daily archive · 2026-10-20_
 - [MG1937/ASC](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mg1937-asc/) — ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 - [aqm857886159/Nomi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aqm857886159-nomi/) — Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor d…
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/octane0411-open-vibe-island/) — The open-source alternative to vibe-island, designed for heavy code agent users, supporting cc/codex/opencode…
-- [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samvallad33-vestige/) — Think before doing, prove before saving. Vestige is a local, deterministic safety kernel for AI agents. Every…
+- [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samvallad33-vestige/) — Think before doing, prove before saving. Vestige is the local-first cognitive operating system and determinis…
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zarazhangrui-personalized-podcast/) — Turn any content into a personalized AI podcast. NotebookLM-style, except you control the script, voices, and…
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/enragedantelope-comfyui-identity-forge/) — A character forge for ComfyUI: dial in or randomize every detail - face, hair, body, wardrobe, mood - and get…
 - [Wholiver/metis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wholiver-metis/) — Metis is a coding agent that boosts AI/LLM coding performance by 50% QQ群: 801193315

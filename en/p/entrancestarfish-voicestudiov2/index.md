@@ -4,5 +4,5 @@ Local AI voice studio: real-time voice changer, text-to-speech, voice cloning & 
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：128
+**Stars**：131
 **Source**：https://github.com/EntranceStarfish/VoiceStudioV2

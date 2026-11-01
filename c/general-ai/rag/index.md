@@ -11,7 +11,7 @@
 - [hamzabagirsakci/turkish-court-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hamzabagirsakci-turkish-court-decisions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ankitjh4/bharat-government-documents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ankitjh4-bharat-government-documents/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MaziyarPanahi/Jev-RAG-Claim-Verification-130K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-maziyarpanahi-jev-rag-claim-verification-130k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [Claytro24161ll/telegram-channel-rpocket-forwarder-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/claytro24161ll-telegram-channel-rpocket-forwarder-ai/) — 自動化Telegram頻道轉發器，支援AI內容重寫，適用Windows。
+- [SealarMeteor/telegram-channel-rpocket-forwarder-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sealarmeteor-telegram-channel-rpocket-forwarder-ai/) — 自動化Telegram頻道轉發器，具備即時AI內容重寫功能。
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joonion-pdf-rag-chatbot/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ducklelabs/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ducklelabs-duckle/) — 拖放式資料管道設計工具，編譯成 SQL 在 DuckDB 上執行。
 - [kividbio/kividb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kividbio-kividb/) — kividb 是一個快速的 Rust 寫成的 Redis 替代品，支援全文和向量搜尋。
@@ -47,23 +47,23 @@
 - [rostamlabs/rostam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rostamlabs-rostam/) — rostam 是一個開源向量資料庫和超微秒級鍵值儲存引擎，支援嵌入式和叢集部署。
 - [syndicalt/llmff](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syndicalt-llmff/) — llmff 提供可檢視的大型語言模型推理管道，支援離線執行和生成 JSONL 記錄。
 - [heider-x/vela](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heider-x-vela/) — AI驅動的創意寫作IDE，本地LLM和隱私優先。
-- [archlizheng/AIPM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archlizheng-aipm-wiki/) — AI 產品經理知識庫，涵蓋面試題庫和學習路線。
 - [onyx-dot-app/EnterpriseRAG-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onyx-dot-app-enterpriserag-bench/) — 企業內部檔案上使用的Retrieval-Augmented Generation資料集和評估基準。
-- [ombharatiya/AI-Engineer-Interview-Questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ombharatiya-ai-engineer-interview-questions/) — 提供AI工程師面試問題和準備建議，涵蓋公司特定問題集。
+- [archlizheng/AIPM-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archlizheng-aipm-wiki/) — AI 產品經理知識庫，涵蓋面試題庫和學習路線。
 - [ibrahimqureshae/mdflux](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ibrahimqureshae-mdflux/) — 將檔案轉換為清潔的Markdown格式。
 - [likeslines-maker/VectorRAG.Net](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/likeslines-maker-vectorrag-net/) — .NET 向量資料庫，適用於語義搜尋和增強生成。
 - [DEEIX-AI/DEEIX-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeix-ai-deeix-chat/) — 企業級AI工作區，提供多模態聊天、檔案管理和計費功能。
+- [ombharatiya/AI-Engineer-Interview-Questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ombharatiya-ai-engineer-interview-questions/) — 提供AI工程師面試問題和準備建議，涵蓋公司特定問題集。
 - [jia-gao/leanctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jia-gao-leanctx/) — 用 Python SDK 壓縮提示語，減少 LLM 應用的代幣費用。
 - [zilliztech/vector-graph-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-vector-graph-rag/) — 純向量搜尋圖形RAG，實現多跳推理場景中的最優效能。
-- [amitshekhariitbhu/transformers-explained](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-transformers-explained/) — 詳細解說 Transformer 架構及其各層結構。
 - [Rimagination/bili-note](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rimagination-bili-note/) — 從Bilibili影片中提取學習相關的Markdown筆記，包括字幕和評論。
 - [CodeAbra/iai-personal-memory-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeabra-iai-personal-memory-engine/) — 為 AI 程式設計助手提供加密記憶服務，支援多種 MCP 客戶端。
 - [timgordontg/engrim](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timgordontg-engrim/) — engrim 是一個跨模型 episodic 記憶標準，支援多個 AI 模型的上下文管理。
+- [amitshekhariitbhu/transformers-explained](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-transformers-explained/) — 詳細解說 Transformer 架構及其各層結構。
 - [ZeKaiNie/universal-examprep-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zekainie-universal-examprep-skill/) — 作為 Claude 代理技能，將學習材料轉換為知識庫和測驗題庫。
-- [Rana718/FyroDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rana718-fyrodb/) — 快速的Redis相容記憶體KV儲存和PostgreSQL快取代理，支援向量搜尋和微秒級查詢快取。
 - [EngramMemory/engram-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/engrammemory-engram-memory/) — 一款高分AI記憶系統，無需依賴大語言模型重排序，免費且節省Token。
 - [Emmimal/context-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/emmimal-context-engine/) — 純Python編寫的大語言模型上下文管理層。
 - [brekkylab/backlot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brekkylab-backlot/) — 模擬企業SaaS API的本地模擬器，支援Slack、Gmail等。
+- [Rana718/FyroDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rana718-fyrodb/) — 快速的Redis相容記憶體KV儲存和PostgreSQL快取代理，支援向量搜尋和微秒級查詢快取。
 - [botAGI/AGmind-ML](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/botagi-agmind-ml/) — 本地微調RAG模型，支援俄文上下文分割。
 - [Sandermage/sndr_core_engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sandermage-sndr-core-engine/) — Qwen3.6 和 Gemma4 的 vLLM 執行時程式覆蓋，支援 NVIDIA Ampere 裝置。
 - [McKern3l/RAGdrag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mckern3l-ragdrag/) — RAG管道安全測試工具，涵蓋MITRE ATLAS的六個階段技術。
@@ -84,8 +84,8 @@
 - [MicroClub-USTHB/mAIcro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microclub-usthb-maicro/) — 為社群和組織設計的開源 AI 基礎設施，理解結構化資料並回答問題。
 - [QingGo/engram-peft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qinggo-engram-peft/) — DeepSeek Engram 非官方實現，通過稀疏檢索 PEFT 為 LLMs 新增條件記憶。
 - [infino-ai/infino](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/infino-ai-infino/) — 基於物件儲存的快速全文檢索引擎，支援向量和SQL查詢。
-- [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madeval-ferryai/) — PHP 8.3+的原生AI推論框架，直接在PHP中執行ONNX等模型。
 - [JustVugg/distillery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/justvugg-distillery/) — 將檔案轉換成高質量指令資料集，包括去重和來源追溯。
+- [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madeval-ferryai/) — PHP 8.3+的原生AI推論框架，直接在PHP中執行ONNX等模型。
 - [ather-techie/ai-system-design-interview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-ai-system-design-interview/) — 針對頂尖科技公司的 AI/ML 系統設計面試的準備指南。
 - [ayoubnabil/aiondb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayoubnabil-aiondb/) — 一個從頭開始用 Rust 製作的相容 PostgreSQL 的 SQL、圖形和向量資料庫。
 - [radcrew/radcrew-unveiled](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/radcrew-radcrew-unveiled/) — RadCrew.org網站，配備具LLM能力的聊天機器人。

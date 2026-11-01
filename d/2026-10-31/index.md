@@ -62,7 +62,6 @@ _每日存檔 · 2026-10-31_
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ostris-krea2-turbo-style-reference/) — 基於Krea-2-Turbo的風格參考模型，用於文字轉影像。
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alperkts-krea2-fp8/) — 使用 Krea2 的文字轉影像模型，支援 FP8 和 ComfyUI。
 - [Nanbeige/Nanbeige4.3-33B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nanbeige-nanbeige4-3-33b/) — Nanbeige4.3-33B 是一個基於 Transformers 的對話生成模型，支援中文。
-- [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audio8-audio8-tts-preview-0-6b/) — 將文字轉換成語音的模型，支援自訂聲音。
 - [alibaba-pai/MiniMax-H3-Acc-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-acc-loras/) — 將文本轉換為影片的模型，適用於多種影片生成任務。
 - [Supertonic-3（語音合成 TTS）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supertone-supertonic-3/) — 文字轉語音模型，附 ONNX 版本利於部署（pipeline: text-to-speech）。
 - [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-drbaph-minimax-h3-turbo-lora-comfyui/) — 使用 ComfyUI 介面的 MiniMax-H3 模型，適用於文字轉影像。
@@ -592,7 +591,6 @@ _每日存檔 · 2026-10-31_
 - [townbox/sketch-a-series](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-townbox-sketch-a-series/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-my-pi-agent/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Harland/OmniVChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-harland-omnivchat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-amphora-researchmath-14k/) — ResearchMath 數學研究問答資料集（14k 筆）。
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-magenta-community-magenta-rt-jam/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [pablodawson/minimax-h3-360-orbit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pablodawson-minimax-h3-360-orbit/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [VIDraft/ai-world](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vidraft-ai-world/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -772,7 +770,6 @@ _每日存檔 · 2026-10-31_
 - [joelniklaus/harness-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-optimization/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HeyChengC/vibe-knowledge-film](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heychengc-vibe-knowledge-film/) — 自動生成抖音爆款知識短片的技能。
 - [Miftahul-Islam-Efaz/Motion-graphics-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miftahul-islam-efaz-motion-graphics-skill/) — Claude Code等平臺的最佳動畫和影片編輯技能。
-- [ginigen-ai/Metacognition-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ginigen-ai-metacognition-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [t-tech/SynthComp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-synthcomp/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [echel0nn1881/kimi-cyber-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-echel0nn1881-kimi-cyber-reasoning/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FineEnvs/RL-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fineenvs-rl-explorer/) — Hugging Face 示範應用(Space)，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
@@ -1007,7 +1004,6 @@ _每日存檔 · 2026-10-31_
 - [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementarrow-make-com/) — AI 自動化專案建立平臺。
 - [Jackrong/DeepSeek-V4-Pro-Distilled-200K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-deepseek-v4-pro-distilled-200k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlicanKiraz0/Turkish-CoT-Instruct-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alicankiraz0-turkish-cot-instruct-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [Claytro24161ll/telegram-channel-rpocket-forwarder-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/claytro24161ll-telegram-channel-rpocket-forwarder-ai/) — 自動化Telegram頻道轉發器，支援AI內容重寫，適用Windows。
 - [TencentARC/GAE-GeometricAutoEncoder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tencentarc-gae-geometricautoencoder/) — GAE 是一個用於生成三維一致世界的幾何原生潛在空間學習模型。
 - [yetone/magpie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/) — 從選單欄存取 Codex 和 Claude Code 的代理程式。
 - [ovdtze56q1zgksb4/kling3-kling-3-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ovdtze56q1zgksb4-kling3-kling-3-prompts/) — 提供 Kling-3 模型的 API 檔案和範例，支援 OpenAI 相容閘道器。
@@ -1377,7 +1373,6 @@ _每日存檔 · 2026-10-31_
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ant-research/4DAnyone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ant-research-4danyone/) — 4DAnyone 是一個從單目影片生成四維動畫的工具。
 - [nerin81-netizen/threads-affiliate-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nerin81-netizen-threads-affiliate-automation/) — 開源Threads聯盟行銷自動化工具包，具備本地儀錶板、卡片工作室和Graph API/Playwright支援。
-- [ilabai/3dcodeverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ilabai-3dcodeverse/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-hh-rlhf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TokenRhythm/NeoHorse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tokenrhythm-neohorse/) — 一個通過代理後訓練實現自我改進的大型語言模型。
 - [Nanako0129/sepia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nanako0129-sepia/) — Claude程式碼的去AI化寫作技能，適用於小說和專業散文。

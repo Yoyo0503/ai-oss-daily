@@ -4,5 +4,5 @@ AI 选股与量化投研工具链：原创 Agent Skills、投资方法参考框�
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：44
+**Stars**：45
 **Source**：https://github.com/Serennity007/awesome-stock-quant-skills

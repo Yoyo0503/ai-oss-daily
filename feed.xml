@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-10-31T08:00:00+00:00</updated>
+<updated>2026-11-01T08:00:00+00:00</updated>
 <entry>
-<title>Pika-Labs/Pika-H3-Flex</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/</id>
-<updated>2026-10-31T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援多種格式。</summary>
+<title>Edge0/Audio8-TTS-Realistic-0.6b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-0-6b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-0-6b/</id>
+<updated>2026-11-01T08:00:00+00:00</updated>
+<summary>將文字轉換為自然語音的AI模型。</summary>
 </entry>
 <entry>
-<title>maya-research/maya2-native</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-maya-research-maya2-native/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-maya-research-maya2-native/</id>
-<updated>2026-10-31T08:00:00+00:00</updated>
-<summary>多語言文字轉語音模型，支援多種語音克隆。</summary>
+<title>divagr1925/Qwen3.5-4B-Qwenputer</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-divagr1925-qwen3-5-4b-qwenputer/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-divagr1925-qwen3-5-4b-qwenputer/</id>
+<updated>2026-11-01T08:00:00+00:00</updated>
+<summary>基於Qwen的文本生成模型，支援RISC-V架構。</summary>
 </entry>
 <entry>
-<title>AtomicChat/LFM3-1.7B-Uncensored-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-atomicchat-lfm3-1-7b-uncensored-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-atomicchat-lfm3-1-7b-uncensored-gguf/</id>
-<updated>2026-10-31T08:00:00+00:00</updated>
-<summary>量化後的多語言文本生成模型。</summary>
+<title>LiquidAI/LFM3-Omni-2B-WebGPU</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-lfm3-omni-2b-webgpu/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-lfm3-omni-2b-webgpu/</id>
+<updated>2026-11-01T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>deepseek-ai/deepseek-harness</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
-<updated>2026-10-31T08:00:00+00:00</updated>
-<summary>一切皆可作為外掛的AI代理框架。</summary>
+<title>google/elephant-goldfish-model</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</id>
+<updated>2026-11-01T08:00:00+00:00</updated>
+<summary>Google開發的基於LLM的規格驅動開發方法和技能集。</summary>
 </entry>
 <entry>
-<title>DietrichGebert/ponytail</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</id>
-<updated>2026-10-31T08:00:00+00:00</updated>
-<summary>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</summary>
+<title>yetone/magpie</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</id>
+<updated>2026-11-01T08:00:00+00:00</updated>
+<summary>從選單欄存取 Codex 和 Claude Code 的代理程式。</summary>
 </entry>
 <entry>
-<title>black-forest-labs/flux-3-image-klein-comfy</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</id>
-<updated>2026-10-31T08:00:00+00:00</updated>
-<summary>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</summary>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</id>
+<updated>2026-11-01T08:00:00+00:00</updated>
+<summary>自動語音辨識模型，支援即時語音轉文字。</summary>
 </entry>
 </feed>

@@ -60,7 +60,6 @@ _Daily archive · 2026-10-30_
 - [ostris/krea2_turbo_style_reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ostris-krea2-turbo-style-reference/) — text-to-image · diffusers, text-to-image, lora
 - [AlperKTS/Krea2_FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alperkts-krea2-fp8/) — text-to-image · diffusers, krea2, text-to-image
 - [Nanbeige/Nanbeige4.3-33B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-3-33b/) — text-generation · transformers, safetensors, llama
-- [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-audio8-audio8-tts-preview-0-6b/) — text-to-speech · transformers, safetensors, arktts
 - [alibaba-pai/MiniMax-H3-Acc-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-acc-loras/) — text-to-video · videox_fun, text-to-video, arxiv:2607.26004
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supertone-supertonic-3/) — text-to-speech · supertonic, onnx, text-to-speech
 - [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-drbaph-minimax-h3-turbo-lora-comfyui/) — text-to-video · minimax-h3, lora, adapter
@@ -598,7 +597,6 @@ _Daily archive · 2026-10-30_
 - [townbox/sketch-a-series](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-townbox-sketch-a-series/) — · docker, region:us
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-my-pi-agent/) — · gradio, region:us
 - [Harland/OmniVChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-harland-omnivchat/) — · task_categories:video-text-to-text, language:en, language:zh
-- [amphora/ResearchMath-14k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-amphora-researchmath-14k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-magenta-community-magenta-rt-jam/) — · gradio, region:us
 - [pablodawson/minimax-h3-360-orbit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pablodawson-minimax-h3-360-orbit/) — · gradio, region:us
 - [timoncool/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/timoncool-speech-studio/) — Free offline AI voice studio for Windows — text-to-speech with cloned and built-in voices, and speech recogni…
@@ -778,7 +776,6 @@ _Daily archive · 2026-10-30_
 - [joelniklaus/harness-optimization](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-joelniklaus-harness-optimization/) — · docker, research-article-template, research paper
 - [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyupi-ai-promo-video-maker/) — 一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 A…
 - [Miftahul-Islam-Efaz/Motion-graphics-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/miftahul-islam-efaz-motion-graphics-skill/) — Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption …
-- [ginigen-ai/Metacognition-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ginigen-ai-metacognition-bench/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [t-tech/SynthComp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-t-tech-synthcomp/) — · language:ru, language:en, license:odc-by
 - [echel0nn1881/kimi-cyber-reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-echel0nn1881-kimi-cyber-reasoning/) — · task_categories:text-generation, language:en, license:wtfpl
 - [FineEnvs/RL-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fineenvs-rl-explorer/) — · docker, reinforcement-learning, rl-environments
@@ -1011,7 +1008,6 @@ _Daily archive · 2026-10-30_
 - [Jackrong/DeepSeek-V4-Pro-Distilled-200K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-deepseek-v4-pro-distilled-200k/) — · task_categories:text-generation, language:en, license:cc-by-4.0
 - [AlicanKiraz0/Turkish-CoT-Instruct-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alicankiraz0-turkish-cot-instruct-dataset/) — · task_categories:text-generation, task_categories:question-answering, language:tr
 - [op7418/guizang-product-video-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/op7418-guizang-product-video-skill/) — 归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。
-- [Claytro24161ll/telegram-channel-rpocket-forwarder-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/claytro24161ll-telegram-channel-rpocket-forwarder-ai/) — Automated Telegram channel forwarder and AI content rewriter with zero latency for Windows.
 - [TencentARC/GAE-GeometricAutoEncoder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentarc-gae-geometricautoencoder/) — [arxiv'26] GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
 - [ovdtze56q1zgksb4/kling3-kling-3-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ovdtze56q1zgksb4-kling3-kling-3-prompts/) — kling-3 API (kling3 / kling 3): default $0.0672; pro $0.0896; sound $0.1008. Model id, prompts settings, curl…
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alienkevin-swe-zero-12m-trajectories/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -1366,7 +1362,6 @@ _Daily archive · 2026-10-30_
 - [lexmount/moli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lexmount-moli/) — Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 - [ronitgupta138/Vectra-Core](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronitgupta138-vectra-core/) — ⚡ In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scala…
 - [surya-koritala/Glyd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/surya-koritala-glyd/) — Lossless AI compression: 33% less GPU memory, bit for bit.
-- [ilabai/3dcodeverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ilabai-3dcodeverse/) — · task_categories:text-to-3d, task_categories:image-to-3d, language:en
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dontplantoend-ugi-leaderboard/) — · docker, leaderboard, submission:manual
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shmidtqq65-loxley/) — the exit desk for robinhood chain · a sniper, a guard, a follow · reads by default, signs when you arm it
 - [jundizhou/easy-stock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundizhou-easy-stock/) — A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock
@@ -2144,7 +2139,7 @@ _Daily archive · 2026-10-30_
 - [rhenus-Q/Enterprise-Agentic-RAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rhenus-q-enterprise-agentic-rag/) — Self-correcting Agentic RAG for enterprise document Q&A, built with LangGraph, Chroma, OpenAI/Ollama, Tavily,…
 - [future-agi/future-agi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/future-agi-future-agi/) — Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Trac…
 - [Nathanw1014/strix-halo-llamacpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nathanw1014-strix-halo-llamacpp/) — Performance-tuned llama.cpp for AMD Strix Halo (gfx1151): FA + MoE-prefill fixes with a bundled current Mesa …
-- [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samvallad33-vestige/) — Think before doing, prove before saving. Vestige is a local, deterministic safety kernel for AI agents. Every…
+- [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samvallad33-vestige/) — Think before doing, prove before saving. Vestige is the local-first cognitive operating system and determinis…
 - [Ashutosh0x/rust-finance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ashutosh0x-rust-finance/) — A high-performance, ultra low-latency trading terminal and AI-infused daemon built completely in Rust.
 - [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/beijingcao-binance-deribit-btc/) — Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask …
 - [geekjourneyx/hyperframes-motion-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-hyperframes-motion-director/) — Agent Skill for Chinese-first HyperFrames motion-video production from articles, products, websites, and READ…

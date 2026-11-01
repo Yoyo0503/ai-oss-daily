@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>31 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>01 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Pika-Labs/Pika-H3-Flex</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/</guid>
-<pubDate>31 Oct 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的模型，支援多種格式。</description>
+<title>Edge0/Audio8-TTS-Realistic-0.6b</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-0-6b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-0-6b/</guid>
+<pubDate>01 Nov 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換為自然語音的AI模型。</description>
 </item>
 <item>
-<title>maya-research/maya2-native</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-maya-research-maya2-native/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-maya-research-maya2-native/</guid>
-<pubDate>31 Oct 2026 08:00:00 +0000</pubDate>
-<description>多語言文字轉語音模型，支援多種語音克隆。</description>
+<title>divagr1925/Qwen3.5-4B-Qwenputer</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-divagr1925-qwen3-5-4b-qwenputer/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-divagr1925-qwen3-5-4b-qwenputer/</guid>
+<pubDate>01 Nov 2026 08:00:00 +0000</pubDate>
+<description>基於Qwen的文本生成模型，支援RISC-V架構。</description>
 </item>
 <item>
-<title>AtomicChat/LFM3-1.7B-Uncensored-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-atomicchat-lfm3-1-7b-uncensored-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-atomicchat-lfm3-1-7b-uncensored-gguf/</guid>
-<pubDate>31 Oct 2026 08:00:00 +0000</pubDate>
-<description>量化後的多語言文本生成模型。</description>
+<title>LiquidAI/LFM3-Omni-2B-WebGPU</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-lfm3-omni-2b-webgpu/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-lfm3-omni-2b-webgpu/</guid>
+<pubDate>01 Nov 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>31 Oct 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>google/elephant-goldfish-model</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</guid>
+<pubDate>01 Nov 2026 08:00:00 +0000</pubDate>
+<description>Google開發的基於LLM的規格驅動開發方法和技能集。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>31 Oct 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>yetone/magpie</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</guid>
+<pubDate>01 Nov 2026 08:00:00 +0000</pubDate>
+<description>從選單欄存取 Codex 和 Claude Code 的代理程式。</description>
 </item>
 <item>
-<title>black-forest-labs/flux-3-image-klein-comfy</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</guid>
-<pubDate>31 Oct 2026 08:00:00 +0000</pubDate>
-<description>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</description>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</guid>
+<pubDate>01 Nov 2026 08:00:00 +0000</pubDate>
+<description>自動語音辨識模型，支援即時語音轉文字。</description>
 </item>
 </channel>
 </rss>

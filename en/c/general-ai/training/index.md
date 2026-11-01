@@ -45,8 +45,8 @@
 - [jwuthri-cloud/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jwuthri-cloud-selfjev/) — Self-hosted decision model (selfjev-4b) with a Jev-compatible API: Python SDK, server, fine-tuning and RLCD.
 - [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/akashpriyadarshii-jev-curate/) — High-throughput synthetic and pretraining dataset sifter for TypeSafe Jev. Rust streaming core, Parquet and J…
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — Fine-tuning LLM — lora, qlora, unsloth, fine tune tutorial.
-- [datamllab/OpenEBFM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datamllab-openebfm/) — Open-source code for training and scaling up energy-based foundation models.
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-hh-rlhf/) — · license:mit, size_categories:100K<n<1M, format:json
+- [datamllab/OpenEBFM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datamllab-openebfm/) — Open-source code for training and scaling up energy-based foundation models.
 - [Tranvanviet27/NLP-LLM-Fine-Tuning-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tranvanviet27-nlp-llm-fine-tuning-studio/) — Best Open Source NLP LLM Fine-Tuning Trainer Framework 2026
 - [Alg-Khlifa-Mouad-Iyad/GPT2-MathRiddle-Forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alg-khlifa-mouad-iyad-gpt2-mathriddle-forge/) — Fine-Tuning GPT-2 for Math Riddles Generation with Transformers and TRL 2026
 - [petkyletampu28-a11y/tasknet-multitask](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/petkyletampu28-a11y-tasknet-multitask/) — Modern Multi-Task NLP Fine-Tuning Framework with ModernBERT 2026

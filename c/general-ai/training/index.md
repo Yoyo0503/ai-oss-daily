@@ -45,8 +45,8 @@
 - [jwuthri-cloud/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jwuthri-cloud-selfjev/) — 自建決策模型，提供與Jev相容的API，支援細調和強化學習。
 - [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/akashpriyadarshii-jev-curate/) — 用於TypeSafe Jev的高吞吐量資料篩選工具，支援Parquet和JSONL格式。
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — 詳細介紹 LLM 微調方法（lora, qlora, unsloth）的教程。
-- [datamllab/OpenEBFM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datamllab-openebfm/) — 用於訓練和擴充套件能量基礎模型的開源程式碼。
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-hh-rlhf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [datamllab/OpenEBFM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datamllab-openebfm/) — 用於訓練和擴充套件能量基礎模型的開源程式碼。
 - [Tranvanviet27/NLP-LLM-Fine-Tuning-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tranvanviet27-nlp-llm-fine-tuning-studio/) — NLP-LLM-Fine-Tuning-Studio 是一個用於自然語言處理模型微調的開源框架。
 - [Alg-Khlifa-Mouad-Iyad/GPT2-MathRiddle-Forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alg-khlifa-mouad-iyad-gpt2-mathriddle-forge/) — 使用 Transformers 和 TRL 對 GPT-2 進行微調，使其能生成數學謎題。
 - [petkyletampu28-a11y/tasknet-multitask](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/petkyletampu28-a11y-tasknet-multitask/) — 現代多工 NLP 微調框架，使用 ModernBERT 進行高效能訓練。
