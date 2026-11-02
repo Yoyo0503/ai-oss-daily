@@ -4,5 +4,5 @@ Aave V3 oracle-lag arbitrage: borrow WETH at the Chainlink price, sell where DEX
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：38
+**Stars**：39
 **Source**：https://github.com/akari-sora/aave-oracle-lag-arb

@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-11-01T08:00:00+00:00</updated>
+<updated>2026-11-02T08:00:00+00:00</updated>
 <entry>
-<title>Edge0/Audio8-TTS-Realistic-0.6b</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-0-6b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-0-6b/</id>
-<updated>2026-11-01T08:00:00+00:00</updated>
-<summary>將文字轉換為自然語音的AI模型。</summary>
+<title>burner22/numbat</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-burner22-numbat/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-burner22-numbat/</id>
+<updated>2026-11-02T08:00:00+00:00</updated>
+<summary>numbat 是一個自定義編碼的 8 位模型，適用於模型最佳化。</summary>
 </entry>
 <entry>
-<title>divagr1925/Qwen3.5-4B-Qwenputer</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-divagr1925-qwen3-5-4b-qwenputer/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-divagr1925-qwen3-5-4b-qwenputer/</id>
-<updated>2026-11-01T08:00:00+00:00</updated>
-<summary>基於Qwen的文本生成模型，支援RISC-V架構。</summary>
+<title>sensenova/SenseNova-Loop-9B-Preview</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b-preview/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b-preview/</id>
+<updated>2026-11-02T08:00:00+00:00</updated>
+<summary>SenseNova-Loop-9B-Preview 是一個影像轉文本的多模態模型，支援迴圈 Transformer。</summary>
 </entry>
 <entry>
-<title>LiquidAI/LFM3-Omni-2B-WebGPU</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-lfm3-omni-2b-webgpu/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-lfm3-omni-2b-webgpu/</id>
-<updated>2026-11-01T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>xiaomi-research/Xiaomi-OCR-0</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomi-research-xiaomi-ocr-0/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomi-research-xiaomi-ocr-0/</id>
+<updated>2026-11-02T08:00:00+00:00</updated>
+<summary>Xiaomi-OCR-0 是一個用於文件解析和理解的影像轉文本模型。</summary>
 </entry>
 <entry>
-<title>google/elephant-goldfish-model</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</id>
-<updated>2026-11-01T08:00:00+00:00</updated>
-<summary>Google開發的基於LLM的規格驅動開發方法和技能集。</summary>
+<title>morluto/rea</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</id>
+<updated>2026-11-02T08:00:00+00:00</updated>
+<summary>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</summary>
 </entry>
 <entry>
-<title>yetone/magpie</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yetone-magpie/</id>
-<updated>2026-11-01T08:00:00+00:00</updated>
-<summary>從選單欄存取 Codex 和 Claude Code 的代理程式。</summary>
+<title>Ebony-Vinyl/dsh-our-free-model</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</id>
+<updated>2026-11-02T08:00:00+00:00</updated>
+<summary>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</summary>
 </entry>
 <entry>
-<title>Edge0/Audio8-ASR-Infinite</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</id>
-<updated>2026-11-01T08:00:00+00:00</updated>
-<summary>自動語音辨識模型，支援即時語音轉文字。</summary>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
+<updated>2026-11-02T08:00:00+00:00</updated>
+<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
 </entry>
 </feed>

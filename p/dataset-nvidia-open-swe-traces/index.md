@@ -1,8 +1,8 @@
 # nvidia/Open-SWE-Traces
 
-Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 
-**為何上榜**：HF trending 10 · 129 likes · 29,433 下載
+**為何上榜**：HF trending 10 · 164 likes · 25,859 下載
 
 **商用授權**：可商用 — 可商用，CC-BY 類需署名
 
