@@ -2,7 +2,7 @@
 
 SenseNova-Loop-9B-Preview 是一個影像轉文本的多模態模型，支援迴圈 Transformer。
 
-**為何上榜**：HF trending 143 · 144 likes · 927 下載
+**為何上榜**：HF trending 184 · 185 likes · 1,536 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

@@ -14,8 +14,8 @@ _Daily archive · 2026-10-30_
 - [openbmb/MiniCPM-OCR-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openbmb-minicpm-ocr-1-0/) — image-text-to-text · safetensors, minicpm_ocr, minicpm-ocr
 - [LiquidAI/LFM3-Omni-2B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm3-omni-2b/) — any-to-any · transformers, safetensors, lfm3_omni
 - [Diffuspace/Clover-35B-A3B-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-diffuspace-clover-35b-a3b-preview/) — text-generation · transformers, safetensors, clover_moe
-- [LiconStudio/Minimax-H3-VBVR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-minimax-h3-vbvr/) — · minimax-h3, dataset:Video-Reason/VBVR-Pro-SFT-Video, base_model:MiniMaxAI/MiniMax-H3
-- [Efficient-Large-Model/Open-H3-Regenerate-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-efficient-large-model-open-h3-regenerate-2k/) — video-to-video · diffusers, safetensors, minimax-h3
+- [Efficient-Large-Model/Open-H3-Regenerate-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-efficient-large-model-open-h3-regenerate-2k/) — video-to-video · minimax-h3, diffusers, safetensors
+- [shipwords-dev/shipwords](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shipwords-dev-shipwords/) — Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and…
 
 ## 🚀 Climbing
 
@@ -179,14 +179,12 @@ _Daily archive · 2026-10-30_
 - [datalab-to/indra-ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-datalab-to-indra-ocr/) — image-to-text · onnx, safetensors, indra-ocr
 - [google/elephant-goldfish-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/google-elephant-goldfish-model/) — Open-source skills for designing and reviewing software with AI agents
 - [prism-ml/Ternary-Bonsai-2-27B-mlx-2bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-2-27b-mlx-2bit/) — text-generation · mlx, safetensors, prism_hadamard_qwen35
-- [Comfy-Org/MiniMax-Music-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-minimax-music-3/) — · diffusion-single-file, comfyui, base_model:MiniMaxAI/MiniMax-Music3
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [meituan-longcat/LongCat-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meituan-longcat-longcat-2-0/) — text-generation · LongCat-2.0, safetensors, transformers
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [incoai/Qwen3.8-27B-DFlash2-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-incoai-qwen3-8-27b-dflash2-gguf/) — text-generation · llama.cpp, gguf, dflash2
 - [orcarouter/OrcaCyber-Nano-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-orcarouter-orcacyber-nano-1-0/) — image-text-to-text · gguf, cybersecurity, security
 - [Diffuspace/Clover-35B-A3B-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-diffuspace-clover-35b-a3b-preview/) — text-generation · transformers, safetensors, clover_moe
-- [LiconStudio/Minimax-H3-VBVR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-minimax-h3-vbvr/) — · minimax-h3, dataset:Video-Reason/VBVR-Pro-SFT-Video, base_model:MiniMaxAI/MiniMax-H3
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-weiboai-vibethinker-3b/) — text-generation · transformers, safetensors, qwen2
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-gguf/) — image-text-to-text · gguf, gemma4, unsloth
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
@@ -201,7 +199,7 @@ _Daily archive · 2026-10-30_
 - [InternScience/Agents-A1-Q4_K_M-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1-q4-k-m-gguf/) — · gguf, quantized, moe
 - [akhilaaa3/Jev-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akhilaaa3-jev-omni/) — text-classification · transformers, safetensors, gemma4_unified
 - [unsloth/gemma-4-12B-it-qat-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-gemma-4-12b-it-qat-gguf/) — any-to-any · transformers, gguf, gemma4
-- [Efficient-Large-Model/Open-H3-Regenerate-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-efficient-large-model-open-h3-regenerate-2k/) — video-to-video · diffusers, safetensors, minimax-h3
+- [Efficient-Large-Model/Open-H3-Regenerate-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-efficient-large-model-open-h3-regenerate-2k/) — video-to-video · minimax-h3, diffusers, safetensors
 - [HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-hauhaucs-gemma4-12b-qat-uncensored-hauhaucs-balanced/) — image-text-to-text · gguf, uncensored, gemma4
 - [AliesTaha/fable-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aliestaha-fable-traces/) — text-generation · transformers, safetensors, qwen3
 - [harshatheg/Qwen-2.5-1B-RLCD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-harshatheg-qwen-2-5-1b-rlcd/) — text-generation · mlx, structured-generation, parallel-decoding
@@ -692,7 +690,6 @@ _Daily archive · 2026-10-30_
 - [K-intelligence/KSAFE-MM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-k-intelligence-ksafe-mm/) — · size_categories:10K<n<100K, format:parquet, format:optimized-parquet
 - [internlm/Atria-Dawn-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internlm-atria-dawn-preview/) — · safetensors, glm_moe_dsa, arxiv:2609.15818
 - [TencentARC/Pixal3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-tencentarc-pixal3d/) — · gradio, region:us
-- [Daankular/Sulphur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-daankular-sulphur/) — · gradio, region:us
 - [HuggingFaceCode/stack-v3-train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingfacecode-stack-v3-train/) — · task_categories:text-generation, language_creators:crowdsourced, language_creators:expert-generated
 - [LiquidAI/colbert-tool-selection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-colbert-tool-selection/) — · docker, region:us
 - [robinhood-ape/robinhood-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/robinhood-ape-robinhood-sniper-bot/) — NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sell…
@@ -1480,7 +1477,6 @@ _Daily archive · 2026-10-30_
 - [makecindy/cindy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/makecindy-cindy/) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 - [alesha-pro/tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alesha-pro-tools/) — Tools, ComfyUI workflows and benchmark configs from a 4x RTX 3090 local-inference rig
 - [0xbrutusdev/polymarket-5min-crypto-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/0xbrutusdev-polymarket-5min-crypto-trading-bot/) — Polymarket market maker bot for BTC 5-minute Up/Down markets.
-- [bodepudimuneendra-netizen/laya-jev-GraphRAG](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bodepudimuneendra-netizen-laya-jev-graphrag/) — A database-agnostic Agentic GraphRAG framework using swappable System One models (local Laya / cloud Jev). A …
 - [miqdadbadjuber/anti-slop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/miqdadbadjuber-anti-slop/) — Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
 - [citrolabs/ego-lite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/citrolabs-ego-lite/) — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state w…
 - [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/virgiliojr94-book-to-skill/) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
@@ -1500,9 +1496,9 @@ _Daily archive · 2026-10-30_
 - [KeyID-AI/agent-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/keyid-ai-agent-kit/) — Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.
 - [lmsys/lmsys-chat-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lmsys-lmsys-chat-1m/) — · size_categories:1M<n<10M, format:parquet, modality:text
 - [JakeATX/llamAmpere](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jakeatx-llamampere/) — llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 …
-- [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session mem…
+- [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mksglu-context-mode/) — Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 …
 - [Phosphenq/bodkin](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phosphenq-bodkin/) — the sniper terminal for pons v2 on Robinhood Chain. local, open, non-custodial, dry run by default
-- [duhu2000/dsh-mcp-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/duhu2000-dsh-mcp-connector/) — DeepSeek Harness MCP Connector: connect servers, search tools across active connections, and troubleshoot dis…
+- [duhu2000/dsh-mcp-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/duhu2000-dsh-mcp-connector/) — MCP Connector for DeepSeek Harness: a data marketplace connecting enterprise, financial, legal, patent and re…
 - [KKKKhazix/sun-style-writing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kkkkhazix-sun-style-writing/) — 从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法
 - [PillCrew/claimchain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pillcrew-claimchain/) — Verify that an AI agent's on-chain claims are actually true. A claim-level groundedness checker for Solana / …
 - [Panniantong/Agent-Reach](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/panniantong-agent-reach/) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili,…
@@ -1582,7 +1578,6 @@ _Daily archive · 2026-10-30_
 - [JingHao-Leon/dsh-alpha-desk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jinghao-leon-dsh-alpha-desk/) — 把 dsh 会话变成合规、可复现、可追责的 AI 投研工作台：ai-hedge-fund 回测 + risk-gate 风控 + cron 盯盘 + 记忆复盘 | compliance-first AI investm…
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openbmb-voxcpm-demo/) — · gradio, region:us
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brokermr810-quantdinger/) — AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, a…
-- [ShawnPana/phone-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shawnpana-phone-harness/) — let your agent control your phone
 - [turanszkij/mini-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/turanszkij-mini-ai/) — A tiny graphical application for local AI generation
 - [mkamranr/reelforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mkamranr-reelforge/) — Turn a GitHub repository or Hugging Face model into a finished vertical reel: video, cover art and per-platfo…
 - [ikala/tmmluplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ikala-tmmluplus/) — · task_categories:question-answering, language:zh, license:mit
@@ -2050,7 +2045,6 @@ _Daily archive · 2026-10-30_
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/red-ead-flowblock/) — FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models
 - [dwgx/WindsurfAPI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dwgx-windsurfapi/) — Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, …
 - [rootSunc/CNEquity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rootsunc-cnequity/) — 中国A股（A-share / AShare / AStock）股票数据与金融数据基础设施，面向量化交易与回测。55个日更数据集：沪深股票行情、财务数据与基本面、期货数据、资金面、公告事件、指数行业、宏观与风险。行级溯源…
-- [AgriciDaniel/codex-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-codex-seo/) — Codex-first SEO skill suite. 26 workflows, 24 TOML agents, DataForSEO/Gemini/Google/Firecrawl integrations, G…
 - [samber/cc-skills-golang](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samber-cc-skills-golang/) — 🧑‍🎨 A collection of Golang agentic skills that works
 - [myccarl/ai-shortVideo-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/myccarl-ai-shortvideo-pipeline/) — End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model f…
 - [rlaope/oh-my-hermes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rlaope-oh-my-hermes/) — All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized w…
@@ -2592,7 +2586,6 @@ _Daily archive · 2026-10-30_
 - [WantongC/journal-adapt-writing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wantongc-journal-adapt-writing-skill/) — Learn any journal's writing conventions from its published papers, then revise your manuscript to match — sec…
 - [joshua-zyy/academic-paper-writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/joshua-zyy-academic-paper-writer/) — 面向 CS / AI / ML 领域的证据驱动、分节推进的论文写作 Agent Skill。
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gaaiyun-joinquant-skill/) — AI agent skill for generating quantitative strategy code on JoinQuant platform - Cursor / Claude Code compati…
-- [hyperfx-ai/marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hyperfx-ai-marketing-skills/) — Marketing skills for AI agents — paid ads, social media, SEO, competitor research, creative generation, email…
 - [aitradingbotspro/ai-automated-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aitradingbotspro-ai-automated-trading-bot/) — TradingView webhook bot for manual traders – execute alerts on Binance, Bybit, OKX, and Hyperliquid with risk…
 - [mkhsu2002/openclaw-agent-feeds](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mkhsu2002-openclaw-agent-feeds/) — Standardized agent data feeds and automation instruction sets for the OpenClaw framework. 專為 OpenClaw 框架設計的標準…
 - [maxmelichov/BlueTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/maxmelichov-bluetts/) — Fastest Open Source TTS Model

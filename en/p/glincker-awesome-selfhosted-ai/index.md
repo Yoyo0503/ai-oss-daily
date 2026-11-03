@@ -4,5 +4,5 @@ Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP se
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：69
+**Stars**：88
 **Source**：https://github.com/glincker/awesome-selfhosted-ai

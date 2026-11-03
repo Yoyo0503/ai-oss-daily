@@ -1,8 +1,0 @@
-# Comfy-Org/MiniMax-Music-3
-
-· diffusion-single-file, comfyui, base_model:MiniMaxAI/MiniMax-Music3
-
-**Commercial license**：License unclear — 未知授權代碼 apache-2.0 — 請人工確認商用條款
-
-**Stars**：0
-**Source**：https://huggingface.co/Comfy-Org/MiniMax-Music-3

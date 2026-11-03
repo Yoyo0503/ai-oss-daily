@@ -4,5 +4,5 @@ AI agent skill (Claude Code / Codex) for deterministic K-line structure analysis
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：45
+**Stars**：59
 **Source**：https://github.com/xiongcp/stock-skill

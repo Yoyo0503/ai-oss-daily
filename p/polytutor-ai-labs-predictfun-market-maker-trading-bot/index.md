@@ -2,9 +2,9 @@
 
 Passive市場做市交易機器人，適用於Predict.fun平臺。
 
-**為何上榜**：近一日新增 4★（現 171★）
+**為何上榜**：近一日新增 11★（現 182★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：171
+**Stars**：182
 **原始連結**：https://github.com/Polytutor-AI-Labs/predictfun-market-maker-trading-bot

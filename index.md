@@ -1,13 +1,13 @@
 # AI 開源日報 — 今日精選
 
-_最後更新: 2026-11-01 17:05 PST_
+_最後更新: 2026-11-02 17:05 PST_
 
 - [feder-cr/invisible_playwright_mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/feder-cr-invisible-playwright-mcp/) — invisible_playwright_mcp 是一個使用 AI 代理在隱藏模式下瀏覽網頁的工具。
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/illiahaidar-mcptrustchecker/) — 用於掃描 MCP 伺服器的安全工具，檢查潛在風險。
 - [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jub0t-concat/) — Concat 是一個免費的跨平臺影片編輯器，可替代 CapCut。
 - [junxchan54-maker/mcd-cn-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junxchan54-maker-mcd-cn-assistant/) — 麥當勞中國官方MCP智慧助手，提供活動推送、聯名關注、點餐和群點聚合帳單功能。
-- [sepehr071/iran-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sepehr071-iran-mcp/) — 提供伊朗網站服務的AI代理，涵蓋購物、美食、法律等多個領域。
 - [songconmaisaix31-design/mcpet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/songconmaisaix31-design-mcpet/) — 麥當勞主題的桌面 AI 機器人，提醒用餐和工作進度。
+- [sepehr071/iran-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sepehr071-iran-mcp/) — 提供伊朗網站服務的AI代理，涵蓋購物、美食、法律等多個領域。
 - [Jakeschincariol/replica-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-replica-skill/) — Eleven 免費的 Claude 技能，用於逆向工程和測試應用程式。
 - [google/elephant-goldfish-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/) — Google開發的基於LLM的規格驅動開發方法和技能集。
 - [k45sle/Claude-auto-pause](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k45sle-claude-auto-pause/) — Claude Code外掛，自動暫停Claude並儲存交接筆記。
@@ -26,15 +26,15 @@ _最後更新: 2026-11-01 17:05 PST_
 - [ToMan78737ticore/resocket-clinic-flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/toman78737ticore-resocket-clinic-flow/) — 自動化系統，每日早上8:30透過Telegram傳送醫生當日病人名單。
 - [T28466orerrage/resp-cokuy-GO](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/t28466orerrage-resp-cokuy-go/) — 使用Go語言開發的個人Telegram代理程式，具備提醒和開支追蹤功能。
 - [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/) — 提供加密貨幣交易後的K線圖生成工具及範例。
+- [zhtyyx/codex-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhtyyx-codex-seo/) — 在OpenAI Codex CLI中提供免費的開源SEO審核工具。
 - [GrimOrbita/rpocket-team-meeting-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/grimorbita-rpocket-team-meeting-agent/) — 加入會議並生成英文報告的AI筆記工具。
 - [Def28641eatclaw/Restaurant-Ai-Agent-rpocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/def28641eatclaw-restaurant-ai-agent-rpocket/) — 餐廳AI點餐助手，支援自然語言訂餐、對話記憶和自動紀錄。
-- [thebigasif/affiliate-tracking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thebigasif-affiliate-tracking/) — 開源的聯盟追蹤軟體，提供自建聯盟追蹤方案。
 - [shipwords-dev/shipwords](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shipwords-dev-shipwords/) — 自動化建立賺錢的AI網站，適用於SEO和內容行銷。
 - [zhuyansen/new-term-radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-new-term-radar/) — 每日追蹤新 AI 熱詞，包括新模型、產品和 GitHub 存放庫，提供 SEO 和趨勢分析。
 - [TraceCohenTech/ai-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tracecohentech-ai-seo-playbook/) — AI SEO 手冊，涵蓋方法論、指令碼和安全防護。
 - [autotrust/GEV-26B-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-gev-26b-decide/) — 進行文本分類的模型。
 - [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-deepseek-ai-deepseek-v4-1-flash-1017/) — 將影像和文字轉換為文字，適用於圖文生成。
-- [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-deepseek-v4-1-flash-1017-gsq-rco-gguf/) — 文字生成模型，使用混合精度和量化技術。
 - [LiquidAI/LFM3-1.7B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm3-1-7b/) — LiquidAI 的對話生成模型，適用於多種對話場景。
 - [baidu/Unlimited-OCR-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr-2/) — 百度的 OCR 模型，用於影像文字轉換。
+- [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ista-daslab-deepseek-v4-1-flash-1017-gsq-rco-gguf/) — 文字生成模型，使用混合精度和量化技術。
 - [openbmb/MiniCPM-V-4.7-35B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openbmb-minicpm-v-4-7-35b-a3b/) — 將影像和文字轉換為文字的模型。

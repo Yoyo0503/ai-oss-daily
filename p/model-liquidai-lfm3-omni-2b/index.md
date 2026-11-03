@@ -2,7 +2,7 @@
 
 LiquidAI 的多模態模型，適用於影像文字轉換。
 
-**為何上榜**：HF trending 252 · 270 likes · 8,376 下載
+**為何上榜**：HF trending 281 · 310 likes · 9,964 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

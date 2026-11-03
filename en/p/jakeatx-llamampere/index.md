@@ -4,5 +4,5 @@ llama.cpp fork for significantly improved performance on Ampere generation Nvidi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：207
+**Stars**：214
 **Source**：https://github.com/JakeATX/llamAmpere
