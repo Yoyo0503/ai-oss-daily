@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>03 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>04 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Edge0/Audio8-TTS-Realistic-Air</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-air/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-air/</guid>
-<pubDate>03 Nov 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換為逼真的語音，適用於語音合成和聲音克隆。</description>
+<title>abenzerps/Qwen-Image-2.1-Turbo-Quantized</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-turbo-quantized/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-turbo-quantized/</guid>
+<pubDate>04 Nov 2026 08:00:00 +0000</pubDate>
+<description>Qwen-Image 是一個文本轉影像的模型，支援快速生成影像。</description>
 </item>
 <item>
-<title>FusionCow/Sulphur-3</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fusioncow-sulphur-3/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fusioncow-sulphur-3/</guid>
-<pubDate>03 Nov 2026 08:00:00 +0000</pubDate>
-<description>基於MiniMax-H3的模型，提供強大的自然語言處理能力。</description>
+<title>wideeyededi/uncensored-nsfw-ai-video-api</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wideeyededi-uncensored-nsfw-ai-video-api/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wideeyededi-uncensored-nsfw-ai-video-api/</guid>
+<pubDate>04 Nov 2026 08:00:00 +0000</pubDate>
+<description>成人向 AI 影片生成 API，支援文生/圖生影片。</description>
 </item>
 <item>
-<title>microsoft/Mage-VL-Cowork</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl-cowork/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl-cowork/</guid>
-<pubDate>03 Nov 2026 08:00:00 +0000</pubDate>
-<description>將影像和文字轉換為文字描述，適用於多模態理解和計算機使用。</description>
+<title>PentesterFlow/OffsecCyber</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-pentesterflow-offseccyber/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-pentesterflow-offseccyber/</guid>
+<pubDate>04 Nov 2026 08:00:00 +0000</pubDate>
+<description>Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>03 Nov 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>pbakaus/impeccable</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</guid>
+<pubDate>04 Nov 2026 08:00:00 +0000</pubDate>
+<description>設計語彙庫，用於指導程式代理，避免AI生成的錯誤。</description>
 </item>
 <item>
-<title>DietrichGebert/ponytail</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/</guid>
-<pubDate>03 Nov 2026 08:00:00 +0000</pubDate>
-<description>讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。</description>
+<title>google/elephant-goldfish-model</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</guid>
+<pubDate>04 Nov 2026 08:00:00 +0000</pubDate>
+<description>Google開發的基於LLM的規格驅動開發方法和技能集。</description>
 </item>
 <item>
-<title>black-forest-labs/flux-3-image-klein-comfy</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</guid>
-<pubDate>03 Nov 2026 08:00:00 +0000</pubDate>
-<description>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</description>
+<title>nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-5-transcribe-30b-a4b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-5-transcribe-30b-a4b/</guid>
+<pubDate>04 Nov 2026 08:00:00 +0000</pubDate>
+<description>NVIDIA 的自動語音轉文字模型，適用於多語言語音識別。</description>
 </item>
 </channel>
 </rss>

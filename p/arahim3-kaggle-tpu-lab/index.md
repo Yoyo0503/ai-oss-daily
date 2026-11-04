@@ -2,9 +2,9 @@
 
 在免費的 Kaggle TPU 上執行 Qwen3.8-27B，支援 Claude Code 等。
 
-**為何上榜**：近一日新增 4★（現 758★）
+**為何上榜**：近一日新增 1★（現 759★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：758
+**Stars**：759
 **原始連結**：https://github.com/ARahim3/kaggle-tpu-lab

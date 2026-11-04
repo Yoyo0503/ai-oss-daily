@@ -4,5 +4,5 @@ Ship a money-making AI site for every new keyword. Cloudflare-native starter wit
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：346
+**Stars**：352
 **Source**：https://github.com/shipwords-dev/shipwords

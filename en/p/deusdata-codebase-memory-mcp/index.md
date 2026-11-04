@@ -4,5 +4,5 @@ Local code intelligence for developers and AI agents. Connect code, docs and inf
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：48,013
+**Stars**：48,069
 **Source**：https://github.com/DeusData/codebase-memory-mcp

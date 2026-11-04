@@ -4,5 +4,5 @@ Free, local plugin that keeps tool output out of your coding agent's context win
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：33,288
+**Stars**：33,384
 **Source**：https://github.com/mksglu/context-mode
