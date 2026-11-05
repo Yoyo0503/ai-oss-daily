@@ -361,7 +361,6 @@ _每日存檔 · 2026-10-21_
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
 - [FineEnvs/openai-math](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fineenvs-openai-math/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -594,7 +593,6 @@ _每日存檔 · 2026-10-21_
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-qwen3-7-max-pi-traces/) — Qwen3.7-max 的推理軌跡資料集（小型 <1K）。
 - [build-small-hackathon/jawbreaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-jawbreaker/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LukaDev13/Liminal-Dreamcore-1K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lukadev13-liminal-dreamcore-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [google-bert/bert-base-uncased](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-bert-bert-base-uncased/) — Google 的 BERT 模型，用於填詞任務。
 - [openbmb/UltraData-RL-2609](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultradata-rl-2609/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/follow-the-mean](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-follow-the-mean/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1007,7 +1005,6 @@ _每日存檔 · 2026-10-21_
 - [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/) — 一切皆可作為外掛的AI代理框架。
 - [HuggingAI4Engineering/CADGenBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingai4engineering-cadgenbench/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [repoboost-hq/github-launch-checklist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/repoboost-hq-github-launch-checklist/) — 在 GitHub 上釋出前的準備清單，檢查名稱、描述、許可證等。
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [PolinniZhong/omi-read-aloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polinnizhong-omi-read-aloud/) — 輕量級 macOS 選單欄應用，讀取剪貼簿中的文字並朗讀。
 - [duty1g/x64dbg-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duty1g-x64dbg-mcp-server/) — x64dbg-MCP Server 是一個 HTTP 外掛，讓 AI 助手可以控制 x64dbg 進行二進位分析。
 - [sergqwer/strata-nvfp4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergqwer-strata-nvfp4/) — Qwen3.8-Flash-Next 125B MoE模型的改進版本，可在單張RTX卡上執行。

@@ -369,7 +369,6 @@ _每日存檔 · 2026-10-24_
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
 - [Sharpa-Robotics/SharpaDex-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sharpa-robotics-sharpadex-v1-0/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -662,7 +661,6 @@ _每日存檔 · 2026-10-24_
 - [Lubi153/Pro-Realism-Edit-Studio-v.17](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lubi153-pro-realism-edit-studio-v-17/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-Personas-Belgium](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-personas-belgium/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [BreezeBlue/breeze-tts-2-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-breezeblue-breeze-tts-2-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [build-small-hackathon/llm-cinema](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-llm-cinema/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingEnvs/geoguesser-article](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingenvs-geoguesser-article/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [NodeLinker/Qwen-3.8-27B-H200](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nodelinker-qwen-3-8-27b-h200/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -994,7 +992,6 @@ _每日存檔 · 2026-10-24_
 - [AkashPriyadarshii/jev-superpowers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/akashpriyadarshii-jev-superpowers/) — 為 AI 程式設計代理增強的系統化軟體開發框架，使用 TypeSafe Jev System One 進行型別安全決策。
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-techfreakworm-ltx2-3-studio/) — LTX 2.3 影片生成工作室線上示範（HF Space）。
 - [JitRoy2024/Qwen_Img_Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jitroy2024-qwen-img-space/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OneMoh/html-explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onemoh-html-explainer/) — 將主題轉換為有配音和字幕的HTML影片。
 - [nj4naiem992lmr/seedream5.0-seedream-5.0-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nj4naiem992lmr-seedream5-0-seedream-5-0-prompts/) — seedream-5.0 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
 - [CMRobot/MotionDecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cmrobot-motiondecode/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

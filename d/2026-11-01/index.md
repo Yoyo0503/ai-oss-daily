@@ -410,7 +410,6 @@ _每日存檔 · 2026-11-01_
 - [IFM/K2-Horizon-MoVA-36B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ifm-k2-horizon-mova-36b-a4b/) — K2-Horizon-MoVA-36B-A4B 是一個大型文本生成模型。
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -853,7 +852,6 @@ _每日存檔 · 2026-11-01_
 - [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [rerun/4danyone-rerun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-rerun-4danyone-rerun/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-moonshotai-perceptionbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-agenttrove/) — AgentTrove：AI agent 行為軌跡資料集（Apache 授權）。
 - [JonathanColetti/Qwen3.8-27B-Uncensored-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jonathancoletti-qwen3-8-27b-uncensored-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [beckettharriman/openfill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beckettharriman-openfill/) — openfill 是一個基於 ComfyUI 的影像生成和編輯工具，支援 GIMP 3。
@@ -1000,7 +998,6 @@ _每日存檔 · 2026-11-01_
 - [yanstd888/institutional-smc-scalper-mt5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanstd888-institutional-smc-scalper-mt5/) — 適合機構使用的MetaTrader 5智慧交易系統，專門用於黃金波動交易。
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [blixvip/NullMotion](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-nullmotion/) — NullMotion 是一個動畫預覽工具，將黑白草圖轉換成完整的動畫廣告，支援 MP4 出口。
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-minimax-m3-claude-code-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RefVideo6M/RefVideo6M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-refvideo6m-refvideo6m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [vatavale/folivox](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vatavale-folivox/) — 將電子書轉換為有聲書的本地應用，支援多種語言和語音。

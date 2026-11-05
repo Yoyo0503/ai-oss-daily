@@ -407,7 +407,6 @@ _每日存檔 · 2026-11-02_
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
 - [fishpasters/uncensored-imageTOimage2Ref](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fishpasters-uncensored-imagetoimage2ref/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -864,7 +863,6 @@ _每日存檔 · 2026-11-02_
 - [papisoV/Selenequant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/papisov-selenequant/) — 本地化AI量化研究平臺，支援問題持久化和版本控制。
 - [leosayer06/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-leosayer06-wan555/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [timoncool/YuE2-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-yue2-studio/) — 本地 AI 歌曲生成器，可在 Windows 上生成完整歌曲和樂譜。
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [nvidia/Alpamayo2-Super](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-alpamayo2-super/) — NVIDIA的自主車輛機器人模型。
 - [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zouhar-last-translation-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-libercoders-claw-anything/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1009,7 +1007,6 @@ _每日存檔 · 2026-11-02_
 - [vincentsch/explainroo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentsch-explainroo/) — 使用AI代理生成解說影片和產品演示。
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [JeffLi1993/saas-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeffli1993-saas-seo-playbook/) — 一本專門為 AI 工具站和 SaaS 官網設計的 SEO 指南。
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [glincker/awesome-selfhosted-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glincker-awesome-selfhosted-ai/) — 開源AI自建清單，涵蓋本地LLM、聊天介面等。
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-minimax-m3-claude-code-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RefVideo6M/RefVideo6M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-refvideo6m-refvideo6m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

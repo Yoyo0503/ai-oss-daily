@@ -4,5 +4,5 @@ A web interface (and more) for YuE2: cover a recording or write a song from a pr
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：27
+**Stars**：28
 **Source**：https://github.com/yeufonic/yeufonic

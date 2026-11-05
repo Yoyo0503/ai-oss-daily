@@ -4,5 +4,5 @@ Institutional-grade Smart Money Concepts (SMC) & ICT Gold (XAUUSD) Scalping Expe
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：38
+**Stars**：37
 **Source**：https://github.com/yanstd888/institutional-smc-scalper-mt5

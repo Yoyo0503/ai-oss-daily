@@ -4,5 +4,5 @@ AI 参考图库中文版｜服装（写实 1,407 套／动画 1,320 套）、脸
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：99
+**Stars**：117
 **Source**：https://github.com/Deeyu/ai-costume-gallery-zh

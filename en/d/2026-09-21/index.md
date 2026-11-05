@@ -219,7 +219,6 @@ _Daily archive · 2026-09-21_
 - [Cactus-Compute/needle3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-needle3/) — text-generation · cactus-needle, needle, tool-calling
 - [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-h3/) — image-text-to-video · minimax-h3, diffusers, safetensors
 - [mistralai/Shieldstral-1.0-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-shieldstral-1-0-3b/) — · vllm, safetensors, mistral3
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-free-ai-humanizer/) — · gradio, ai-humanizer, humanize-ai-text
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
 - [tencent/WeMM-Embedding-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-wemm-embedding-9b/) — feature-extraction · transformers, safetensors, qwen3_5
@@ -278,7 +277,6 @@ _Daily archive · 2026-09-21_
 - [IFM/K2-Horizon-MoVA-36B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ifm-k2-horizon-mova-36b-a4b/) — text-generation · transformers, safetensors, k2_horizon
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — · region:us
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ibm-granite-granite-4-2-30b/) — text-generation · transformers, safetensors, granite
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k3/) — image-text-to-text · transformers, safetensors, kimi_k3
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-2i-pornmaster-krea2/) — · gradio, region:us
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -886,7 +884,7 @@ _Daily archive · 2026-09-21_
 - [Ferdinandyes/performance-marketing-deutschland](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ferdinandyes-performance-marketing-deutschland/) — 🚀 **Praxisleitfaden 2026:** Automatisierte Traffic-Funnels für höhere Conversion-Rates & maximalen ROI bei Fa…
 - [Nathanielyseterday/traffic-monetization-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nathanielyseterday-traffic-monetization-toolkit/) — Automated digital monetization & traffic routing engine (Automatisierte Monetarisierung). Built for high-EPC …
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nxin-github-auteur/) — 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
-- [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Reference Servers
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nyanko-devs-danbooru2026/) — · task_categories:image-classification, task_categories:image-to-image, task_categories:text-to-image
 - [elie222/rakazo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elie222-rakazo/) — Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [worldbench/DiffusionOPSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldbench-diffusionopsd/) — 🔥 On-Policy Self-Distillation in Diffusion Models
@@ -1064,7 +1062,7 @@ _Daily archive · 2026-09-21_
 - [K-Dense-AI/scientific-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/k-dense-ai-scientific-agent-skills/) — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists …
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lerobot-visualize-dataset/) — · docker, region:us
 - [Anionex/agent-vision-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anionex-agent-vision-toolkit/) — 为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill des…
-- [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with C…
+- [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally: Qwen3-TTS fine-tuning pipeline with CL…
 - [raullenchai/twinspark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raullenchai-twinspark/) — Production-grade recipe for DeepSeek-V4-Flash-0731 (284B MoE) on 2x NVIDIA DGX Spark: self-healing 2-node vLL…
 - [DeusData/codebase-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deusdata-codebase-memory-mcp/) — Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent g…
 - [HKUDS/Vibe-Trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hkuds-vibe-trading/) — "Vibe-Trading: Your Personal Trading Agent"
@@ -1413,7 +1411,7 @@ _Daily archive · 2026-09-21_
 - [scouttyg/writekin](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/scouttyg-writekin/) — Writing that's kin to yours
 - [EthanYoQ/AI-Novel-Writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ethanyoq-ai-novel-writer/) — AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes…
 - [wei1104/bigApush](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wei1104-bigapush/) — A股量化选股 + 每日自动推送系统，15种策略选股 + 买入建议分析 + 大盘复盘 + 板块资金流向，通过 GitHub Actions 实现飞书自动推送
-- [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisryugj-korean-law-mcp/) — 법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law — search statutes, precedent…
+- [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisryugj-korean-law-mcp/) — 법령·판례를 AI가 찾고 인용까지 검증하는 MCP 서버 — 법제처 API 42개를 도구 10개로: 법령·조문·별표, 판례·헌재·해석례 23개 도메인, 조례 정비 레이더, 신구조문대비표 | MCP …
 - [chengyansen-ai/cys-portrait-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chengyansen-ai-cys-portrait-prompts/) — 中文 9 段式人像提示词创作体系 · 可直接出图的模板/风格预设/千条级批量生成器 · 覆盖全身照与上半身中景照 · 适配 ComfyUI/Krea2/GPT Image 2 · 无强制约束，创作自由
 - [llllllilllll/Kalshi-Trade-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llllllilllll-kalshi-trade-bot/) — This is an arbitrage trading bot that exploits price differences between Polymarket and Kalshi prediction mar…
 - [ibm-research/ScarfBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ibm-research-scarfbench/) — · task_categories:text-generation, arxiv:2605.06754, region:us

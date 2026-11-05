@@ -356,7 +356,6 @@ _每日存檔 · 2026-10-22_
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
 - [ornith-ai/Ornith-1.5-122B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-122b/) — 一個大型語言模型，用於生成文本和對話。
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -617,7 +616,6 @@ _每日存檔 · 2026-10-22_
 - [christos-antono/NPCTalk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/christos-antono-npctalk/) — 讓遊戲中的NPC使用Fish Audio進行對話的AI工具。
 - [hugging-apps/kroma-krea2-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-kroma-krea2-lora-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openai-community/gpt2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-community-gpt2/) — OpenAI 的 GPT-2 模型，用於文本生成。
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [daimonrobotics/Daimon-Infinity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-daimonrobotics-daimon-infinity/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [biglam/europeana_newspapers_images](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-biglam-europeana-newspapers-images/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LightningEstimate/Cyberlink-Powerdirector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lightningestimate-cyberlink-powerdirector/) — 未提供描述。
@@ -1155,7 +1153,6 @@ _每日存檔 · 2026-10-22_
 - [productdevbook/cizgile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/productdevbook-cizgile/) — 一個無依賴的 URL 標籤引擎，支援多種編碼和轉換。
 - [mat-nolen/tldr-radio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mat-nolen-tldr-radio/) — tldr-radio 是一個將每日 TLDR 電子報轉換為播客的工具。
 - [Yzw202011/OmniSpace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yzw202011-omnispace/) — 本地優先的 AI 漫畫創作工作站，支援多引擎本地推理。
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [youngyangyang04/llm-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/youngyangyang04-llm-master/) — 大模型全棧學習路徑與中文教程，涵蓋提示工程、RAG、AI Agent 等。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-corpus-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-corpus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [aipoch/open-science](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aipoch-open-science/) — 開放原始碼的本地化AI研究平臺，支援重現性研究和發現。

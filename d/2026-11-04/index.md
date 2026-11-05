@@ -419,7 +419,6 @@ _每日存檔 · 2026-11-04_
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
 - [fishpasters/uncensored-imageTOimage2Ref](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fishpasters-uncensored-imagetoimage2ref/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Deeyu/ai-costume-gallery-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeyu-ai-costume-gallery-zh/) — AI 參考相簿中文版，提供大量服裝、臉型、姿勢線稿等資源。
@@ -913,7 +912,6 @@ _每日存檔 · 2026-11-04_
 - [jjjjoooonnnjo/wan22fp8daaotipreview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jjjjoooonnnjo-wan22fp8daaotipreview/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Polytutor-AI-Labs/polymarket-trading-bot-strategy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-ai-labs-polymarket-trading-bot-strategy/) — Polymarket交易機器人策略指南及案例研究。
 - [ajibawa-2023/Shell-Code-Large](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ajibawa-2023-shell-code-large/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [wj-sidiss/otopilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wj-sidiss-otopilot/) — 將主題轉換成完成的 YouTube 短影片，支援多種語言，無需 API 金鑰。
 - [Polytutor-AI-Labs/predictfun-market-maker-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-ai-labs-predictfun-market-maker-trading-bot/) — Passive市場做市交易機器人，適用於Predict.fun平臺。
 - [beckettharriman/openfill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beckettharriman-openfill/) — openfill 是一個基於 ComfyUI 的影像生成和編輯工具，支援 GIMP 3。
@@ -1014,7 +1012,6 @@ _每日存檔 · 2026-11-04_
 - [suvadityamuk/3d-representations-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-suvadityamuk-3d-representations-guide/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/academiasd-academiasd-loralab-trainerstudio/) — 訓練 LoRAs 的工具，適用於多種影像生成模型。
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [polaris-smart/mcd-agent-gourmet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polaris-smart-mcd-agent-gourmet/) — 根據預算和口味推薦麥當勞餐點，並計算節省金額。
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-minimax-m3-claude-code-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RefVideo6M/RefVideo6M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-refvideo6m-refvideo6m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

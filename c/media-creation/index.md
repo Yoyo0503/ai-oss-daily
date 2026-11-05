@@ -4,9 +4,11 @@
 - [black-forest-labs/flux-3-image-klein-comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/) — 使用ComfyUI的影像轉換模型，支援影像生成和編輯。
 - [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-5-transcribe-30b-a4b/) — NVIDIA 的自動語音轉文字模型，適用於多語言語音識別。
 - [Pika-Labs/Pika-H3-Flex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/) — 將影像轉換為影片的模型，支援多種格式。
-- [abenzerps/Qwen-Image-2.1-Turbo-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-turbo-quantized/) — Qwen-Image 是一個文本轉影像的模型，支援快速生成影像。
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/) — 自動語音辨識模型，支援即時語音轉文字。
+- [abenzerps/Qwen-Image-2.1-Turbo-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-turbo-quantized/) — Qwen-Image 是一個文本轉影像的模型，支援快速生成影像。
 - [Cactus-Compute/whistle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-whistle/) — 自動辨識口哨聲的語音識別模型，適用於裝置端執行。
+- [PrunaAI/P-H3-Image-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/) — 使用 ComfyUI 的文本生成影像模型。
+- [Pika-Labs/Pika-H3-Flex-Turbo-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex-turbo-lora/) — 將影像轉換為影片的模型。
 - [canberkkkkkk/ema-lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-canberkkkkkk-ema-lightning/) — ema-lightning 是一個將文字轉換成語音的工具。
 - [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein/) — 將影像轉換為新影像的模型，支援影像生成和編輯。
 - [Edge0/Audio8-TTS-Realistic-Air](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-air/) — 將文字轉換為逼真的語音，適用於語音合成和聲音克隆。
@@ -55,8 +57,6 @@
 - [OpenVDN/vdn-minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openvdn-vdn-minimax-h3/) — 文字轉動畫模型，使用MiniMax-H3架構。
 - [Wan-AI/Wan-Dancer-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan-dancer-14b/) — 將影像轉換為動畫的模型，支援音樂生成舞蹈動作。
 - [MiniMaxAI/MiniMax-Music3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-music3/) — 將文字轉換成音樂的模型。
-- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/) — 將影像轉換為影片的擴散模型。
 - [mgwr/M87](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mgwr-m87/) — 一款使用 diffusers 技術的文字轉影像模型，支援 LoRA 微調。
+- [Lightricks/LTX-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-5/) — 將影像轉換為影片的擴散模型。
 - [ideogram-ai/ideogram-4-fp8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ideogram-ai-ideogram-4-fp8/) — 文字轉影像模型，使用擴散和流匹配技術生成影像。
-- [larryvrh/MiniMax-H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-larryvrh-minimax-h3-turbo-lora/) — 一個基於 MiniMax-H3 的模型，支援文字轉影像、音訊和視訊。
-- [owensong/Inflect-Nano-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-owensong-inflect-nano-v1/) — 一個超小型的文本轉語音模型，適用於本地端使用。

@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-11-03 17:05 PST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-11-04 17:05 PST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-11-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-05/)
 - [2026-11-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-04/)
 - [2026-11-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-03/)
 - [2026-11-02](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-02/)
@@ -26,15 +27,14 @@
 - [2026-10-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-23/)
 - [2026-10-22](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-22/)
 - [2026-10-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-21/)
-- [2026-10-20](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-20/)
 
 ## 今日精選 Today's picks
-- [abenzerps/Qwen-Image-2.1-Turbo-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-turbo-quantized/)
-- [wideeyededi/uncensored-nsfw-ai-video-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wideeyededi-uncensored-nsfw-ai-video-api/)
-- [PentesterFlow/OffsecCyber](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-pentesterflow-offseccyber/)
-- [pbakaus/impeccable](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/)
-- [google/elephant-goldfish-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/)
-- [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-5-transcribe-30b-a4b/)
+- [PrunaAI/P-H3-Image-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/)
+- [Pika-Labs/Pika-H3-Flex-Turbo-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex-turbo-lora/)
+- [moonshotai/Kimi-K3.1-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3-1-pro/)
+- [morluto/rea](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/)
+- [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/)
+- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

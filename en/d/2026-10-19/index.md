@@ -293,7 +293,6 @@ _Daily archive · 2026-10-19_
 - [jinaai/jina-ocr-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jinaai-jina-ocr-v1/) — image-text-to-text · transformers, safetensors, deepseek_vl_v2
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-numind-nuextract3/) — image-to-text · transformers, safetensors, image-text-to-text
 - [mistralai/Shieldstral-1.0-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-shieldstral-1-0-3b/) — · vllm, safetensors, mistral3
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-free-ai-humanizer/) — · gradio, ai-humanizer, humanize-ai-text
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
 - [tencent/WeMM-Embedding-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-wemm-embedding-9b/) — feature-extraction · transformers, safetensors, qwen3_5
@@ -364,7 +363,6 @@ _Daily archive · 2026-10-19_
 - [openspline/openspline](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/openspline-openspline/) — Give a face to your voice AI in 5 lines of code. Generate realtime avatar video connected to your voice AI lo…
 - [christos-antono/NPCTalk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/christos-antono-npctalk/) — Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI codin…
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ibm-granite-granite-4-2-30b/) — text-generation · transformers, safetensors, granite
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k3/) — image-text-to-text · transformers, safetensors, kimi_k3
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-2i-pornmaster-krea2/) — · gradio, region:us
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -566,7 +564,6 @@ _Daily archive · 2026-10-19_
 - [victor/MiniMax-Music3-Jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-minimax-music3-jam/) — · gradio, mcp-server, region:us
 - [Voxel51/SceneFun3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-voxel51-scenefun3d/) — · task_categories:object-detection, annotations_creators:expert-generated, annotations_creators:machine-gener…
 - [sensenova/SenseNova-Vision](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sensenova-sensenova-vision/) — · gradio, region:us
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyupi-ai-promo-video-maker/) — 一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 A…
 - [ankitjh4/bharat-government-documents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ankitjh4-bharat-government-documents/) — · task_categories:question-answering, task_categories:text-retrieval, multilinguality:multilingual
 - [FINAL-Bench/Aether-7B-5Attn-checkpoints](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-final-bench-aether-7b-5attn-checkpoints/) — · language:en, language:ko, license:apache-2.0
 - [qualialabsAI/SmoothConv](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qualialabsai-smoothconv/) — · language:zh, license:cc-by-nc-4.0, arxiv:0000.00000
@@ -1074,7 +1071,7 @@ _Daily archive · 2026-10-19_
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [Junchao-cs/SolarWM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/junchao-cs-solarwm/) — Open data and scalable training for long-horizon video world models.
 - [nvidia/Cosmos3-DROID](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos3-droid/) — · license:openmdw-1.1, size_categories:1K<n<10K, modality:video
-- [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Reference Servers
 - [worldwonderer/video-recap-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-video-recap-skills/) — Turn any video into a narration recap with claude code skill｜用claude code skill把任何视频剪辑成中文解说视频，支持剪映导出
 - [Lichess/standard-chess-games](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lichess-standard-chess-games/) — · license:cc0-1.0, size_categories:1B<n<10B, format:parquet
 - [jbilcke-hf/ai-comic-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jbilcke-hf-ai-comic-factory/) — · docker, region:us
@@ -1692,9 +1689,9 @@ _Daily archive · 2026-10-19_
 - [timescale/pg-aiguide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/timescale-pg-aiguide/) — MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better Pos…
 - [digistoremaster/online-business-skalierung-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/digistoremaster-online-business-skalierung-tools/) — Automatisierter Export & Konsolidierung von PayPal-Transaktionen für Online-Händler im DACH-Raum. Multi-Accou…
 - [JustVugg/lumabri](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/justvugg-lumabri/) — Run large AI models across your computers and servers. Powered by Colibri. Pure C.
-- [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisryugj-korean-law-mcp/) — 법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law — search statutes, precedent…
+- [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisryugj-korean-law-mcp/) — 법령·판례를 AI가 찾고 인용까지 검증하는 MCP 서버 — 법제처 API 42개를 도구 10개로: 법령·조문·별표, 판례·헌재·해석례 23개 도메인, 조례 정비 레이더, 신구조문대비표 | MCP …
 - [Gitruck/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gitruck-cli/) — 一条命令，把口播毛片变成可二次精修的剪辑工程。
-- [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with C…
+- [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally: Qwen3-TTS fine-tuning pipeline with CL…
 - [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ifuryst-open-codex-computer-use/) — 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 - [ConardLi/garden-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/conardli-garden-skills/) — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and mo…
 - [tractorjuice/arc-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tractorjuice-arc-kit/) — The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI cod…

@@ -4,5 +4,5 @@ Claude Code plugin with 14 composable marketing skills: competitor research, con
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：117
+**Stars**：123
 **Source**：https://github.com/marcosmodly/marketing-skill

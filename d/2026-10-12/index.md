@@ -7,7 +7,6 @@ _每日存檔 · 2026-10-12_
 - [speridlabs/iris-3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-speridlabs-iris-3b/) — 一種使用 PyTorch 的影像生成模型，可將文字轉換為影像。
 - [LiquidAI/d1-omni-600M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-omni-600m/) — 一種使用 Transformers 的模型，可將圖文轉換為文字。
 - [perplexity-ai/pplx-decider-v1.1-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-perplexity-ai-pplx-decider-v1-1-27b/) — 一個使用 PyTorch 的多模態分類模型，用於決策。
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [mrlong0129/yominpost](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrlong0129-yominpost/) — 自建 AI 社交媒體工作室，自動生成平臺原生貼文。
 - [lightonai/LightOnOCR-3-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lightonai-lightonocr-3-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-moonworks-lunara-art-eval/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -16,6 +15,7 @@ _每日存檔 · 2026-10-12_
 - [tristmeister/HEISS-UI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tristmeister-heiss-ui/) — ComfyUI 的本地前端介面，無需圖形。
 - [ziyangliu-666/FastMM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ziyangliu-666-fastmm/) — 一個用 C++20 實現的快速市場做市引擎。
 - [liupig/xiaokeai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liupig-xiaokeai/) — 開源的本地 3D 虛擬伴侶，支援多種語言和功能。
+- [bookreaderpage/ai-automation-yield-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bookreaderpage-ai-automation-yield-pipeline/) — 提供使用 LLM 和 AI 自動化建立數位產出管道的技術藍圖和工作流程指南。
 
 ## 🚀 Star 竄升
 
@@ -277,7 +277,6 @@ _每日存檔 · 2026-10-12_
 - [jinaai/jina-ocr-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jinaai-jina-ocr-v1/) — 基於轉換器的影像文字轉文字模型，支援多語言和多模態識別。
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-numind-nuextract3/) — NuExtract 結構化資訊抽取多模態模型（從文件/圖抽欄位）。
 - [mistralai/Shieldstral-1.0-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-shieldstral-1-0-3b/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — PP-OCRv6_medium_det 是用於文字辨識的深度學習模型，適用於影像轉換為文本。
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/) — 一個使用transformers和gguf格式的自動研究文本生成模型。
 - [MiniMaxAI/MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3/) — 將影像和文字轉換為影片的模型。
@@ -315,7 +314,6 @@ _每日存檔 · 2026-10-12_
 - [Wan-AI/Wan2.2-Animate-2-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan2-2-animate-2-14b/) — 一個大型的動畫生成模型，基於arxiv研究。
 - [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-diffusion-14b/) — NVIDIA Nemotron 14B 擴散式文字生成模型。
 - [nisten/opus5-5-doctor-patient-conversations-all-human-diseases](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nisten-opus5-5-doctor-patient-conversations-all-human-diseases/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [edenfunf/reelmimic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/edenfunf-reelmimic/) — 讓AI根據喜愛的影片風格生成新影片。
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — 經過多階段微調的影像文字轉文字模型，適用於所有場景。
 - [webml-community/embeddinggemma-2-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-embeddinggemma-2-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -346,7 +344,6 @@ _每日存檔 · 2026-10-12_
 - [IFM/K2-Horizon-MoVA-36B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ifm-k2-horizon-mova-36b-a4b/) — K2-Horizon-MoVA-36B-A4B 是一個大型文本生成模型。
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

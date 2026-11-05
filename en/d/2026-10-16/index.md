@@ -286,7 +286,6 @@ _Daily archive · 2026-10-16_
 - [jinaai/jina-ocr-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jinaai-jina-ocr-v1/) — image-text-to-text · transformers, safetensors, deepseek_vl_v2
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-numind-nuextract3/) — image-to-text · transformers, safetensors, image-text-to-text
 - [mistralai/Shieldstral-1.0-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-shieldstral-1-0-3b/) — · vllm, safetensors, mistral3
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lynote-free-ai-humanizer/) — · gradio, ai-humanizer, humanize-ai-text
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-siq-1-35b/) — text-generation · transformers, safetensors, gguf
 - [tencent/WeMM-Embedding-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-wemm-embedding-9b/) — feature-extraction · transformers, safetensors, qwen3_5
@@ -356,7 +355,6 @@ _Daily archive · 2026-10-16_
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — · region:us
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ibm-granite-granite-4-2-30b/) — text-generation · transformers, safetensors, granite
 - [LiquidAI/system-one-arcade](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-system-one-arcade/) — · docker, region:us
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moonshotai-kimi-k3/) — image-text-to-text · transformers, safetensors, kimi_k3
 - [AST-1320/Qwen-2511-Plus-Flux.2-klein-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ast-1320-qwen-2511-plus-flux-2-klein-9b/) — · gradio, region:us
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-2i-pornmaster-krea2/) — · gradio, region:us
@@ -450,7 +448,6 @@ _Daily archive · 2026-10-16_
 - [deadsoot/Token-Gains-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deadsoot-token-gains-reporter/) — Crypto Tax Report Generator — Windows finance utility concept for local crypto accounting, cost-basis, gain/l…
 - [NVEagle/LocateAnything-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nveagle-locateanything-data/) — · task_categories:object-detection, library:webdataset, arxiv:2605.27365
 - [jiamo509/koubo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jiamo509-koubo/) — JJ 口播剪辑 Skill 开源试用版（功能尚未完善，仅供学习体验，非商业许可）。最新完整版本及安装、环境配置、部署问题请联系原作者博主微信：Lhwai2026
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyupi-ai-promo-video-maker/) — 一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 A…
 - [build-small-hackathon/PITCHFIGHT_AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-pitchfight-ai/) — · gradio, build-small-hackathon, backyard-ai
 - [t-tech/t-search-blog](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-t-tech-t-search-blog/) — · docker, retrieval, agents
 - [ngocdang83/tran-vi-teacher](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ngocdang83-tran-vi-teacher/) — · task_categories:translation, language:zh, language:vi
@@ -1049,7 +1046,7 @@ _Daily archive · 2026-10-16_
 - [tigerless-labs/agent-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tigerless-labs-agent-memory/) — Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and a…
 - [morluto/rea](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/morluto-rea/) — Reverse engineer anything with agents, from app behavior down to native binaries.
 - [davidalmeida90/quant-models](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/davidalmeida90-quant-models/) — Open-source quantitative finance models in Python: option pricing and Greeks, volatility surfaces, deep hedgi…
-- [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Reference Servers
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ibm-research-cuga-apps/) — · static, region:us
 - [AgriciDaniel/keywordpro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-keywordpro/) — Local-first keyword research with guided reports, charts, saved sessions, and PDF, CSV, and JSON exports.
 - [youngyangyang04/llm-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/youngyangyang04-llm-master/) — 大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。
@@ -1614,7 +1611,7 @@ _Daily archive · 2026-10-16_
 - [geekjourneyx/md2wechat-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/geekjourneyx-md2wechat-skill/) — 面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。
 - [alibaba/zvec](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alibaba-zvec/) — A lightweight, lightning-fast, in-process vector database
 - [nextlevelbuilder/goclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nextlevelbuilder-goclaw/) — GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurr…
-- [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeline with C…
+- [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tetsuo-ai-voice-clone-lab/) — Clone a voice from a few minutes of audio and generate speech locally: Qwen3-TTS fine-tuning pipeline with CL…
 - [cft0808/edict](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cft0808-edict/) — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, mode…
 - [NVIDIA/NeMo-Speech.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvidia-nemo-speech-cpp/) — NeMo-Speech.cpp is a lightweight C++ inference runtime for Speech models
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:1M<n<10M, modality:text
@@ -1656,7 +1653,7 @@ _Daily archive · 2026-10-16_
 - [jgravelle/jcodemunch-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jgravelle-jcodemunch-mcp/) — Symbol-level code retrieval for AI agents: fetch the function you need, not the whole file. Runs locally. 94.…
 - [Cuongyd196/auto-video-gen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cuongyd196-auto-video-gen/) — Biến 1 URL tin tức/GitHub thành video 9:16 chuẩn TikTok/Reels/Shorts trong 5 phút — không cần edit, TTS tiếng…
 - [7WaySecurity/ai_osint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/7waysecurity-ai-osint/) — 🤖 Curated AI OSINT resources — Google dorks, Shodan queries, GitHub dorks, and techniques to discover exposed…
-- [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisryugj-korean-law-mcp/) — 법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law — search statutes, precedent…
+- [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisryugj-korean-law-mcp/) — 법령·판례를 AI가 찾고 인용까지 검증하는 MCP 서버 — 법제처 API 42개를 도구 10개로: 법령·조문·별표, 판례·헌재·해석례 23개 도메인, 조례 정비 레이더, 신구조문대비표 | MCP …
 - [Gitruck/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gitruck-cli/) — 一条命令，把口播毛片变成可二次精修的剪辑工程。
 - [ArturSepp/TrendFollowingSystems](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/artursepp-trendfollowingsystems/) — Closed-form trend-following analytics, reference system implementations, and reproducible futures evidence in…
 - [Devin-AXIS/iPolloWork](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/devin-axis-ipollowork/) — Next-gen, source-available alternative to Codex and Claude Code — one local-first, self-hostable agent worksp…

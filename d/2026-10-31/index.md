@@ -408,7 +408,6 @@ _每日存檔 · 2026-10-31_
 - [appariciojunior/video-editor-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appariciojunior-video-editor-skills/) — 教Claude Code在DaVinci Resolve中編輯影片的技能。
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
 - [multimodalart/jev-decision-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -832,7 +831,6 @@ _每日存檔 · 2026-10-31_
 - [2akouwu/reverify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/2akouwu-reverify/) — reverify 是一個基於確定性工具的反向工程驗證系統。
 - [IFM/SFT-Reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ifm-sft-reasoning/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HKUST-LongGroup/UniAVC](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkust-longgroup-uniavc/) — 統一的音影片生成模型，支援進階訓練和非同步排程。
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [allenai/molmo-motion-1m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-molmo-motion-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [techjarves/Local-AI-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-local-ai-image-generator/) — Windows 系統上的離線 AI 影像生成器，支援 Stable Diffusion。
 - [SageBio/mva-hackathon-2026-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sagebio-mva-hackathon-2026-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -993,7 +991,6 @@ _每日存檔 · 2026-10-31_
 - [vatavale/folivox](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vatavale-folivox/) — 將電子書轉換為有聲書的本地應用，支援多種語言和語音。
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SelmiAbderrahim/rankme.fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/selmiabderrahim-rankme-fast/) — 自建的SEO平臺。
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-minimax-m3-claude-code-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RefVideo6M/RefVideo6M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-refvideo6m-refvideo6m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [beckettharriman/gimp-openfill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beckettharriman-gimp-openfill/) — GIMP的生成填充和物件移除外掛，免費替代Photoshop的AI工具。

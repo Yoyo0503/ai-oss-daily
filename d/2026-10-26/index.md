@@ -383,7 +383,6 @@ _每日存檔 · 2026-10-26_
 - [IFM/K2-Horizon-MoVA-36B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ifm-k2-horizon-mova-36b-a4b/) — K2-Horizon-MoVA-36B-A4B 是一個大型文本生成模型。
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -718,7 +717,6 @@ _每日存檔 · 2026-10-26_
 - [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-causallm-kingfall-roleplay/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DavydenkoGr/AFTER](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-davydenkogr-after/) — Hugging Face 資料集，關鍵字：基準測試、agent（依標籤自動歸類，詳細看下方原文）
 - [faunix/Qwen3.8-27B-Distillation-40K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-faunix-qwen3-8-27b-distillation-40k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [mishig/microduck-anatomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mishig-microduck-anatomy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [kulkas2pintu/wan777](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-wan777/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-10000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -959,7 +957,6 @@ _每日存檔 · 2026-10-26_
 - [swax/dub-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/swax-dub-anything/) — 使用 AI 控制配音過程，保留原音並在本地生成音訊。
 - [BijectiveLabs/bitra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bijectivelabs-bitra/) — 自動交易機器人，提出交易建議，系統決定執行。
 - [mrlong0129/yominpost](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrlong0129-yominpost/) — 自建 AI 社交媒體工作室，自動生成平臺原生貼文。
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TencentARC/GAE-GeometricAutoEncoder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tencentarc-gae-geometricautoencoder/) — GAE 是一個用於生成三維一致世界的幾何原生潛在空間學習模型。
 - [Synpath-ai/synpath](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synpath-ai-synpath/) — 一個開放原始碼的預測市場 API，統一市場資料和訂單路由。
 - [ovdtze56q1zgksb4/kling3-kling-3-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ovdtze56q1zgksb4-kling3-kling-3-prompts/) — 提供 Kling-3 模型的 API 檔案和範例，支援 OpenAI 相容閘道器。

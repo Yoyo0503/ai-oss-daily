@@ -384,7 +384,6 @@ _每日存檔 · 2026-10-27_
 - [gradium/phonon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-gradium-phonon/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
 - [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
-- [moonshotai/Kimi-K3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3/) — 圖文轉文字模型，支援對話和特徵抽取。
 - [storytold/filmcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/storytold-filmcraft/) — 使用 Rust 語言重新實現的 Adobe Premiere Pro 開源版本。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -746,7 +745,6 @@ _每日存檔 · 2026-10-27_
 - [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-10000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-pocket-image-studio/) — Hugging Face 示範應用(Space)，關鍵字：文生圖（依標籤自動歸類，詳細看下方原文）
 - [ceyyy427/financial-research-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ceyyy427-financial-research-optimizer/) — 金融研究最佳化器，提供資料線索、模型驗證、回測診斷和約束組合分析。
-- [liyupi/ai-promo-video-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyupi-ai-promo-video-maker/) — 讓 AI 自動生成產品宣傳影片，無需剪輯技能。
 - [multimodalart/jev-reproductions-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-reproductions-tracker/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [christos-antono/NPCTalk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/christos-antono-npctalk/) — 讓遊戲中的NPC使用Fish Audio進行對話的AI工具。
 - [blixvip/html-anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-html-anime/) — 將場景描述轉換為 HTML 動畫的 AI 工具。
@@ -950,7 +948,6 @@ _每日存檔 · 2026-10-27_
 - [AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/academiasd-academiasd-loralab-trainerstudio/) — 訓練 LoRAs 的工具，適用於多種影像生成模型。
 - [YeJe-cpu/SeeCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yeje-cpu-seecut/) — SeeCut 是一個自動剪輯真人口播或數字人影片的 AI 編輯器。
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [Lynote/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lynote-free-ai-humanizer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Jakeschincariol/replica-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-replica-skill/) — Eleven 免費的 Claude 技能，用於逆向工程和測試應用程式。
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-minimax-m3-claude-code-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RefVideo6M/RefVideo6M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-refvideo6m-refvideo6m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

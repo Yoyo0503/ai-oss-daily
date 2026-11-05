@@ -4,5 +4,5 @@ A lightweight alternative to OpenClaw that runs in containers for security. Conn
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：31,078
+**Stars**：31,086
 **Source**：https://github.com/nanocoai/nanoclaw
