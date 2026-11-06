@@ -334,7 +334,6 @@ _每日存檔 · 2026-11-03_
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-numind-nuextract3/) — NuExtract 結構化資訊抽取多模態模型（從文件/圖抽欄位）。
 - [mistralai/Shieldstral-1.0-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mistralai-shieldstral-1-0-3b/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — PP-OCRv6_medium_det 是用於文字辨識的深度學習模型，適用於影像轉換為文本。
-- [AlexWortega/SIQ-1-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-siq-1-35b/) — 一個使用transformers和gguf格式的自動研究文本生成模型。
 - [tencent/WeMM-Embedding-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-wemm-embedding-9b/) — WeMM-Embedding-9B 是一個基於 Transformers 的多模態嵌入模型，支援影像文字轉文字和句子轉換。
 - [Viggle/Viggle-Animate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-animate/) — Viggle-Animate 是一個用於影片轉換和角色替換的工具。
 - [LBH-123-AI/Minimax_h3_latent_Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lbh-123-ai-minimax-h3-latent-upscaler/) — AI 相關專案（依標籤自動歸類，詳細看下方原文）
@@ -901,7 +900,6 @@ _每日存檔 · 2026-11-03_
 - [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-minimax-h3-inpainting/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-littlelearner-littlecurriculum/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [noitomrobotics/HiPHI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-noitomrobotics-hiphi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [feyninc/feynobg](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-feyninc-feynobg/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [GPT-Image-2 API 與 Prompt 大全](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-gpt-image-2-api-and-prompts/) — 彙整 GPT-Image-2 圖像 API 用法與大量 prompt 範例的清單型 repo（1.5 萬★）。
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-pretraining-code-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1003,8 +1001,6 @@ _每日存檔 · 2026-11-03_
 - [honwee/mynah](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/honwee-mynah/) — 在自己的伺服器上執行的即時數字人系統。
 - [google/asimov_agentic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-asimov-agentic/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [BoatswainValve94/1min-ai-download](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boatswainvalve94-1min-ai-download/) — 1min.AI業務SaaS列表，訪問連結需通過SOFTGIT。
-- [SpiritDeep-alt/bahrain-flip-rpocket-team-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spiritdeep-alt-bahrain-flip-rpocket-team-finder/) — 在巴林尋找被低估的二手電子產品並通過Telegram通知。
-- [SolarUponSpeed/content-machine-respocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/solaruponspeed-content-machine-respocket/) — 自動生成短影片的CLI工具，適用於TikTok、Reels和Shorts。
 - [Nymph90896Iron/generative-agent-resocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nymph90896iron-generative-agent-resocket/) — 具備持久記憶和Telegram整合的AI代理。
 - [PeaceOfElf37336/resilient-telegram-rpocket-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/peaceofelf37336-resilient-telegram-rpocket-bot/) — 在API故障時自動重試的Telegram機器人。
 - [skillplus（可編譯技能包標準）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-skillplus/) — 可編譯的技能包標準，用於打造可靠的內容生成 agent。

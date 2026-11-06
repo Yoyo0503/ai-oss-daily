@@ -5,6 +5,7 @@
 - [Qwen/BlenderWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-blenderworld/) — · language:en, language:zh, license:mit
 - [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonworks-lunara-art-eval/) — · task_categories:text-to-image, license:apache-2.0, size_categories:1K<n<10K
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-redmadrobot-rnd-pii-benchmark/) — · task_categories:token-classification, language:ru, license:mit
+- [collinear-ai/cwe-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-collinear-ai-cwe-bench/) — · benchmark:official, benchmark:eval-yaml, license:apache-2.0
 - [ASLP-lab/DRAMA-Eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aslp-lab-drama-eval/) — · task_categories:text-to-speech, language:en, language:zh
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
 - [UniParser/RxnMiner-Benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uniparser-rxnminer-benchmark/) — · task_categories:image-to-text, language:en, license:cc-by-nc-sa-4.0

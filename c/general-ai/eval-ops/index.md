@@ -5,6 +5,7 @@
 - [Qwen/BlenderWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-blenderworld/) — Hugging Face 資料集，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
 - [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-moonworks-lunara-art-eval/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-redmadrobot-rnd-pii-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [collinear-ai/cwe-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-collinear-ai-cwe-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ASLP-lab/DRAMA-Eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aslp-lab-drama-eval/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [UniParser/RxnMiner-Benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-uniparser-rxnminer-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

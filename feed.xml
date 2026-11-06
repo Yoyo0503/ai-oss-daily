@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-11-05T08:00:00+00:00</updated>
+<updated>2026-11-06T08:00:00+00:00</updated>
 <entry>
-<title>PrunaAI/P-H3-Image-Comfy</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/</id>
-<updated>2026-11-05T08:00:00+00:00</updated>
-<summary>使用 ComfyUI 的文本生成影像模型。</summary>
+<title>ricursiveAI/Ripple-65B-Preview</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ricursiveai-ripple-65b-preview/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ricursiveai-ripple-65b-preview/</id>
+<updated>2026-11-06T08:00:00+00:00</updated>
+<summary>Ripple-65B-Preview 是一個大型語言模型，提供創新的自訂程式碼和 ricursive 技術。</summary>
 </entry>
 <entry>
-<title>Pika-Labs/Pika-H3-Flex-Turbo-LoRA</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex-turbo-lora/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex-turbo-lora/</id>
-<updated>2026-11-05T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型。</summary>
+<title>baidu/ERNIE-5.5-Flash-Base</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-ernie-5-5-flash-base/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-ernie-5-5-flash-base/</id>
+<updated>2026-11-06T08:00:00+00:00</updated>
+<summary>ERNIE-5.5-Flash-Base 是一個基於ERNIE5.5 MoE架構的文本生成模型，支援多種語言。</summary>
 </entry>
 <entry>
-<title>moonshotai/Kimi-K3.1-Pro</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3-1-pro/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-moonshotai-kimi-k3-1-pro/</id>
-<updated>2026-11-05T08:00:00+00:00</updated>
-<summary>將影像和文本轉換為文本的模型。</summary>
+<title>YuyaoTechnology/MatterSeek</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yuyaotechnology-matterseek/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yuyaotechnology-matterseek/</id>
+<updated>2026-11-06T08:00:00+00:00</updated>
+<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>morluto/rea</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</id>
-<updated>2026-11-05T08:00:00+00:00</updated>
-<summary>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-11-06T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>Ebony-Vinyl/dsh-our-free-model</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</id>
-<updated>2026-11-05T08:00:00+00:00</updated>
-<summary>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</summary>
+<title>milind-soni/OpenMausBot</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/</id>
+<updated>2026-11-06T08:00:00+00:00</updated>
+<summary>OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。</summary>
 </entry>
 <entry>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
-<updated>2026-11-05T08:00:00+00:00</updated>
-<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
+<title>black-forest-labs/flux-3-image-klein-comfy</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</id>
+<updated>2026-11-06T08:00:00+00:00</updated>
+<summary>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</summary>
 </entry>
 </feed>

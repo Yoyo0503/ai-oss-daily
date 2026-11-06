@@ -2,16 +2,16 @@
 
 - [bitmanagerai-speech-lab/darbuka_arabic_tts_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bitmanagerai-speech-lab-darbuka-arabic-tts-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NVEagle/LocateAnything-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nveagle-locateanything-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Voxel51/SceneFun3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-voxel51-scenefun3d/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [biglam/europeana_newspapers_images](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-biglam-europeana-newspapers-images/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — NVIDIA 物理 AI 世界模型：合成物理互動場景資料集。
-- [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhen-nan-l2p-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zekaiwang/trex_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zekaiwang-trex-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ILSVRC/imagenet-1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ilsvrc-imagenet-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Meddies/meddies-persona-vie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-meddies-meddies-persona-vie/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cais/mmlu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-mmlu/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [ILSVRC/imagenet-1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ilsvrc-imagenet-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lerobot-visualize-dataset/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [rajpurkar/squad](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rajpurkar-squad/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

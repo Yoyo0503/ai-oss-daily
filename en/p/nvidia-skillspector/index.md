@@ -4,5 +4,5 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：24,376
+**Stars**：24,526
 **Source**：https://github.com/NVIDIA/SkillSpector

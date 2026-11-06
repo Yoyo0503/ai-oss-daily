@@ -4,5 +4,5 @@ Free, open-source SEO audits inside OpenAI Codex CLI. Port of claude-seo: 26 ski
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：151
+**Stars**：152
 **Source**：https://github.com/zhtyyx/codex-seo
