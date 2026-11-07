@@ -4,5 +4,5 @@ One shared memory for every coding agent on your team. Claude Code, Cursor and C
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：11,110
+**Stars**：11,121
 **Source**：https://github.com/trailhq/Trail-Code

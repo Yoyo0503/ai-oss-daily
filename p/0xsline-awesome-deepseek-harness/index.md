@@ -2,9 +2,9 @@
 
 DeepSeek 應用生態系統，包含多種外掛和工具。
 
-**為何上榜**：近一日新增 9★（現 1,306★）
+**為何上榜**：近一日新增 14★（現 1,320★）
 
 **商用授權**：可商用 — 可商用，CC-BY 類需署名
 
-**Stars**：1,306
+**Stars**：1,320
 **原始連結**：https://github.com/0xsline/awesome-deepseek-harness

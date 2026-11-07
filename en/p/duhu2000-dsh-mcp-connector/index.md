@@ -4,5 +4,5 @@ MCP Connector for DeepSeek Harness: a data marketplace connecting enterprise, fi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：108
+**Stars**：111
 **Source**：https://github.com/duhu2000/dsh-mcp-connector

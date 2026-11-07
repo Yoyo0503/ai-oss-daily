@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>06 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>07 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>ricursiveAI/Ripple-65B-Preview</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ricursiveai-ripple-65b-preview/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ricursiveai-ripple-65b-preview/</guid>
-<pubDate>06 Nov 2026 08:00:00 +0000</pubDate>
-<description>Ripple-65B-Preview 是一個大型語言模型，提供創新的自訂程式碼和 ricursive 技術。</description>
+<title>Viggle/Viggle-Remake</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-remake/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-remake/</guid>
+<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
+<description>用 minimax-h3 和 gguf 格式進行影片編輯，支援角色替換。</description>
 </item>
 <item>
-<title>baidu/ERNIE-5.5-Flash-Base</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-ernie-5-5-flash-base/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-ernie-5-5-flash-base/</guid>
-<pubDate>06 Nov 2026 08:00:00 +0000</pubDate>
-<description>ERNIE-5.5-Flash-Base 是一個基於ERNIE5.5 MoE架構的文本生成模型，支援多種語言。</description>
+<title>XiaoyeCodes/code-animation-prompts</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/</guid>
+<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
+<description>提供 341 種程式碼動畫風格提示詞，支援 HTML 影片渲染。</description>
 </item>
 <item>
-<title>YuyaoTechnology/MatterSeek</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yuyaotechnology-matterseek/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yuyaotechnology-matterseek/</guid>
-<pubDate>06 Nov 2026 08:00:00 +0000</pubDate>
+<title>joelniklaus/harness-leaderboard</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-leaderboard/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-leaderboard/</guid>
+<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
 <description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>06 Nov 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>pbakaus/impeccable</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</guid>
+<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
+<description>設計語彙庫，用於指導程式代理，避免AI生成的錯誤。</description>
 </item>
 <item>
-<title>milind-soni/OpenMausBot</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/</guid>
-<pubDate>06 Nov 2026 08:00:00 +0000</pubDate>
-<description>OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。</description>
+<title>google/elephant-goldfish-model</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</guid>
+<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
+<description>Google開發的基於LLM的規格驅動開發方法和技能集。</description>
 </item>
 <item>
-<title>black-forest-labs/flux-3-image-klein-comfy</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</guid>
-<pubDate>06 Nov 2026 08:00:00 +0000</pubDate>
-<description>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</description>
+<title>Pika-Labs/Pika-H3-Flex</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/</guid>
+<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
+<description>將影像轉換為影片的模型，支援多種格式。</description>
 </item>
 </channel>
 </rss>

@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-11-06T08:00:00+00:00</updated>
+<updated>2026-11-07T08:00:00+00:00</updated>
 <entry>
-<title>ricursiveAI/Ripple-65B-Preview</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ricursiveai-ripple-65b-preview/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ricursiveai-ripple-65b-preview/</id>
-<updated>2026-11-06T08:00:00+00:00</updated>
-<summary>Ripple-65B-Preview 是一個大型語言模型，提供創新的自訂程式碼和 ricursive 技術。</summary>
+<title>Viggle/Viggle-Remake</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-remake/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-remake/</id>
+<updated>2026-11-07T08:00:00+00:00</updated>
+<summary>用 minimax-h3 和 gguf 格式進行影片編輯，支援角色替換。</summary>
 </entry>
 <entry>
-<title>baidu/ERNIE-5.5-Flash-Base</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-ernie-5-5-flash-base/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-ernie-5-5-flash-base/</id>
-<updated>2026-11-06T08:00:00+00:00</updated>
-<summary>ERNIE-5.5-Flash-Base 是一個基於ERNIE5.5 MoE架構的文本生成模型，支援多種語言。</summary>
+<title>XiaoyeCodes/code-animation-prompts</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/</id>
+<updated>2026-11-07T08:00:00+00:00</updated>
+<summary>提供 341 種程式碼動畫風格提示詞，支援 HTML 影片渲染。</summary>
 </entry>
 <entry>
-<title>YuyaoTechnology/MatterSeek</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yuyaotechnology-matterseek/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yuyaotechnology-matterseek/</id>
-<updated>2026-11-06T08:00:00+00:00</updated>
+<title>joelniklaus/harness-leaderboard</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-leaderboard/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-leaderboard/</id>
+<updated>2026-11-07T08:00:00+00:00</updated>
 <summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
 </entry>
 <entry>
-<title>deepseek-ai/deepseek-harness</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
-<updated>2026-11-06T08:00:00+00:00</updated>
-<summary>一切皆可作為外掛的AI代理框架。</summary>
+<title>pbakaus/impeccable</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</id>
+<updated>2026-11-07T08:00:00+00:00</updated>
+<summary>設計語彙庫，用於指導程式代理，避免AI生成的錯誤。</summary>
 </entry>
 <entry>
-<title>milind-soni/OpenMausBot</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/</id>
-<updated>2026-11-06T08:00:00+00:00</updated>
-<summary>OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。</summary>
+<title>google/elephant-goldfish-model</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</id>
+<updated>2026-11-07T08:00:00+00:00</updated>
+<summary>Google開發的基於LLM的規格驅動開發方法和技能集。</summary>
 </entry>
 <entry>
-<title>black-forest-labs/flux-3-image-klein-comfy</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</id>
-<updated>2026-11-06T08:00:00+00:00</updated>
-<summary>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</summary>
+<title>Pika-Labs/Pika-H3-Flex</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/</id>
+<updated>2026-11-07T08:00:00+00:00</updated>
+<summary>將影像轉換為影片的模型，支援多種格式。</summary>
 </entry>
 </feed>

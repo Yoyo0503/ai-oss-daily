@@ -1,8 +1,8 @@
 # 🗃️ 資料／合成資料
 
-- [bitmanagerai-speech-lab/darbuka_arabic_tts_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bitmanagerai-speech-lab-darbuka-arabic-tts-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [NVEagle/LocateAnything-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nveagle-locateanything-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [NVEagle/LocateAnything-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nveagle-locateanything-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [bitmanagerai-speech-lab/darbuka_arabic_tts_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bitmanagerai-speech-lab-darbuka-arabic-tts-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Voxel51/SceneFun3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-voxel51-scenefun3d/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [biglam/europeana_newspapers_images](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-biglam-europeana-newspapers-images/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — NVIDIA 物理 AI 世界模型：合成物理互動場景資料集。

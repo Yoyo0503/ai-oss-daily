@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-11-05 17:05 PST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-11-06 17:05 PST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-11-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-07/)
 - [2026-11-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-06/)
 - [2026-11-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-05/)
 - [2026-11-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-04/)
@@ -26,15 +27,14 @@
 - [2026-10-25](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-25/)
 - [2026-10-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-24/)
 - [2026-10-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-23/)
-- [2026-10-22](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-22/)
 
 ## 今日精選 Today's picks
-- [ricursiveAI/Ripple-65B-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ricursiveai-ripple-65b-preview/)
-- [baidu/ERNIE-5.5-Flash-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-ernie-5-5-flash-base/)
-- [YuyaoTechnology/MatterSeek](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yuyaotechnology-matterseek/)
-- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/)
-- [milind-soni/OpenMausBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/)
-- [black-forest-labs/flux-3-image-klein-comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/)
+- [Viggle/Viggle-Remake](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-remake/)
+- [XiaoyeCodes/code-animation-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/)
+- [joelniklaus/harness-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-leaderboard/)
+- [pbakaus/impeccable](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/)
+- [google/elephant-goldfish-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/)
+- [Pika-Labs/Pika-H3-Flex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

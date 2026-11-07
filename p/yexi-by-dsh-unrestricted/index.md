@@ -2,9 +2,9 @@
 
 dsh-unrestricted 是一個解除模型限制的 DeepSeek 外掛。
 
-**為何上榜**：近一日新增 20★（現 869★）
+**為何上榜**：近一日新增 102★（現 971★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：869
+**Stars**：971
 **原始連結**：https://github.com/yexi-by/dsh-unrestricted

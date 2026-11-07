@@ -2,9 +2,9 @@
 
 將WordPress網站轉換為靜態Astro網站的工具。
 
-**為何上榜**：近一日新增 2★（現 121★）
+**為何上榜**：近一日新增 2★（現 123★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：121
+**Stars**：123
 **原始連結**：https://github.com/ethanplusai/astro-conversion-kit

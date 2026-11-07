@@ -1,0 +1,8 @@
+# didilili/mianstack
+
+🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。
+
+**Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
+
+**Stars**：121
+**Source**：https://github.com/didilili/mianstack

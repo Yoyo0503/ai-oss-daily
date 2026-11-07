@@ -4,5 +4,5 @@ Fast, exact inference for StartLux-Decision models on NVIDIA GPUs: the released 
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：299
+**Stars**：330
 **Source**：https://github.com/StartLuxLabs/StartLux-Prism

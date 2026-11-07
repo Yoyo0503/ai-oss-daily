@@ -1,8 +1,8 @@
 # 🗃️ Data / Synthetic Data
 
-- [bitmanagerai-speech-lab/darbuka_arabic_tts_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitmanagerai-speech-lab-darbuka-arabic-tts-dataset/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, language:ar
-- [NVEagle/LocateAnything-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nveagle-locateanything-data/) — · task_categories:object-detection, library:webdataset, arxiv:2605.27365
 - [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-speechcolab-gigaspeech3/) — · task_categories:automatic-speech-recognition, annotations_creators:machine-generated, language_creators:fou…
+- [NVEagle/LocateAnything-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nveagle-locateanything-data/) — · task_categories:object-detection, library:webdataset, arxiv:2605.27365
+- [bitmanagerai-speech-lab/darbuka_arabic_tts_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitmanagerai-speech-lab-darbuka-arabic-tts-dataset/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, language:ar
 - [Voxel51/SceneFun3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-voxel51-scenefun3d/) — · task_categories:object-detection, annotations_creators:expert-generated, annotations_creators:machine-gener…
 - [biglam/europeana_newspapers_images](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-biglam-europeana-newspapers-images/) — · task_categories:image-to-text, multilinguality:multilingual, source_datasets:biglam/europeana_newspapers
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Physical-Interaction-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-physical-interaction-scenes/) — · license:other, size_categories:100M<n<1B, format:webdataset
