@@ -6,16 +6,16 @@ _每日存檔 · 2026-11-01_
 
 - [divagr1925/Qwen3.5-4B-Qwenputer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-divagr1925-qwen3-5-4b-qwenputer/) — 基於Qwen的文本生成模型，支援RISC-V架構。
 - [LiquidAI/LFM3-Omni-2B-WebGPU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-lfm3-omni-2b-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [ToMan78737ticore/resocket-clinic-flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/toman78737ticore-resocket-clinic-flow/) — 自動化系統，每日早上8:30透過Telegram傳送醫生當日病人名單。
-- [T28466orerrage/resp-cokuy-GO](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/t28466orerrage-resp-cokuy-go/) — 使用Go語言開發的個人Telegram代理程式，具備提醒和開支追蹤功能。
 - [akari-sora/aave-oracle-lag-arb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/akari-sora-aave-oracle-lag-arb/) — 利用Chainlink價格借入WETH，於DEX高價時出售，回購時機收斂。
-- [Reizxn/HolyCyber](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-reizxn-holycyber/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [harness-hub/harness-lens](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-harness-hub-harness-lens/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ccch1mneyyy/dsh-Go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/) — DeepSeek手機應用，可在手機上執行並遙控電腦。
 - [junjamrk/OpenCinema](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junjamrk-opencinema/) — 開源AI電影工作室，可在本地畫布上規劃、生成和編輯影片。
 - [xiongcp/stock-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiongcp-stock-skill/) — AI股價分析技能，提供確定性K線結構分析。
 - [nvidia/nemotron-transcribe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nvidia-nemotron-transcribe/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ASLP-lab/DRAMA-Eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aslp-lab-drama-eval/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [glincker/awesome-selfhosted-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glincker-awesome-selfhosted-ai/) — 開源AI自建清單，涵蓋本地LLM、聊天介面等。
+- [SealarMeteor/telegram-channel-rpocket-forwarder-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sealarmeteor-telegram-channel-rpocket-forwarder-ai/) — 自動化Telegram頻道轉發器，具備即時AI內容重寫功能。
+- [ling0322/libwaifu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ling0322-libwaifu/) — 本地執行的 AI 機器人，支援 SDXL、Qwen-Image、Anima、IndexTTS 和 CosyVoice 等影像生成和語音合成。
 
 ## 🚀 Star 竄升
 
@@ -388,7 +388,6 @@ _每日存檔 · 2026-11-01_
 - [neuronpedia/jacobian-lens](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-neuronpedia-jacobian-lens/) — 一個用於分析和視覺化神經網路雅可比矩陣的工具。
 - [conradlocke/krea2-identity-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conradlocke-krea2-identity-edit/) — 基於Krea-2的影像編輯工具，適用於ComfyUI。
 - [mpasila/Krea-2-Turbo_I2I](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mpasila-krea-2-turbo-i2i/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [HoneyDataV2/Honey-Data-V2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-honeydatav2-honey-data-v2/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sentence-transformers/all-MiniLM-L6-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sentence-transformers-all-minilm-l6-v2/) — 用於句子相似性分析的 MiniLM 模型。
 - [Fangx-AI/geo-doctor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/) — GEO醫生是一個生成式引擎最佳化技能，用於評估和最佳化AI助手。
 - [Soofi-Project/Soofi-S-Base](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-soofi-project-soofi-s-base/) — 基於轉換器的文本生成模型，專為主權AI設計。
@@ -416,8 +415,6 @@ _每日存檔 · 2026-11-01_
 - [Alissonerdx/BFS-Best-Face-Swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-bfs-best-face-swap/) — 用於替換影像中人物臉部的AI工具。
 - [Anthropic/scorpion-toxin-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-scorpion-toxin-binder-design/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-registration/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [ToMan78737ticore/resocket-clinic-flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/toman78737ticore-resocket-clinic-flow/) — 自動化系統，每日早上8:30透過Telegram傳送醫生當日病人名單。
-- [T28466orerrage/resp-cokuy-GO](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/t28466orerrage-resp-cokuy-go/) — 使用Go語言開發的個人Telegram代理程式，具備提醒和開支追蹤功能。
 - [Zhanli-Li/DataWorld-Train-2k-part1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhanli-li-dataworld-train-2k-part1/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 - [arudradey/qwen-image-2.1-uncensored-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-arudradey-qwen-image-2-1-uncensored-gguf/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/jev-decision-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -467,7 +464,6 @@ _每日存檔 · 2026-11-01_
 - [ZzWater/ViiTorVoice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-zzwater-viitorvoice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mothersuperior-yue2-hum-to-song/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [dayona/I2V-VIP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dayona-i2v-vip/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Reizxn/HolyCyber](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-reizxn-holycyber/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [webml-community/lfm2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-lfm2-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [mrfakename/yue2-3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-yue2-3b/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ServiceNow-AI/eva-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-servicenow-ai-eva-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -488,7 +484,6 @@ _每日存檔 · 2026-11-01_
 - [inclusionAI/ming-image-0-1-design-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-inclusionai-ming-image-0-1-design-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [webml-community/embeddinggemma-2-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-embeddinggemma-2-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Jakeschincariol/replica-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-replica-skill/) — Eleven 免費的 Claude 技能，用於逆向工程和測試應用程式。
-- [TuringEnterprises/Open-MM-RL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-turingenterprises-open-mm-rl/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PsiBotAI/SynData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-psibotai-syndata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HiDream-ai/HiDream-O1-Image-Dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hidream-ai-hidream-o1-image-dev/) — HiDream O1 文生圖線上示範。
 - [facebook/sam3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-sam3/) — 用於生成遮罩的模型。
@@ -657,12 +652,10 @@ _每日存檔 · 2026-11-01_
 - [ostris/minimax_h3_1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ostris-minimax-h3-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [C4rohan/Lampline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/c4rohan-lampline/) — Lampline 是一個用來建立和測試 AI 聯絡中心代理人的開源工具。
 - [Photoroom/PRX-Pixel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-photoroom-prx-pixel/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [XYZAILab/XYZ-Aquila-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-xyzailab-xyz-aquila-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-qwen3-7-max-pi-traces/) — Qwen3.7-max 的推理軌跡資料集（小型 <1K）。
 - [build-small-hackathon/jawbreaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-jawbreaker/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LukaDev13/Liminal-Dreamcore-1K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lukadev13-liminal-dreamcore-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [google-bert/bert-base-uncased](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-bert-bert-base-uncased/) — Google 的 BERT 模型，用於填詞任務。
-- [openbmb/UltraData-RL-2609](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultradata-rl-2609/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/follow-the-mean](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-follow-the-mean/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [DeepLethe/FDE-Gym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-deeplethe-fde-gym/) — Hugging Face 資料集，關鍵字：基準測試、agent（依標籤自動歸類，詳細看下方原文）
 - [AxiomicLabs/Open_SLM_Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-axiomiclabs-open-slm-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -814,7 +807,6 @@ _每日存檔 · 2026-11-01_
 - [YuCrazing1/ClothTransformer-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yucrazing1-clothtransformer-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [yatin-superintelligence/digital-hospital-environment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yatin-superintelligence-digital-hospital-environment/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ethanplusai/astro-conversion-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ethanplusai-astro-conversion-kit/) — 將WordPress網站轉換為靜態Astro網站的工具。
 - [basis-ai/basis-global-emotions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-basis-ai-basis-global-emotions/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prathoshap/vagdhenu-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-prathoshap-vagdhenu-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1106,7 +1098,6 @@ _每日存檔 · 2026-11-01_
 - [ZJU-REAL/Easel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/) — 一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。
 - [BadgeCorporal/Adobe-Tool-Premiere-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/badgecorporal-adobe-tool-premiere-pro/) — Windows版Adobe Premiere Pro，強大的影片編輯軟體。
 - [actionow-ai/c2c_img](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/actionow-ai-c2c-img/) — Claude Code 的本地影像生成外掛，無需 API 金鑰。
-- [DavidAU/Qwen3.5-9B-Claude-4.6-HighIQ-THINKING-HERETIC-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-5-9b-claude-4-6-highiq-thinking-heretic-uncensored/) — 影像文字轉文本的AI模型，適用於創意寫作和小說創作。
 - [genrobot2025/Gen-HumanEgo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-genrobot2025-gen-humanego/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [aa1143/NamiGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aa1143-namigpt/) — 從零開始手寫GPT-2教程，適合初學大模型開發。
 - [vanzll/DiffusionART](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vanzll-diffusionart/) — 一種高效的增強擴散模型的強化學習方法，適用於影像到影片的轉換。
@@ -1122,7 +1113,6 @@ _每日存檔 · 2026-11-01_
 - [ejsyk3xdp3t2o/wan3.0video-wan-3.0-video-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ejsyk3xdp3t2o-wan3-0video-wan-3-0-video-api/) — 提供文本轉影片 API，支援 OpenAI 相容閘道器，按秒計費。
 - [rabbitfiremediacreation/music-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rabbitfiremediacreation-music-generator/) — 在 Mac 和 Windows 上生成音樂的本地應用。
 - [agents-last-exam/agents-last-exam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-agents-last-exam-agents-last-exam/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [qsardor/Claude-Sonnet-Opus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qsardor-claude-sonnet-opus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Player-YN/PawWork_ZhuaZhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/player-yn-pawwork-zhuazhua/) — 一個基於瀏覽器的AI代理，用於擷取和編輯網頁內容。
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-locallaws-locus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ling0322/libwaifu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ling0322-libwaifu/) — 本地執行的 AI 機器人，支援 SDXL、Qwen-Image、Anima、IndexTTS 和 CosyVoice 等影像生成和語音合成。
@@ -1138,7 +1128,6 @@ _每日存檔 · 2026-11-01_
 - [iamyoki/qwen-image-2.1-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iamyoki-qwen-image-2-1-skill/) — Qwen-Image-2.1 的代理技能，最佳化文本轉影像提示。
 - [Seraphinayes/wordpress-link-tracking-cloaking-guide-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seraphinayes-wordpress-link-tracking-cloaking-guide-de/) — 德語區WordPress連結隱藏與追蹤實用指南。
 - [FlyRank/internship-warehouse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-flyrank-internship-warehouse/) — Hugging Face 資料集，關鍵字：SEO（依標籤自動歸類，詳細看下方原文）
-- [thinkpixelIab/polymarket-ai-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thinkpixeliab-polymarket-ai-trading/) — Polymarket AI 交易：模擬盤、GPT、CLOB、Kelly、均值回歸。
 - [Yuuyuko-uu/dsh-tts-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuuyuko-uu-dsh-tts-bridge/) — 會話自動轉換成 DeepSeek 網頁端朗讀，聲音從本地電腦播放。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [prism-ml/Bonsai-Image-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prism-ml-bonsai-image-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -2026,7 +2015,6 @@ _每日存檔 · 2026-11-01_
 - [lentrade/trading-awesome](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lentrade-trading-awesome/) — 整理交易者使用的工具清單，包括市場資料 API、券商和交易所 API 等。
 - [karanb192/reddit-mcp-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/karanb192-reddit-mcp-buddy/) — 簡潔的 Reddit MCP 伺服器，專為 LLM 最佳化，提供內容瀏覽、搜尋和分析。
 - [melandlabs/openloomi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/melandlabs-openloomi/) — Claude Cowork 風格的開源替代方案，為本地工作記憶提供 AI 代理支援。
-- [iannuttall/seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iannuttall-seo/) — 提供70多種SEO審核工具，透過本地CLI和MCP伺服器使用自定義爬蟲、Search Console和GA4資料。
 - [SergiioB/intel-arc-pro-b70-inference-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergiiob-intel-arc-pro-b70-inference-cookbook/) — Intel Arc Pro B60/B70 GPU 上執行大規模語言模型推理的開源食譜和效能測試工具。
 - [millionco/expect](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/millionco-expect/) — 用真實瀏覽器測試AI代理的程式碼。
 - [laion/BVD-URLs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-laion-bvd-urls/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

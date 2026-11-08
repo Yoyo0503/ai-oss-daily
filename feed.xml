@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-11-07T08:00:00+00:00</updated>
+<updated>2026-11-08T08:00:00+00:00</updated>
 <entry>
-<title>Viggle/Viggle-Remake</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-remake/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-remake/</id>
-<updated>2026-11-07T08:00:00+00:00</updated>
-<summary>用 minimax-h3 和 gguf 格式進行影片編輯，支援角色替換。</summary>
+<title>xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xtools-at-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xtools-at-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic/</id>
+<updated>2026-11-08T08:00:00+00:00</updated>
+<summary>一個基於轉換器模型的文本生成工具，支援影像轉文本生成。</summary>
 </entry>
 <entry>
-<title>XiaoyeCodes/code-animation-prompts</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/</id>
-<updated>2026-11-07T08:00:00+00:00</updated>
-<summary>提供 341 種程式碼動畫風格提示詞，支援 HTML 影片渲染。</summary>
+<title>NousResearch/Arete-27B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nousresearch-arete-27b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nousresearch-arete-27b/</id>
+<updated>2026-11-08T08:00:00+00:00</updated>
+<summary>一個大型文本生成模型，經過監督微調，適用於推理和對話。</summary>
 </entry>
 <entry>
-<title>joelniklaus/harness-leaderboard</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-leaderboard/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-leaderboard/</id>
-<updated>2026-11-07T08:00:00+00:00</updated>
-<summary>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</summary>
+<title>Glen-Web-App/best-agent-memory-mcp</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glen-web-app-best-agent-memory-mcp/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glen-web-app-best-agent-memory-mcp/</id>
+<updated>2026-11-08T08:00:00+00:00</updated>
+<summary>提供Claude Code等AI代理的長期記憶服務，並進行排名比較。</summary>
 </entry>
 <entry>
-<title>pbakaus/impeccable</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</id>
-<updated>2026-11-07T08:00:00+00:00</updated>
-<summary>設計語彙庫，用於指導程式代理，避免AI生成的錯誤。</summary>
+<title>morluto/rea</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</id>
+<updated>2026-11-08T08:00:00+00:00</updated>
+<summary>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</summary>
 </entry>
 <entry>
-<title>google/elephant-goldfish-model</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</id>
-<updated>2026-11-07T08:00:00+00:00</updated>
-<summary>Google開發的基於LLM的規格驅動開發方法和技能集。</summary>
+<title>Ebony-Vinyl/dsh-our-free-model</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</id>
+<updated>2026-11-08T08:00:00+00:00</updated>
+<summary>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</summary>
 </entry>
 <entry>
-<title>Pika-Labs/Pika-H3-Flex</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/</id>
-<updated>2026-11-07T08:00:00+00:00</updated>
-<summary>將影像轉換為影片的模型，支援多種格式。</summary>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
+<updated>2026-11-08T08:00:00+00:00</updated>
+<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
 </entry>
 </feed>

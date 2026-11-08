@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>07 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>08 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Viggle/Viggle-Remake</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-remake/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-viggle-remake/</guid>
-<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
-<description>用 minimax-h3 和 gguf 格式進行影片編輯，支援角色替換。</description>
+<title>xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xtools-at-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xtools-at-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic/</guid>
+<pubDate>08 Nov 2026 08:00:00 +0000</pubDate>
+<description>一個基於轉換器模型的文本生成工具，支援影像轉文本生成。</description>
 </item>
 <item>
-<title>XiaoyeCodes/code-animation-prompts</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/</guid>
-<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
-<description>提供 341 種程式碼動畫風格提示詞，支援 HTML 影片渲染。</description>
+<title>NousResearch/Arete-27B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nousresearch-arete-27b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nousresearch-arete-27b/</guid>
+<pubDate>08 Nov 2026 08:00:00 +0000</pubDate>
+<description>一個大型文本生成模型，經過監督微調，適用於推理和對話。</description>
 </item>
 <item>
-<title>joelniklaus/harness-leaderboard</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-leaderboard/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joelniklaus-harness-leaderboard/</guid>
-<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
-<description>Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）</description>
+<title>Glen-Web-App/best-agent-memory-mcp</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glen-web-app-best-agent-memory-mcp/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glen-web-app-best-agent-memory-mcp/</guid>
+<pubDate>08 Nov 2026 08:00:00 +0000</pubDate>
+<description>提供Claude Code等AI代理的長期記憶服務，並進行排名比較。</description>
 </item>
 <item>
-<title>pbakaus/impeccable</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</guid>
-<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
-<description>設計語彙庫，用於指導程式代理，避免AI生成的錯誤。</description>
+<title>morluto/rea</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</guid>
+<pubDate>08 Nov 2026 08:00:00 +0000</pubDate>
+<description>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</description>
 </item>
 <item>
-<title>google/elephant-goldfish-model</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/</guid>
-<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
-<description>Google開發的基於LLM的規格驅動開發方法和技能集。</description>
+<title>Ebony-Vinyl/dsh-our-free-model</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</guid>
+<pubDate>08 Nov 2026 08:00:00 +0000</pubDate>
+<description>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</description>
 </item>
 <item>
-<title>Pika-Labs/Pika-H3-Flex</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex/</guid>
-<pubDate>07 Nov 2026 08:00:00 +0000</pubDate>
-<description>將影像轉換為影片的模型，支援多種格式。</description>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
+<pubDate>08 Nov 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
 </item>
 </channel>
 </rss>

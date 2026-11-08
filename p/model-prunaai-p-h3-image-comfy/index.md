@@ -2,7 +2,7 @@
 
 使用 ComfyUI 的文本生成影像模型。
 
-**為何上榜**：HF trending 193 · 222 likes · 398,138 下載
+**為何上榜**：HF trending 202 · 232 likes · 505,526 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 
