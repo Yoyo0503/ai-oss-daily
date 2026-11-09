@@ -1459,7 +1459,6 @@ _每日存檔 · 2026-09-11_
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abhi1693-openclaw-mission-control/) — 管理AI代理、分配任務並協調多代理合作的儀錶板。
 - [thu-ml/Causal-Forcing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thu-ml-causal-forcing/) — 高品質即時互動式影片生成的因果強迫自動回歸擴散模型程式碼庫。
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。
-- [nvidia/SPEED-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-speed-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zhnt/loushang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhnt-loushang/) — 基於 Python 的程式碼工作流程代理程式執行環境，支援多模型協調和工具治理。
 - [cyyself/OpenTihui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cyyself-opentihui/) — 適用於 iOS 的本地化大型語言模型，支援鍵盤快捷方式。
 - [Saganaki22/Moss_TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-moss-tts-comfyui/) — 用於MOSS-TTS的ComfyUI節點，支援語音克隆和控制。

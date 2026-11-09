@@ -12,7 +12,7 @@ _Daily archive · 2026-11-03_
 - [brewed-ops/talking-explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brewed-ops-talking-explainer/) — A Claude Code skill that turns a topic into a narrated motion-design explainer, presented by a cartoon that l…
 - [hide1/MOSS-Image-Character-Catalog](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hide1-moss-image-character-catalog/) — · static, region:us
 - [bitmanagerai-speech-lab/darbuka_arabic_tts_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bitmanagerai-speech-lab-darbuka-arabic-tts-dataset/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, language:ar
-- [cplj/axiocairn-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cplj-axiocairn-mcp/) — Holdings exposure, what-if scenarios, cost and capacity, backtest checks, and published research.
+- [cplj/axiocairn-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cplj-axiocairn-mcp/) — Portfolio risk MCP: exposure values with data dates, method notes and coverage gaps.
 - [zhanghao123vip/ai-manju-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhanghao123vip-ai-manju-skills/) — 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek
 - [KeepaceAI/MoveBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-keepaceai-movebench/) — · task_categories:question-answering, task_categories:text-generation, language:zh
 - [marcosmodly/marketing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/marcosmodly-marketing-skill/) — Claude Code plugin with 14 composable marketing skills: competitor research, content calendars, SEO briefs, a…
@@ -234,10 +234,8 @@ _Daily archive · 2026-11-03_
 - [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akatz-ai-minimax-h3-character-swap-lora/) — video-to-video · diffusion-single-file, minimax-h3, lora
 - [LiquidAI/LFM2.5-24B-A2B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-24b-a2b/) — text-generation · transformers, safetensors, lfm2_moe
 - [pablodawson/MiniMax-H3-360-Orbit-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pablodawson-minimax-h3-360-orbit-lora/) — image-text-to-video · minimax-h3, lora, image-to-video
-- [divagr1925/Qwen3.5-4B-Qwenputer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-divagr1925-qwen3-5-4b-qwenputer/) — text-generation · transformers, safetensors, qwen3_5_text
 - [autotrust/shorts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-autotrust-shorts/) — · static, region:us
 - [autotrust/news](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-autotrust-news/) — · static, region:us
-- [nvidia/Qwen3.8-Flash-Next-FP4-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-qwen3-8-flash-next-fp4-local/) — image-text-to-text · Model Optimizer, safetensors, qwen4_exp
 - [google/timesfm-3.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-timesfm-3-0-pytorch/) — time-series-forecasting · safetensors, time-series, forecasting
 - [convaiinnovations/laya](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-convaiinnovations-laya/) — text-classification · transformers, safetensors, laya
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — text-generation · vllm, safetensors, solar_open2
@@ -480,7 +478,7 @@ _Daily archive · 2026-11-03_
 - [gprokaznik4-bit/CryptoGridMaster-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gprokaznik4-bit-cryptogridmaster-bot/) — CryptoGridMaster-Bot 是一個整合多個交易所 API 的加密貨幣交易機器人。
 - [gprokaznik4-bit/Solana-Jito-Bundler](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gprokaznik4-bit-solana-jito-bundler/) — Solana-Jito-Bundler 是一個分散式交易捆綁器，防止先進攻擊。
 - [gprokaznik4-bit/SolanaSniperBot-OpenSource](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gprokaznik4-bit-solanasniperbot-opensource/) — SolanaSniperBot-OpenSource 是一個高頻交易的加密貨幣機器人。
-- [cplj/axiocairn-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cplj-axiocairn-mcp/) — Holdings exposure, what-if scenarios, cost and capacity, backtest checks, and published research.
+- [cplj/axiocairn-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cplj-axiocairn-mcp/) — Portfolio risk MCP: exposure values with data dates, method notes and coverage gaps.
 - [APIMART-12W22W/gpt-image2.5-api-prompt-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/apimart-12w22w-gpt-image2-5-api-prompt-gallery/) — gpt image2.5 API prompt gallery (GPT Image 2.5 / gpt-image-2.5 / gptimage2.5 / image2.5 api): 12 tested promp…
 - [feder-cr/invisible_playwright_mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/feder-cr-invisible-playwright-mcp/) — Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth F…
 - [julien-c/synthtraces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-julien-c-synthtraces/) — · language:en, license:mit, size_categories:1K<n<10K
@@ -1052,7 +1050,6 @@ _Daily archive · 2026-11-03_
 - [huuan26/polars-anta](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/huuan26-polars-anta/) — ANTA: Ultra-fast, zero-C technical analysis, WorldQuant alpha factors & vectorized backtesting library for Po…
 - [onehumanbeing/esp32-iphone-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/onehumanbeing-esp32-iphone-agent/) — Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision …
 - [Kritt-ai/open-kritt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kritt-ai-open-kritt/) — Orchestrate AI agents to find real vulnerabilities in code.
-- [nvidia/video_to_data_challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-video-to-data-challenge/) — · license:cc-by-4.0, size_categories:n<1K, modality:3d
 - [microsoft/Echoverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-microsoft-echoverse/) — · task_categories:other, language:en, license:mit
 - [ducklelabs/duckle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ducklelabs-duckle/) — Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB.…
 - [Ronesfe/Polymarket-Automated-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ronesfe-polymarket-automated-trading-bot/) — Automated trading bot for Polymarket prediction markets. Supports 4 strategies, optional AI integration, and …
@@ -1104,7 +1101,7 @@ _Daily archive · 2026-11-03_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-translate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-medharvix-systems-bhasaflow-khasi-english-translate/) — · gradio, khasi, english
 - [nvidia/OpenH-RF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-openh-rf/) — · license:cc-by-4.0, region:us
 - [xiaodou-official/xiaodou-market](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xiaodou-official-xiaodou-market/) — 小豆集市｜数字商品交易平台：发卡寄售、卡密平台、虚拟发卡、寄售网。24 小时发卡平台、卡密自动发货；虚拟商品寄售免费开店，买家免注册，支付宝、微信收款（支付宝内可选花呗/信用卡，微信内可选信用卡），持牌机构清算、次日中…
-- [BijectiveLabs/bitra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bijectivelabs-bitra/) — Autonomous trading agents with deterministic execution. The agents propose; the system decides.
+- [BijectiveLabs/bitra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bijectivelabs-bitra/) — Autonomous trading agents with deterministic execution. The agents propose, the system decides.
 - [blixvip/html-anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-html-anime/) — Turn a scene prompt into a shot sheet, then have a coding agent draw the film in HTML. No video model.
 - [100yenadmin/fish-audio-hermes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/100yenadmin-fish-audio-hermes/) — Official Fish Audio plugin for Hermes Agent: expressive text-to-speech, speech-to-text, voice library, clonin…
 - [kividbio/kividb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kividbio-kividb/) — A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and …
@@ -1982,7 +1979,6 @@ _Daily archive · 2026-11-03_
 - [dacnay816y62-hub/photo-revival](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dacnay816y62-hub-photo-revival/) — Codex skill for turning everyday photos into poetic white-paper hand-drawn illustrations.
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abhi1693-openclaw-mission-control/) — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration v…
 - [thu-ml/Causal-Forcing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thu-ml-causal-forcing/) — [ICML 2026] Official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-…
-- [nvidia/SPEED-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-speed-bench/) — · license:other, size_categories:1K<n<10K, format:parquet
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server
 - [internet-court/internet-court-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/internet-court-internet-court-skill/) — The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402…
 - [hassancs91/claude-youtube-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hassancs91-claude-youtube-editor/) — Record the talking head, Claude Code does the rest: the cut, the visuals, the voice, the sound effects, the t…

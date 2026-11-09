@@ -2,7 +2,7 @@
 
 LiquidAI 的對話生成模型，適用於多種對話場景。
 
-**為何上榜**：HF trending 205 · 1,548 likes · 70,034 下載
+**為何上榜**：HF trending 186 · 1,558 likes · 73,562 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

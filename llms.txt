@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-11-07 17:05 PST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-11-08 17:05 PST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-11-09](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-09/)
 - [2026-11-08](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-08/)
 - [2026-11-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-07/)
 - [2026-11-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-06/)
@@ -26,15 +27,14 @@
 - [2026-10-27](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-27/)
 - [2026-10-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-26/)
 - [2026-10-25](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-25/)
-- [2026-10-24](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-10-24/)
 
 ## 今日精選 Today's picks
-- [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xtools-at-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic/)
-- [NousResearch/Arete-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nousresearch-arete-27b/)
-- [Glen-Web-App/best-agent-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glen-web-app-best-agent-memory-mcp/)
-- [morluto/rea](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/)
-- [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/)
-- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/)
+- [Scantist/GLM-5.3-SLIM-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-scantist-glm-5-3-slim-gguf/)
+- [autotrust/Qwen3.8-Flash-Next-E384-FP4-V2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-qwen3-8-flash-next-e384-fp4-v2/)
+- [autotrust/AutoTrust-JEV-27B-v1.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-autotrust-jev-27b-v1-1/)
+- [ccch1mneyyy/dsh-Go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/)
+- [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/)
+- [PrunaAI/P-H3-Image-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
