@@ -2,7 +2,7 @@
 
 Qwen3.5-0.8B-weight-space-programming 是一個用於影像文字轉文字生成的模型，支援 transformers 和 qwen3_5。
 
-**為何上榜**：HF trending 126 · 128 likes · 3,140 下載
+**為何上榜**：HF trending 126 · 132 likes · 3,474 下載
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

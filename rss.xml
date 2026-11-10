@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>09 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>10 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Scantist/GLM-5.3-SLIM-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-scantist-glm-5-3-slim-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-scantist-glm-5-3-slim-gguf/</guid>
-<pubDate>09 Nov 2026 08:00:00 +0000</pubDate>
-<description>GLM-5.3-SLIM-GGUF 是一個基於 gguf 格式的文本生成模型，適用於 llama.cpp 和 glm_moe_dsa。</description>
+<title>Comfy-Org/RelayVSR</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-relayvsr/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-relayvsr/</guid>
+<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
+<description>無條件影像生成模型，使用擴散單檔案架構。</description>
 </item>
 <item>
-<title>autotrust/Qwen3.8-Flash-Next-E384-FP4-V2</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-qwen3-8-flash-next-e384-fp4-v2/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-qwen3-8-flash-next-e384-fp4-v2/</guid>
-<pubDate>09 Nov 2026 08:00:00 +0000</pubDate>
-<description>Qwen3.8-Flash-Next-E384-FP4-V2 是一個用於影像文字轉文字生成的模型，支援 vllm 和 nvfp4。</description>
+<title>ConwayResearch/Underdog-Woof</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conwayresearch-underdog-woof/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conwayresearch-underdog-woof/</guid>
+<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
+<description>文字轉語音模型，適用於CPU環境。</description>
 </item>
 <item>
-<title>autotrust/AutoTrust-JEV-27B-v1.1</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-autotrust-jev-27b-v1-1/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-autotrust-jev-27b-v1-1/</guid>
-<pubDate>09 Nov 2026 08:00:00 +0000</pubDate>
-<description>AutoTrust-JEV-27B-v1.1 是一個用於文本分類的模型，支援 vllm 和 qwen3_5。</description>
+<title>VideoRebirthAI/hyperflow-h3-flash</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-videorebirthai-hyperflow-h3-flash/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-videorebirthai-hyperflow-h3-flash/</guid>
+<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
+<description>將影像和文本轉換為影片的模型。</description>
 </item>
 <item>
-<title>ccch1mneyyy/dsh-Go</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/</guid>
-<pubDate>09 Nov 2026 08:00:00 +0000</pubDate>
-<description>DeepSeek手機應用，可在手機上執行並遙控電腦。</description>
+<title>milind-soni/OpenMausBot</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/</guid>
+<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
+<description>OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>09 Nov 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>pbakaus/impeccable</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</guid>
+<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
+<description>設計語彙庫，用於指導程式代理，避免AI生成的錯誤。</description>
 </item>
 <item>
-<title>PrunaAI/P-H3-Image-Comfy</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/</guid>
-<pubDate>09 Nov 2026 08:00:00 +0000</pubDate>
-<description>使用 ComfyUI 的文本生成影像模型。</description>
+<title>black-forest-labs/flux-3-image-klein-comfy</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</guid>
+<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
+<description>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</description>
 </item>
 </channel>
 </rss>

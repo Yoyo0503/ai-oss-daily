@@ -2,9 +2,9 @@
 
 自動審核和最佳化SEO、AEO、GEO等的Claude程式碼技能。
 
-**為何上榜**：997★ · 近期活躍
+**為何上榜**：近一日新增 2★（現 999★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：997
+**Stars**：999
 **原始連結**：https://github.com/leopard627/fire-your-seo-agency

@@ -2,7 +2,7 @@
 
 TwIL-8B 是一個基於 Transformers 的文本生成模型，支援 GGUF 格式。
 
-**為何上榜**：HF trending 227 · 232 likes · 22,737 下載
+**為何上榜**：HF trending 246 · 252 likes · 34,546 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

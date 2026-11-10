@@ -1,8 +1,8 @@
 # 100yenadmin/fish-audio-hermes
 
-Official Fish Audio plugin for Hermes Agent: expressive text-to-speech, speech-to-text, voice library, cloning and voice design.
+Your Hermes agent speaks and listens with Fish Audio: expressive voices in 80+ languages, voice design, live dictation.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：67
+**Stars**：68
 **Source**：https://github.com/100yenadmin/fish-audio-hermes
