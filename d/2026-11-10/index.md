@@ -389,7 +389,6 @@ _每日存檔 · 2026-11-10_
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm2-5-encoder-350m/) — 用於填充掩碼的大型語義模型，支援雙向掩碼語言建模。
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-poolside-laguna-s-2-1-nvfp4/) — 一個適用於對話生成的文本生成模型，具有高度自訂化的能力。
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — RAG／檢索／向量庫工具（依標籤自動歸類，詳細看下方原文）
-- [codepawl/plateau-city-glb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-codepawl-plateau-city-glb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lerobot/FineART](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lerobot-fineart/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [KiaBush/persian-text-to-ipa-byt5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kiabush-persian-text-to-ipa-byt5/) — 使用 ByT5 模型將波斯文轉換為國際音標。
 - [Motif-Technologies/Motif-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-motif-technologies-motif-3/) — 特徵抽取的混合專家模型，用於文本生成。
@@ -632,7 +631,6 @@ _每日存檔 · 2026-11-10_
 - [Harland/OmniVChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-harland-omnivchat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-magenta-community-magenta-rt-jam/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [dlouapre/nlp-before-llms](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dlouapre-nlp-before-llms/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [pablodawson/minimax-h3-360-orbit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pablodawson-minimax-h3-360-orbit/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wideeyededi/uncensored-nsfw-ai-video-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wideeyededi-uncensored-nsfw-ai-video-api/) — 成人向 AI 影片生成 API，支援文生/圖生影片。
 - [VIDraft/ai-world](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vidraft-ai-world/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [andyhuo520/vibe-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/andyhuo520-vibe-knowledge/) — 將知識點轉換成有旁白、每句有來源的精品知識短片。
@@ -747,7 +745,6 @@ _每日存檔 · 2026-11-10_
 - [amisima/minimax-h3-reference-4-step-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-minimax-h3-reference-4-step-lora/) — Hugging Face 示範應用(Space)，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
 - [collinear-ai/cwe-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-collinear-ai-cwe-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/dukaan-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-dukaan-saathi/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [observantdistressed/minimax-h3-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-observantdistressed-minimax-h3-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-actava-chi-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [stanford-vision-lab/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-stanford-vision-lab-gpic/) — 史丹佛 GPIC 視覺生成圖像資料集（MIT 授權）。
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cha007-pornflux-i2v-6e9et/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -940,7 +937,6 @@ _每日存檔 · 2026-11-10_
 - [prometheus-eval/into-the-unknown](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-prometheus-eval-into-the-unknown/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-supralabs-prompt-routing-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-minimax-h3-inpainting/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-littlelearner-littlecurriculum/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [feyninc/feynobg](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-feyninc-feynobg/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -2397,7 +2393,6 @@ _每日存檔 · 2026-11-10_
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/) — 提供給Claude程式碼和AI代理使用的金融市場資料消費技能。
 - [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syrizelink-openfic/) — 跨平臺、使用者友好的小說創作AI工具，支援人機協作。
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrgediao-shuorenhua/) — 中文優先的去AI味改寫技能，保留事實，適合多場景使用。
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/strukto-ai-mirage/) — 為 AI 代理設計的一體化虛擬檔案系統。
 - [TuolaGe/vertical-talking-head-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tuolage-vertical-talking-head-video/) — 用來製作高品質直式數位人頭像影片的工作流程。
 - [BlackMixture/Mix-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blackmixture-mix-studio/) — 基於ComfyUI的清潔響應式AI工作空間，適用於桌面和手機。
 - [cporter202/stock-market-signal-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-stock-market-signal-automation/) — 基於 AI 的股票市場訊號自動化工具。

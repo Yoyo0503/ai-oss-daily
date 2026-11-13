@@ -657,7 +657,6 @@ _每日存檔 · 2026-09-23_
 - [microsoft/ThinkingBox-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-microsoft-thinkingbox-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-supralabs-prompt-routing-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-minimax-h3-inpainting/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-littlelearner-littlecurriculum/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [feyninc/feynobg](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-feyninc-feynobg/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1824,7 +1823,6 @@ _每日存檔 · 2026-09-23_
 - [artokun/comfyui-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artokun-comfyui-mcp/) — ComfyUI 的 Claude Code 外掛及伺服器，提供圖形編輯、生成影像和影片等功能。
 - [Greenysmac/awesome-davinci-resolve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/greenysmac-awesome-davinci-resolve/) — DaVinci Resolve 的外掛、工具和資源列表，由社群維護。
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrgediao-shuorenhua/) — 中文優先的去AI味改寫技能，保留事實，適合多場景使用。
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/strukto-ai-mirage/) — 為 AI 代理設計的一體化虛擬檔案系統。
 - [laolaoshiren/claude-code-skills-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laolaoshiren-claude-code-skills-zh/) — 面向中文開發者的Claude Code技能庫，包含多種場景的技能和外掛。
 - [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eddmpython-dartlab/) — 根據股票程式碼生成公司完整報告和分析。
 - [OpenDemon/Pilipili-AutoVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opendemon-pilipili-autovideo/) — 自動生成帶字幕的影片代理工具，支援多種影片編輯功能。

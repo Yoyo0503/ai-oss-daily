@@ -957,7 +957,6 @@ _Daily archive · 2026-08-11_
 - [Jsoned/autowealth-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jsoned-autowealth-ai/) — Multi-Agent AI Investment Analysis Engine
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server
 - [freestylefly/awesome-gpt-image-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/freestylefly-awesome-gpt-image-2/) — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/strukto-ai-mirage/) — The World's First Virtual Terminal for AI Agents
 - [AtomFlow-AI/MoleCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/atomflow-ai-molecode/) — Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jcodesmore-ai-website-cloner-template/) — Clone any website with one command using AI coding agents
@@ -1344,7 +1343,7 @@ _Daily archive · 2026-08-11_
 - [zjunlp/LabVLA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zjunlp-labvla/) — LabVLA: Grounding Vision–Language–Action Models in Scientific Laboratories
 - [hashgraph-online/standards-sdk-go](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hashgraph-online-standards-sdk-go/) — The official HOL SDK for Go, implementing the Hiero Consensus Specifications (https://github.com/hiero-ledger…
 - [EasonTuT/Awesome-Interactive-World-Model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/easontut-awesome-interactive-world-model/) — Interactive World Model papers organized by core research challenges.
-- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orc…
+- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — SynapseOrch: AI workflows that follow the plan. Describe a job, approve the steps, run them on any model, loc…
 - [H-EmbodVis/HyDRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/h-embodvis-hydra/) — Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models
 - [eight-acres-lab/openmelon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eight-acres-lab-openmelon/) — A content-creation agent runtime for reproducible multimodal production — projects, workflows, skills, proven…
 - [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shootthesound-fizgig/) — Krea 2 & Klein 9B LoRA - LoKR Studio — train, profile, repair, and extract Krea 2, Flux 2 Klein 9B & MiniMax …

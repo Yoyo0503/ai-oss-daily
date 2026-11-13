@@ -683,7 +683,6 @@ _每日存檔 · 2026-09-26_
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-supralabs-prompt-routing-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Appllama/appllama-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appllama-appllama-skills/) — 將熱門應用程式轉換成高品質手機螢幕的 AI 技能。
-- [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-minimax-h3-inpainting/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-littlelearner-littlecurriculum/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [callirra-ai/gpt-image-2-5-prompt-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/callirra-ai-gpt-image-2-5-prompt-atlas/) — 包含50個GPT-Image 2.5生成的影像提示範例，包括短提示和工程簡報。
@@ -1862,7 +1861,6 @@ _每日存檔 · 2026-09-26_
 - [Ararararararaki/comfyui-anima-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ararararararaki-comfyui-anima-toolkit/) — ComfyUI的全方位Anima/SD工具包，包括LoRA管理、Danbooru搜尋等功能。
 - [Greenysmac/awesome-davinci-resolve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/greenysmac-awesome-davinci-resolve/) — DaVinci Resolve 的外掛、工具和資源列表，由社群維護。
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrgediao-shuorenhua/) — 中文優先的去AI味改寫技能，保留事實，適合多場景使用。
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/strukto-ai-mirage/) — 為 AI 代理設計的一體化虛擬檔案系統。
 - [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fredyrivera-dev-claude-converter/) — 無依賴Python模組，用於檢視和轉換Claude Code會話檔案為Hugging Face Transformers格式。
 - [DaoyuanLi2816/tracedistill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-tracedistill/) — 將教師模型的思想鏈轉換為 LoRA 介面卡，以訓練推理模型。
 - [laolaoshiren/claude-code-skills-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laolaoshiren-claude-code-skills-zh/) — 面向中文開發者的Claude Code技能庫，包含多種場景的技能和外掛。

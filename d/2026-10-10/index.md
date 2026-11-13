@@ -520,7 +520,6 @@ _每日存檔 · 2026-10-10_
 - [FINAL-Bench/quantum-bench-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-quantum-bench-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/kirana-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-kirana-saathi/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openbmb/Ultra-FineWeb-L1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultra-fineweb-l1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [pablodawson/minimax-h3-360-orbit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-pablodawson-minimax-h3-360-orbit/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [burtenshaw/open-weights-breakout](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-burtenshaw-open-weights-breakout/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [vincentsch/explainroo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentsch-explainroo/) — 使用AI代理生成解說影片和產品演示。
 - [DexCrancer/solana-copytrading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dexcrancer-solana-copytrading-bot/) — 一個高效率的Solana複製交易機器人，監控目標錢包並即時複製交易。
@@ -754,7 +753,6 @@ _每日存檔 · 2026-10-10_
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jdopensource-joyai-vl-interaction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-supralabs-prompt-routing-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mirkovicdev/HFTENGINE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mirkovicdev-hftengine/) — 用於回溯市場做市策略的模擬器，適用於Binance。
-- [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-minimax-h3-inpainting/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [iamyoki/qwen-image-2.1-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iamyoki-qwen-image-2-1-skill/) — Qwen-Image-2.1 的代理技能，最佳化文本轉影像提示。
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-littlelearner-littlecurriculum/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -2004,7 +2002,6 @@ _每日存檔 · 2026-10-10_
 - [Greenysmac/awesome-davinci-resolve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/greenysmac-awesome-davinci-resolve/) — DaVinci Resolve 的外掛、工具和資源列表，由社群維護。
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/) — 提供給Claude程式碼和AI代理使用的金融市場資料消費技能。
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrgediao-shuorenhua/) — 中文優先的去AI味改寫技能，保留事實，適合多場景使用。
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/strukto-ai-mirage/) — 為 AI 代理設計的一體化虛擬檔案系統。
 - [ZeKaiNie/universal-examprep-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zekainie-universal-examprep-skill/) — 作為 Claude 代理技能，將學習材料轉換為知識庫和測驗題庫。
 - [cporter202/stock-market-signal-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-stock-market-signal-automation/) — 基於 AI 的股票市場訊號自動化工具。
 - [hamza01055/omni-ai-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hamza01055-omni-ai-automation/) — 統一多平臺訊息工作流程的 AI 自動化工具。

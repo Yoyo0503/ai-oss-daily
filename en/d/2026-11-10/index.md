@@ -9,7 +9,7 @@ _Daily archive · 2026-11-10_
 - [VideoRebirthAI/hyperflow-h3-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-videorebirthai-hyperflow-h3-flash/) — image-text-to-video · minimax-h3, diffusers, safetensors
 - [tencent/Qwen3.8-27B-DSpine-b16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-qwen3-8-27b-dspine-b16/) — text-generation · safetensors, qwen3, dspine
 - [thea2026/image-to-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-thea2026-image-to-video/) — · gradio, region:us
-- [DAGroup-PKU/Open-HumanWAM-50K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-dagroup-pku-open-humanwam-50k/) — · task_categories:robotics, modality:video, arxiv:2611.06817
+- [DAGroup-PKU/Open-HumanWAM-50K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-dagroup-pku-open-humanwam-50k/) — · task_categories:robotics, license:apache-2.0, size_categories:10M<n<100M
 - [Pluviobyte/saas-growth-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pluviobyte-saas-growth-agents/) — Hand your SaaS growth chores to an agent: new-term radar, keyword-to-site discovery, competitor backlinks, di…
 - [Vibha-Ramprakash/claude-video-effects](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vibha-ramprakash-claude-video-effects/) — 51 free video effects for Claude Code: drop in a talking-head clip, type /effects orbit. Face tracking, behin…
 - [RaelamcoralRelentless/bahrain-flip-rpocket-team-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raelamcoralrelentless-bahrain-flip-rpocket-team-finder/) — Finds underpriced used electronics in Bahrain, checks the numbers, and sends promising deals to Telegram.
@@ -334,7 +334,7 @@ _Daily archive · 2026-11-10_
 - [InternScience/Agents-A1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-internscience-agents-a1/) — text-generation · transformers, safetensors, qwen3_5_moe
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-boogu-boogu-image-0-1-edit/) — · diffusers, safetensors, en
 - [thea2026/image-to-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-thea2026-image-to-video/) — · gradio, region:us
-- [DAGroup-PKU/Open-HumanWAM-50K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-dagroup-pku-open-humanwam-50k/) — · task_categories:robotics, modality:video, arxiv:2611.06817
+- [DAGroup-PKU/Open-HumanWAM-50K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-dagroup-pku-open-humanwam-50k/) — · task_categories:robotics, license:apache-2.0, size_categories:10M<n<100M
 - [microsoft/FrogNano-4B-2609](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-frognano-4b-2609/) — · safetensors, qwen3_5, license:mit
 - [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prunaai-p-h3-image/) — · gradio, ml-intern, region:us
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — · gradio, mcp-server, region:us
@@ -352,7 +352,7 @@ _Daily archive · 2026-11-10_
 - [CohereLabs/North-Micro-Vision-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-north-micro-vision-instruct/) — image-text-to-text · transformers, safetensors, cohere_compass
 - [jinaai/jina-ocr-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-jinaai-jina-ocr-v1/) — image-text-to-text · transformers, safetensors, deepseek_vl_v2
 - [numind/NuExtract3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-numind-nuextract3/) — image-to-text · transformers, safetensors, image-text-to-text
-- [JuneYaooo/rea-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juneyaooo-rea-video/) — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍…
+- [JuneYaooo/rea-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juneyaooo-rea-video/) — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in …
 - [mistralai/Shieldstral-1.0-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-shieldstral-1-0-3b/) — · vllm, safetensors, mistral3
 - [PaddlePaddle/PP-OCRv6_medium_det_safetensors](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-pp-ocrv6-medium-det-safetensors/) — image-to-text · PaddleOCR, safetensors, pp_ocrv6_medium_det
 - [tencent/WeMM-Embedding-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-wemm-embedding-9b/) — feature-extraction · transformers, safetensors, qwen3_5
@@ -389,7 +389,6 @@ _Daily archive · 2026-11-10_
 - [LiquidAI/LFM2.5-Encoder-350M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm2-5-encoder-350m/) — fill-mask · transformers, safetensors, lfm2
 - [poolside/Laguna-S-2.1-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-poolside-laguna-s-2-1-nvfp4/) — text-generation · vllm, safetensors, laguna
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — · mlx, jinja, chat-template
-- [codepawl/plateau-city-glb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-codepawl-plateau-city-glb/) — · license:cc-by-4.0, size_categories:n<1K, modality:3d
 - [lerobot/FineART](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lerobot-fineart/) — · task_categories:robotics, license:cc-by-4.0, size_categories:100M<n<1B
 - [KiaBush/persian-text-to-ipa-byt5](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kiabush-persian-text-to-ipa-byt5/) — Persian (Farsi) grapheme-to-phoneme conversion to the International Phonetic Alphabet (IPA) using a fine-tune…
 - [Motif-Technologies/Motif-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-motif-technologies-motif-3/) — text-generation · transformers, safetensors, Motif
@@ -569,7 +568,7 @@ _Daily archive · 2026-11-10_
 - [fafsaf1/FlowHMR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fafsaf1-flowhmr/) — · gradio, motion-capture, zerogpu
 - [Xenova/fruit-fly-simulation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-xenova-fruit-fly-simulation/) — · static, region:us
 - [webml-community/semantic-image-field](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-webml-community-semantic-image-field/) — · static, region:us
-- [codepawl/objaverse-clean-glb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-codepawl-objaverse-clean-glb/) — · license:cc-by-4.0, size_categories:1K<n<10K, modality:3d
+- [codepawl/objaverse-clean-glb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-codepawl-objaverse-clean-glb/) — · license:cc-by-4.0, size_categories:1K<n<10K, format:parquet
 - [hugging-apps/sensenova-sensenova-u1-5-8b-mot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-sensenova-sensenova-u1-5-8b-mot/) — · gradio, mcp-server, region:us
 - [townbox/motionbricks-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-townbox-motionbricks-playground/) — · static, motion-generation, robotics
 - [codepawl/asset-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-codepawl-asset-index/) — · license:other, size_categories:10K<n<100K, format:parquet
@@ -632,7 +631,6 @@ _Daily archive · 2026-11-10_
 - [Harland/OmniVChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-harland-omnivchat/) — · task_categories:video-text-to-text, language:en, language:zh
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-magenta-community-magenta-rt-jam/) — · gradio, region:us
 - [dlouapre/nlp-before-llms](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-dlouapre-nlp-before-llms/) — · docker, research-article-template, nlp
-- [pablodawson/minimax-h3-360-orbit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pablodawson-minimax-h3-360-orbit/) — · gradio, region:us
 - [wideeyededi/uncensored-nsfw-ai-video-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wideeyededi-uncensored-nsfw-ai-video-api/) — Uncensored NSFW API for AI video generation — Seedance Spicy & Wan NSFW docs: 18+ text-to-video / image-to-vi…
 - [VIDraft/ai-world](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vidraft-ai-world/) — · docker, llm-agents, multi-agent
 - [andyhuo520/vibe-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/andyhuo520-vibe-knowledge/) — Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）
@@ -711,7 +709,7 @@ _Daily archive · 2026-11-10_
 - [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-venvoo-china-a-share-l2-level2-limit-order-book-tick-data/) — · license:other, size_categories:n>1T, region:us
 - [nvidia/PhysicalAI-Human-1M-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-human-1m-100k/) — · language:en, license:cc-by-4.0, size_categories:n<1K
 - [ovi054/Qwen-Image-Edit-2511-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ovi054-qwen-image-edit-2511-lora/) — · gradio, mcp-server, region:us
-- [lemomo-ai/lemo-opuscar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lemomo-ai-lemo-opuscar/) — A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style p…
+- [lemomo-ai/lemo-opuscar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lemomo-ai-lemo-opuscar/) — A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style p…
 - [EntranceStarfish/VoiceStudioV2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/entrancestarfish-voicestudiov2/) — Local AI voice studio: real-time voice changer, text-to-speech, voice cloning & dubbing with a drop-in OpenAI…
 - [Hcompany/trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hcompany-trajectories/) — · language:en, license:apache-2.0, size_categories:1K<n<10K
 - [LiquidAI/LFM2.5-VL-3B-WebGPU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-liquidai-lfm2-5-vl-3b-webgpu/) — · docker, region:us
@@ -747,7 +745,6 @@ _Daily archive · 2026-11-10_
 - [amisima/minimax-h3-reference-4-step-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-minimax-h3-reference-4-step-lora/) — · gradio, video, image-to-video
 - [collinear-ai/cwe-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-collinear-ai-cwe-bench/) — · benchmark:official, benchmark:eval-yaml, license:apache-2.0
 - [build-small-hackathon/dukaan-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-dukaan-saathi/) — · docker, track:backyard, sponsor:modal
-- [observantdistressed/minimax-h3-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-observantdistressed-minimax-h3-turbo/) — · gradio, region:us
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-actava-chi-bench/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [stanford-vision-lab/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-stanford-vision-lab-gpic/) — · language:en, license:mit, arxiv:2605.30341
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cha007-pornflux-i2v-6e9et/) — · static, deepsite-v4, region:us
@@ -940,7 +937,6 @@ _Daily archive · 2026-11-10_
 - [prometheus-eval/into-the-unknown](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-prometheus-eval-into-the-unknown/) — · task_categories:text-generation, license:other, size_categories:n<1K
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-prompt-routing-dataset/) — · task_categories:text-classification, task_categories:token-classification, license:mit
-- [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-minimax-h3-inpainting/) — · gradio, region:us
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-littlelearner-littlecurriculum/) — · task_categories:text-generation, language:en, license:odc-by
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — · gradio, mcp-server, region:us
 - [feyninc/feynobg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-feyninc-feynobg/) — · gradio, background-removal, image-matting
@@ -1235,15 +1231,15 @@ _Daily archive · 2026-11-10_
 - [Nathanielyseterday/traffic-monetization-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nathanielyseterday-traffic-monetization-toolkit/) — Automated digital monetization & traffic routing engine (Automatisierte Monetarisierung). Built for high-EPC …
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nxin-github-auteur/) — 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
 - [Synpath-ai/synpath](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synpath-ai-synpath/) — One open-source API for prediction markets. Trade Kalshi, Polymarket, Polymarket US and Opinion with one Pyth…
-- [igrbible/Ruach_Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/igrbible-ruach-studio/) — Ruach Studio: The Ultimate YuE2 Studio for local AI music generation. YuE2 Songs Creator, AI Writer, Refiner …
-- [mw00/project-maya](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mw00-project-maya/) — Run GLM-5.3-Flash (321B), DeepSeek-V4.1-Flash (748B) and MiniMax-M3.1-Flash (428B) on your own GPUs - one eng…
+- [igrbible/Ruach_Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/igrbible-ruach-studio/) — Ruach Studio: The Ultimate YuE2 Studio for local AI music generation. YuE2 Musician, Drama 3 Narrator, QWEN W…
+- [mw00/project-maya](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mw00-project-maya/) — Run GLM-5.3 (744B), GLM-5.3-Flash (321B), DeepSeek-V4.1-Flash (748B) and MiniMax-M3.1-Flash (428B) on your ow…
 - [SkyNotSilent/awesome-MiniMax-H3-cases](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/skynotsilent-awesome-minimax-h3-cases/) — 2084 playable MiniMax H3 / Hailuo H3 cases, 663 complete public Prompts, and 25 source-checked tutorials. Bil…
 - [mrlong0129/yominpost](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mrlong0129-yominpost/) — Self-hosted AI social media studio: one piece of material in, platform-native posts out. Format router, self-…
 - [sahilmahendrakar/paradee](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sahilmahendrakar-paradee/) — An 8M-parameter English text-to-speech model distilled from Kokoro-82M. 9 MB, runs 18x real time on one CPU t…
 - [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/abrahampaulj-nightmare-mobile/) — On-device ComfyUI style node graph for Stable Diffusion on Android. Local SD1.5, SDXL, Flux, Z-image, Anima, …
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nyanko-devs-danbooru2026/) — · task_categories:image-classification, task_categories:image-to-image, task_categories:text-to-image
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tiger3807861189-j-space-cognition-suite-v3-7/) — J-Space Cognition Suite V3.7 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace …
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruoji6-artex/) — Autumn-27/ARTEX 持续维护开源版本
+- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruoji6-artex/) — Autumn-27/ARTEX 持续维护开源版本 （Internationalized version）
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helpmeeadice-te-speed-minimaxh3-oss/) — MiniMax-H3超级缓存加速插件
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — Automatisiere dein Affiliate-Business auf Digistore24 mit Easy Ebiz Pro. Vorlagen, CTR-Optimierung & Strategi…
 - [aa1143/NamiGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aa1143-namigpt/) — 零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step
@@ -1310,7 +1306,7 @@ _Daily archive · 2026-11-10_
 - [JGRFW/comfyui-AICG3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jgrfw-comfyui-aicg3d/) — 短剧工作台 | 无限时长视频的 MiniMax H3 工作流 | ComfyUI 本地短剧与长视频生成插件
 - [youart-open-source/awesome-gpt-image-2-5-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/youart-open-source-awesome-gpt-image-2-5-prompts/) — GPT Image 2.5 prompts, verbatim and credited: 150 community prompts across 9 use cases, each with the author …
 - [HuggingFaceTB/smol-training-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacetb-smol-training-playbook/) — · docker, research-article-template, research paper
-- [Cuongyd196/cit-voice-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cuongyd196-cit-voice-studio/) — CIT Voice Stuido - Chuyển văn bản tiếng Việt thành giọng nói, chạy hoàn toàn trên máy bạn.
+- [Cuongyd196/cit-voice-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cuongyd196-cit-voice-studio/) — CIT Voice Stuido - Chuyển văn bản thành giọng nói tự nhiên ngay trên máy tính của bạn: tiếng Việt và hơn 30 n…
 - [Yuuyuko-uu/dsh-tts-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yuuyuko-uu-dsh-tts-bridge/) — DSH 朗读桥：会话里的话自动交给 DeepSeek 网页端朗读，声音从你自己的电脑里出来
 - [sgp2hidyk7jm/flux2-flux-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sgp2hidyk7jm-flux2-flux-2-prompts/) — flux-2 API (flux2 / flux 2): 1MP $0.024; 2MP $0.036; 3MP $0.048. Model id, prompts settings, curl and Python …
 - [decionis/docker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/decionis-docker/) — Govern consequential AI agent actions in Docker with deterministic policy, human approval, and signed Decisio…
@@ -1584,7 +1580,7 @@ _Daily archive · 2026-11-10_
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Personal memory across agents
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:1M<n<10M, modality:text
 - [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nanocoai-nanoclaw/) — A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, S…
-- [jundizhou/easy-stock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundizhou-easy-stock/) — A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock
+- [jundizhou/easy-stock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundizhou-easy-stock/) — A股 AI 投研
 - [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nari-labs-nari-qwen3-tts/) — Ultrafast Qwen3-TTS: sub-50 ms time-to-first-audio at 10 requests per second.
 - [avifenesh/memra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avifenesh-memra/) — Rust + CUDA inference engine for NVIDIA RTX PRO 6000 Blackwell and RTX 5090. Serves safetensors and GGUF over…
 - [tonhowtf/omniget](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tonhowtf-omniget/) — Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouT…
@@ -2265,7 +2261,7 @@ _Daily archive · 2026-11-10_
 - [MemTensor/memmy-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/memtensor-memmy-agent/) — 🍙 A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memor…
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/filiksyos-gitreverse/) — Reverse engineer any repo into it's original prompt
 - [moss-site/moss-trade-bot-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/moss-site-moss-trade-bot-skills/) — LLM-powered trading agents that turn plain natural language into a five-pillar strategy: Trend, Mean-Reversio…
-- [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samvallad33-vestige/) — Think before doing, prove before saving. Vestige is the local-first cognitive operating system and determinis…
+- [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/samvallad33-vestige/) — Deterministic Operating System and Causal Nervous System for Artificial Intelligence.
 - [universal-tool-calling-protocol/code-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/universal-tool-calling-protocol-code-mode/) — 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
 - [Coolver/home-assistant-vibecode-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/coolver-home-assistant-vibecode-agent/) — Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-…
 - [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
@@ -2397,12 +2393,11 @@ _Daily archive · 2026-11-10_
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gauss314-skills/) — Financial market data consumption skills for claude code and AI agents
 - [syrizelink/OpenFic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syrizelink-openfic/) — 专为小说创作打造的跨平台、用户友好、AI Native 的一站式 Vibe Writing 工具。A cross-platform, user-friendly, AI-native, all-in-one Vibe …
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mrgediao-shuorenhua/) — 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT…
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/strukto-ai-mirage/) — The World's First Virtual Terminal for AI Agents
 - [TuolaGe/vertical-talking-head-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tuolage-vertical-talking-head-video/) — A portable workflow for polished 9:16 digital-human talking-head videos.
 - [BlackMixture/Mix-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blackmixture-mix-studio/) — The cleanest, responsive AI workspace. Run highly tuned image and video workflows flawlessly from your deskto…
 - [cporter202/stock-market-signal-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cporter202-stock-market-signal-automation/) — Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and a…
 - [laolaoshiren/claude-code-skills-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laolaoshiren-claude-code-skills-zh/) — 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新
-- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orc…
+- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — SynapseOrch: AI workflows that follow the plan. Describe a job, approve the steps, run them on any model, loc…
 - [op7418/guizang-material-illustration](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/op7418-guizang-material-illustration/) — 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
 - [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eddmpython-dartlab/) — Korean DART + SEC EDGAR filings as structured Python data for company analysis
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmquant-skills/) — Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounde…

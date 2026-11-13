@@ -888,7 +888,6 @@ _每日存檔 · 2026-08-07_
 - [ongridio/ongrid](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ongridio-ongrid/) — 理解基礎設施並自動解決問題的Ops AI代理。
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-open-swe-traces/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 - [Rohit-Dnath/RAMen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohit-dnath-ramen/) — 快速記憶體資料庫，專為AI設計，具備向量搜尋和MCP伺服器功能。
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/strukto-ai-mirage/) — 為 AI 代理設計的一體化虛擬檔案系統。
 - [fspecii/ace-step-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fspecii-ace-step-ui/) — ACE-Step 1.5 的專業 UI，免費、本地化、無限音樂生成工具。
 - [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minishlab-semble/) — 快速且精確的程式碼搜尋工具，比 grep+read 少用約 98% 的 token。
 - [mlabonne/open-perfectblend](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mlabonne-open-perfectblend/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

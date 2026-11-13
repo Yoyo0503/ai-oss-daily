@@ -4,5 +4,5 @@ An on-device AI agent for Android that operates apps and the web to get things d
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：7,912
+**Stars**：8,401
 **Source**：https://github.com/wangzan101/Mika

@@ -657,7 +657,6 @@ _Daily archive · 2026-09-23_
 - [microsoft/ThinkingBox-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-microsoft-thinkingbox-bench/) — · task_categories:reinforcement-learning, language:en, license:cdla-permissive-2.0
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-prompt-routing-dataset/) — · task_categories:text-classification, task_categories:token-classification, license:mit
-- [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-minimax-h3-inpainting/) — · gradio, region:us
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-littlelearner-littlecurriculum/) — · task_categories:text-generation, language:en, license:odc-by
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — · gradio, mcp-server, region:us
 - [feyninc/feynobg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-feyninc-feynobg/) — · gradio, background-removal, image-matting
@@ -1797,7 +1796,7 @@ _Daily archive · 2026-09-23_
 - [code-yeongyu/lazycodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/code-yeongyu-lazycodex/) — The one and only agent harness for complex codebases. Project memory, planning, execution, and verified compl…
 - [inhouseseo/superseo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inhouseseo-superseo-skills/) — 11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, …
 - [diegoalvarezmgl/quantstats-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diegoalvarezmgl-quantstats-pro/) — Enhanced drop-in replacement for QuantStats — portfolio analytics for quants
-- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orc…
+- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — SynapseOrch: AI workflows that follow the plan. Describe a job, approve the steps, run them on any model, loc…
 - [zlab-princeton/i1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zlab-princeton-i1/) — Code release for "i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models"
 - [CIntellifusion/MultiWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cintellifusion-multiworld/) — Official Implementation of MultiWorld: Scalable Multi-Agent Multi-View Video World Models
 - [jidouqie/redbeacon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jidouqie-redbeacon/) — RedBeacon｜开源 Skill 与安装入口：连接本机客户端，完成定位、对标、选题、创作、审稿、发布与账号级全流程自动化
@@ -1824,7 +1823,6 @@ _Daily archive · 2026-09-23_
 - [artokun/comfyui-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/artokun-comfyui-mcp/) — Claude Code plugin + MCP server for ComfyUI — 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph…
 - [Greenysmac/awesome-davinci-resolve](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/greenysmac-awesome-davinci-resolve/) — A curated list of awesome DaVinci Resolve plugins, tools, and resources. Community-curated by /r/colorists an…
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mrgediao-shuorenhua/) — 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT…
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/strukto-ai-mirage/) — The World's First Virtual Terminal for AI Agents
 - [laolaoshiren/claude-code-skills-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laolaoshiren-claude-code-skills-zh/) — 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新
 - [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eddmpython-dartlab/) — Korean DART + SEC EDGAR filings as structured Python data for company analysis
 - [OpenDemon/Pilipili-AutoVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/opendemon-pilipili-autovideo/) — 🎬 全自动 AI 视频代理 · 一句话生成带字幕成片 · Fully Automated AI Video Agent · Local Deployment

@@ -620,7 +620,6 @@ _Daily archive · 2026-09-19_
 - [zc6503204-collab/stock-strategy-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zc6503204-collab-stock-strategy-dashboard/) — 本地运行的A股/美股多策略选股、模拟交易与风控提醒工作台｜Local-first and read-only
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-prompt-routing-dataset/) — · task_categories:text-classification, task_categories:token-classification, license:mit
-- [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-minimax-h3-inpainting/) — · gradio, region:us
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-littlelearner-littlecurriculum/) — · task_categories:text-generation, language:en, license:odc-by
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — · gradio, mcp-server, region:us
 - [feyninc/feynobg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-feyninc-feynobg/) — · gradio, background-removal, image-matting
@@ -1745,7 +1744,6 @@ _Daily archive · 2026-09-19_
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/claudiodrews-memory-os/) — A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric …
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mrgediao-shuorenhua/) — 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT…
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/strukto-ai-mirage/) — The World's First Virtual Terminal for AI Agents
 - [DaoyuanLi2816/tracedistill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-tracedistill/) — Distill teacher chains-of-thought into a LoRA adapter via a strict boxed-answer format contract + two-phase T…
 - [laolaoshiren/claude-code-skills-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laolaoshiren-claude-code-skills-zh/) — 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新
 - [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eddmpython-dartlab/) — Korean DART + SEC EDGAR filings as structured Python data for company analysis
@@ -1903,7 +1901,7 @@ _Daily archive · 2026-09-19_
 - [ferosai/feros](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ferosai-feros/) — Open-source voice agent OS. Rust runtime, AI-driven builder, sub second latency. Self-host everything.
 - [PocketRisu/PocketRisu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pocketrisu-pocketrisu/) — Self-hosted AI roleplay chat platform you run on your PC or personal server, forked from Risuai
 - [multivmlabs/aeo.js](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/multivmlabs-aeo-js/) — Answer Engine Optimization for the modern web. Make your site discoverable by ChatGPT, Claude, Perplexity & A…
-- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orc…
+- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — SynapseOrch: AI workflows that follow the plan. Describe a job, approve the steps, run them on any model, loc…
 - [mozi1924/Qwen3-TTS-EasyFinetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mozi1924-qwen3-tts-easyfinetuning/) — Easy fine-tuning for Qwen3-TTS: Fast voice cloning and high-quality multilingual speech synthesis.
 - [likeslines-maker/QuantCore.Net](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/likeslines-maker-quantcore-net/) — QuantCore.Net is a high-performance .NET library for quantitative finance computations with low latency,deter…
 - [PolyX-Research/Awesome-Remote-Sensing-Agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/polyx-research-awesome-remote-sensing-agents/) — 🚀Official Repository of Intelligent Remote Sensing Agents: A Survey

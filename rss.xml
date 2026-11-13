@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>10 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>13 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>Comfy-Org/RelayVSR</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-relayvsr/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-relayvsr/</guid>
-<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
-<description>無條件影像生成模型，使用擴散單檔案架構。</description>
+<title>MiniMaxAI/MiniMax-H3-Image</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/</guid>
+<pubDate>13 Nov 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換成影像的AI模型，支援影像生成和編輯。</description>
 </item>
 <item>
-<title>ConwayResearch/Underdog-Woof</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conwayresearch-underdog-woof/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conwayresearch-underdog-woof/</guid>
-<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
-<description>文字轉語音模型，適用於CPU環境。</description>
+<title>Zyphra/ZONOS3-Mini</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos3-mini/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos3-mini/</guid>
+<pubDate>13 Nov 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換成語音的AI模型，支援多語言語音合成。</description>
 </item>
 <item>
-<title>VideoRebirthAI/hyperflow-h3-flash</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-videorebirthai-hyperflow-h3-flash/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-videorebirthai-hyperflow-h3-flash/</guid>
-<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
-<description>將影像和文本轉換為影片的模型。</description>
+<title>mradermacher/gemma-4-31B-it-ARA-heretic-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mradermacher-gemma-4-31b-it-ara-heretic-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mradermacher-gemma-4-31b-it-ara-heretic-gguf/</guid>
+<pubDate>13 Nov 2026 08:00:00 +0000</pubDate>
+<description>模型推理／部署引擎，關鍵字：transformers、GGUF量化（依標籤自動歸類，詳細看下方原文）</description>
 </item>
 <item>
-<title>milind-soni/OpenMausBot</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/</guid>
-<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
-<description>OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。</description>
+<title>morluto/rea</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</guid>
+<pubDate>13 Nov 2026 08:00:00 +0000</pubDate>
+<description>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</description>
 </item>
 <item>
-<title>pbakaus/impeccable</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pbakaus-impeccable/</guid>
-<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
-<description>設計語彙庫，用於指導程式代理，避免AI生成的錯誤。</description>
+<title>ccch1mneyyy/dsh-Go</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/</guid>
+<pubDate>13 Nov 2026 08:00:00 +0000</pubDate>
+<description>DeepSeek手機應用，可在手機上執行並遙控電腦。</description>
 </item>
 <item>
-<title>black-forest-labs/flux-3-image-klein-comfy</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/</guid>
-<pubDate>10 Nov 2026 08:00:00 +0000</pubDate>
-<description>使用ComfyUI的影像轉換模型，支援影像生成和編輯。</description>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
+<pubDate>13 Nov 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
 </item>
 </channel>
 </rss>

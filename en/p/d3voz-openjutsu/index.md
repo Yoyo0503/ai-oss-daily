@@ -4,5 +4,5 @@ One-click character swap for videos: an open-source, local Higgsfield Genjutsu a
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,041
+**Stars**：2,265
 **Source**：https://github.com/D3voz/openjutsu

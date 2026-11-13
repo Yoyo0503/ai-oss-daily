@@ -4,5 +4,5 @@ Free, open source video downloader for Windows, macOS and Linux that AI agents c
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：14,412
+**Stars**：14,372
 **Source**：https://github.com/tonhowtf/omniget

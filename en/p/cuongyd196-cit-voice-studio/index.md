@@ -1,8 +1,8 @@
 # Cuongyd196/cit-voice-studio
 
-CIT Voice Stuido - Chuyển văn bản tiếng Việt thành giọng nói, chạy hoàn toàn trên máy bạn.
+CIT Voice Stuido - Chuyển văn bản thành giọng nói tự nhiên ngay trên máy tính của bạn: tiếng Việt và hơn 30 ngôn ngữ khác.
 
-**Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
+**Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：160
+**Stars**：179
 **Source**：https://github.com/Cuongyd196/cit-voice-studio

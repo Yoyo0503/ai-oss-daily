@@ -2,9 +2,9 @@
 
 Awesome-Open-Source-Trading 是一個整理了 450 多個開源交易專案和 110 多個量化策略論文的清單。
 
-**為何上榜**：近一日新增 12★（現 38★）
+**為何上榜**：近一日新增 4★（現 42★）
 
 **商用授權**：可商用 — 可商用，CC-BY 類需署名
 
-**Stars**：38
+**Stars**：42
 **原始連結**：https://github.com/WallStreetPete/awesome-open-source-trading

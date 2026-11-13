@@ -4,5 +4,5 @@ FilmCraft: An open-source, nonlinear video editor written from scratch in pure R
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：17,929
+**Stars**：18,155
 **Source**：https://github.com/storytold/filmcraft

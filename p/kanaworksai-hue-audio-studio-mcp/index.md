@@ -2,9 +2,9 @@
 
 audio-studio-mcp 是一個在地端執行的音效生成工具。
 
-**為何上榜**：近一日新增 22★（現 630★）
+**為何上榜**：近一日新增 28★（現 658★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：630
+**Stars**：658
 **原始連結**：https://github.com/kanaworksai-hue/audio-studio-mcp

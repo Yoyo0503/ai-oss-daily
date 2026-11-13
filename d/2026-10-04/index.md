@@ -747,7 +747,6 @@ _每日存檔 · 2026-10-04_
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-supralabs-prompt-routing-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NoizAI/YuE2-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/noizai-yue2-turbo/) — 加速版 YuE2 音樂生成器，大幅提升每首歌的生成速度和效率。
 - [hypit-ai/hypit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/) — 使用 AI 代理程式克隆病毒影片，自動生成多種變體。
-- [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-minimax-h3-inpainting/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-littlelearner-littlecurriculum/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [feyninc/feynobg](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-feyninc-feynobg/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1948,7 +1947,6 @@ _每日存檔 · 2026-10-04_
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/) — 提供給Claude程式碼和AI代理使用的金融市場資料消費技能。
 - [karnstack/reins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/karnstack-reins/) — 控制真實瀏覽器的AI代理工具。
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrgediao-shuorenhua/) — 中文優先的去AI味改寫技能，保留事實，適合多場景使用。
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/strukto-ai-mirage/) — 為 AI 代理設計的一體化虛擬檔案系統。
 - [M4F-S/gomaa](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/m4f-s-gomaa/) — gomaa — 自主代理記憶作業系統。為AI代理提供持久記憶系統，整合Obsidian vault，具備混合RRF搜尋、知識圖譜、安全閘門和MCP伺服器。
 - [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadevin-ilab-conjure/) — 用於GPT-image-2的AI圖片生成工作臺，支援Codex回應和OpenAPI接入。
 - [devcxl/mattpocock-skills-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/devcxl-mattpocock-skills-zh/) — Matt Pocock 技能集的中文翻譯版，每日中午12點同步更新。

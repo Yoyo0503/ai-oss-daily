@@ -4,5 +4,5 @@ Curated map of 450+ open-source trading projects (backtesting, IBKR, Kalshi/Poly
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：38
+**Stars**：42
 **Source**：https://github.com/WallStreetPete/awesome-open-source-trading

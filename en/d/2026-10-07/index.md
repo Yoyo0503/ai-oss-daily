@@ -337,7 +337,7 @@ _Daily archive · 2026-10-07_
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ibm-granite-granite-4-2-30b/) — text-generation · transformers, safetensors, granite
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-2i-pornmaster-krea2/) — · gradio, region:us
-- [lemomo-ai/lemo-opuscar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lemomo-ai-lemo-opuscar/) — A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style p…
+- [lemomo-ai/lemo-opuscar](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lemomo-ai-lemo-opuscar/) — A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style p…
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [nvidia/Cosmos3-Edge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-cosmos3-edge/) — · cosmos, diffusers, safetensors
 - [badtheorylabs/BTL-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-badtheorylabs-btl-3/) — text-generation · peft, safetensors, agent
@@ -492,7 +492,6 @@ _Daily archive · 2026-10-07_
 - [SageBio/rare-disease-real-kid-mva-hackathon-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sagebio-rare-disease-real-kid-mva-hackathon-2026/) — · gradio, region:us
 - [FINAL-Bench/POCKET-35B-CPU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-35b-cpu/) — · docker, region:us
 - [chrisssut/testground2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-chrisssut-testground2/) — · gradio, region:us
-- [pablodawson/minimax-h3-360-orbit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pablodawson-minimax-h3-360-orbit/) — · gradio, region:us
 - [victor/fable-5-boeing-747](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-fable-5-boeing-747/) — · static, region:us
 - [timoncool/YuE2-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/timoncool-yue2-studio/) — Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, cover…
 - [biglam/britannica-illustrated-pages](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-biglam-britannica-illustrated-pages/) — · task_categories:image-classification, language:en, license:other
@@ -744,7 +743,6 @@ _Daily archive · 2026-10-07_
 - [jdopensource/JoyAI-VL-Interaction](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jdopensource-joyai-vl-interaction/) — · task_categories:video-text-to-text, license:apache-2.0, arxiv:2606.14777
 - [SupraLabs/Prompt-Routing-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-supralabs-prompt-routing-dataset/) — · task_categories:text-classification, task_categories:token-classification, license:mit
 - [arimanyus/warrenduffer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arimanyus-warrenduffer/) — AI-driven intraday trading bot for Indian stocks. Jev ranks the Nifty 50 every 15s; code sizes each trade and…
-- [linoyts/minimax-h3-inpainting](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-minimax-h3-inpainting/) — · gradio, region:us
 - [littlelearner/LittleCurriculum](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-littlelearner-littlecurriculum/) — · task_categories:text-generation, language:en, license:odc-by
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — · gradio, mcp-server, region:us
 - [feyninc/feynobg](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-feyninc-feynobg/) — · gradio, background-removal, image-matting
@@ -769,7 +767,7 @@ _Daily archive · 2026-10-07_
 - [apimart-api-ai-Aggregator/seedance-2.5-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/apimart-api-ai-aggregator-seedance-2-5-api/) — Seedance 2.5 API (seedance-2.5): per-second pricing by resolution, up to 30-second text-to-video and referenc…
 - [Synpath-ai/synpath](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synpath-ai-synpath/) — One open-source API for prediction markets. Trade Kalshi, Polymarket, Polymarket US and Opinion with one Pyth…
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/stuccodestroyer-writesonic/) — 內容生成工具。
-- [Cuongyd196/cit-voice-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cuongyd196-cit-voice-studio/) — CIT Voice Stuido - Chuyển văn bản tiếng Việt thành giọng nói, chạy hoàn toàn trên máy bạn.
+- [Cuongyd196/cit-voice-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cuongyd196-cit-voice-studio/) — CIT Voice Stuido - Chuyển văn bản thành giọng nói tự nhiên ngay trên máy tính của bạn: tiếng Việt và hơn 30 n…
 - [antirez/deepseek-v4-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-antirez-deepseek-v4-gguf/) — text-generation · gguf, quantized, deepseek
 - [TeichAI/Fable-5-Cursor-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-teichai-fable-5-cursor-traces/) — · language:en, license:apache-2.0, size_categories:n<1K
 - [apimart-API-Gateway/grok-image-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/apimart-api-gateway-grok-image-api/) — Grok Image API (Grok Imagine 1.5, grok-imagine-1.5-apimart): model ids, per-image pricing, text-to-image and …
@@ -947,7 +945,7 @@ _Daily archive · 2026-10-07_
 - [aleksandr-alhoff/seo-landing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aleksandr-alhoff-seo-landing/) — SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer. An agent skill fo…
 - [fqgate/FQGate-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fqgate-fqgate-agent/) — 大 A免费开源AI插件FQGate-agent（原插件名 tonghuasun-agent）：为 Codex、Claude Code、DeepSeek 等 AI 工具提供本机 A 股实时行情、K 线、Level2、资讯…
 - [Sebastianmaxter/ai-profit-sniper-strategy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sebastianmaxter-ai-profit-sniper-strategy/) — 24/7 automated market analysis and technical signal alert system for quantitative researchers, algorithmic tr…
-- [jundizhou/easy-stock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundizhou-easy-stock/) — A股行情分析与AI智能投研智能体：股票分析、量化交易分析、盘后复盘桌面工作台——easy stock
+- [jundizhou/easy-stock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jundizhou-easy-stock/) — A股 AI 投研
 - [ekunish/answercarefully-dpo-ja-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ekunish-answercarefully-dpo-ja-2026/) — · task_categories:text-generation, language:ja, license:other
 - [Seraphinayes/wordpress-link-tracking-cloaking-guide-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seraphinayes-wordpress-link-tracking-cloaking-guide-de/) — Ein praxisnaher Leitfaden für WordPress Link-Cloaking & Affiliate Tracking im DACH-Raum. DSGVO-konform, blitz…
 - [FlyRank/internship-warehouse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-flyrank-internship-warehouse/) — · language:en, license:other, size_categories:10M<n<100M
@@ -1946,7 +1944,7 @@ _Daily archive · 2026-10-07_
 - [zlab-princeton/i1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zlab-princeton-i1/) — Code release for "i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models"
 - [dongshuyan/compass-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dongshuyan-compass-skills/) — 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents
 - [CIntellifusion/MultiWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cintellifusion-multiworld/) — Official Implementation of MultiWorld: Scalable Multi-Agent Multi-View Video World Models
-- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orc…
+- [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/synapseorch-ai-synapse-ai/) — SynapseOrch: AI workflows that follow the plan. Describe a job, approve the steps, run them on any model, loc…
 - [techjarves/Portable-Diffusion](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/techjarves-portable-diffusion/) — [Deprecated] Zero-configuration local AI studio. Active development has moved to Uncensored-Local-Studio.
 - [jidouqie/redbeacon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jidouqie-redbeacon/) — RedBeacon｜开源 Skill 与安装入口：连接本机客户端，完成定位、对标、选题、创作、审稿、发布与账号级全流程自动化
 - [speakeasy-api/gram](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/speakeasy-api-gram/) — Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute a…
@@ -1977,7 +1975,6 @@ _Daily archive · 2026-10-07_
 - [Greenysmac/awesome-davinci-resolve](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/greenysmac-awesome-davinci-resolve/) — A curated list of awesome DaVinci Resolve plugins, tools, and resources. Community-curated by /r/colorists an…
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gauss314-skills/) — Financial market data consumption skills for claude code and AI agents
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mrgediao-shuorenhua/) — 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT…
-- [strukto-ai/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/strukto-ai-mirage/) — The World's First Virtual Terminal for AI Agents
 - [taisly/agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/taisly-agent/) — Taisly Agent Kit: MCP server, CLI, SDK, and agent docs for publishing videos to TikTok, Reels, Shorts, X, and…
 - [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thenicolas1894-awesome-claude-fable-5-prompt-vault/) — Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks
 - [laolaoshiren/claude-code-skills-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/laolaoshiren-claude-code-skills-zh/) — 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新
