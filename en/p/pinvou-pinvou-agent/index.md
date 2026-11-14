@@ -4,5 +4,5 @@ Open-source desktop AI agent for tools, files, knowledge, workflows, and real de
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,995
+**Stars**：3,014
 **Source**：https://github.com/Pinvou/pinvou-agent

@@ -4,5 +4,5 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：66,729
+**Stars**：66,897
 **Source**：https://github.com/cathrynlavery/diagram-design

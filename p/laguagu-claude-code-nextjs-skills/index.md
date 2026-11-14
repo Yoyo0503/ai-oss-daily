@@ -2,9 +2,9 @@
 
 Claude Code 技能套件，適用於 Next.js 16 開發。
 
-**為何上榜**：71★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 72★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：71
+**Stars**：72
 **原始連結**：https://github.com/laguagu/claude-code-nextjs-skills
