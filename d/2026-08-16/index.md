@@ -961,7 +961,6 @@ _每日存檔 · 2026-08-16_
 - [ASLP-lab/WSC-Train](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aslp-lab-wsc-train/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mergisi/awesome-openclaw-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mergisi-awesome-openclaw-agents/) — 162 個可直接用的 OpenClaw AI agent 模板（19 類 SOUL.md 設定）。
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/breaking-brake-cc-wf-studio/) — 用於工作流程自動化的 CC Workflow Studio 工具。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-uv-scripts-ocr/) — Hugging Face 資料集，關鍵字：OCR（依標籤自動歸類，詳細看下方原文）
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/) — DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。
 - [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anbeime-skill/) — 提供涵蓋多個領域的技能包商店，自動抓取 GitHub 上的 Skills 專案並整理。

@@ -11,7 +11,7 @@ _Daily archive · 2026-09-11_
 - [Lubi153/Pro-Realism-Edit-Studio-v.17](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lubi153-pro-realism-edit-studio-v-17/) — · gradio, region:us
 - [toshas/Marigold-V2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-toshas-marigold-v2/) — · gradio, region:us
 - [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-venvoo-china-a-share-l2-level2-limit-order-book-tick-data/) — · license:other, size_categories:n>1T, region:us
-- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — Complete Production Environment for professional MiniMax Music 3 audio generation, including Prompt Generatio…
+- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — ⛔ No longer maintained - the successor is the Plenio Music Production System 2.0 (comfyui-plenio-music)
 - [huawei-bayerlab/marigold-v2-web](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huawei-bayerlab-marigold-v2-web/) — · static, region:us
 - [tencent/AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-tencent-auk/) — · gradio, region:us
 - [facebook/sam3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-facebook-sam3/) — mask-generation · transformers, safetensors, sam3_video
@@ -466,7 +466,7 @@ _Daily archive · 2026-09-11_
 - [actava/chi-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-actava-chi-bench/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [hugging-apps/minimax-h3-flashgen-4step](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-minimax-h3-flashgen-4step/) — · gradio, region:us
 - [tigerless-labs/seo-ops](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tigerless-labs-seo-ops/) — SEO foundation checks as an Agent Skill: give it a URL, get a crawler's-eye pass/fail report with evidence. 2…
-- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — Complete Production Environment for professional MiniMax Music 3 audio generation, including Prompt Generatio…
+- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — ⛔ No longer maintained - the successor is the Plenio Music Production System 2.0 (comfyui-plenio-music)
 - [stanford-vision-lab/gpic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-stanford-vision-lab-gpic/) — · language:en, license:mit, arxiv:2605.30341
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cha007-pornflux-i2v-6e9et/) — · static, deepsite-v4, region:us
 - [nineninesix/gepard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-nineninesix-gepard/) — · gradio, region:us
@@ -723,7 +723,7 @@ _Daily archive · 2026-09-11_
 - [CohereLabs/cohere-parse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-cohere-parse/) — · gradio, region:us
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [tnandla/portfolio-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tnandla-portfolio-os/) — Self-hosted operations app for teams running a portfolio of websites: projects, an encrypted credential vault…
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-techfreakworm-ltx2-3-studio/) — · gradio, region:us
 - [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seesee75-commits-comfyui-minimaxh3-director/) — A timeline editor for MiniMax H3 inside ComfyUI - storyboard prompts, first/last keyframes, image/video/audio…
 - [JitRoy2024/Qwen_Img_Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jitroy2024-qwen-img-space/) — · gradio, region:us
@@ -776,7 +776,7 @@ _Daily archive · 2026-09-11_
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oomol-lab-open-connector/) — Open-source auth gateway connecting 1700+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAP…
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helpmeeadice-te-speed-minimaxh3-oss/) — MiniMax-H3超级缓存加速插件
 - [rajpurkar/squad](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rajpurkar-squad/) — · task_categories:question-answering, task_ids:extractive-qa, annotations_creators:crowdsourced
-- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，解决不会写提示词的问题。
+- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，随机产出高质量提示词。
 - [mat-nolen/tldr-radio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mat-nolen-tldr-radio/) — Turn the daily TLDR newsletters into a podcast. Local, deterministic, no LLM.
 - [chadhurley25075-png/pd-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chadhurley25075-png-pd-bridge/) — Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (Mac Studi…
 - [ARahim3/kaggle-tpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arahim3-kaggle-tpu-lab/) — Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~165 tok/s, our own JAX engine…
@@ -1191,7 +1191,6 @@ _Daily archive · 2026-09-11_
 - [amitshekhariitbhu/transformers-explained](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amitshekhariitbhu-transformers-explained/) — Transformer architecture explained step by step - the full architecture, every attention variant, positional …
 - [Anthropic/BioMysteryBench-full](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-biomysterybench-full/) — · license:cc-by-4.0, region:us
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rohitg00-ai-engineering-from-scratch/) — Learn it. Build it. Ship it for others.
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-bernini/) — Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner …
 - [quantskills/skill-backtest-overfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantskills-skill-backtest-overfit/) — Detect backtest overfitting & multiple testing: Deflated Sharpe Ratio, PBO (CSCV), purged/embargoed CV, Harve…

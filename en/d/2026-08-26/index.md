@@ -452,7 +452,7 @@ _Daily archive · 2026-08-26_
 - [build-small-hackathon/LocalDuo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-localduo/) — · gradio, track:backyard, achievement:offgrid
 - [mayafree/Model-Genome-Korea](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mayafree-model-genome-korea/) — · static, korean-llm, korean-ai
 - [AdvocateArouse/DaVinci-Resolve-Studio-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/advocatearouse-davinci-resolve-studio-2026/) — DaVinci Resolve Studio workflow — color grading, Fusion comps and delivery presets on Windows.
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [mfzheng/Scene2Wave](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mfzheng-scene2wave/) — · task_categories:feature-extraction, license:other, size_categories:n<1K
 - [PatronusAI/figmatrace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-patronusai-figmatrace/) — · task_categories:image-text-to-text, language:en, license:cc-by-4.0
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-image-studio/) — · static, text-to-image, korean
@@ -1085,7 +1085,6 @@ _Daily archive · 2026-08-26_
 - [OtterMind/Nubase](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ottermind-nubase/) — 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, …
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/enping-hu-minimind-deep-dive/) — 从 MiniMind 源码读起,再延伸到现代大模型技术体系的中文学习笔记。主线逐行精读预训练 / SFT / DPO / PPO / GRPO 与训练机制;附录 17 篇进阶卷覆盖量化、投机解码、RLHF 全景、模型代…
 - [asciimoo/hister](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/asciimoo-hister/) — Your own search engine
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/claudiodrews-memory-os/) — A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric …
 - [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evermind-ai-raven/) — The Harness of Harnesses: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collabora…

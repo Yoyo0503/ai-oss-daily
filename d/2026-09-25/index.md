@@ -1305,7 +1305,6 @@ _每日存檔 · 2026-09-25_
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [XiaomiMiMo/MiMo-Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaomimimo-mimo-code/) — 模型與代理共演進的 AI 工具。
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [CyberSunil/LLMVault](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cybersunil-llmvault/) — 用於AI安全、提示注入等的故意脆弱OWASP LLM訓練平臺。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。

@@ -13,9 +13,9 @@ _每日存檔 · 2026-08-15_
 - [Koukyosyumei/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koukyosyumei-h5i-db/) — 用於量化研究的終端機筆記本和高效能時系列資料庫。
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ffroliva/gflow-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ffroliva-gflow-cli/) — 從命令列驅動Google Flow，支援批次處理和程式碼代理。
 - [lidge-jun/ima2-gen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lidge-jun-ima2-gen/) — 本地優先的視覺生成環境，適用於人工智慧代理。
+- [Electricitysheep/ai-agent-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/electricitysheep-ai-agent-playbook/) — AI代理工程與量化金融知識庫，包含原始碼分析和實驗程式碼。
 
 ## 🚀 Star 竄升
 
@@ -983,7 +983,6 @@ _每日存檔 · 2026-08-15_
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tencentcloud-tencentdb-agent-memory/) — 提供完全本地化的長期記憶系統，支援AI代理的四層進階流程。
 - [zeroclaw-labs/zeroclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zeroclaw-labs-zeroclaw/) — 快速、小型且完全自主的 AI 個人助理系統，可在任何作業系統上部署。
 - [Genesis1231/Eva01](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/genesis1231-eva01/) — 具備自我意識的 AI 實體，支援終端機和 API 操作，內建語音與臉部辨識。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nduckmink/arkon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nduckmink-arkon/) — 企業級AI知識中心，支援自託管和多模型接入。
 - [stuinfla/Repo-Explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuinfla-repo-explainer/) — 將GitHub專案轉換成視覺化說明頁面的工具。
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denissergeevitch-agents-best-practices/) — Codex、Claude Code 和其他平臺的通用代理技能。

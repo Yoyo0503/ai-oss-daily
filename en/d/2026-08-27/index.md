@@ -450,7 +450,7 @@ _Daily archive · 2026-08-27_
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [mfzheng/Scene2Wave](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mfzheng-scene2wave/) — · task_categories:feature-extraction, license:other, size_categories:n<1K
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-image-studio/) — · static, text-to-image, korean
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
 - [Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pepe104-minimax-h3-turbo-lora-uncensored/) — · gradio, region:us
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
@@ -1094,7 +1094,6 @@ _Daily archive · 2026-08-27_
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmquant-skills/) — Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounde…
 - [asciimoo/hister](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/asciimoo-hister/) — Your own search engine
 - [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kadevin-ilab-conjure/) — 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/knockoutez-wigolo/) — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, n…
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.

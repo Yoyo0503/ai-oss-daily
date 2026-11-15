@@ -936,7 +936,6 @@ _每日存檔 · 2026-11-08_
 - [zhanghao123vip/ai-manju-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhanghao123vip-ai-manju-skills/) — 生成漫畫劇全流程的AI技能，包括企劃案、圖資提示詞等。
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gallerypheasanttongs-melodyne/) — 音樂旋律提取和MIDI生成工具。
 - [papisoV/Selenequant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/papisov-selenequant/) — 本地化AI量化研究平臺，支援問題持久化和版本控制。
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [edenfunf/reelmimic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/edenfunf-reelmimic/) — 讓AI根據喜愛的影片風格生成新影片。
 - [mvaccargiu/gitskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mvaccargiu-gitskills/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1728,7 +1727,6 @@ _每日存檔 · 2026-11-08_
 - [phone-harness/phone-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phone-harness-phone-harness/) — 讓你的代理程式控制你的手機。
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。

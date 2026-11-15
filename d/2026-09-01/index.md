@@ -1140,7 +1140,6 @@ _每日存檔 · 2026-09-01_
 - [browser-act/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/browser-act-skills/) — 用於AI代理的瀏覽器自動化CLI工具，支援跨平臺操作和多工執行。
 - [OranAi-Ltd/orangeo-ai-visibility-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oranai-ltd-orangeo-ai-visibility-skill/) — 開放原始碼的AI可見性檢查工具，用於檢測網站SEO和競爭對手差距。
 - [wuxuedaifu/vllm-chatterbox-stream](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuxuedaifu-vllm-chatterbox-stream/) — 相容OpenAI的多語言TTS伺服器，支援即時音訊流、語音克隆及23種語言。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ai4bharat-msmarco-xi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [myc0576/SmartMoney-Cub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/myc0576-smartmoney-cub/) — AI 貿易伴侶，用於決策日誌和規則演進。
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。

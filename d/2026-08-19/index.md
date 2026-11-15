@@ -1018,7 +1018,6 @@ _每日存檔 · 2026-08-19_
 - [quysto/QUYQUY-AntigravityAwesomeSkills-GodVersion-bumbum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quysto-quyquy-antigravityawesomeskills-godversion-bumbum/) — 包含1500多種代理技能的GitHub庫，適用於Claude Code等AI代理。
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/homeassistant-ai-ha-mcp/) — 一個非官方的家庭自動化MCP伺服器，與Home Assistant整合。
 - [microsoft/ResearchStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-researchstudio/) — AI 合作者，從研究問題到最終發表的一站式解決方案。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vigozhao-ai-visual-prompt-cookbook/) — AI影像生成的可重用JSON提示模板集合，每日更新。
 - [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/runapi-ai-mcp/) — RunAPI 的模型發現和價格查詢伺服器，提供 LLM 聊天功能。
 - [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jasoncolapietro-suede-creator-skills/) — 28 個開放原始碼的 Agent 技能，適用於 Claude Code 和 Codex。

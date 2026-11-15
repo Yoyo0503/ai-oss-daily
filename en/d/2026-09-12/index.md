@@ -660,7 +660,7 @@ _Daily archive · 2026-09-12_
 - [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-glm5-2-kimi-k3-distillation/) — · task_categories:text-generation, language:en, language:zh
 - [armand0e/minimax-m3-claude-code-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-armand0e-minimax-m3-claude-code-traces/) — · task_categories:text-generation, size_categories:n<1K, format:json
 - [RefVideo6M/RefVideo6M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-refvideo6m-refvideo6m/) — · license:cc-by-nc-4.0, modality:video, arxiv:2608.26101
-- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — Complete Production Environment for professional MiniMax Music 3 audio generation, including Prompt Generatio…
+- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — ⛔ No longer maintained - the successor is the Plenio Music Production System 2.0 (comfyui-plenio-music)
 - [muratmula/ai-robinhood-chain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/muratmula-ai-robinhood-chain/) — Autonomous multi-agent crypto intelligence & trading ecosystem for Robinhood Chain L2 (EVM #4663) operated vi…
 - [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elementarrow-make-com/) — Make.com
 - [Jackrong/DeepSeek-V4-Pro-Distilled-200K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-deepseek-v4-pro-distilled-200k/) — · task_categories:text-generation, language:en, license:cc-by-4.0
@@ -751,7 +751,7 @@ _Daily archive · 2026-09-12_
 - [PNGTRID/AnvilWiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pngtrid-anvilwiki/) — ⚒️ Open-source game wiki template. Astro + Cloudflare Pages. Free, fast, beginner-friendly. Static-first, zer…
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-locallaws-locus-v1/) — · task_categories:text-classification, language:en, license:cc-by-nc-4.0
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanliudesign-mono-color-skill/) — One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained…
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [Sebastianmaxter/ai-profit-sniper-strategy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sebastianmaxter-ai-profit-sniper-strategy/) — 24/7 automated market analysis and technical signal alert system for quantitative researchers, algorithmic tr…
 - [ekunish/answercarefully-dpo-ja-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ekunish-answercarefully-dpo-ja-2026/) — · task_categories:text-generation, language:ja, license:other
 - [Seraphinayes/wordpress-link-tracking-cloaking-guide-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seraphinayes-wordpress-link-tracking-cloaking-guide-de/) — Ein praxisnaher Leitfaden für WordPress Link-Cloaking & Affiliate Tracking im DACH-Raum. DSGVO-konform, blitz…
@@ -791,7 +791,7 @@ _Daily archive · 2026-09-12_
 - [wanshuiyin/HERO-Anti-OverDefense](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wanshuiyin-hero-anti-overdefense/) — HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in …
 - [pengpengyi92/dsh-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pengpengyi92-dsh-quant/) — "🐳 Dsh-Quant: The Everything-Plugin Ai native Quant OS "
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，解决不会写提示词的问题。
+- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，随机产出高质量提示词。
 - [Heroesjouney/AIMovieStudiov2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/heroesjouney-aimoviestudiov2/) — Model-agnostic AI filmmaking workstation. 3D storyboard, ComfyUI local + Fal/Replicate cloud, multi-reference…
 - [uw-math-ai/math-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uw-math-ai-math-graph/) — · task_categories:text-retrieval, task_categories:feature-extraction, language:en
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pireel-pireel/) — The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.
@@ -1124,7 +1124,6 @@ _Daily archive · 2026-09-12_
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [Anthropic/BioMysteryBench-full](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-biomysterybench-full/) — · license:cc-by-4.0, region:us
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rohitg00-ai-engineering-from-scratch/) — Learn it. Build it. Ship it for others.
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [ArcReel/ArcReel](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arcreel-arcreel/) — AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Age…

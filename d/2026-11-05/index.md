@@ -910,7 +910,6 @@ _每日存檔 · 2026-11-05_
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [drowzeys/Imagination-Studio-by-keys-Wasserman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drowzeys-imagination-studio-by-keys-wasserman/) — 由keys+Wasserman驅動的AI電影工作室，支援Mac和NVIDIA DGX Spark。
 - [Toyhom/awesome-computational-character-modeling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/toyhom-awesome-computational-character-modeling/) — 計算機角色建模的資源列表，涵蓋角色扮演方法、資料基礎和評估。
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [smolagents/hf-realtime-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [CodeSoft/SLM-Arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-codesoft-slm-arena/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gallerypheasanttongs-melodyne/) — 音樂旋律提取和MIDI生成工具。
@@ -1703,7 +1702,6 @@ _每日存檔 · 2026-11-05_
 - [PNGTRID/AnvilWiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pngtrid-anvilwiki/) — 開源遊戲維基模板，適用於快速部署。
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tayyabimam1/awesome-ai-agent-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tayyabimam1-awesome-ai-agent-stack/) — 開源 AI 代理工具地圖，涵蓋 3000 多個工具，按層級排序。
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。

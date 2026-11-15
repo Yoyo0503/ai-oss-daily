@@ -548,7 +548,7 @@ _Daily archive · 2026-08-30_
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-vast-ai-triposplat/) — · gradio, region:us
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — · arxiv:2602.09892, region:us
 - [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nari-labs-nari-qwen3-tts/) — Ultrafast Qwen3-TTS: sub-50 ms time-to-first-audio at 10 requests per second.
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [smolagents/hf-realtime-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-smolagents-hf-realtime-voice/) — · docker, region:us
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gallerypheasanttongs-melodyne/) — Melodyne
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helpmeeadice-te-speed-minimaxh3-oss/) — MiniMax-H3超级缓存加速插件
@@ -1124,7 +1124,6 @@ _Daily archive · 2026-08-30_
 - [UditAkhourii/adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/uditakhourii-adhd/) — ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans o…
 - [Syh1906/openai-compatible-imagegen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syh1906-openai-compatible-imagegen/) — Standalone Skill and Codex Plugin for OpenAI-compatible image generation, editing, batch workflows, QA, and f…
 - [bytedance/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bytedance-lance/) — A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and edit…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jcodesmore-ai-website-cloner-template/) — Clone any website with one command using AI coding agents

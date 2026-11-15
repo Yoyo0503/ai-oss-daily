@@ -1537,7 +1537,6 @@ _每日存檔 · 2026-10-21_
 - [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anbeime-skill/) — 提供涵蓋多個領域的技能包商店，自動抓取 GitHub 上的 Skills 專案並整理。
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [Omni-Scientist/Awesome-AI-Scientist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omni-scientist-awesome-ai-scientist/) — Awesome-AI-Scientist 是一個包含AI科學家相關資源的清單。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。
 - [Anionex/agent-vision-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anionex-agent-vision-toolkit/) — 為純文本模型設計的視覺工具箱，支援圖片問答、前端UI還原和GUI自動化。

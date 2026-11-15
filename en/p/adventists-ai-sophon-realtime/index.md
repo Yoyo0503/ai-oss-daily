@@ -4,5 +4,5 @@ Sophon-Realtime v1.1: open full-duplex voice models that hear your tone and spea
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：313
+**Stars**：326
 **Source**：https://github.com/adventists-ai/sophon-realtime

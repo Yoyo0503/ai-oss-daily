@@ -1034,7 +1034,6 @@ _每日存檔 · 2026-08-20_
 - [DaoyuanLi2816/tracedistill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-tracedistill/) — 將教師模型的思想鏈轉換為 LoRA 介面卡，以訓練推理模型。
 - [quysto/QUYQUY-AntigravityAwesomeSkills-GodVersion-bumbum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quysto-quyquy-antigravityawesomeskills-godversion-bumbum/) — 包含1500多種代理技能的GitHub庫，適用於Claude Code等AI代理。
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/homeassistant-ai-ha-mcp/) — 一個非官方的家庭自動化MCP伺服器，與Home Assistant整合。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/) — 使用 AI 機器人克隆網站的工具。
 - [databricks/databricks-dolly-15k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-databricks-databricks-dolly-15k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

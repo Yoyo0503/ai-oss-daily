@@ -1080,7 +1080,6 @@ _每日存檔 · 2026-09-04_
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。
 - [vybenetwork/solana-swap-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vybenetwork-solana-swap-api/) — Solana交換API及路由器。
 - [ARahim3/mlx-dspark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arahim3-mlx-dspark/) — MLX 版本的 DSpark，適用於 Apple Silicon，加速 LLM 解碼。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [louisedesadeleer/b-roll-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/louisedesadeleer-b-roll-finder/) — 根據指令碼自動搜尋和插入背景影片片段的工具。
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/) — Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。

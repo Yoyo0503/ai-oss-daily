@@ -1112,7 +1112,6 @@ _每日存檔 · 2026-08-31_
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/) — DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/) — 提供給Claude程式碼和AI代理使用的金融市場資料消費技能。
 - [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thenicolas1894-awesome-claude-fable-5-prompt-vault/) — Claude Fable 5 使用案例、整合及效能評估指南。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ai4bharat-msmarco-xi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LoganBooker/SesquiLSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loganbooker-sesquilsr/) — 支援SDXL等模型的任意比例上取樣器，包含ComfyUI節點和預訓練權重。
 - [Aliu-AiRobot/ESEILANE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aliu-airobot-eseilane/) — 高效率知識圖譜引擎，適用於 AI、大語言模型和 GraphRAG。

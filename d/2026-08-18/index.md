@@ -1009,7 +1009,6 @@ _每日存檔 · 2026-08-18_
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。
 - [quysto/QUYQUY-AntigravityAwesomeSkills-GodVersion-bumbum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quysto-quyquy-antigravityawesomeskills-godversion-bumbum/) — 包含1500多種代理技能的GitHub庫，適用於Claude Code等AI代理。
 - [Saganaki22/Dots-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-dots-tts-comfyui/) — Dots-TTS-ComfyUI 提供自定義節點，支援文字轉語音、聲音複製及 transcription。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/homeassistant-ai-ha-mcp/) — 一個非官方的家庭自動化MCP伺服器，與Home Assistant整合。
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/) — 使用 AI 機器人克隆網站的工具。

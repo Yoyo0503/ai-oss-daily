@@ -458,7 +458,7 @@ _Daily archive · 2026-08-28_
 - [mfzheng/Scene2Wave](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-mfzheng-scene2wave/) — · task_categories:feature-extraction, license:other, size_categories:n<1K
 - [FINAL-Bench/POCKET-Image-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-image-studio/) — · static, text-to-image, korean
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pepe104-minimax-h3-turbo-lora-uncensored/) — · gradio, region:us
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
@@ -1105,7 +1105,6 @@ _Daily archive · 2026-08-28_
 - [cclank/lanshu-awesome-ai-video-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-awesome-ai-video-kit/) — 做企业 AI 视频项目逼出来的工具包 · 411 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论
 - [mediago-dev/mediago-drama](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mediago-dev-mediago-drama/) — 小说改短剧，从文本到视频的一站式 Agent 工作台。
 - [Saganaki22/Moss_TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-moss-tts-comfyui/) — ComfyUI nodes for MOSS-TTS-Local-Transformer-v1.5 , a 48 kHz stereo local Transformer TTS model with direct g…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text
 - [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/manavarya09-design-extract/) — Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP…
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/llmquant-skills/) — Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounde…

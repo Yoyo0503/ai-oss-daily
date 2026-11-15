@@ -4,7 +4,7 @@ _Daily archive · 2026-08-19_
 
 ## 🆕 New
 
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [Leutenegger/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leutenegger-book-to-skill/) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [hassancs91/claude-youtube-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/hassancs91-claude-youtube-editor/) — Record the talking head, Claude Code does the rest: the cut, the visuals, the voice, the sound effects, the t…
 - [Montgomery66/massive-passive-ai-blueprint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/montgomery66-massive-passive-ai-blueprint/) — 😎 A curated list of awesome AI automation strategies, LLM workflows, and system architectures for building au…
@@ -315,7 +315,7 @@ _Daily archive · 2026-08-19_
 - [FINAL-Bench/POCKET-35B-CPU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-pocket-35b-cpu/) — · docker, region:us
 - [victor/fable-5-boeing-747](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-fable-5-boeing-747/) — · static, region:us
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dietrichgebert-ponytail/) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [multimodalart/higgs-audio-v3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-higgs-audio-v3-tts/) — · gradio, region:us
 - [feyninc/pulpie](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-feyninc-pulpie/) — · gradio, region:us
 - [obsxrver/wan22-i2v-omni-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-obsxrver-wan22-i2v-omni-lora/) — · gradio, region:us
@@ -1018,7 +1018,6 @@ _Daily archive · 2026-08-19_
 - [quysto/QUYQUY-AntigravityAwesomeSkills-GodVersion-bumbum](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quysto-quyquy-antigravityawesomeskills-godversion-bumbum/) — Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravi…
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server
 - [microsoft/ResearchStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-researchstudio/) — ResearchStudio: Our AI co-author, from research problem to final publication.
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vigozhao-ai-visual-prompt-cookbook/) — 118+ plug-and-play JSON style packs for Nano Banana Pro, GPT Image & Midjourney. Copy one JSON, get a style. …
 - [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/runapi-ai-mcp/) — RunAPI MCP server for model discovery, pricing lookup, media task creation, and balance checks.
 - [JasonColapietro/suede-creator-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jasoncolapietro-suede-creator-skills/) — Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operat…

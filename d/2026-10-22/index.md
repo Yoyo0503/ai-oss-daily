@@ -1540,7 +1540,6 @@ _每日存檔 · 2026-10-22_
 - [Anthropic/BioMysteryBench-full](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-biomysterybench-full/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TaoLiveAIGC/TLive-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taoliveaigc-tlive-omni/) — 適用於電商直播的全模態理解模型。
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [egoist/waku](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egoist-waku/) — 用於程式碼代理的本地應用。

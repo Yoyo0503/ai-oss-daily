@@ -597,7 +597,6 @@ _每日存檔 · 2026-10-30_
 - [ucsandman/marketing-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ucsandman-marketing-studio/) — Claude Code驅動的行銷工作室，自動生成產品推廣素材。
 - [hugging-apps/ltx-2-5-alpha-matte](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-ltx-2-5-alpha-matte/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [huggingface-projects/rf-detr-realtime-webcam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingface-projects-rf-detr-realtime-webcam/) — RF-DETR 即時網路攝影機物件偵測示範（HF Space）。
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [microsoft/mage-vl-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-mage-vl-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Enderfga/SolarRenderer-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-enderfga-solarrenderer-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SageBio/rare-disease-real-kid-mva-hackathon-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-sagebio-rare-disease-real-kid-mva-hackathon-2026/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1647,7 +1646,6 @@ _每日存檔 · 2026-10-30_
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
 - [NU-World-Model-Embodied-AI/phyground](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nu-world-model-embodied-ai-phyground/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [pacifio/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pacifio-atlas/) — 用於管理AI程式碼代理的原始碼控制工具，追蹤代理修改並查詢。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。

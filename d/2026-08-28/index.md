@@ -1105,7 +1105,6 @@ _每日存檔 · 2026-08-28_
 - [藍書 AI 影片工具包](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-awesome-ai-video-kit/) — 做企業 AI 影片專案累積出的實戰工具包：411 個 prompt、15 個模型、7 個 Claude Skill。
 - [mediago-dev/mediago-drama](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mediago-dev-mediago-drama/) — 從文本生成短劇的 AI 工作臺，支援小說改編。
 - [Saganaki22/Moss_TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-moss-tts-comfyui/) — 用於MOSS-TTS的ComfyUI節點，支援語音克隆和控制。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ai4bharat-msmarco-xi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manavarya09-design-extract/) — 從網站提取完整設計系統的Chrome擴充功能，支援多平臺發射器。
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。

@@ -4,6 +4,7 @@
 - [feder-cr/invisible_playwright_mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/feder-cr-invisible-playwright-mcp/) — invisible_playwright_mcp 是一個使用 AI 代理在隱藏模式下瀏覽網頁的工具。
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/illiahaidar-mcptrustchecker/) — 用於掃描 MCP 伺服器的安全工具，檢查潛在風險。
 - [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jub0t-concat/) — Concat 是一個免費的跨平臺影片編輯器，可替代 CapCut。
+- [onehumanbeing/esp32-iphone-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onehumanbeing-esp32-iphone-agent/) — 使用ESP32控制iPhone的AI代理。
 - [Glen-Web-App/best-agent-memory-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glen-web-app-best-agent-memory-mcp/) — 提供Claude Code等AI代理的長期記憶服務，並進行排名比較。
 - [NJohansen/handle-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/njohansen-handle-mcp/) — 丹麥超市網站的MCP伺服器，提供商品搜尋和價格比較。
 - [zhutoumeme/mcd-git](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhutoumeme-mcd-git/) — 使用 Git 命令模擬點餐，生成麥當勞消費貢獻圖，非官方應用。
@@ -19,9 +20,9 @@
 - [decionis/docker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/decionis-docker/) — 在Docker中管理AI代理行動，確保政策確定性和人為批准。
 - [duty1g/x64dbg-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duty1g-x64dbg-mcp-server/) — x64dbg-MCP Server 是一個 HTTP 外掛，讓 AI 助手可以控制 x64dbg 進行二進位分析。
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
-- [Appllama/appllama-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appllama-appllama-skills/) — 將熱門應用程式轉換成高品質手機螢幕的 AI 技能。
 - [Mcp-Brasil/mcp-brasil](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mcp-brasil-mcp-brasil/) — MCP Server 提供巴西 70 個公開 API 的伺服器。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
+- [Appllama/appllama-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appllama-appllama-skills/) — 將熱門應用程式轉換成高品質手機螢幕的 AI 技能。
 - [Rath-Team/OpenRath](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rath-team-openrath/) — 開源、類似PyTorch的工作流程執行時環境，適用於多代理和多會話。
 - [scenario-labs/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scenario-labs-skills/) — AI代理生成影像、影片、音訊和3D模型的技能集。
 - [HKUDS/nanobot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-nanobot/) — 輕量級、開源的 AI 代理，適用於工具、聊天和工作流程。
@@ -46,17 +47,16 @@
 - [pacifio/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pacifio-atlas/) — 用於管理AI程式碼代理的原始碼控制工具，追蹤代理修改並查詢。
 - [tianma-if/edgeever](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tianma-if-edgeever/) — 開源知識庫，Evernote 替代品，支援原生 MCP，免費在 Cloudflare 或 Docker 上執行。
 - [asciimoo/hister](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asciimoo-hister/) — 個人化搜尋引擎，可索引瀏覽器歷史紀錄。
+- [beenuar/AiSOC](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beenuar-aisoc/) — 開源AI安全運營中心，提供警報融合和MITRE ATT&CK調查。
+- [irinabuht12-oss/marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irinabuht12-oss-marketing-skills/) — marketing-skills 為 Claude Code 和 claude.ai 提供 49 種免費行銷技能。
 - [archestra-ai/archestra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archestra-ai-archestra/) — 一個具有防護措施、MCP 註冊和閘道器的企業 AI 平臺。
 - [atilaahmettaner/tradingview-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atilaahmettaner-tradingview-mcp/) — 即時加密貨幣與股票篩選工具，內建 Claude 桌面整合。
-- [irinabuht12-oss/marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irinabuht12-oss-marketing-skills/) — marketing-skills 為 Claude Code 和 claude.ai 提供 49 種免費行銷技能。
 - [irinabuht12-oss/google-meta-ads-ga4-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irinabuht12-oss-google-meta-ads-ga4-mcp/) — 適用於 Google Ads、Meta Ads 和 GA4 的 MCP 伺服器，支援多種 AI 工具。
-- [beenuar/AiSOC](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beenuar-aisoc/) — 開源AI安全運營中心，提供警報融合和MITRE ATT&CK調查。
-- [Pinvou/pinvou-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pinvou-pinvou-agent/) — 開源桌面AI代理，管理工具、檔案、知識和工作流程。
-- [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minishlab-semble/) — 快速且精確的程式碼搜尋工具，比 grep+read 少用約 98% 的 token。
 - [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thclaws-thclaws/) — 開源AI代理框架，提供GUI、CLI等多種介面，支援多供應商。
 - [FlorianBruniaux/claude-code-ultimate-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/florianbruniaux-claude-code-ultimate-guide/) — Claude Code 的全面指南，涵蓋從初學者到高階使用者的所有內容。
+- [MinishLab/semble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minishlab-semble/) — 快速且精確的程式碼搜尋工具，比 grep+read 少用約 98% 的 token。
 - [davepoon/buildwithclaude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/davepoon-buildwithclaude/) — 一個單一中心，用於查詢擴充套件 Claude Code 和其他平臺的技能和外掛。
 - [bethington/ghidra-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bethington-ghidra-mcp/) — 基於 Ghidra 的 AI 功能反向工程工具集。
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oomol-lab-open-connector/) — 開源認證門戶，連線SaaS供應商與AI代理。
-- [duhu2000/dsh-mcp-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/duhu2000-dsh-mcp-connector/) — 連線伺服器和搜尋工具的管理器，支援OAuth 2.0 PKCE和API金鑰。
+- [Pinvou/pinvou-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pinvou-pinvou-agent/) — 開源桌面AI代理，管理工具、檔案、知識和工作流程。
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。

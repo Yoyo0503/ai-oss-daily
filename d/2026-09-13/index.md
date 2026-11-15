@@ -1127,7 +1127,6 @@ _每日存檔 · 2026-09-13_
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [pixelpainter/comfyui-AI-prompt-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pixelpainter-comfyui-ai-prompt-editor/) — 一個完整的 ComfyUI 標題編輯工作室，支援 AI 編輯和無線標題注入。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/) — Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。
 - [ArcReel/ArcReel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arcreel-arcreel/) — 使用 AI 代理生成影片的工作平臺，從小說到最終成品一鍵完成。

@@ -844,7 +844,7 @@ _Daily archive · 2026-09-27_
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anthropics-skills/) — Public repository for Agent Skills
 - [JitRoy2024/Qwen_Img_Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jitroy2024-qwen-img-space/) — · gradio, region:us
 - [Saganaki22/ComfyUI-Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/saganaki22-comfyui-breeze-tts-2/) — Breeze TTS 2 nodes for ComfyUI: voice clone, voice design, and voice direction with bilingual (EN/ZH) speech,…
-- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — Complete Production Environment for professional MiniMax Music 3 audio generation, including Prompt Generatio…
+- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — ⛔ No longer maintained - the successor is the Plenio Music Production System 2.0 (comfyui-plenio-music)
 - [CMRobot/MotionDecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cmrobot-motiondecode/) — · region:us
 - [QwenAudio/qwen-audio-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/qwenaudio-qwen-audio-agent/) — A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agen…
 - [Specterchoreflect/Stable-Diffusion-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/specterchoreflect-stable-diffusion-pro/) — Stable Diffusion Pro — Stable Diffusion Pro 2026 — local image generation with SDXL, ControlNet, LoRA. Stable…
@@ -947,7 +947,7 @@ _Daily archive · 2026-09-27_
 - [whitecircle/halo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whitecircle-halo/) — Halo is an open-source framework built by White Circle for training large language and multimodal models
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [nvidia/Cosmos3-DROID](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos3-droid/) — · license:openmdw-1.1, size_categories:1K<n<10K, modality:video
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [worldwonderer/video-recap-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-video-recap-skills/) — Turn any video into a narration recap with claude code skill｜用claude code skill把任何视频剪辑成中文解说视频，支持剪映导出
 - [worldbench/DiffusionOPSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldbench-diffusionopsd/) — 🔥 On-Policy Self-Distillation in Diffusion Models
 - [jbilcke-hf/ai-comic-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jbilcke-hf-ai-comic-factory/) — · docker, region:us
@@ -970,7 +970,7 @@ _Daily archive · 2026-09-27_
 - [genspark-ai/genoffice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/genspark-ai-genoffice/) — Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), Powe…
 - [BaYue-SYJ/shuixian-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bayue-syj-shuixian-prompts/) — 水仙的AI提示词｜5,000+ 中文 AI 绘画提示词库：检索 / 分类 / 一键复制。提示词覆盖 ChatGPT、Grok、Gemini、Midjourney、Stable Diffusion、Flux、即梦、可灵、…
 - [xcslys99/FootageFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xcslys99-footageflow/) — Open-source footage search, research workspace & link downloader for macOS and Windows.
-- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，解决不会写提示词的问题。
+- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，随机产出高质量提示词。
 - [avifenesh/bw24](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avifenesh-bw24/) — bw24 — from-scratch LLM inference for RTX 5090 (sm_120a) and H100 (sm_90a)
 - [re4/LibreCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/re4-librecode/) — LibreCode - A Ollama cursor like coding / Reversing Interface
 - [syv-ai/HyperQwen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syv-ai-hyperqwen/) — Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with vLLM: 127 …
@@ -1324,7 +1324,6 @@ _Daily archive · 2026-09-27_
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rohitg00-ai-engineering-from-scratch/) — Learn it. Build it. Ship it for others.
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tylogi-tyloquant/) — Get more intelligence from every bit. Better quantization formats and smarter calibration let larger, stronge…
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/knockoutez-wigolo/) — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, n…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 小优AIGC（抖音小优与AIGC的奇妙冒险）的 AI 摄影剧组 skill —— 电影摄影级生图提示词生成器，可装入 Claude Code / Codex / Hermes
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize

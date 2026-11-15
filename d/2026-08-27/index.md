@@ -1094,7 +1094,6 @@ _每日存檔 · 2026-08-27_
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。
 - [asciimoo/hister](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asciimoo-hister/) — 個人化搜尋引擎，可索引瀏覽器歷史紀錄。
 - [kadevin/ilab-conjure](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadevin-ilab-conjure/) — 用於GPT-image-2的AI圖片生成工作臺，支援Codex回應和OpenAPI接入。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ai4bharat-msmarco-xi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。

@@ -1409,7 +1409,6 @@ _每日存檔 · 2026-10-07_
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [Ali-hey-0/audio-ai-field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ali-hey-0-audio-ai-field-guide/) — 從原始波形到生產語音系統的音訊 AI 應用指南，涵蓋 ASR、TTS 和音訊分類等。
 - [JustVugg/lumabri](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/justvugg-lumabri/) — 在您的計算機和伺服器上執行大型 AI 模型，由 Colibri 提供動力。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [makralabs/makra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/makralabs-makra/) — Makra 是一個介於網路和 AI 代理之間的記憶層，提供即時結構化資料。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。

@@ -1057,7 +1057,6 @@ _每日存檔 · 2026-08-22_
 - [TexasBedouin/vibe-check](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/texasbedouin-vibe-check/) — 幫助初學者從模糊的想法到具體的計劃，再到實際開發的工具。
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-field-reels-af/) — 利用AI系統自動化製作熱門短影片和TikTok內容。
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ruvnet/agenticow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruvnet-agenticow/) — 用於嵌入式多代理記憶系統的 Git 風格分支機制，效能優異且佔用空間小。
 - [helloianneo/ian-xiaohei-scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helloianneo-ian-xiaohei-scenes/) — Xiaohei 2.0 繪製中文實物插圖和漫畫長卷的技能模組。
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/homeassistant-ai-ha-mcp/) — 一個非官方的家庭自動化MCP伺服器，與Home Assistant整合。

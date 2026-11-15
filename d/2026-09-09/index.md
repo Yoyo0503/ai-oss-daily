@@ -1113,7 +1113,6 @@ _每日存檔 · 2026-09-09_
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。
 - [MontyGovernance/montycat-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/montygovernance-montycat-mcp/) — 為 AI 代理提供持久記憶的伺服器，支援 Claude、Cursor 和 Codex 等。
 - [discoveredlabs/awesome-aeo-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/discoveredlabs-awesome-aeo-seo/) — 工程師和增長行銷人員的AEO和SEO資源清單。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/) — Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。
 - [internet-court/internet-court-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/internet-court-internet-court-skill/) — 代理間交易的信任層，提供自然語言指令和爭議解決功能。

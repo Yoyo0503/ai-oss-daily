@@ -885,7 +885,6 @@ _每日存檔 · 2026-11-13_
 - [t-tech/TRuST](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-t-tech-trust/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SargeDev/jev-distill-corpus-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sargedev-jev-distill-corpus-v3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MiG-NJU/OmniVideo-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mig-nju-omnivideo-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [acvlab/abot-world-interactive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-acvlab-abot-world-interactive/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [tahoebio/EmeraldBay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tahoebio-emeraldbay/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cua-ai/cua-s1-forms](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cua-ai-cua-s1-forms/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1763,7 +1762,6 @@ _每日存檔 · 2026-11-13_
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [animede/Realtime_Narration_Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/animede-realtime-narration-video/) — 即時生成講話角色的AI工具。

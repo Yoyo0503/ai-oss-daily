@@ -939,7 +939,6 @@ _每日存檔 · 2026-11-07_
 - [antirez/deepseek-v4-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-antirez-deepseek-v4-gguf/) — 基於 GGUF 格式的深度搜尋文本生成模型。
 - [kulkas2pintu/wan777](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-wan777/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/Fable-5-Cursor-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-fable-5-cursor-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
 - [didilili/mianstack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/didilili-mianstack/) — 面向程式設計師的面試題庫，涵蓋多種技術領域。
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-artefactory-ledger-market-sentiment/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1723,7 +1722,6 @@ _每日存檔 · 2026-11-07_
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
 - [tsingyuai/growth-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsingyuai-growth-lab/) — 從程式碼到市場的開源增長工具，自動化營銷活動。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。

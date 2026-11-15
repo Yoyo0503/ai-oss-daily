@@ -12,7 +12,7 @@ _Daily archive · 2026-09-03_
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-openai-clip-vit-base-patch32/) — zero-shot-image-classification · transformers, pytorch, tf
 - [datapointai/text-to-speech-human-preferences-315k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-datapointai-text-to-speech-human-preferences-315k/) — · task_categories:text-to-speech, task_categories:reinforcement-learning, language:en
 - [2akouwu/reverify](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/2akouwu-reverify/) — Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not…
-- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，解决不会写提示词的问题。
+- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，随机产出高质量提示词。
 - [prithivMLmods/Qwen3.8-27B-Object-Detection](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-qwen3-8-27b-object-detection/) — · gradio, mcp-server, region:us
 - [CodeSoft/SLM-Arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-codesoft-slm-arena/) — · gradio, region:us
 - [mat-nolen/tldr-radio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mat-nolen-tldr-radio/) — Turn the daily TLDR newsletters into a podcast. Local, deterministic, no LLM.
@@ -534,7 +534,7 @@ _Daily archive · 2026-09-03_
 - [Audio8/Audio8-TTS-Preview-0.6b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-audio8-audio8-tts-preview-0-6b/) — · docker, region:us
 - [ProCreations/grug-think](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-procreations-grug-think/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — · language:en, license:other, modality:video
-- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，解决不会写提示词的问题。
+- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，随机产出高质量提示词。
 - [PatronusAI/figmatrace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-patronusai-figmatrace/) — · task_categories:image-text-to-text, language:en, license:cc-by-4.0
 - [hugging-apps/firered-tts3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-firered-tts3/) — · gradio, mcp-server, region:us
 - [averoo/low_resource_parallel_corpora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-averoo-low-resource-parallel-corpora/) — · task_categories:translation, multilinguality:translation, language:ru
@@ -655,7 +655,7 @@ _Daily archive · 2026-09-03_
 - [CohereLabs/cohere-parse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-cohere-parse/) — · gradio, region:us
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanliudesign-mono-color-skill/) — One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained…
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — · task_categories:text-generation, task_categories:question-answering, language:en
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [tnandla/portfolio-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tnandla-portfolio-os/) — Self-hosted operations app for teams running a portfolio of websites: projects, an encrypted credential vault…
 - [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nari-labs-nari-qwen3-tts/) — Ultrafast Qwen3-TTS: sub-50 ms time-to-first-audio at 10 requests per second.
 - [CopilotKit/OpenBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/copilotkit-openbot/) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action…
@@ -1073,7 +1073,6 @@ _Daily archive · 2026-09-03_
 - [Anthropic/BioMysteryBench-full](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-biomysterybench-full/) — · license:cc-by-4.0, region:us
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rohitg00-ai-engineering-from-scratch/) — Learn it. Build it. Ship it for others.
 - [QuantiaAI/helm-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantiaai-helm-agents/) — 多智能体 LLM 股票/加密交易决策台 —— 13 位 AI 分析师研究、辩论、风控压测,收敛出可追溯、可实时观看的交易决策。 | Multi-agent LLM trading desk: 13 AI analyst…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [louisedesadeleer/b-roll-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/louisedesadeleer-b-roll-finder/) — Source accurate, on-brand b-roll for talking-head video — podcast & tutorial intros. Reads your transcript, r…
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize

@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-11-14T08:00:00+00:00</updated>
+<updated>2026-11-15T08:00:00+00:00</updated>
 <entry>
-<title>chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/</id>
-<updated>2026-11-14T08:00:00+00:00</updated>
-<summary>Qwen-Image 是一個文本轉影像模型，支援影像編輯和量化的文本生成。</summary>
+<title>higurashi-ai/Haru-4B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-higurashi-ai-haru-4b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-higurashi-ai-haru-4b/</id>
+<updated>2026-11-15T08:00:00+00:00</updated>
+<summary>將語音轉換為語音的模型，支援全雙工語音對話。</summary>
 </entry>
 <entry>
-<title>Edge0/Edge0-145B-NVFP4</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-145b-nvfp4/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-145b-nvfp4/</id>
-<updated>2026-11-14T08:00:00+00:00</updated>
-<summary>Edge0 是一個大型語言模型，支援邊緣推理和4位元運算。</summary>
+<title>ConceptCountry/qwen-concept-27b</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conceptcountry-qwen-concept-27b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conceptcountry-qwen-concept-27b/</id>
+<updated>2026-11-15T08:00:00+00:00</updated>
+<summary>基於Qwen的權重編輯模型，適用於概念推理。</summary>
 </entry>
 <entry>
-<title>thinkingmachines/Inkling-2-Small</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling-2-small/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling-2-small/</id>
-<updated>2026-11-14T08:00:00+00:00</updated>
-<summary>Inkling-2-Small 是一個影像文字轉文本模型，支援對話式和多工運算。</summary>
+<title>CosmicThemagnet/glove-respocket</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cosmicthemagnet-glove-respocket/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cosmicthemagnet-glove-respocket/</id>
+<updated>2026-11-15T08:00:00+00:00</updated>
+<summary>基於區塊鏈的Web3投資組合分析和最佳化工具。</summary>
 </entry>
 <entry>
-<title>Ebony-Vinyl/dsh-our-free-model</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</id>
-<updated>2026-11-14T08:00:00+00:00</updated>
-<summary>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</summary>
+<title>anthropics/skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</id>
+<updated>2026-11-15T08:00:00+00:00</updated>
+<summary>公開的Agent Skills儲存庫。</summary>
 </entry>
 <entry>
-<title>milind-soni/OpenMausBot</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/</id>
-<updated>2026-11-14T08:00:00+00:00</updated>
-<summary>OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。</summary>
+<title>deepseek-ai/deepseek-harness</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</id>
+<updated>2026-11-15T08:00:00+00:00</updated>
+<summary>一切皆可作為外掛的AI代理框架。</summary>
 </entry>
 <entry>
-<title>PrunaAI/P-H3-Image-Comfy</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/</id>
-<updated>2026-11-14T08:00:00+00:00</updated>
-<summary>使用 ComfyUI 的文本生成影像模型。</summary>
+<title>Edge0/Audio8-ASR-Infinite</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</id>
+<updated>2026-11-15T08:00:00+00:00</updated>
+<summary>自動語音辨識模型，支援即時語音轉文字。</summary>
 </entry>
 </feed>

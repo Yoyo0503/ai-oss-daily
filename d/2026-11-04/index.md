@@ -880,7 +880,6 @@ _每日存檔 · 2026-11-04_
 - [averoo/low_resource_parallel_corpora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-averoo-low-resource-parallel-corpora/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ethanplusai/astro-conversion-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ethanplusai-astro-conversion-kit/) — 將WordPress網站轉換為靜態Astro網站的工具。
 - [OKX Agent 交易套件](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-okx-agent-trade-kit/) — 用 MCP/CLI 串接 OKX 現貨/合約的 AI agent 交易工具包。
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [attentionAllYouNeed/Vibe-Coding-Claude-Fable-5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-attentionallyouneed-vibe-coding-claude-fable-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [microsoft/ThinkingBox-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-microsoft-thinkingbox-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prometheus-eval/into-the-unknown](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-prometheus-eval-into-the-unknown/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1689,7 +1688,6 @@ _每日存檔 · 2026-11-04_
 - [veedstudio/open-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/veedstudio-open-edit/) — 一個使用 AI 代理的影片編輯工具，可自訂字幕和轉錄。
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amazingdraw-amazingdraw/) — AmazingDraw 是一個本地 ComfyUI 抽卡引擎，解決不會寫提示詞的問題。
 - [tayyabimam1/awesome-ai-agent-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tayyabimam1-awesome-ai-agent-stack/) — 開源 AI 代理工具地圖，涵蓋 3000 多個工具，按層級排序。
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

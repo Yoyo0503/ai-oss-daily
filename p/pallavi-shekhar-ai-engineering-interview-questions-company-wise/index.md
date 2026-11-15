@@ -2,9 +2,9 @@
 
 AI工程師面試 cheatsheet，提供各大公司的面試題目與解答。
 
-**為何上榜**：近一日新增 6★（現 2,063★）
+**為何上榜**：近一日新增 3★（現 2,066★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,063
+**Stars**：2,066
 **原始連結**：https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise

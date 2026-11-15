@@ -858,7 +858,6 @@ _每日存檔 · 2026-11-03_
 - [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zouhar-last-translation-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [papisoV/Selenequant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/papisov-selenequant/) — 本地化AI量化研究平臺，支援問題持久化和版本控制。
 - [LiberCoders/Claw-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-libercoders-claw-anything/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [trace-commons/agent-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-trace-commons-agent-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SupraLabs/reasoning-summaries-61k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-supralabs-reasoning-summaries-61k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [acvlab/ABot-World-Explorer-500h](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-acvlab-abot-world-explorer-500h/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1682,7 +1681,6 @@ _每日存檔 · 2026-11-03_
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
 - [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/) — 使用大模型驅動的完整電商客服自動化系統。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tayyabimam1/awesome-ai-agent-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tayyabimam1-awesome-ai-agent-stack/) — 開源 AI 代理工具地圖，涵蓋 3000 多個工具，按層級排序。
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。

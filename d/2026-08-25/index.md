@@ -1078,7 +1078,6 @@ _每日存檔 · 2026-08-25_
 - [zlab-princeton/i1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zlab-princeton-i1/) — 強大的文字轉影像模型的開放式食譜程式碼。
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raiyanyahya-llmaker/) — 現代大語言模型堆疊的自我主控工具，可在終端機上執行整個模型群組。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/) — 使用 AI 機器人克隆網站的工具。

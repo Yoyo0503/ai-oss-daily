@@ -810,7 +810,6 @@ _每日存檔 · 2026-10-31_
 - [tahoebio/EmeraldBay](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tahoebio-emeraldbay/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cua-ai/cua-s1-forms](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cua-ai-cua-s1-forms/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [google/gemma-4-31B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-gemma-4-31b-it/) — Google Gemma 4 31B 指令調校多模態模型。
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [ICML-2026-agent-repro/challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-icml-2026-agent-repro-challenge/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [schema-harness/arc-agi-3-schema-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-schema-harness-arc-agi-3-schema-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FineEnvs/multi-harness-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fineenvs-multi-harness-rl/) — Hugging Face 示範應用(Space)，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
@@ -1649,7 +1648,6 @@ _每日存檔 · 2026-10-31_
 - [0xsline/awesome-deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-awesome-deepseek-harness/) — DeepSeek 應用生態系統，包含多種外掛和工具。
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [Heroesjouney/AIMovieStudiov2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heroesjouney-aimoviestudiov2/) — 無需程式設計的 AI 製作電影工作流，支援 ComfyUI 和 Fal/Replicate 雲端。

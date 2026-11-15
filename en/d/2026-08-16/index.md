@@ -961,7 +961,6 @@ _Daily archive · 2026-08-16_
 - [ASLP-lab/WSC-Train](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aslp-lab-wsc-train/) — · license:apache-2.0, arxiv:2509.18004, region:us
 - [mergisi/awesome-openclaw-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mergisi-awesome-openclaw-agents/) — 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [breaking-brake/cc-wf-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/breaking-brake-cc-wf-studio/) — CC Workflow Studio
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uv-scripts-ocr/) — · arxiv:2605.27978, region:us, uv-script
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/esengine-deepseek-reasonix/) — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it runnin…
 - [anbeime/skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anbeime-skill/) — 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star…

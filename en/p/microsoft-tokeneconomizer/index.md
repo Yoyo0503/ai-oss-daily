@@ -4,5 +4,5 @@ Experience-Driven Black-Box Cost Control for Coding Agents
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：6,063
+**Stars**：6,115
 **Source**：https://github.com/microsoft/TokenEconomizer

@@ -944,7 +944,6 @@ _每日存檔 · 2026-08-17_
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。
 - [rookiestar28/ComfyUI-LongCat-Avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rookiestar28-comfyui-longcat-avatar/) — 用於生成長尾貓影片頭像的 ComfyUI 自定義節點，支援 macOS 和 Apple Silicon MLX 測試。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [autonomous-ai/autonomous-grid](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/autonomous-ai-autonomous-grid/) — 將現有電腦連線成 AI 內網進行推理和訓練。
 - [PaddlePaddle/Real5-OmniDocBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-paddlepaddle-real5-omnidocbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fredyrivera-dev-claude-converter/) — 無依賴Python模組，用於檢視和轉換Claude Code會話檔案為Hugging Face Transformers格式。

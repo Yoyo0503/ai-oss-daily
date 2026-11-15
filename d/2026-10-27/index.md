@@ -377,7 +377,6 @@ _每日存檔 · 2026-10-27_
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — 模型推理／部署引擎（依標籤自動歸類，詳細看下方原文）
 - [gradium/phonon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-gradium-phonon/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ibm-granite-granite-4-2-30b/) — IBM的文本生成模型，支援推理和工具呼叫。
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [storytold/filmcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/storytold-filmcraft/) — 使用 Rust 語言重新實現的 Adobe Premiere Pro 開源版本。
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — 用於生成多參考影片的AI模型。
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-2i-pornmaster-krea2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1596,7 +1595,6 @@ _每日存檔 · 2026-10-27_
 - [AhmadHassan-BTed/AutoSwarm-Shadow-Adapter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ahmadhassan-bted-autoswarm-shadow-adapter/) — AutoSwarm-Shadow-Adapter 是一個適用於 OpenOPC 的零修改人機協作介面卡。
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。

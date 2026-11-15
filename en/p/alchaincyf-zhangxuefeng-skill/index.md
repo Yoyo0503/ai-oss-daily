@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：10,761
+**Stars**：10,769
 **Source**：https://github.com/alchaincyf/zhangxuefeng-skill

@@ -863,7 +863,6 @@ _每日存檔 · 2026-11-02_
 - [junchaoh-cs/SolarWM-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-junchaoh-cs-solarwm-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [saidutta69/fable-5-premium-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-saidutta69-fable-5-premium-v2/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [PatronusAI/figmatrace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-patronusai-figmatrace/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/firered-tts3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-firered-tts3/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [m-a-p/WildSongBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-m-a-p-wildsongbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1670,7 +1669,6 @@ _每日存檔 · 2026-11-02_
 - [ForeverBlue816/PrismQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/foreverblue816-prismquant/) — PrismQuant 是一種用於大型語言模型的最佳化量化技術，適用於 PyTorch 環境。
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。

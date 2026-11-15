@@ -1067,7 +1067,6 @@ _每日存檔 · 2026-08-24_
 - [zeroclaw-labs/zeroclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zeroclaw-labs-zeroclaw/) — 快速、小型且完全自主的 AI 個人助理系統，可在任何作業系統上部署。
 - [Genesis1231/Eva01](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/genesis1231-eva01/) — 具備自我意識的 AI 實體，支援終端機和 API 操作，內建語音與臉部辨識。
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/esengine-deepseek-reasonix/) — DeepSeek 原生的終端機 AI coding agent，圍繞 prefix-cache 穩定性設計（+1156★）。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [asciimoo/hister](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asciimoo-hister/) — 個人化搜尋引擎，可索引瀏覽器歷史紀錄。
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。
 - [londonstrategicedge/lse-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/londonstrategicedge-lse-data/) — 提供即時和歷史市場資料，包括股票、外匯、加密貨幣等。

@@ -763,7 +763,7 @@ _Daily archive · 2026-09-21_
 - [AxiomicLabs/Arithmark-3.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-axiomiclabs-arithmark-3-0/) — · task_categories:question-answering, language:en, license:apache-2.0
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — · task_categories:text-to-speech, language:ja, license:mit
 - [VCLab-PolyU/GGT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-vclab-polyu-ggt-100k/) — · license:cc-by-nc-nd-4.0, arxiv:2605.31039, region:us
-- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — Complete Production Environment for professional MiniMax Music 3 audio generation, including Prompt Generatio…
+- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — ⛔ No longer maintained - the successor is the Plenio Music Production System 2.0 (comfyui-plenio-music)
 - [sarvamai/indic-diarbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sarvamai-indic-diarbench/) — · task_categories:automatic-speech-recognition, task_categories:audio-to-audio, language:as
 - [Open-Builders/Fourmeme-Pancake-bnb-bsc-stealth-trading-volume-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-builders-fourmeme-pancake-bnb-bsc-stealth-trading-volume-bot/) — Fourmeme Pancake stealth trading bot BSC BNB stealth trading bot tool fourmeme pancake trading volumt bot byp…
 - [agentpit-io/hunter-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentpit-io-hunter-community/) — HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBu…
@@ -858,7 +858,7 @@ _Daily archive · 2026-09-21_
 - [Alexandriayes/ki-kreativsuite-bundle-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexandriayes-ki-kreativsuite-bundle-guide/) — Ausführlicher Test & Erfahrungen zum **KI-KreativSuite Bundle** (2026). Die beste Canva-Alternative ohne mona…
 - [Ferdinandyes/automated-video-marketing-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ferdinandyes-automated-video-marketing-tools/) — ⚡ Scale your video marketing with AI. Auto-generate TikToks, Shorts, and promo videos from text in minutes.
 - [infercrane/infercrane](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/infercrane-infercrane/) — Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely rel…
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
 - [ARahim3/kaggle-tpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arahim3-kaggle-tpu-lab/) — Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~165 tok/s, our own JAX engine…
 - [nvidia/OpenH-RF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-openh-rf/) — · license:cc-by-4.0, region:us
@@ -891,7 +891,7 @@ _Daily archive · 2026-09-21_
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-facebook-mms-300m/) — · transformers, pytorch, wav2vec2
 - [syv-ai/HyperQwen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/syv-ai-hyperqwen/) — Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with vLLM: 127 …
 - [uw-math-ai/math-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uw-math-ai-math-graph/) — · task_categories:text-retrieval, task_categories:feature-extraction, language:en
-- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，解决不会写提示词的问题。
+- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，随机产出高质量提示词。
 - [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [nvidia/Cosmos3-DROID](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos3-droid/) — · license:openmdw-1.1, size_categories:1K<n<10K, modality:video
@@ -1253,7 +1253,6 @@ _Daily archive · 2026-09-21_
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rohitg00-ai-engineering-from-scratch/) — Learn it. Build it. Ship it for others.
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tylogi-tyloquant/) — Get more intelligence from every bit. Better quantization formats and smarter calibration let larger, stronge…
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-eve/) — The Open Framework for Building Agents
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 小优AIGC（抖音小优与AIGC的奇妙冒险）的 AI 摄影剧组 skill —— 电影摄影级生图提示词生成器，可装入 Claude Code / Codex / Hermes
 - [SilentFleetKK/riskguard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/silentfleetkk-riskguard/) — 开源交易风控层:仓位上限 · 回撤熔断 · 动态仓位(Kelly/波动率) · 防篡改审计 · 实时监控守护。补上量化五层积木唯一缺的一层,核心零依赖。

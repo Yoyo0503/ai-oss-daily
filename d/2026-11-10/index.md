@@ -959,7 +959,6 @@ _每日存檔 · 2026-11-10_
 - [Jackrong/Claude-opus-4.6-TraceInversion-9000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-claude-opus-4-6-traceinversion-9000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sarulab-speech/DuplexChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sarulab-speech-duplexchat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/simready-central-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-simready-central-library/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [antirez/deepseek-v4-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-antirez-deepseek-v4-gguf/) — 基於 GGUF 格式的深度搜尋文本生成模型。
 - [TeichAI/Fable-5-Cursor-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-fable-5-cursor-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1749,7 +1748,6 @@ _每日存檔 · 2026-11-10_
 - [BlackInspection/token-trade-telegram-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blackinspection-token-trade-telegram-bot/) — Telegram 交易機器人，提供代幣交易訊號、限價和止損。
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [agent-next/video-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-video-agent/) — 開放原始碼的影片生成工具，支援 MiniMax H3，可在 ComfyUI 上執行。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。

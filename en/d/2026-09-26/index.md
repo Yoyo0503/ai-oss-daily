@@ -837,7 +837,7 @@ _Daily archive · 2026-09-26_
 - [NeoteAIEmbodied/OpenNeoData](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-neoteaiembodied-openneodata/) — · task_categories:robotics, language:en, license:cc-by-nc-sa-4.0
 - [muratmula/ai-robinhood-chain](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/muratmula-ai-robinhood-chain/) — Autonomous multi-agent crypto intelligence & trading ecosystem for Robinhood Chain L2 (EVM #4663) operated vi…
 - [QwenAudio/qwen-audio-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/qwenaudio-qwen-audio-agent/) — A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agen…
-- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — Complete Production Environment for professional MiniMax Music 3 audio generation, including Prompt Generatio…
+- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — ⛔ No longer maintained - the successor is the Plenio Music Production System 2.0 (comfyui-plenio-music)
 - [gclef-cmu/multtipop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gclef-cmu-multtipop/) — · task_categories:audio-to-audio, license:cc-by-4.0, size_categories:n<1K
 - [TideDeliverer/make-com-enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tidedeliverer-make-com-enhancer/) — Make.com Enhancer
 - [zlab-princeton/i1-captions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zlab-princeton-i1-captions/) — · task_categories:text-to-image, size_categories:100M<n<1B, format:parquet
@@ -935,7 +935,7 @@ _Daily archive · 2026-09-26_
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [nvidia/Cosmos3-DROID](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos3-droid/) — · license:openmdw-1.1, size_categories:1K<n<10K, modality:video
 - [worldwonderer/video-recap-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-video-recap-skills/) — Turn any video into a narration recap with claude code skill｜用claude code skill把任何视频剪辑成中文解说视频，支持剪映导出
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [jbilcke-hf/ai-comic-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jbilcke-hf-ai-comic-factory/) — · docker, region:us
 - [elie222/rakazo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elie222-rakazo/) — Open-source Grok Bot alternative. Choose your own model and sandbox.
 - [Kwai-Kolors/Kolors-Virtual-Try-On](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kwai-kolors-kolors-virtual-try-on/) — · gradio, region:us
@@ -946,7 +946,7 @@ _Daily archive · 2026-09-26_
 - [worldbench/DiffusionOPSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldbench-diffusionopsd/) — 🔥 On-Policy Self-Distillation in Diffusion Models
 - [DUNKINKKD/lotei-qflipper](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dunkinkkd-lotei-qflipper/) — 🐬 A pink qFlipper fork with LOTEI — a 100% local AI dolphin (Ollama) that chats, talks, watches your Flipper'…
 - [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seesee75-commits-comfyui-minimaxh3-director/) — A timeline editor for MiniMax H3 inside ComfyUI - storyboard prompts, first/last keyframes, image/video/audio…
-- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，解决不会写提示词的问题。
+- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，随机产出高质量提示词。
 - [EvoLinkAI/GPT-Image-2-Seedance2-Workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-gpt-image-2-seedance2-workflow/) — GPT-image-2 and seedance2 workflows and prompt templates to produce high-quality AI videos.
 - [digistoremaster/metatrader-to-ibkr-tws-api-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/digistoremaster-metatrader-to-ibkr-tws-api-bridge/) — High-Performance Trade Copier & Order Bridge von MetaTrader 4/5 zu Interactive Brokers (IBKR TWS/Gateway). Mi…
 - [digistoremaster/real-magic-robot-trading-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/digistoremaster-real-magic-robot-trading-system/) — Real Magic Robot 3.0 (PREMIUM) — Vollautomatisches MetaTrader 4/5 Trading-System (EA) für Forex & Gold. Adapt…
@@ -1307,7 +1307,6 @@ _Daily archive · 2026-09-26_
 - [Anthropic/BioMysteryBench-full](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-biomysterybench-full/) — · license:cc-by-4.0, region:us
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rohitg00-ai-engineering-from-scratch/) — Learn it. Build it. Ship it for others.
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tylogi-tyloquant/) — Get more intelligence from every bit. Better quantization formats and smarter calibration let larger, stronge…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 小优AIGC（抖音小优与AIGC的奇妙冒险）的 AI 摄影剧组 skill —— 电影摄影级生图提示词生成器，可装入 Claude Code / Codex / Hermes
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize

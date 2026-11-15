@@ -1124,7 +1124,6 @@ _每日存檔 · 2026-08-30_
 - [UditAkhourii/adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/uditakhourii-adhd/) — 一種基於 Claude 和 Codex SDK 的程式碼代理技能，能生成並評估多種創意思路。
 - [Syh1906/openai-compatible-imagegen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syh1906-openai-compatible-imagegen/) — 與 OpenAI 相容的影像生成和編輯代理技能。
 - [ByteDance Lance（原生統一多模態模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bytedance-lance/) — 字節跳動研究院的 3B 啟用參數原生統一多模態模型(圖像理解與生成)。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ai4bharat-msmarco-xi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/) — 使用 AI 機器人克隆網站的工具。

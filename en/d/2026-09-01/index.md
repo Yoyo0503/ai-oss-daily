@@ -577,7 +577,7 @@ _Daily archive · 2026-09-01_
 - [CopilotKit/OpenBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/copilotkit-openbot/) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action…
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — · gradio, region:us
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [Leutenegger/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leutenegger-book-to-skill/) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nari-labs-nari-qwen3-tts/) — Ultrafast Qwen3-TTS: sub-50 ms time-to-first-audio at 10 requests per second.
 - [STBack23/omnivoice-vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-stback23-omnivoice-vi/) — · language:vi, license:apache-2.0, size_categories:n<1K
@@ -1140,7 +1140,6 @@ _Daily archive · 2026-09-01_
 - [browser-act/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/browser-act-skills/) — Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms…
 - [OranAi-Ltd/orangeo-ai-visibility-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/oranai-ltd-orangeo-ai-visibility-skill/) — Open-source GEO / AEO skill for AI visibility readiness: check robots.txt, llms.txt, schema, citation signals…
 - [wuxuedaifu/vllm-chatterbox-stream](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wuxuedaifu-vllm-chatterbox-stream/) — OpenAI-compatible multilingual TTS server — Chatterbox on vLLM with real-time PCM audio streaming, low time-t…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text
 - [myc0576/SmartMoney-Cub](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/myc0576-smartmoney-cub/) — Read-only AI trading companion harness for decision logging, D1/D3 review, and rule evolution.
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.

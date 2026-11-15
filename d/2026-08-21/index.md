@@ -1046,7 +1046,6 @@ _每日存檔 · 2026-08-21_
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/homeassistant-ai-ha-mcp/) — 一個非官方的家庭自動化MCP伺服器，與Home Assistant整合。
 - [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fredyrivera-dev-claude-converter/) — 無依賴Python模組，用於檢視和轉換Claude Code會話檔案為Hugging Face Transformers格式。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [withkynam/vibecode-pro-max-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/withkynam-vibecode-pro-max-kit/) — 專為開發者和企業打造的自適應AI程式設計助手，具備自我改善的上下文記憶功能。
 - [helloianneo/ian-xiaohei-scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helloianneo-ian-xiaohei-scenes/) — Xiaohei 2.0 繪製中文實物插圖和漫畫長卷的技能模組。
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。

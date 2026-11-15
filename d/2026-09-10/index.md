@@ -1126,7 +1126,6 @@ _每日存檔 · 2026-09-10_
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-grid-pilot/) — 超越交易所原生網格機器人的程式化交易系統，適用於加密貨幣交易。
 - [ikala/tmmluplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ikala-tmmluplus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/extraltodeus-j-wash/) — 基於 Anthropic 的 Jacobian 鏡頭的手動對齊工具。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [livecontext-ai/livecontext-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livecontext-ai-livecontext-ce/) — 自建AI自動化平臺，可描述任務並生成工作流程。
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/) — Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。

@@ -11,11 +11,11 @@ _每日存檔 · 2026-10-25_
 - [orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-deepseek-v4-1-flash-1017-abliterated-gguf/) — 文字生成模型，使用GGUF格式和本地執行。
 - [appariciojunior/video-editor-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appariciojunior-video-editor-skills/) — 教Claude Code在DaVinci Resolve中編輯影片的技能。
 - [alexturkey/voxcpm2-turkce-ses-tasarimi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexturkey-voxcpm2-turkce-ses-tasarimi/) — 使用VoxCPM2在4GB GPU上設計土耳其語音。
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [polaris-smart/mcd-agent-gourmet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polaris-smart-mcd-agent-gourmet/) — 根據預算和口味推薦麥當勞餐點，並計算節省金額。
 - [HKUST-LongGroup/UniAVC](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkust-longgroup-uniavc/) — 統一的音影片生成模型，支援進階訓練和非同步排程。
 - [BijectiveLabs/bitra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bijectivelabs-bitra/) — 自動交易機器人，提出交易建議，系統決定執行。
 - [HamSanders/soundbox](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hamsanders-soundbox/) — 免費開源的音效生成工具，支援音訊生成、文字轉語音和語音克隆。
+- [nvidia/simready-central-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-simready-central-library/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -450,7 +450,6 @@ _每日存檔 · 2026-10-25_
 - [thornmaze/reel-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-thornmaze-reel-lab/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [stabilityai/stable-audio-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-stabilityai-stable-audio-3/) — Stability stable-audio-3 文字生成音樂的示範 Space。
 - [hotchpotch/S1MB-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hotchpotch-s1mb-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [multimodalart/Cosmos3-Nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-cosmos3-nano/) — NVIDIA Cosmos3 Nano 文生圖線上示範。
 - [distinctshov/Chain-Transaction-Logger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/distinctshov-chain-transaction-logger/) — 加密貨幣交易日誌工具，用於檢視和過濾交易資料。
 - [Jeanorochka/julia_tradediary_analysis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeanorochka-julia-tradediary-analysis/) — 使用 Julia 和 Python 分析交易日誌的工具。
@@ -1577,7 +1576,6 @@ _每日存檔 · 2026-10-25_
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。
 - [FuRongJun-1999/dsh-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/furongjun-1999-dsh-memory/) — 白箱AGI架構探索，包含元認知、持續學習、世界模型、自我改進等模組。

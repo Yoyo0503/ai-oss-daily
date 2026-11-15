@@ -440,7 +440,7 @@ _Daily archive · 2026-08-22_
 - [build-small-hackathon/semantique](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-semantique/) — · gradio, track:wood, sponsor:openbmb
 - [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/seesee75-commits-comfyui-minimaxh3-director/) — A timeline editor for MiniMax H3 inside ComfyUI - storyboard prompts, first/last keyframes, image/video/audio…
 - [prashant-AI-ML/Wan-2.2-pro-Superb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prashant-ai-ml-wan-2-2-pro-superb/) — · gradio, mcp-server, region:us
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [QuixiAI/QuixiMath-1B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-quixiai-quiximath-1b/) — · task_categories:text-generation, task_ids:language-modeling, language:en
 - [amisima/minimax-h3-reference-4-step-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-minimax-h3-reference-4-step-lora/) — · gradio, video, image-to-video
 - [greghavens/kimi-k3-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-kimi-k3-coding-and-debugging-traces/) — · task_categories:text-generation, annotations_creators:machine-generated, language:en
@@ -1057,7 +1057,6 @@ _Daily archive · 2026-08-22_
 - [TexasBedouin/vibe-check](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/texasbedouin-vibe-check/) — By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then …
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agent-field-reels-af/) — Automate viral reel/tik-tok videos via AI multi-agent system. ~$0.1/reel.
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/knockoutez-wigolo/) — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, n…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [ruvnet/agenticow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruvnet-agenticow/) — Git for Agent Memory: Copy-On-Write vector branching for embedded multi-agent memory (83x faster, 3000x small…
 - [helloianneo/ian-xiaohei-scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helloianneo-ian-xiaohei-scenes/) — Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server

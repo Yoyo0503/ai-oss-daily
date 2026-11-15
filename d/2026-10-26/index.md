@@ -545,7 +545,6 @@ _每日存檔 · 2026-10-26_
 - [townbox/sketch-a-series](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-townbox-sketch-a-series/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexWortega/my_pi_agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-my-pi-agent/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Harland/OmniVChat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-harland-omnivchat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [rsalianto/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rsalianto-tradoor/) — 瀏覽器內的加密貨幣交易終端，提供交易檢視和市場概況。
 - [magenta-community/magenta-rt-jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-magenta-community-magenta-rt-jam/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [assafkip/claudemy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/assafkip-claudemy/) — Claude 教育平臺，根據主題生成網路上的課程。
 - [VIDraft/ai-world](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vidraft-ai-world/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1592,7 +1591,6 @@ _每日存檔 · 2026-10-26_
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/) — 自動化生成類似 Vox 風格的紙拼貼解說影片。
 - [wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenqi9115-glitch-systematic-etf-relative-strength-alpha-attribution/) — 系統化 ETF 相對強度研究及套利組合構建工具。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lvwerra/agent-manager-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lvwerra-agent-manager-template/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [FuRongJun-1999/dsh-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/furongjun-1999-dsh-memory/) — 白箱AGI架構探索，包含元認知、持續學習、世界模型、自我改進等模組。

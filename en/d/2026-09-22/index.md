@@ -778,7 +778,7 @@ _Daily archive · 2026-09-22_
 - [Sneak-Moose/FireRed-Image-Edit-Stripped](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sneak-moose-firered-image-edit-stripped/) — · gradio, image-generation, image-to-image
 - [PhaseConquer/stable-diffusion-flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phaseconquer-stable-diffusion-flow/) — Stable Diffusion Flow
 - [CohereLabs/cohere-parse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-cohere-parse/) — · gradio, region:us
-- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — Complete Production Environment for professional MiniMax Music 3 audio generation, including Prompt Generatio…
+- [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jplenio-comfyui-minimax-music-production-toolkit/) — ⛔ No longer maintained - the successor is the Plenio Music Production System 2.0 (comfyui-plenio-music)
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [alesha-pro/tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alesha-pro-tools/) — Tools, ComfyUI workflows and benchmark configs from a 4x RTX 3090 local-inference rig
 - [agentpit-io/hunter-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentpit-io-hunter-community/) — HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBu…
@@ -877,7 +877,7 @@ _Daily archive · 2026-09-22_
 - [Ferdinandyes/performance-marketing-deutschland](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ferdinandyes-performance-marketing-deutschland/) — 🚀 **Praxisleitfaden 2026:** Automatisierte Traffic-Funnels für höhere Conversion-Rates & maximalen ROI bei Fa…
 - [Nathanielyseterday/traffic-monetization-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nathanielyseterday-traffic-monetization-toolkit/) — Automated digital monetization & traffic routing engine (Automatisierte Monetarisierung). Built for high-EPC …
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nxin-github-auteur/) — 🎬 16-role AI film studio · End-to-end short video pipeline · Multi-agent · Self-hosted
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [ARahim3/kaggle-tpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arahim3-kaggle-tpu-lab/) — Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~165 tok/s, our own JAX engine…
 - [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelcontextprotocol-servers/) — Model Context Protocol Reference Servers
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nyanko-devs-danbooru2026/) — · task_categories:image-classification, task_categories:image-to-image, task_categories:text-to-image
@@ -902,7 +902,7 @@ _Daily archive · 2026-09-22_
 - [bamboostrip/Handwriting-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bamboostrip-handwriting-simulator/) — 把普通文本变成以假乱真的手写体图片：手写字体 + 信纸背景 + 字距/行距/笔画随机扰动。GUI（PyQt6）与 CLI 双入口，numpy/scipy 高性能渲染引擎。
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [nvidia/Cosmos3-DROID](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos3-droid/) — · license:openmdw-1.1, size_categories:1K<n<10K, modality:video
-- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，解决不会写提示词的问题。
+- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，随机产出高质量提示词。
 - [worldwonderer/video-recap-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-video-recap-skills/) — Turn any video into a narration recap with claude code skill｜用claude code skill把任何视频剪辑成中文解说视频，支持剪映导出
 - [jbilcke-hf/ai-comic-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jbilcke-hf-ai-comic-factory/) — · docker, region:us
 - [Kwai-Kolors/Kolors-Virtual-Try-On](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kwai-kolors-kolors-virtual-try-on/) — · gradio, region:us
@@ -1259,7 +1259,6 @@ _Daily archive · 2026-09-22_
 - [congchuanling-dot/Cohort](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/congchuanling-dot-cohort/) — Local-first Agent Runtime connecting LLMs to controlled tools, Chrome, desktop automation, MCP, context gover…
 - [omnigent-ai/omnigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/omnigent-ai-omnigent/) — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, a…
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tylogi-tyloquant/) — Get more intelligence from every bit. Better quantization formats and smarter calibration let larger, stronge…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [internet-court/internet-court-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/internet-court-internet-court-skill/) — The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402…
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexanys-awesome-openclaw-usecases-zh/) — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 小优AIGC（抖音小优与AIGC的奇妙冒险）的 AI 摄影剧组 skill —— 电影摄影级生图提示词生成器，可装入 Claude Code / Codex / Hermes

@@ -1058,7 +1058,6 @@ _每日存檔 · 2026-08-23_
 - [londonstrategicedge/lse-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/londonstrategicedge-lse-data/) — 提供即時和歷史市場資料，包括股票、外匯、加密貨幣等。
 - [wanshuiyin/ARIS-in-AI-Offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wanshuiyin-aris-in-ai-offer/) — AI 秋招面試雙語備忘單，生成 CV 轉換器。
 - [autonomous-ai/autonomous-grid](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/autonomous-ai-autonomous-grid/) — 將現有電腦連線成 AI 內網進行推理和訓練。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [study8677/awesome-architecture](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/study8677-awesome-architecture/) — 包含 25 種架構模板和 6 個端到端案例的系統設計資源。
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/knockoutez-wigolo/) — 為AI程式設計代理設計的本地搜尋、抓取和研究平臺。
 - [Alpha Forge（系統化交易 AI 作業系統）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liu-ming-yu-alpha-forge/) — 標榜 agentic 的系統化交易作業系統。

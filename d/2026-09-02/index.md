@@ -1083,7 +1083,6 @@ _每日存檔 · 2026-09-02_
 - [cathrynlavery/diagram-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/) — 提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。
 - [QuantJourneyOrg/quantjourney-bt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantjourneyorg-quantjourney-bt/) — 量化交易回測引擎。
 - [SlavaSexton/ComfyUI-Agent-Kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/slavasexton-comfyui-agent-kit/) — 為多種 AI 程式設計代理驅動 ComfyUI 的技能套件，包含模型提示配方和自動啟動功能。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ai4bharat-msmarco-xi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/virgiliojr94-book-to-skill/) — 將技術書籍轉換為可學習、參考和使用的 AI 技能。
 - [LichAmnesia/awesome-ad-video-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lichamnesia-awesome-ad-video-prompts/) — AI廣告影片的提示工程師資源庫，適用於Seedance 2.0等平臺。

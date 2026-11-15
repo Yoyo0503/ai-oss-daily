@@ -1085,7 +1085,6 @@ _每日存檔 · 2026-08-26_
 - [OtterMind/Nubase](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ottermind-nubase/) — 開源AI原生後端平臺，支援AI程式設計和代理應用。
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enping-hu-minimind-deep-dive/) — MiniMind 原始碼精讀及大模型技術體系中文學習筆記。
 - [asciimoo/hister](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asciimoo-hister/) — 個人化搜尋引擎，可索引瀏覽器歷史紀錄。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ai4bharat-msmarco-xi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/claudiodrews-memory-os/) — 適用於 Hermes Agent 的七層記憶作業系統，提供永續性記憶和上下文注入。
 - [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evermind-ai-raven/) — 一個記憶優先、自我改進的代理程式，基於 EverOS 和 MiroThinker 深度研究技術。

@@ -490,7 +490,7 @@ _Daily archive · 2026-08-25_
 - [moonshotai/PerceptionBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonshotai-perceptionbench/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
 - [open-thoughts/AgentTrove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-agenttrove/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhen-nan-l2p-dataset/) — · license:apache-2.0, size_categories:10K<n<100K, format:webdataset
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lordx64-agentic-distill-fable-5-sft/) — · task_categories:text-generation, language:en, license:agpl-3.0
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-victor-fable-5-boeing-747-trace/) — · license:mit, size_categories:n<1K, format:json
 - [Infatoshi/kernelbench-hard-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-infatoshi-kernelbench-hard-traces/) — · license:mit, size_categories:n<1K, format:json
@@ -1078,7 +1078,6 @@ _Daily archive · 2026-08-25_
 - [zlab-princeton/i1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zlab-princeton-i1/) — Code release for "i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models"
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liyue-aigc-female-portrait-director/) — A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/raiyanyahya-llmaker/) — Selfhost modern LLM stacks. Run the whole fleet from your terminal
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/knockoutez-wigolo/) — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, n…
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jcodesmore-ai-website-cloner-template/) — Clone any website with one command using AI coding agents

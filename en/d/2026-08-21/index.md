@@ -409,7 +409,7 @@ _Daily archive · 2026-08-21_
 - [gemma-challenge/gemma-interactions-view](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gemma-challenge-gemma-interactions-view/) — · static, region:us
 - [CausalLM/Kingfall-Roleplay](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-causallm-kingfall-roleplay/) — · language:en, language:zh, language:ja
 - [DavydenkoGr/AFTER](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-davydenkogr-after/) — · language:en, license:apache-2.0, arxiv:2606.23127
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [CaptiveDreamer/CaraArchive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-captivedreamer-caraarchive/) — · size_categories:1M<n<10M, format:text, modality:image
 - [hugging-apps/yingmusic-singer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-yingmusic-singer/) — · gradio, singing-voice-synthesis, lyric-editing
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-krafton-ax-k2-raon-speech-demo/) — · gradio, mcp-server, region:us
@@ -1046,7 +1046,6 @@ _Daily archive · 2026-08-21_
 - [KnockOutEZ/wigolo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/knockoutez-wigolo/) — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, n…
 - [homeassistant-ai/ha-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/homeassistant-ai-ha-mcp/) — The Unofficial and Awesome Home Assistant MCP Server
 - [FredyRivera-dev/claude_converter](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fredyrivera-dev-claude-converter/) — A zero-dependency Python module for inspecting and converting coding-agent session files (.jsonl) — Claude Co…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [withkynam/vibecode-pro-max-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/withkynam-vibecode-pro-max-kit/) — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real bui…
 - [helloianneo/ian-xiaohei-scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helloianneo-ian-xiaohei-scenes/) — Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alexsjones-llmfit/) — Hundreds of models & providers. One command to find what runs on your hardware.

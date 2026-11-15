@@ -1474,7 +1474,6 @@ _每日存檔 · 2026-10-15_
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/) — 本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [erduo1998-cell/erduo-broll-loop-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/erduo1998-cell-erduo-broll-loop-engineering/) — 自動路由 HyperFrames 和 Remotion 的雙後端 B-roll 代理技能，整合 Shotcraft 鏡頭卡。
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-xperience-10m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [0xShug0/audio.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xshug0-audio-cpp/) — audio.cpp 是一個基於 C++ 的音訊模型推理引擎，支援 TTS、STT、VAD 等。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。

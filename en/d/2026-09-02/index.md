@@ -560,7 +560,7 @@ _Daily archive · 2026-09-02_
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-wikiprofile/) — · task_categories:question-answering, language:en, license:cc-by-sa-4.0
 - [circlestone-labs/Anima](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-circlestone-labs-anima/) — · diffusion-single-file, comfyui, license:other
 - [PaddlePaddle/PaddleOCR-VL-1.6_Online_Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-paddlepaddle-paddleocr-vl-1-6-online-demo/) — · gradio, region:us
-- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。
+- [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/whichmen-dxl-commerce-agent/) — OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售后工具、记忆、回执、恢复和 Eval。--------------技术…
 - [Leutenegger/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leutenegger-book-to-skill/) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [STBack23/omnivoice-vi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-stback23-omnivoice-vi/) — · language:vi, license:apache-2.0, size_categories:n<1K
 - [huggingface/forensic-refusal](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-huggingface-forensic-refusal/) — · size_categories:n<1K, format:json, format:agent-traces
@@ -1083,7 +1083,6 @@ _Daily archive · 2026-09-02_
 - [cathrynlavery/diagram-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cathrynlavery-diagram-design/) — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 dia…
 - [QuantJourneyOrg/quantjourney-bt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/quantjourneyorg-quantjourney-bt/) — QuantJourney Backtester
 - [SlavaSexton/ComfyUI-Agent-Kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/slavasexton-comfyui-agent-kit/) — One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local Comfy…
-- [ropedia-ai/xperience-10m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ropedia-ai-xperience-10m/) — · task_categories:video-classification, task_categories:image-to-text, task_categories:depth-estimation
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text
 - [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/virgiliojr94-book-to-skill/) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [LichAmnesia/awesome-ad-video-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lichamnesia-awesome-ad-video-prompts/) — Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to H…
