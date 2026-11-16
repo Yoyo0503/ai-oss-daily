@@ -4,5 +4,5 @@ Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：52,606
+**Stars**：52,822
 **Source**：https://github.com/obsidianmd/obsidian-skills

@@ -4,5 +4,5 @@ Finds underpriced used electronics in Bahrain, checks the numbers, and sends pro
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：81
+**Stars**：80
 **Source**：https://github.com/RaelamcoralRelentless/bahrain-flip-rpocket-team-finder

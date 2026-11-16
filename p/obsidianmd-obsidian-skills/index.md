@@ -2,9 +2,9 @@
 
 Obsidian 的代理技能，讓代理使用 Obsidian CLI 和開放格式。
 
-**為何上榜**：52,606★ · 近期活躍
+**為何上榜**：近一日新增 216★（現 52,822★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：52,606
+**Stars**：52,822
 **原始連結**：https://github.com/obsidianmd/obsidian-skills

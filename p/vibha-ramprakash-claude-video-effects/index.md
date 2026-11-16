@@ -2,9 +2,9 @@
 
 Claude Code的51種免費影片效果外掛。
 
-**為何上榜**：近一日新增 23★（現 952★）
+**為何上榜**：近一日新增 37★（現 989★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：952
+**Stars**：989
 **原始連結**：https://github.com/Vibha-Ramprakash/claude-video-effects

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>15 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>16 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>higurashi-ai/Haru-4B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-higurashi-ai-haru-4b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-higurashi-ai-haru-4b/</guid>
-<pubDate>15 Nov 2026 08:00:00 +0000</pubDate>
-<description>將語音轉換為語音的模型，支援全雙工語音對話。</description>
+<title>alicebrown323/pro-tools-desktop</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alicebrown323-pro-tools-desktop/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alicebrown323-pro-tools-desktop/</guid>
+<pubDate>16 Nov 2026 08:00:00 +0000</pubDate>
+<description>Pro Tools 桌面版，具備多軌編輯、MIDI 序列和 VST 主機功能，支援 Windows 11。</description>
 </item>
 <item>
-<title>ConceptCountry/qwen-concept-27b</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conceptcountry-qwen-concept-27b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-conceptcountry-qwen-concept-27b/</guid>
-<pubDate>15 Nov 2026 08:00:00 +0000</pubDate>
-<description>基於Qwen的權重編輯模型，適用於概念推理。</description>
+<title>n4ze3m/tiny-voca</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/n4ze3m-tiny-voca/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/n4ze3m-tiny-voca/</guid>
+<pubDate>16 Nov 2026 08:00:00 +0000</pubDate>
+<description>一個 4.5M 引數的兩聲道英文文字轉語音模型，從頭訓練。</description>
 </item>
 <item>
-<title>CosmicThemagnet/glove-respocket</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cosmicthemagnet-glove-respocket/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cosmicthemagnet-glove-respocket/</guid>
-<pubDate>15 Nov 2026 08:00:00 +0000</pubDate>
-<description>基於區塊鏈的Web3投資組合分析和最佳化工具。</description>
+<title>BehemothDyer/stable-diffusion-atelier</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdyer-stable-diffusion-atelier/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdyer-stable-diffusion-atelier/</guid>
+<pubDate>16 Nov 2026 08:00:00 +0000</pubDate>
+<description>穩定擴散的本地化筆記，涵蓋取樣器、LoRAs 和 VRAM 計劃。</description>
 </item>
 <item>
-<title>anthropics/skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/</guid>
-<pubDate>15 Nov 2026 08:00:00 +0000</pubDate>
-<description>公開的Agent Skills儲存庫。</description>
+<title>morluto/rea</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</guid>
+<pubDate>16 Nov 2026 08:00:00 +0000</pubDate>
+<description>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</description>
 </item>
 <item>
-<title>deepseek-ai/deepseek-harness</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/</guid>
-<pubDate>15 Nov 2026 08:00:00 +0000</pubDate>
-<description>一切皆可作為外掛的AI代理框架。</description>
+<title>img2threejs/img2threejs</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/</guid>
+<pubDate>16 Nov 2026 08:00:00 +0000</pubDate>
+<description>將參考影像轉換成高品質的 Three.js 動畫模型。</description>
 </item>
 <item>
-<title>Edge0/Audio8-ASR-Infinite</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/</guid>
-<pubDate>15 Nov 2026 08:00:00 +0000</pubDate>
-<description>自動語音辨識模型，支援即時語音轉文字。</description>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
+<pubDate>16 Nov 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
 </item>
 </channel>
 </rss>

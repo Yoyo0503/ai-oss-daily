@@ -4,5 +4,5 @@ Xolotl: run DeepSeek-V4.1-Flash, all 552B, as a local coding agent on one gaming
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：520
+**Stars**：523
 **Source**：https://github.com/Indras-Mirror/Xolotl

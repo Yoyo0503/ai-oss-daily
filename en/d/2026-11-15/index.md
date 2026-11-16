@@ -725,7 +725,7 @@ _Daily archive · 2026-11-15_
 - [storytold/filmcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/storytold-filmcraft/) — FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust
 - [Routeclijudge/Pinnacle-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/routeclijudge-pinnacle-studio/) — Pinnacle Studio 相關的音訊編輯指南與顯示設定。
 - [huawei-bayerlab/marigold-v2-web](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huawei-bayerlab-marigold-v2-web/) — · static, region:us
-- [adventists-ai/sophon-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adventists-ai-sophon-realtime/) — Sophon-Realtime v1.1: open full-duplex voice models that hear your tone and speak with one. Zero-shot voice c…
+- [adventists-ai/sophon-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adventists-ai-sophon-realtime/) — Open full-duplex voice models that hear your tone and speak with one. One GPU with vLLM-Omni, or fully offlin…
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-society-ethics-annotated-encyclical/) — · static, ethics, ai-policy
 - [IFM/Code-Reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ifm-code-reasoning/) — · task_categories:text-generation, license:apache-2.0, size_categories:100M<n<1B
 - [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonworks-lunara-art-eval/) — · task_categories:text-to-image, license:apache-2.0, size_categories:1K<n<10K

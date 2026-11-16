@@ -666,7 +666,7 @@ _Daily archive · 2026-11-14_
 - [AlexWortega/same-data-different-losses](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-alexwortega-same-data-different-losses/) — · static, region:us
 - [hide1/MOSS-Image-Character-Catalog](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hide1-moss-image-character-catalog/) — · static, region:us
 - [FINAL-Bench/quantum-bench-leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-final-bench-quantum-bench-leaderboard/) — · gradio, region:us
-- [adventists-ai/sophon-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adventists-ai-sophon-realtime/) — Sophon-Realtime v1.1: open full-duplex voice models that hear your tone and speak with one. Zero-shot voice c…
+- [adventists-ai/sophon-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/adventists-ai-sophon-realtime/) — Open full-duplex voice models that hear your tone and speak with one. One GPU with vLLM-Omni, or fully offlin…
 - [build-small-hackathon/kirana-saathi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-build-small-hackathon-kirana-saathi/) — · docker, track:backyard, sponsor:modal
 - [openbmb/Ultra-FineWeb-L1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-openbmb-ultra-fineweb-l1/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-viggle-qwen-image-2-1-viggle-turbo/) — · gradio, text-to-image, image-editing

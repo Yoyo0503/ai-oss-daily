@@ -4,5 +4,5 @@ Ruach Studio: The Ultimate YuE2 Studio for local AI music generation. YuE2 Music
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：91
+**Stars**：93
 **Source**：https://github.com/igrbible/Ruach_Studio
