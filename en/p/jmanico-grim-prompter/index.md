@@ -4,5 +4,5 @@ Threat modeling for AI coding agents: point Claude Code, Codex or any agent at y
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：500
+**Stars**：513
 **Source**：https://github.com/jmanico/grim-prompter

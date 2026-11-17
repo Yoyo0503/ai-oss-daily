@@ -4,5 +4,5 @@ Open-source Higgsfield on ComfyUI: 120 image, video, VFX and audio apps, every m
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,443
+**Stars**：1,498
 **Source**：https://github.com/neuregex/freefield

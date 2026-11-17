@@ -5,8 +5,6 @@ _每日存檔 · 2026-11-16_
 ## 🆕 新上榜
 
 - [alicebrown323/pro-tools-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alicebrown323-pro-tools-desktop/) — Pro Tools 桌面版，具備多軌編輯、MIDI 序列和 VST 主機功能，支援 Windows 11。
-- [n4ze3m/tiny-voca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/n4ze3m-tiny-voca/) — 一個 4.5M 引數的兩聲道英文文字轉語音模型，從頭訓練。
-- [BehemothDyer/stable-diffusion-atelier](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdyer-stable-diffusion-atelier/) — 穩定擴散的本地化筆記，涵蓋取樣器、LoRAs 和 VRAM 計劃。
 - [tarpetos/mimvox](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tarpetos-mimvox/) — 在個人電腦上複製自己的聲音，支援 60 多種語言的語音合成和影片配音。
 - [theonetrade/pynecore-strategies](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/theonetrade-pynecore-strategies/) — 將 TradingView 社群策略和指標轉譯成 Python，可在任何 CCXT 交易所進行離線回測。
 - [MegaPotatoAI/AI-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-megapotatoai-ai-image-upscaler/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -16,6 +14,8 @@ _每日存檔 · 2026-11-16_
 - [Leonxlnx/earshot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-earshot/) — 讓 AI 聽取、審查和生成聲音的程式設計代理耳機，純 CPU 開源。
 - [LiquidAI/structured-extraction](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liquidai-structured-extraction/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Valen-Team/Valen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/valen-team-valen/) — 開放多模態決策模型，支援文字、影像和影片，提供自由 API 和 ONNX 格式。
+- [SALT-NLP/SWE-chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-salt-nlp-swe-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [Astrmira/Varin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/astrmira-varin/) — 開源代理元件，具備深度定製能力，適用於程式碼、研究和辦公室工作。
 
 ## 🚀 Star 竄升
 
@@ -390,7 +390,6 @@ _每日存檔 · 2026-11-16_
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/malcolmmcgough-polymarket-trading-bot-scalping/) — 用於Polymarket超短期市場的自動化交易機器人。
 - [ARSreg46/Ai-Image-Generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arsreg46-ai-image-generator/) — 從文字提示生成 AI 圖片的桌面應用程式，整合多個繪畫 API。
 - [amisima/LTX-2.3-10Eros_I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-ltx-2-3-10eros-i2v/) — Hugging Face 示範應用(Space)，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
-- [n4ze3m/tiny-voca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/n4ze3m-tiny-voca/) — 一個 4.5M 引數的兩聲道英文文字轉語音模型，從頭訓練。
 - [autotrust/jev-9b-decision-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-autotrust-jev-9b-decision-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Wan-AI/Wan2.2-Animate-2-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-wan-ai-wan2-2-animate-2-14b/) — 一個大型的動畫生成模型，基於arxiv研究。
 - [nvidia/Nemotron-Labs-Diffusion-14B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-labs-diffusion-14b/) — NVIDIA Nemotron 14B 擴散式文字生成模型。
@@ -439,7 +438,6 @@ _每日存檔 · 2026-11-16_
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lazarus19-vibe-coding-instruct/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Cosmos3-Edge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-edge/) — Cosmos3-Edge 是NVIDIA開發的一個基於diffusers的模型。
 - [badtheorylabs/BTL-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-badtheorylabs-btl-3/) — BTL-3 是一個使用 PEFT 技術的文本生成模型，適用於程式設計、推理和工具使用的 AI 代理。
-- [BehemothDyer/stable-diffusion-atelier](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdyer-stable-diffusion-atelier/) — 穩定擴散的本地化筆記，涵蓋取樣器、LoRAs 和 VRAM 計劃。
 - [Alissonerdx/BFS-Best-Face-Swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-bfs-best-face-swap/) — 用於替換影像中人物臉部的AI工具。
 - [Anthropic/scorpion-toxin-binder-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-scorpion-toxin-binder-design/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Zhanli-Li/DataWorld-Train-2k-part1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhanli-li-dataworld-train-2k-part1/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
@@ -867,7 +865,6 @@ _每日存檔 · 2026-11-16_
 - [google/embedding-draw-challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-google-embedding-draw-challenge/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [YuCrazing1/ClothTransformer-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-yucrazing1-clothtransformer-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [israellaguan/codex-tool-use-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-israellaguan-codex-tool-use-trajectories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [nvidia/PhysicalAI-WorldModel-Synthetic-Warehouse-Operations-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-warehouse-operations-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [codepawl/asset-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-codepawl-asset-index/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [fat-pig/moe-blogpost-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fat-pig-moe-blogpost-zh/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-svg-benchmark/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -895,7 +892,6 @@ _每日存檔 · 2026-11-16_
 - [schema-harness/arc-agi-3-schema-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-schema-harness-arc-agi-3-schema-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FineEnvs/multi-harness-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fineenvs-multi-harness-rl/) — Hugging Face 示範應用(Space)，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 - [facebook/hackbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-facebook-hackbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [macrodata/WGO-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-macrodata-wgo-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [inclusionAI/OpenAoE-2000h](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-inclusionai-openaoe-2000h/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [2akouwu/reverify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/2akouwu-reverify/) — reverify 是一個基於確定性工具的反向工程驗證系統。
 - [nvidia/PhysicalAI-Human-1M-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nvidia-physicalai-human-1m-explorer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1085,7 +1081,6 @@ _每日存檔 · 2026-11-16_
 - [AxisEgretDefeat/kling-ai-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/axisegretdefeat-kling-ai-master/) — Kling AI主體模型，將文字轉換為影像。
 - [ppxxyy/H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ppxxyy-h3-turbo-lora/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [iyqhcef3ffn/hailuo2.3-hailuo-2.3-gateway](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iyqhcef3ffn-hailuo2-3-hailuo-2-3-gateway/) — 與OpenAI相容的Hailuo 2.3 API閘道器。
-- [drowzeys/Imagination-Studio-by-keys-Wasserman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drowzeys-imagination-studio-by-keys-wasserman/) — 由keys+Wasserman驅動的AI電影工作室，支援Mac和NVIDIA DGX Spark。
 - [KhulekanisiyandaMchunu/llm-trading-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/khulekanisiyandamchunu-llm-trading-arena/) — llm-trading-arena 是一個為 LLM 機器人設計的即時交易場景，支援真實市場資料。
 - [joonion/pdf-rag-chatbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-joonion-pdf-rag-chatbot/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [cplj/axiocairn-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cplj-axiocairn-mcp/) — 提供投資分析、成本和容量分析、回測檢查等功能。
@@ -1291,7 +1286,6 @@ _每日存檔 · 2026-11-16_
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-withinusai-claude-mythos-distilled-25k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Cosmos3-DROID](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-cosmos3-droid/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [worldwonderer/video-recap-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldwonderer-video-recap-skills/) — video-recap-skills 使用 claude code skill 將影片轉換為敘述性回顧。
-- [sahenjp/RustXNG](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahenjp-rustxng/) — 自建、防 SSRF 的網頁搜尋和物件定位引擎，適用於本地 AI 代理。
 - [jbilcke-hf/ai-comic-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jbilcke-hf-ai-comic-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [autoip/dreamfab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/autoip-dreamfab/) — 自動化 AI 媒體工作站，使用 AutoIP 和 ffmpeg 製作短劇和音樂影片。
 - [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruoji6-artex/) — Autumn-27/ARTEX 的持續維護開源版本。

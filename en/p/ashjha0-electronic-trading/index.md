@@ -4,5 +4,5 @@ Execution and market-making research platform: Almgren-Chriss, Avellaneda-Stoiko
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：30
+**Stars**：31
 **Source**：https://github.com/AshJha0/electronic-trading

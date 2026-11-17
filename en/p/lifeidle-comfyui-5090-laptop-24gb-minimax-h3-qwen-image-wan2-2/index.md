@@ -4,5 +4,5 @@ RTX 5090 Laptop (24GB) + ComfyUI: 12 model lines / 21 measured configs — MiniM
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：22
+**Stars**：23
 **Source**：https://github.com/lifeidle/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2

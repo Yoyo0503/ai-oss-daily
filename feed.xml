@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-11-16T08:00:00+00:00</updated>
-<entry>
-<title>alicebrown323/pro-tools-desktop</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alicebrown323-pro-tools-desktop/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alicebrown323-pro-tools-desktop/</id>
-<updated>2026-11-16T08:00:00+00:00</updated>
-<summary>Pro Tools 桌面版，具備多軌編輯、MIDI 序列和 VST 主機功能，支援 Windows 11。</summary>
-</entry>
+<updated>2026-11-17T08:00:00+00:00</updated>
 <entry>
 <title>n4ze3m/tiny-voca</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/n4ze3m-tiny-voca/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/n4ze3m-tiny-voca/</id>
-<updated>2026-11-16T08:00:00+00:00</updated>
-<summary>一個 4.5M 引數的兩聲道英文文字轉語音模型，從頭訓練。</summary>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-n4ze3m-tiny-voca/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-n4ze3m-tiny-voca/</id>
+<updated>2026-11-17T08:00:00+00:00</updated>
+<summary>小型語音合成模型，將文字轉換為語音。</summary>
 </entry>
 <entry>
-<title>BehemothDyer/stable-diffusion-atelier</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdyer-stable-diffusion-atelier/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdyer-stable-diffusion-atelier/</id>
-<updated>2026-11-16T08:00:00+00:00</updated>
-<summary>穩定擴散的本地化筆記，涵蓋取樣器、LoRAs 和 VRAM 計劃。</summary>
+<title>hitkeeen/blender-ai-mcp-addon</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hitkeeen-blender-ai-mcp-addon/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hitkeeen-blender-ai-mcp-addon/</id>
+<updated>2026-11-17T08:00:00+00:00</updated>
+<summary>Blender 的 AI 助手外掛，支援多種 AI 服務，提供視覺聊天和場景工具。</summary>
 </entry>
 <entry>
-<title>morluto/rea</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</id>
-<updated>2026-11-16T08:00:00+00:00</updated>
-<summary>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</summary>
+<title>KRAFTON/Raon-1-nano</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-nano/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-nano/</id>
+<updated>2026-11-17T08:00:00+00:00</updated>
+<summary>文本生成模型，適用於對話和自定義程式碼。</summary>
 </entry>
 <entry>
-<title>img2threejs/img2threejs</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/</id>
-<updated>2026-11-16T08:00:00+00:00</updated>
-<summary>將參考影像轉換成高品質的 Three.js 動畫模型。</summary>
+<title>Ebony-Vinyl/dsh-our-free-model</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</id>
+<updated>2026-11-17T08:00:00+00:00</updated>
+<summary>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</summary>
 </entry>
 <entry>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</id>
-<updated>2026-11-16T08:00:00+00:00</updated>
-<summary>基於 Qwen 的影像生成模型，支援從文本生成影像。</summary>
+<title>ccch1mneyyy/dsh-Go</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/</id>
+<updated>2026-11-17T08:00:00+00:00</updated>
+<summary>DeepSeek手機應用，可在手機上執行並遙控電腦。</summary>
+</entry>
+<entry>
+<title>MiniMaxAI/MiniMax-H3-Image</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/</id>
+<updated>2026-11-17T08:00:00+00:00</updated>
+<summary>將文字轉換成影像的AI模型，支援影像生成和編輯。</summary>
 </entry>
 </feed>

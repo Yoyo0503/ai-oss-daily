@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-11-16 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-11-17 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-11-17](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-17/)
 - [2026-11-16](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-16/)
 - [2026-11-15](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-15/)
 - [2026-11-14](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-14/)
@@ -26,15 +27,14 @@
 - [2026-11-04](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-04/)
 - [2026-11-03](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-03/)
 - [2026-11-02](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-02/)
-- [2026-11-01](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-01/)
 
 ## 今日精選 Today's picks
-- [alicebrown323/pro-tools-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alicebrown323-pro-tools-desktop/)
-- [n4ze3m/tiny-voca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/n4ze3m-tiny-voca/)
-- [BehemothDyer/stable-diffusion-atelier](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdyer-stable-diffusion-atelier/)
-- [morluto/rea](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/)
-- [img2threejs/img2threejs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/img2threejs-img2threejs/)
-- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/)
+- [n4ze3m/tiny-voca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-n4ze3m-tiny-voca/)
+- [hitkeeen/blender-ai-mcp-addon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hitkeeen-blender-ai-mcp-addon/)
+- [KRAFTON/Raon-1-nano](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-nano/)
+- [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/)
+- [ccch1mneyyy/dsh-Go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/)
+- [MiniMaxAI/MiniMax-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)
