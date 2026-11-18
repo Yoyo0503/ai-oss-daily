@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-11-17T08:00:00+00:00</updated>
+<updated>2026-11-18T08:00:00+00:00</updated>
 <entry>
-<title>n4ze3m/tiny-voca</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-n4ze3m-tiny-voca/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-n4ze3m-tiny-voca/</id>
-<updated>2026-11-17T08:00:00+00:00</updated>
-<summary>小型語音合成模型，將文字轉換為語音。</summary>
+<title>vyrekai/minimax-h3-image-comfyui-workflows</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-vyrekai-minimax-h3-image-comfyui-workflows/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-vyrekai-minimax-h3-image-comfyui-workflows/</id>
+<updated>2026-11-18T08:00:00+00:00</updated>
+<summary>使用 minimax-h3 和 comfyui 的影像生成工作流程。</summary>
 </entry>
 <entry>
-<title>hitkeeen/blender-ai-mcp-addon</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hitkeeen-blender-ai-mcp-addon/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hitkeeen-blender-ai-mcp-addon/</id>
-<updated>2026-11-17T08:00:00+00:00</updated>
-<summary>Blender 的 AI 助手外掛，支援多種 AI 服務，提供視覺聊天和場景工具。</summary>
+<title>sensenova/SenseNova-Loop-9B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b/</id>
+<updated>2026-11-18T08:00:00+00:00</updated>
+<summary>將影像和文本轉換為文本的多模態模型。</summary>
 </entry>
 <entry>
-<title>KRAFTON/Raon-1-nano</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-nano/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-nano/</id>
-<updated>2026-11-17T08:00:00+00:00</updated>
-<summary>文本生成模型，適用於對話和自定義程式碼。</summary>
+<title>MicksHF/Qwen-Image-2.1-Anime-Fusal</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mickshf-qwen-image-2-1-anime-fusal/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mickshf-qwen-image-2-1-anime-fusal/</id>
+<updated>2026-11-18T08:00:00+00:00</updated>
+<summary>基於 Qwen-Image-2.1 的影像到影像生成模型。</summary>
 </entry>
 <entry>
-<title>Ebony-Vinyl/dsh-our-free-model</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</id>
-<updated>2026-11-17T08:00:00+00:00</updated>
-<summary>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</summary>
+<title>ZJU-REAL/Easel</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</id>
+<updated>2026-11-18T08:00:00+00:00</updated>
+<summary>一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。</summary>
 </entry>
 <entry>
-<title>ccch1mneyyy/dsh-Go</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/</id>
-<updated>2026-11-17T08:00:00+00:00</updated>
-<summary>DeepSeek手機應用，可在手機上執行並遙控電腦。</summary>
+<title>elementalsouls/Claude-BugHunter</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</id>
+<updated>2026-11-18T08:00:00+00:00</updated>
+<summary>Claude Code 程式設計技能包：漏洞狩獵和外部紅隊工作</summary>
 </entry>
 <entry>
-<title>MiniMaxAI/MiniMax-H3-Image</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/</id>
-<updated>2026-11-17T08:00:00+00:00</updated>
-<summary>將文字轉換成影像的AI模型，支援影像生成和編輯。</summary>
+<title>boringmarketer/boring-marketing-skills</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boringmarketer-boring-marketing-skills/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boringmarketer-boring-marketing-skills/</id>
+<updated>2026-11-18T08:00:00+00:00</updated>
+<summary>為 AI 最佳化 31 種免費行銷技能，涵蓋研究、定位和內容創作。</summary>
 </entry>
 </feed>

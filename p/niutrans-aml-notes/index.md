@@ -1,0 +1,10 @@
+# NiuTrans/AML-Notes
+
+面向生成式 AI 的機器學習教材。
+
+**為何上榜**：52★ · 近期活躍
+
+**商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
+
+**Stars**：52
+**原始連結**：https://github.com/NiuTrans/AML-Notes

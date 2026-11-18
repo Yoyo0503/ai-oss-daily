@@ -2,9 +2,9 @@
 
 一個基於 TensorFold 的 AI 影片工作室，支援 Mac 和 NVIDIA DGX Spark，用於影片創作和渲染。
 
-**為何上榜**：近期新建立，已獲 1,114★
+**為何上榜**：近一日新增 35★（現 1,149★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,114
+**Stars**：1,149
 **原始連結**：https://github.com/Keys-Wasserman/Imagination-Studio-by-keys-Wasserman

@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>17 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>18 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>n4ze3m/tiny-voca</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-n4ze3m-tiny-voca/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-n4ze3m-tiny-voca/</guid>
-<pubDate>17 Nov 2026 08:00:00 +0000</pubDate>
-<description>小型語音合成模型，將文字轉換為語音。</description>
+<title>vyrekai/minimax-h3-image-comfyui-workflows</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-vyrekai-minimax-h3-image-comfyui-workflows/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-vyrekai-minimax-h3-image-comfyui-workflows/</guid>
+<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
+<description>使用 minimax-h3 和 comfyui 的影像生成工作流程。</description>
 </item>
 <item>
-<title>hitkeeen/blender-ai-mcp-addon</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hitkeeen-blender-ai-mcp-addon/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hitkeeen-blender-ai-mcp-addon/</guid>
-<pubDate>17 Nov 2026 08:00:00 +0000</pubDate>
-<description>Blender 的 AI 助手外掛，支援多種 AI 服務，提供視覺聊天和場景工具。</description>
+<title>sensenova/SenseNova-Loop-9B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b/</guid>
+<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
+<description>將影像和文本轉換為文本的多模態模型。</description>
 </item>
 <item>
-<title>KRAFTON/Raon-1-nano</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-nano/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-raon-1-nano/</guid>
-<pubDate>17 Nov 2026 08:00:00 +0000</pubDate>
-<description>文本生成模型，適用於對話和自定義程式碼。</description>
+<title>MicksHF/Qwen-Image-2.1-Anime-Fusal</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mickshf-qwen-image-2-1-anime-fusal/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mickshf-qwen-image-2-1-anime-fusal/</guid>
+<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen-Image-2.1 的影像到影像生成模型。</description>
 </item>
 <item>
-<title>Ebony-Vinyl/dsh-our-free-model</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/</guid>
-<pubDate>17 Nov 2026 08:00:00 +0000</pubDate>
-<description>dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。</description>
+<title>ZJU-REAL/Easel</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</guid>
+<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
+<description>一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。</description>
 </item>
 <item>
-<title>ccch1mneyyy/dsh-Go</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/</guid>
-<pubDate>17 Nov 2026 08:00:00 +0000</pubDate>
-<description>DeepSeek手機應用，可在手機上執行並遙控電腦。</description>
+<title>elementalsouls/Claude-BugHunter</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</guid>
+<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
+<description>Claude Code 程式設計技能包：漏洞狩獵和外部紅隊工作</description>
 </item>
 <item>
-<title>MiniMaxAI/MiniMax-H3-Image</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/</guid>
-<pubDate>17 Nov 2026 08:00:00 +0000</pubDate>
-<description>將文字轉換成影像的AI模型，支援影像生成和編輯。</description>
+<title>boringmarketer/boring-marketing-skills</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boringmarketer-boring-marketing-skills/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boringmarketer-boring-marketing-skills/</guid>
+<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
+<description>為 AI 最佳化 31 種免費行銷技能，涵蓋研究、定位和內容創作。</description>
 </item>
 </channel>
 </rss>

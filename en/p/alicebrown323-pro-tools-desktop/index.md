@@ -4,5 +4,5 @@ Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosti
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：248
+**Stars**：249
 **Source**：https://github.com/alicebrown323/pro-tools-desktop
