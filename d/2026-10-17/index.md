@@ -1031,7 +1031,6 @@ _每日存檔 · 2026-10-17_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [liupig/xiaokeai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liupig-xiaokeai/) — 開源的本地 3D 虛擬伴侶，支援多種語言和功能。
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1171,7 +1170,6 @@ _每日存檔 · 2026-10-17_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [agentpit-io/hunter-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentpit-io-hunter-community/) — 開源私人金融AI團隊，提供自託管多智慧體系統。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jeokeo011222/quantbot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeokeo011222-quantbot/) — 基於 Go 和 React 的 A 股量化交易圖形介面。
 - [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-roneneldan-tinystories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yjh051108/dsh-routing-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yjh051108-dsh-routing-suite/) — dsh-routing-suite 是一個用於 AI 代理的注入器和路由器套件。

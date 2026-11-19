@@ -476,7 +476,6 @@ _每日存檔 · 2026-07-07_
 - [Qwen/Qwen3-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-qwen-qwen3-tts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [thClaws/thClaws](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thclaws-thclaws/) — 開源AI代理框架，提供GUI、CLI等多種介面，支援多供應商。
 - [Lynpoint/CyberVerse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lynpoint-cyberverse/) — 自建即時數字人類代理平臺，支援 WebRTC 和工具整合。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mirror29/inalpha](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mirror29-inalpha/) — 開源量化交易代理框架，自動生成策略並在沙盒中演進。
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ggml-org-gguf-my-repo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenyuchiou-awesome-agentic-ai-zh/) — 中文 AI Agent 學習地圖，涵蓋從 LLM 基礎到多代理系統的資源。

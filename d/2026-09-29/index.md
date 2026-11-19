@@ -941,7 +941,6 @@ _每日存檔 · 2026-09-29_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanliudesign-mono-color-skill/) — 單色印刷影像技能，適用於編輯設計。
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PillCrew/claimchain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pillcrew-claimchain/) — 驗證 AI 代理的區塊鏈宣告是否真實。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-mms-300m/) — 一個使用wav2vec2的轉換器模型，適用於多語言預訓練。
@@ -1044,7 +1043,6 @@ _每日存檔 · 2026-09-29_
 - [pengpengyi92/dsh-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pengpengyi92-dsh-quant/) — Dsh-Quant 是一個集成了多種功能的量化交易外掛。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。
 - [0toshigami/orbis-pictus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0toshigami-orbis-pictus/) — 點選探索的AI繪圖書。

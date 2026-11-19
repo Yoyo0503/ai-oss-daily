@@ -528,7 +528,6 @@ _每日存檔 · 2026-07-14_
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [Hajimides/SD-Anima-Prompt-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hajimides-sd-anima-prompt-studio/) — Stable Diffusion／Anima 的玻璃擬態 UI prompt 工程工具。
 - [wangchuxiaoji-oss/doubao2api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wangchuxiaoji-oss-doubao2api/) — 把豆包(Doubao)逆向成 OpenAI 相容 REST API（免費多模態，灰色用途、有風險）。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [imbue-bit/NS-NTK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbue-bit-ns-ntk/) — 非穩態神經網路理論，適用於量化金融中的連續分佈變換。

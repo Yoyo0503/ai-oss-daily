@@ -531,7 +531,6 @@ _每日存檔 · 2026-07-16_
 - [best-of-algorithmic-trading（演算法交易精選清單）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-best-of-algorithmic-trading/) — 演算法交易精選清單：量化財務、交易機器人、回測、技術分析。
 - [Etherll/Timbre](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/etherll-timbre/) — 從多語音錄音中提取目標講話者的清晰語音並生成 LJSpeech 風格的 TTS 資料集。
 - [debpalash/OmniVoice-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/debpalash-omnivoice-studio/) — 開源版 ElevenLabs：本機語音克隆、配音、口播設計。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ruvnet/agenticow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruvnet-agenticow/) — 用於嵌入式多代理記憶系統的 Git 風格分支機制，效能優異且佔用空間小。
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

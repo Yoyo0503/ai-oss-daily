@@ -808,7 +808,6 @@ _每日存檔 · 2026-09-11_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/activeing123-mcptoon/) — mcptoon 是一個高效的工具發現 CLI，支援所有 AI 代理。
 - [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skill-recorder/) — 使用GitHub Copilot CLI記錄並重建工作會話的桌面應用程式。
 - [shtjww/llm-inference-capacity-handbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shtjww-llm-inference-capacity-handbook/) — 大模型推理案頭手冊，提供GPU算力下的模型QPS估算。
@@ -903,7 +902,6 @@ _每日存檔 · 2026-09-11_
 - [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prism-shadow-penguin-harness/) — 讓AI自行建立AI的工具。
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [dacnay816y62-hub/photo-revival](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dacnay816y62-hub-photo-revival/) — 將照片轉換為手繪風格插圖的工具。
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/) — 聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。

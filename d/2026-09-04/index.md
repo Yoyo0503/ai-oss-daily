@@ -740,7 +740,6 @@ _每日存檔 · 2026-09-04_
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tiger3807861189-j-space-cognition-suite-v3-7/) — J-Space Cognition Suite V3.7 是一個基於 J-space 全球工作空間研究的 AI 智慧增強套件。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/) — 自動化生成類似 Vox 風格的紙拼貼解說影片。
 - [Jaycheng1103/chatgpt-video-editing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaycheng1103-chatgpt-video-editing-skills/) — 使用ChatGPT和Codex安裝AI剪輯環境，完成八大步驟的短片編輯。
 - [BeatAPI/awesome-minimax-h3-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beatapi-awesome-minimax-h3-prompts/) — 收集了多種 MiniMax H3 影片生成提示，涵蓋電影、廣告等。
@@ -822,7 +821,6 @@ _每日存檔 · 2026-09-04_
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/) — 本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。
 - [makecindy/cindy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/makecindy-cindy/) — 開源、即插即用的 AI 代理，支援多平臺。
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-ribbi-velocut/) — 本地優先的AI影片編輯器，支援瀏覽器內執行。

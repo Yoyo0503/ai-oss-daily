@@ -412,7 +412,6 @@ _每日存檔 · 2026-06-26_
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-open-swe-traces/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 - [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeaashu-claude-code/) — Claude Code 是一個終端機中的程式碼助手，能幫助你更快地編寫和管理程式碼。
 - [ChrisChen667788/wind-comic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrischen667788-wind-comic/) — 將文字轉換成動漫劇本和影片的多代理 AI 管道。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

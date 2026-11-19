@@ -954,7 +954,6 @@ _每日存檔 · 2026-09-30_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanliudesign-mono-color-skill/) — 單色印刷影像技能，適用於編輯設計。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PillCrew/claimchain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pillcrew-claimchain/) — 驗證 AI 代理的區塊鏈宣告是否真實。
 - [JingHao-Leon/dsh-alpha-desk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jinghao-leon-dsh-alpha-desk/) — Alpha Desk 是一個將代理會話轉換為合規投資桌面的技能包。
 - [hieuphung97/dely](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hieuphung97-dely/) — 協調獨立工作會話的多協調控制協議。
@@ -1061,7 +1060,6 @@ _每日存檔 · 2026-09-30_
 - [flatkey-ai/flatkey-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flatkey-ai-flatkey-cli/) — 用於生成影像、影片、音訊等多媒體內容的命令列工具。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [Egonex-AI/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/) — 將程式碼轉換為可互動探索和查詢的知識圖形工具。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

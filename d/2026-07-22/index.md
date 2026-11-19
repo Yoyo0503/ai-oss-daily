@@ -557,7 +557,6 @@ _每日存檔 · 2026-07-22_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 - [worldwonderer/oh-story-claudecode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldwonderer-oh-story-claudecode/) — 網文寫作技能包，涵蓋掃榜、拆文、去 AI 味道等全流程。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。

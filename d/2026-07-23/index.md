@@ -576,7 +576,6 @@ _每日存檔 · 2026-07-23_
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madeval-ferryai/) — PHP 8.3+的原生AI推論框架，直接在PHP中執行ONNX等模型。
 - [wanshuiyin/ARIS-in-AI-Offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wanshuiyin-aris-in-ai-offer/) — AI 秋招面試雙語備忘單，生成 CV 轉換器。
 - [code-yeongyu/lazycodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/code-yeongyu-lazycodex/) — 複雜程式碼庫的AI代理管理工具，支援專案記憶和執行。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。

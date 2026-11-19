@@ -380,7 +380,6 @@ _每日存檔 · 2026-06-21_
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RockeyCoss/LeapAlign_Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rockeycoss-leapalign-code/) — CVPR2026：通過建立兩步軌跡進行訓練後的流匹配模型。
 - [EddieTYP/image-prompt-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eddietyp-image-prompt-library/) — 本地一體化影像提示庫，用於生成、儲存和管理影像。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [seme-org/open-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seme-org-open-director/) — 開源AI影片工作室，支援創意模式和批次模式。
 - [Visko-Platform/VEFX-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/visko-platform-vefx-bench/) — VEFX-Bench：通用影片編輯與視覺特效的綜合基準測試。
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

@@ -1035,7 +1035,6 @@ _每日存檔 · 2026-10-20_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [sobranie2406/modureader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sobranie2406-modureader/) — 跨平臺的電子書和 PDF 讀取器，支援 OCR 和文字轉語音。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [callirra-ai/gpt-image-2-5-prompt-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/callirra-ai-gpt-image-2-5-prompt-atlas/) — 包含50個GPT-Image 2.5生成的影像提示範例，包括短提示和工程簡報。
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1175,7 +1174,6 @@ _每日存檔 · 2026-10-20_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jplenio/ComfyUI-MiniMax-Music-Production-Toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jplenio-comfyui-minimax-music-production-toolkit/) — 專業的MiniMax音樂生成環境。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [modelscope/ms-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelscope-ms-cookbook/) — ms-cookbook 是一個面向開發者的開源模型應用實戰指南，涵蓋模型選型、推理、微調等內容。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。
 - [0toshigami/orbis-pictus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0toshigami-orbis-pictus/) — 點選探索的AI繪圖書。

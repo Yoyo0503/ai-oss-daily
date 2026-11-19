@@ -1007,7 +1007,6 @@ _每日存檔 · 2026-10-09_
 - [michaelxu688/Easy-ai-ebook-writer-kdp-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/michaelxu688-easy-ai-ebook-writer-kdp-generator/) — Easy-ai-ebook-writer-kdp-generator 是一個使用 AI 自動生成和出版 Kindle 電子書的工具。
 - [jenniferye888/dach-affiliate-quiz-funnel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jenniferye888-dach-affiliate-quiz-funnel/) — dach-affiliate-quiz-funnel 是一個用於德國市場聯盟營銷的互動式測驗漏斗。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Player-YN/BrowserKitten](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/player-yn-browserkitten/) — Chrome 瀏覽器選項式網頁代理，可將選定內容轉換為可編輯檔案。
 - [chenkanglin198904/Personal_External_Brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chenkanglin198904-personal-external-brain/) — 個人知識圖譜工具，將筆記、網頁、PDF和音影片轉換為知識圖譜，完全在本地執行。
 - [mountainview8868/distributed-link-manager-](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mountainview8868-distributed-link-manager/) — 為開發者和內容創作者提供可持續的收益鏈管理工具。
@@ -1126,7 +1125,6 @@ _每日存檔 · 2026-10-09_
 - [wassgha/rescript](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/) — 基於字幕的線上影音編輯器。
 - [smizxe/mt5-agent-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/smizxe-mt5-agent-toolkit/) — 將交易策略轉換為 MetaTrader 5 專家顧問的 AI 工具。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [PotionUI/PotionUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/potionui-potionui/) — 自建的影像、影片和音訊生成工作室，使用擴散模型。
 - [Egonex-AI/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/) — 將程式碼轉換為可互動探索和查詢的知識圖形工具。

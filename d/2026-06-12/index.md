@@ -336,7 +336,6 @@ _每日存檔 · 2026-06-12_
 - [dongxinsuperman/ai-phone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dongxinsuperman-ai-phone/) — 三端真機 AI 自動化中台（手機自動化）。
 - [joshua-zyy/academic-paper-writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joshua-zyy-academic-paper-writer/) — 面向電腦科學、AI 和 ML 領域的論文寫作代理技能。
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tencentcloud-tencentdb-agent-memory/) — 提供完全本地化的長期記憶系統，支援AI代理的四層進階流程。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — 構建自主 AI 代理的 API 集合，涵蓋代理、AI 模型和 MCP 伺服器。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。
 - [zer0quant/zer0share](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zer0quant-zer0share/) — A 股本地資料管道：Tushare＋DuckDB＋Parquet，日線/複權增量同步與排程。

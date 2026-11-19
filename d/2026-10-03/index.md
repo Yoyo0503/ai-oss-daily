@@ -966,7 +966,6 @@ _每日存檔 · 2026-10-03_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GongZhiren/State-of-Thought](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gongzhiren-state-of-thought/) — 在測試時間計算中啟動內在推理的大型語言模型。
 - [yjh051108/dsh-routing-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yjh051108-dsh-routing-suite/) — dsh-routing-suite 是一個用於 AI 代理的注入器和路由器套件。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [decionis/docker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/decionis-docker/) — 在Docker中管理AI代理行動，確保政策確定性和人為批准。
 - [wang2122/sprix-sage-router](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wang2122-sprix-sage-router/) — 狀態感知的SELF/COLLABORATE/HANDOFF路由系統。
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
@@ -1080,7 +1079,6 @@ _每日存檔 · 2026-10-03_
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Heroesjouney/AIMovieStudiov2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heroesjouney-aimoviestudiov2/) — 無需程式設計的 AI 製作電影工作流，支援 ComfyUI 和 Fal/Replicate 雲端。
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [loudreader/loudkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loudreader-loudkit/) — 本地端文字轉語音工具，支援28種語音和10種語言，並提供多種SDK。
 - [Egonex-AI/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/) — 將程式碼轉換為可互動探索和查詢的知識圖形工具。

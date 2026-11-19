@@ -373,7 +373,6 @@ _每日存檔 · 2026-06-22_
 - [lambda/hermes-agent-reasoning-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lambda-hermes-agent-reasoning-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [egalano/build-a-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egalano-build-a-skill/) — 互動教程，指導你如何在約20分鐘內為 Claude 建立技能。
 - [DaviddTech/ai-trading-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daviddtech-ai-trading-agent/) — ai-trading-agent 是一個使用 Claude 等工具建立的 AI 股票交易代理。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CIntellifusion/MultiWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cintellifusion-multiworld/) — 多智慧體多視角世界的擴充套件模型。
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [RockeyCoss/LeapAlign_Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rockeycoss-leapalign-code/) — CVPR2026：通過建立兩步軌跡進行訓練後的流匹配模型。

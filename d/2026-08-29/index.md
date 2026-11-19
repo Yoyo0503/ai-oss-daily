@@ -719,7 +719,6 @@ _每日存檔 · 2026-08-29_
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/) — 聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。
 - [YizhiSong/FriesTrader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yizhisong-friestrader/) — 自動化股票交易機器人，基於Claude Code進行風險管理。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [kirodotdev/KiroCrew](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kirodotdev-kirocrew/) — 一個自我進化的開發工作空間，可持續多個會話。
 - [khakhasshi/LLM_QUANT_FACTORY](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/khakhasshi-llm-quant-factory/) — 可審計的多代理量化研究和回測平臺。
@@ -804,7 +803,6 @@ _每日存檔 · 2026-08-29_
 - [lidge-jun/opencodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lidge-jun-opencodex/) — 一個通用代理，讓使用者可以使用任何大型語言模型來驅動OpenAI Codex和Claude Code。
 - [xixihhhh/hotclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xixihhhh-hotclip/) — 免費開源AI剪輯工具，自動將長片、直播轉成熱門短影片。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Jia-Ethan/codex-keysmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jia-ethan-codex-keysmith/) — 無版本依賴的Codex指令部署工具，具備模擬、備份和恢復功能。
 - [ArturSepp/TrendFollowingSystems](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artursepp-trendfollowingsystems/) — Python 實現的趨勢跟隨系統，提供量化研究和實踐的閉式形式分析。
 - [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/) — 本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。

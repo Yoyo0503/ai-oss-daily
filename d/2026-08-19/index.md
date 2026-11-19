@@ -645,7 +645,6 @@ _每日存檔 · 2026-08-19_
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alephaitech-workbuddyguide/) — 開源實戰指南，幫助掌握 WorkBuddy 的教程與工作流。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Koukyosyumei/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koukyosyumei-h5i-db/) — 用於量化研究的終端機筆記本和高效能時系列資料庫。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [electkismet/AxData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/electkismet-axdata/) — 開源量化資料庫框架，涵蓋多個財經介面。
 - [the0cp/beatflow-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/the0cp-beatflow-skill/) — 使用 Python DSL 的音樂生成技能，具備診斷和多軌 MIDI 渲染功能。
 - [YeJe-cpu/talk-to-fengge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yeje-cpu-talk-to-fengge/) — 克隆任何人聲音和個性進行即時對話的AI系統。
@@ -736,7 +735,6 @@ _每日存檔 · 2026-08-19_
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [onism1767-creator/potato](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onism1767-creator-potato/) — 測量品牌在網頁搜尋結果中的提及頻率和引用次數。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [techjarves/Uncensored-Local-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-uncensored-local-studio/) — 無縫安裝的AI工作室，提供影像生成、語音轉換等多種功能。
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-eve/) — 用於構建代理的框架。

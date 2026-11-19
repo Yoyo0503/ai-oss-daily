@@ -13,7 +13,6 @@ _每日存檔 · 2026-10-22_
 - [eagle-hq/EAGLE-4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eagle-hq-eagle-4/) — EAGLE-4的官方推論程式碼。
 - [briaai/Fibo-2.0-editing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-briaai-fibo-2-0-editing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [dlouapre/nlp-before-llms](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dlouapre-nlp-before-llms/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/text-to-3d-with-llm-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-text-to-3d-with-llm-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [daviddme/tradingview-indicator-search-mcp-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daviddme-tradingview-indicator-search-mcp-server/) — TradingView的MCP伺服器，用於搜尋指標和策略，支援Claude Code等工具。
 
@@ -905,7 +904,6 @@ _每日存檔 · 2026-10-22_
 - [AlienKevin/SWE-ZERO-12M-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alienkevin-swe-zero-12m-trajectories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-precisionaiinc-agristress-500/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AxisEgretDefeat/kling-ai-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/axisegretdefeat-kling-ai-master/) — Kling AI主體模型，將文字轉換為影像。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [kajisho5/ffmpeg-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kajisho5-ffmpeg-skill/) — 本地影片編輯工具，支援42種FFmpeg功能。
 - [iyqhcef3ffn/hailuo2.3-hailuo-2.3-gateway](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iyqhcef3ffn-hailuo2-3-hailuo-2-3-gateway/) — 與OpenAI相容的Hailuo 2.3 API閘道器。
 - [igrbible/Ruach_Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/igrbible-ruach-studio/) — Ruach_Studio 是一個完整的音樂工作室，支援樂譜生成、LoRA 訓練等。
@@ -1069,7 +1067,6 @@ _每日存檔 · 2026-10-22_
 - [incoai/splash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/incoai-splash/) — 適用於Apple矽晶片的本地推理引擎。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pallavi-shekhar-ai-engineering-interview-questions-company-wise/) — AI工程師面試 cheatsheet，提供各大公司的面試題目與解答。
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1190,7 +1187,6 @@ _每日存檔 · 2026-10-22_
 - [thunderstrike668/contentqueen-app-erfahrung-review-deutsch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thunderstrike668-contentqueen-app-erfahrung-review-deutsch/) — 德語市場的 AI 文本生成器 Contentqueen App 測試報告。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [chenkanglin198904/Personal_External_Brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chenkanglin198904-personal-external-brain/) — 個人知識圖譜工具，將筆記、網頁、PDF和音影片轉換為知識圖譜，完全在本地執行。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bookreaderpage/ai-automation-yield-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bookreaderpage-ai-automation-yield-pipeline/) — 提供使用 LLM 和 AI 自動化建立數位產出管道的技術藍圖和工作流程指南。
 - [travelmapworld/avatar-speak-pro-download](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/travelmapworld-avatar-speak-pro-download/) — 自動生成 AI 虛擬角色影片，提升 TikTok 和 Shopify 的轉換率。
 - [travelmapworld/awesome-micro-saas-builder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/travelmapworld-awesome-micro-saas-builder/) — 為獨立開發者快速建立和釋出微 SaaS 和數位產品的工具。

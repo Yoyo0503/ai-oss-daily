@@ -767,7 +767,6 @@ _每日存檔 · 2026-09-09_
 - [0xsline/OpenChatCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/) — 本地化對話式AI影片編輯器，具備多軌時間線和MCP整合。
 - [OWASP/OWASP-MCP-Governance-and-Risk-Project](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owasp-owasp-mcp-governance-and-risk-project/) — 提供組織在採用 Model Context Protocol (MCP) 時的實用治理框架。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Eyeline-Labs/ID-V2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/) — ID-V2V 是用於影片重風格化並保持身份特徵的官方實現。
 - [ARahim3/kaggle-tpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arahim3-kaggle-tpu-lab/) — 在免費的 Kaggle TPU 上執行 Qwen3.8-27B，支援 Claude Code 等。
 - [mat-nolen/tldr-radio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mat-nolen-tldr-radio/) — tldr-radio 是一個將每日 TLDR 電子報轉換為播客的工具。
@@ -852,7 +851,6 @@ _每日存檔 · 2026-09-09_
 - [egoist/waku](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egoist-waku/) — 用於程式碼代理的本地應用。
 - [erduo1998-cell/erduo-broll-loop-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/erduo1998-cell-erduo-broll-loop-engineering/) — 自動路由 HyperFrames 和 Remotion 的雙後端 B-roll 代理技能，整合 Shotcraft 鏡頭卡。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [malcolmrey/various](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-malcolmrey-various/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

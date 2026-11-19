@@ -509,7 +509,6 @@ _每日存檔 · 2026-07-10_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sapientinc-hrm-text/) — 基於分層推理模型的大型語言生成模型，強化了任務完成和潛在空間推理。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denissergeevitch-agents-best-practices/) — Codex、Claude Code 和其他平臺的通用代理技能。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mirror29/inalpha](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mirror29-inalpha/) — 開源量化交易代理框架，自動生成策略並在沙盒中演進。

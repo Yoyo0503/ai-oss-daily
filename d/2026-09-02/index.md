@@ -724,7 +724,6 @@ _每日存檔 · 2026-09-02_
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [WayneJin0918/Omni-Rewriter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/waynejin0918-omni-rewriter/) — 整合多模態生成的AI代理框架，適用於影像和影片。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [fuxicodex/Fuxi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fuxicodex-fuxi/) — 在終端機中執行的AI程式設計助手。
 - [0toshigami/orbis-pictus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0toshigami-orbis-pictus/) — 點選探索的AI繪圖書。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -807,7 +806,6 @@ _每日存檔 · 2026-09-02_
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/) — 聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [shy3130/tick-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tick-stock-panel/) — TSP 是一個自託管的量化工作臺，支援選股、監控和回測。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [kachence/polymm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kachence-polymm/) — 使用Python編寫的一個運動市場套利機器人，用於去 vig 運動賭博和報價。

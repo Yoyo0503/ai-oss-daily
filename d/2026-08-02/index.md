@@ -623,7 +623,6 @@ _每日存檔 · 2026-08-02_
 - [KunAgent/Kun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kunagent-kun/) — Kun 是一個本地優先的 AI 們工作空間，適用於程式設計、寫作等多種場景。
 - [inkeep/open-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inkeep-open-knowledge/) — open-knowledge 是一個基於AI的Markdown IDE和LLM知識庫。
 - [ByteDance Lance（原生統一多模態模型）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bytedance-lance/) — 字節跳動研究院的 3B 啟用參數原生統一多模態模型(圖像理解與生成)。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [begin0808/VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/begin0808-voxcpm2/) — 基於VoxCPM2模型的離線語音合成與複製桌面工作站。

@@ -814,7 +814,6 @@ _每日存檔 · 2026-09-17_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [kulkas2pintu/wan777](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-wan777/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wang2122/sprix-sage-router](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wang2122-sprix-sage-router/) — 狀態感知的SELF/COLLABORATE/HANDOFF路由系統。
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanliudesign-mono-color-skill/) — 單色印刷影像技能，適用於編輯設計。
@@ -898,7 +897,6 @@ _每日存檔 · 2026-09-17_
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/) — 自動化生成類似 Vox 風格的紙拼貼解說影片。
 - [Conquerer-yinn/Kakaaaa-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/conquerer-yinn-kakaaaa-quant/) — 輕量級量化研究平臺，面向 A 股研究。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Jaycheng1103/chatgpt-video-editing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaycheng1103-chatgpt-video-editing-skills/) — 使用ChatGPT和Codex安裝AI剪輯環境，完成八大步驟的短片編輯。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

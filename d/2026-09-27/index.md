@@ -931,7 +931,6 @@ _每日存檔 · 2026-09-27_
 - [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nari-labs-nari-qwen3-tts/) — nari-qwen3-tts 是一個超快速的語音生成系統，支援每秒 10 次請求。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [aigclink/geolook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aigclink-geolook/) — 開源 GEO 實施工具，涵蓋狀態分析、診斷等。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ARahim3/kaggle-tpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arahim3-kaggle-tpu-lab/) — 在免費的 Kaggle TPU 上執行 Qwen3.8-27B，支援 Claude Code 等。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wassgha/rescript](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/) — 基於字幕的線上影音編輯器。
@@ -1029,7 +1028,6 @@ _每日存檔 · 2026-09-27_
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [arnsri33/embedflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arnsri33-embedflow/) — 提供零中斷的嵌入式升級功能。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。

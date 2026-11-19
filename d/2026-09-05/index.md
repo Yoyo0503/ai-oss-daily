@@ -749,7 +749,6 @@ _每日存檔 · 2026-09-05_
 - [BeatAPI/awesome-minimax-h3-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beatapi-awesome-minimax-h3-prompts/) — 收集了多種 MiniMax H3 影片生成提示，涵蓋電影、廣告等。
 - [Conquerer-yinn/Kakaaaa-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/conquerer-yinn-kakaaaa-quant/) — 輕量級量化研究平臺，面向 A 股研究。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Jaycheng1103/chatgpt-video-editing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaycheng1103-chatgpt-video-editing-skills/) — 使用ChatGPT和Codex安裝AI剪輯環境，完成八大步驟的短片編輯。
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vox-director/) — 自動化生成類似 Vox 風格的紙拼貼解說影片。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -830,7 +829,6 @@ _每日存檔 · 2026-09-05_
 - [YizhiSong/FriesTrader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yizhisong-friestrader/) — 自動化股票交易機器人，基於Claude Code進行風險管理。
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TaoLiveAIGC/TLive-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taoliveaigc-tlive-omni/) — 適用於電商直播的全模態理解模型。

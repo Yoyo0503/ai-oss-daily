@@ -933,7 +933,6 @@ _每日存檔 · 2026-09-28_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [allmodels-io/hermes-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/allmodels-io-hermes-speech/) — AllModels語音模型的Hermes代理TTS和STT外掛。
 - [deeplethe/utopia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/) — 自託運知識平臺，基於知識圖譜，使用Rust和PostgreSQL。
 - [mkamranr/reelforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mkamranr-reelforge/) — 將GitHub或Hugging Face模型轉換為垂直影片的自動化工具。
@@ -1037,7 +1036,6 @@ _每日存檔 · 2026-09-28_
 - [BeatAPI/awesome-minimax-h3-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beatapi-awesome-minimax-h3-prompts/) — 收集了多種 MiniMax H3 影片生成提示，涵蓋電影、廣告等。
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [arnsri33/embedflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arnsri33-embedflow/) — 提供零中斷的嵌入式升級功能。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

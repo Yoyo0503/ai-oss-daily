@@ -669,7 +669,6 @@ _每日存檔 · 2026-08-07_
 - [volcengine/ark-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volcengine-ark-cli/) — 快速部署Volcengine Ark的CLI工具，支援多模態生成和回答。
 - [amitshekhariitbhu/transformers-explained](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-transformers-explained/) — 詳細解說 Transformer 架構及其各層結構。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [perso-ai/perso-dubbing-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perso-ai-perso-dubbing-plugin/) — 透過Perso Dubbing API自動翻譯和配音外掛，支援多語言。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [Egonex-AI/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/) — 將程式碼轉換為可互動探索和查詢的知識圖形工具。

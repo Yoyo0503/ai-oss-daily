@@ -691,7 +691,6 @@ _每日存檔 · 2026-08-11_
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [microsoft/flint-chart](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-flint-chart/) — 讓AI代理可靠地從簡單規格建立圖表的視覺化語言。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tutti-os/tutti](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tutti-os-tutti/) — 讓使用者和AI代理合作建立專案。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atlascloudai-awesome-seedance-2-5-prompts-skills/) — 包含100多個Seedance 2.5提示和影片預覽的列表，以及最佳化提示、建立故事板和生成影片的技能。

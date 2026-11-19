@@ -529,7 +529,6 @@ _每日存檔 · 2026-07-15_
 - [zhu1090093659/deepseek-pp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-deepseek-pp/) — DeepSeek瀏覽器擴充功能，提供AI代理工作空間和自動化工具。
 - [Etherll/Timbre](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/etherll-timbre/) — 從多語音錄音中提取目標講話者的清晰語音並生成 LJSpeech 風格的 TTS 資料集。
 - [AgriciDaniel/claude-obsidian](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-obsidian/) — Obsidian + Claude Code自組織AI第二大腦，協助管理知識圖譜。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enping-hu-minimind-deep-dive/) — MiniMind 原始碼精讀及大模型技術體系中文學習筆記。
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [ruvnet/agenticow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruvnet-agenticow/) — 用於嵌入式多代理記憶系統的 Git 風格分支機制，效能優異且佔用空間小。

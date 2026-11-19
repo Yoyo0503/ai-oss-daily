@@ -824,7 +824,6 @@ _每日存檔 · 2026-09-18_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nari-labs-nari-qwen3-tts/) — nari-qwen3-tts 是一個超快速的語音生成系統，支援每秒 10 次請求。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yjh051108/dsh-routing-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yjh051108-dsh-routing-suite/) — dsh-routing-suite 是一個用於 AI 代理的注入器和路由器套件。
 - [hieuphung97/dely](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hieuphung97-dely/) — 協調獨立工作會話的多協調控制協議。
 - [tsingyuai/growth-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsingyuai-growth-lab/) — 從程式碼到市場的開源增長工具，自動化營銷活動。
@@ -911,7 +910,6 @@ _每日存檔 · 2026-09-18_
 - [arnsri33/embedflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arnsri33-embedflow/) — 提供零中斷的嵌入式升級功能。
 - [fuxicodex/Fuxi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fuxicodex-fuxi/) — 在終端機中執行的AI程式設計助手。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [callebtc/sayit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/callebtc-sayit/) — 在Apple矽Mac上進行私人的文字轉語音。
 - [flatkey-ai/flatkey-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flatkey-ai-flatkey-cli/) — 用於生成影像、影片、音訊等多媒體內容的命令列工具。

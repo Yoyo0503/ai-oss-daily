@@ -701,7 +701,6 @@ _每日存檔 · 2026-08-26_
 - [unstonio/pixelgpt-24x24](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/unstonio-pixelgpt-24x24/) — 一個小型本地文字轉畫素藝術模型，可在RTX 5090上快速訓練。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [dacnay816y62-hub/photo-revival](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dacnay816y62-hub-photo-revival/) — 將照片轉換為手繪風格插圖的工具。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [digistoremaster/clickdesigns-review-and-templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-clickdesigns-review-and-templates/) — 生成高轉換率3D模型的綜合指南和工具集，專為ClickBank/Digistore24橋頁最佳化。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prism-shadow-penguin-harness/) — 讓AI自行建立AI的工具。
@@ -778,7 +777,6 @@ _每日存檔 · 2026-08-26_
 - [5uck1ess/cicero](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/5uck1ess-cicero/) — 自建語音程式設計代理系統，支援多種瀏覽器和通話介面。
 - [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/travisun-opptrix/) — 大模型驅動的投研助手，支援因子篩選、回測等功能。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wladimiravila/esp32s3-distributed-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wladimiravila-esp32s3-distributed-ai/) — 在 ESP32-S3 上進行分散式 AI 推理的解決方案。
 - [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/) — 本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。

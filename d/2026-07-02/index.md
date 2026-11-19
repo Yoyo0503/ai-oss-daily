@@ -462,7 +462,6 @@ _每日存檔 · 2026-07-02_
 - [Meddies/meddies-persona-vie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-meddies-meddies-persona-vie/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ThomasMoreAI/legal-skills-open](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thomasmoreai-legal-skills-open/) — 開源法律AI技能庫，支援多個司法管轄區和MCP相容代理機器人。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [browser-use/browser-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/browser-use-browser-harness/) — 自我修復的瀏覽器元件，讓LLMs完成任何任務。
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-can-i-finetune-this/) — 估計Hugging Face模型是否能在你的本地GPU上微調。
 - [multimodalart/qwen-image-multiple-angles-3d-camera](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-qwen-image-multiple-angles-3d-camera/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

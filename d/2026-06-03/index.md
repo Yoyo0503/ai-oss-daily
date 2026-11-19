@@ -253,7 +253,6 @@ _每日存檔 · 2026-06-03_
 - [ogulcancelik/herdr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/) — 在終端機中執行的AI代理多路復用器。
 - [sipeter/CloneTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sipeter-clonetts/) — 輕量級離線Android文字轉語音引擎，支援系統級全域性聽書。
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dontplantoend-ugi-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lintsinghua/claude-code-book](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lintsinghua-claude-code-book/) — 深入剖析Claude Code架構的42萬字電子書，解析AI Agent的骨架與神經。
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
 - [ChaosRealmsAI/gpt-image-2-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chaosrealmsai-gpt-image-2-gallery/) — 包含3800多張GPT-Image-2作品的AI影像靈感集錦。

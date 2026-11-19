@@ -517,7 +517,6 @@ _Daily archive · 2026-07-11_
 - [microsoft/ResearchStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-researchstudio/) — ResearchStudio: Our AI co-author, from research problem to final publication.
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-hrm-text/) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and lat…
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ggml-org-gguf-my-repo/) — · docker, region:us
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-c4/) — · task_categories:text-generation, task_categories:fill-mask, task_ids:language-modeling
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-fka-prompts-chat/) — · task_categories:question-answering, task_categories:text-generation, license:cc0-1.0
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/denissergeevitch-agents-best-practices/) — Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
 - [Meddies/meddies-persona-vie](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-meddies-meddies-persona-vie/) — · task_categories:other, annotations_creators:machine-generated, language_creators:machine-generated
@@ -585,7 +584,7 @@ _Daily archive · 2026-07-11_
 - [K-Dense-AI/scientific-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/k-dense-ai-scientific-agent-skills/) — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists …
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-openbmb-voxcpm-demo/) — · gradio, region:us
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/aratako-irodori-tts-server/) — OpenAI Text-to-Speech API compatible server for Irodori-TTS
-- [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nanocoai-nanoclaw/) — A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, S…
+- [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nanocoai-nanoclaw/) — Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container …
 - [lerobot/visualize_dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-lerobot-visualize-dataset/) — · docker, region:us
 - [EvanBacon/serve-sim](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evanbacon-serve-sim/) — The `npx serve` of Apple Simulators.
 - [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…

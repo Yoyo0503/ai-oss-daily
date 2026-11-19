@@ -326,7 +326,6 @@ _每日存檔 · 2026-06-11_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tencentcloud-tencentdb-agent-memory/) — 提供完全本地化的長期記憶系統，支援AI代理的四層進階流程。
 - [zer0quant/zer0share](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zer0quant-zer0share/) — A 股本地資料管道：Tushare＋DuckDB＋Parquet，日線/複權增量同步與排程。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — 構建自主 AI 代理的 API 集合，涵蓋代理、AI 模型和 MCP 伺服器。
 - [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/) — 基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。

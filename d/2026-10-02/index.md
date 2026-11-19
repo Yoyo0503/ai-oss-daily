@@ -961,7 +961,6 @@ _每日存檔 · 2026-10-02_
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yjh051108/dsh-routing-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yjh051108-dsh-routing-suite/) — dsh-routing-suite 是一個用於 AI 代理的注入器和路由器套件。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tsingyuai/growth-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsingyuai-growth-lab/) — 從程式碼到市場的開源增長工具，自動化營銷活動。
 - [NguyenSiTrung/VieNeuTTSApp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nguyensitrung-vieneuttsapp/) — 跨平臺離線語音合成工作站，支援越南語和英語。
 - [wang2122/sprix-sage-router](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wang2122-sprix-sage-router/) — 狀態感知的SELF/COLLABORATE/HANDOFF路由系統。
@@ -1074,7 +1073,6 @@ _每日存檔 · 2026-10-02_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [loudreader/loudkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loudreader-loudkit/) — 本地端文字轉語音工具，支援28種語音和10種語言，並提供多種SDK。
 - [pyang5166/gbro-collage-broll](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pyang5166-gbro-collage-broll/) — 生成半調紙拼貼 B-roll 的技能，使用 Gemini Omni Flash 技術。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。

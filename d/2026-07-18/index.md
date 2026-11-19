@@ -539,7 +539,6 @@ _每日存檔 · 2026-07-18_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 - [0xSero/glm-5.2-sm120](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsero-glm-5-2-sm120/) — GLM-5.2-NVFP4-REAP-469B 在SM120上執行的大規模語言模型推理工具。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [derek-zhuolin/interflow-video-cut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/derek-zhuolin-interflow-video-cut/) — 將口播影片自動剪輯成卡片式影片，支援多種視覺風格與佈局。
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [ruvnet/agenticow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruvnet-agenticow/) — 用於嵌入式多代理記憶系統的 Git 風格分支機制，效能優異且佔用空間小。

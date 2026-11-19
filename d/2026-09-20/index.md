@@ -829,7 +829,6 @@ _每日存檔 · 2026-09-20_
 - [JingHao-Leon/dsh-alpha-desk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jinghao-leon-dsh-alpha-desk/) — Alpha Desk 是一個將代理會話轉換為合規投資桌面的技能包。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mkamranr/reelforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mkamranr-reelforge/) — 將GitHub或Hugging Face模型轉換為垂直影片的自動化工具。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ralksta/ComfyUI-Photoshoot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ralksta-comfyui-photoshoot/) — 建立一致的角色，拍攝不同姿勢和角度的照片。
 - [SkyNotSilent/awesome-MiniMax-H3-cases](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skynotsilent-awesome-minimax-h3-cases/) — 提供2052個可玩的MiniMax H3案例，657個完整公開提示和25個來源確認教程，雙語更新。
 - [tornikegomareli/Talkify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tornikegomareli-talkify/) — 快速、免費的 macOS 語音轉文字應用程式，可在裝置上進行語音辨識。
@@ -923,7 +922,6 @@ _每日存檔 · 2026-09-20_
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [veedstudio/open-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/veedstudio-open-edit/) — 一個使用 AI 代理的影片編輯工具，可自訂字幕和轉錄。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [shtjww/llm-inference-capacity-handbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shtjww-llm-inference-capacity-handbook/) — 大模型推理案頭手冊，提供GPU算力下的模型QPS估算。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

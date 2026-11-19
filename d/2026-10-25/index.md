@@ -783,7 +783,6 @@ _每日存檔 · 2026-10-25_
 - [zhen-nan/L2P-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-zhen-nan-l2p-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lordx64-agentic-distill-fable-5-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-victor-fable-5-boeing-747-trace/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Infatoshi/kernelbench-hard-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-infatoshi-kernelbench-hard-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [leosayer06/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-leosayer06-wan555/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Alpamayo2-Super](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-alpamayo2-super/) — NVIDIA的自主車輛機器人模型。
@@ -1092,7 +1091,6 @@ _每日存檔 · 2026-10-25_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [kyky2347/ALTA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kyky2347-alta/) — ALTA 是一個自動化研究工具，用於發現機會和進行市場研究。
 - [mdpsec/bug-bounty-hunting-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mdpsec-bug-bounty-hunting-prompts/) — 提供結構化、證據為先的漏洞獎勵狩獵工作流程重用提示。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [leopard627/fire-your-seo-agency](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leopard627-fire-your-seo-agency/) — 自動審核和最佳化SEO、AEO、GEO等的Claude程式碼技能。
@@ -1204,7 +1202,6 @@ _每日存檔 · 2026-10-25_
 - [Saganaki22/ComfyUI-AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-auk/) — 使用 ComfyUI 管理模型，生成、編輯和增強語音的工具。
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [crow-hq/llm-wiki-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/crow-hq-llm-wiki-v2/) — 將檔案轉換成可回答問題的Markdown wiki。
 - [scenario-labs/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scenario-labs-skills/) — AI代理生成影像、影片、音訊和3D模型的技能集。

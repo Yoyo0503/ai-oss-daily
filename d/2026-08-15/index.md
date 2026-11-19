@@ -603,7 +603,6 @@ _每日存檔 · 2026-08-15_
 - [electkismet/AxData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/electkismet-axdata/) — 開源量化資料庫框架，涵蓋多個財經介面。
 - [ciddwd/overlay-translator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ciddwd-overlay-translator/) — overlay-translator 是一個開源Android即時螢幕翻譯工具，適用於遊戲和漫畫等。
 - [Volumetenrectify/ae-motion-compiler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volumetenrectify-ae-motion-compiler/) — 用於Adobe After Effects的動畫自動化框架，支援程式關鍵影格生成和批次渲染。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [prism-ml/Bonsai-Image-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prism-ml-bonsai-image-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Kalshi AI 交易機器人](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bestpracticai-kalshi-ai-trading-bot/) — Kalshi 預測市場的演算法自動交易機器人。
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -711,7 +710,6 @@ _每日存檔 · 2026-08-15_
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/red-ead-flowblock/) — 自校正擴散語言模型的波前並行解碼框架。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/extraltodeus-j-wash/) — 基於 Anthropic 的 Jacobian 鏡頭的手動對齊工具。
 - [QuantiaAI/helm-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-helm-agents/) — 多智慧體LLM股票/加密交易決策平臺，13位AI分析師研究、辯論和風控測試。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。

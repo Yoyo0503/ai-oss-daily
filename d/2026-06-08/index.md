@@ -310,7 +310,6 @@ _每日存檔 · 2026-06-08_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetacursed-illustrious-noobai-style-explorer/) — 快速參考 16000 多種藝術風格的相簿，適用於 Illustrious XL 和 NoobAI-XL 模型。
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mksglu-context-mode/) — 最佳化AI程式碼代理的上下文視窗，減少工具輸出。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Frank-ay/mimo-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/frank-ay-mimo-mcp/) — 將小米 MiMo 的多模態能力封裝成 stdio MCP 伺服器，Claude Code 和 Codex 可直接呼叫。
 - [walkinglabs/learn-harness-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/walkinglabs-learn-harness-engineering/) — 官方初學者教程，從零開始學習 Harness 工程。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。

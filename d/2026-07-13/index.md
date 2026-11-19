@@ -493,7 +493,6 @@ _每日存檔 · 2026-07-13_
 - [btitkin/ComfyUI-KSampler-Matrix-Lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/btitkin-comfyui-ksampler-matrix-lab/) — 用一個模型比較抽樣器和排程器的組合。
 - [Etherll/Timbre](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/etherll-timbre/) — 從多語音錄音中提取目標講話者的清晰語音並生成 LJSpeech 風格的 TTS 資料集。
 - [codepurse/SEOCORE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codepurse-seocore/) — SEOCORE 是一個企業級 SEO 網站爬蟲工具，適用於多執行緒執行和深度網站健康審計。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [calesthio/OpenMontage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-openmontage/) — 號稱全球首個開源 agentic 影片製作系統：12 流程、52 工具、500+ agent。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

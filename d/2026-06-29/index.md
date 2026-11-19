@@ -419,7 +419,6 @@ _每日存檔 · 2026-06-29_
 - [juanjuandog/FinSight-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juanjuandog-finsight-ai/) — 具備堅韌工作流程的AI股權研究代理。
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/earthtojake-text-to-cad/) — CAD、機器人和硬體設計代理技能集。
 - [Aratako/Irodori-TTS-Server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-irodori-tts-server/) — 相容 OpenAI Text-to-Speech API 的 Irodori-TTS 伺服器。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Imbad0202/academic-research-skills-codex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills-codex/) — Codex原生學術研究技能套件，適用於人機互動的研究流程。
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [PhiloLabs/agentic-vbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/philolabs-agentic-vbench/) — 評測 AI agent 能否完成真實影片後製任務的基準測試。

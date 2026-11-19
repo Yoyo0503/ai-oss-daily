@@ -509,7 +509,6 @@ _每日存檔 · 2026-07-12_
 - [Egonex-AI/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/) — 將程式碼轉換為可互動探索和查詢的知識圖形工具。
 - [UditAkhourii/adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/uditakhourii-adhd/) — 一種基於 Claude 和 Codex SDK 的程式碼代理技能，能生成並評估多種創意思路。
 - [simchowitzlabpublic/nano-world-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simchowitzlabpublic-nano-world-model/) — 極簡、開箱即用的「世界模型」研究框架。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [opensquilla/opensquilla](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opensquilla-opensquilla/) — OpenSquilla 是一種節省 Token 的 AI 代理，能在相同預算下提供更高的智慧密度。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

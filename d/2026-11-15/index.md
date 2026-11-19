@@ -819,7 +819,6 @@ _每日存檔 · 2026-11-15_
 - [faunix/Qwen3.8-27B-Distillation-40K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-faunix-qwen3-8-27b-distillation-40k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mishig/microduck-anatomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mishig-microduck-anatomy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Ebony-Vinyl/EAC-design-world](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-eac-design-world/) — EAC-design-world 是一個用於本地影片設計的外掛，提供多軌剪輯和設計模板。
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -863,7 +862,6 @@ _每日存檔 · 2026-11-15_
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [snapwre/amharic-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-snapwre-amharic-speech/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-SFT-Finance-Document-Grounded-Reasoning-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-sft-finance-document-grounded-reasoning-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [facebook/sam3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-sam3/) — 用於生成遮罩的模型。
 - [google/embedding-draw-challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-google-embedding-draw-challenge/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1255,7 +1253,6 @@ _每日存檔 · 2026-11-15_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [YeJe-cpu/SeeCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yeje-cpu-seecut/) — SeeCut 是一個自動剪輯真人口播或數字人影片的 AI 編輯器。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FavioVazquez/showtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/faviovazquez-showtime/) — 為你的程式碼代理提供本地影片工作室。
 - [KKKKhazix/AIHOT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-aihot/) — AIHOT 是一個自動生成熱點新聞和日報的網站框架。
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
@@ -1394,7 +1391,6 @@ _每日存檔 · 2026-11-15_
 - [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/) — 一切皆可作為外掛的AI代理框架。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [youart-open-source/awesome-gpt-image-2-5-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/youart-open-source-awesome-gpt-image-2-5-prompts/) — 收集150個GPT影像2.5的社群提示，涵蓋多種使用案例。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rylaispirit/cinematic-video-prompt-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rylaispirit-cinematic-video-prompt-skill/) — cinematic-video-prompt-skill 提供電影攝影技巧的 AI 觀測表。
 - [jaikydota/kk-mix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaikydota-kk-mix/) — Windows 系統下的批次影片編輯工具，具備多種批處理功能。
 - [StayLameBro/backburner](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/staylamebro-backburner/) — backburner 是一個利用 iPhone 助力 Mac 執行 27B 模型的工具，通過 USB-C 線加速提示讀取和上下文處理。

@@ -746,7 +746,6 @@ _每日存檔 · 2026-09-06_
 - [digistoremaster/real-magic-robot-trading-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-real-magic-robot-trading-system/) — 自動化MetaTrader 4/5交易系統，適用於外匯和黃金交易。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Omni-Scientist/Awesome-AI-Scientist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omni-scientist-awesome-ai-scientist/) — Awesome-AI-Scientist 是一個包含AI科學家相關資源的清單。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Spielewoy/autoprompt-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spielewoy-autoprompt-skill/) — 自動提示技能，減少代理程式碼任務失敗率。
 - [pyang5166/gbro-collage-broll](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pyang5166-gbro-collage-broll/) — 生成半調紙拼貼 B-roll 的技能，使用 Gemini Omni Flash 技術。
 - [syv-ai/qwen38-27b-rtx3090](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syv-ai-qwen38-27b-rtx3090/) — 在單個RTX 3090上執行Qwen3.8-27B的模型推理工具。
@@ -833,7 +832,6 @@ _每日存檔 · 2026-09-06_
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/on-page-ai-geo-seo-superapp/) — 免費的 macOS 工作空間，專為 SEO 和 GEO 機構設計。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/faizalimam990-startup-builder-pro/) — 將產品點子轉換成安全、測試完畢的 SaaS 應用程式的人工智慧工具。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [MeiGen-AI/OPSD-V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/meigen-ai-opsd-v/) — 一種後訓練自蒸餾方法，用於生成影片的模型。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

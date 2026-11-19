@@ -484,7 +484,6 @@ _每日存檔 · 2026-11-07_
 - [ServiceNow-AI/eva-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-servicenow-ai-eva-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FINAL-Bench/Aether-Sovereign-AI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-final-bench-aether-sovereign-ai/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ML-Intern-lab/weight-space-programming-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ml-intern-lab-weight-space-programming-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/z-image-6b-pixel-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-z-image-6b-pixel-space/) — Z-Image 6B 文生圖線上示範（HF Space）。
 - [gprokaznik4-bit/CryptoGridMaster-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-cryptogridmaster-bot/) — CryptoGridMaster-Bot 是一個整合多個交易所 API 的加密貨幣交易機器人。
 - [gprokaznik4-bit/Solana-Jito-Bundler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gprokaznik4-bit-solana-jito-bundler/) — Solana-Jito-Bundler 是一個分散式交易捆綁器，防止先進攻擊。
@@ -779,7 +778,6 @@ _每日存檔 · 2026-11-07_
 - [gxl-ai/paperclip-half-life](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gxl-ai-paperclip-half-life/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
 - [Fangx-AI/geo-doctor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/) — GEO醫生是一個生成式引擎最佳化技能，用於評估和最佳化AI助手。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1211,7 +1209,6 @@ _每日存檔 · 2026-11-07_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jev-chat/jev-chat-jarvis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jev-chat-jev-chat-jarvis/) — 手機上的對話助手，支援微信、QQ等聊天軟體，提供智慧回覆建議。
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
 - [barbarabax/sonora-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/barbarabax-sonora-studio/) — 免費 AI 音樂工作室，提供樂曲創作、編輯和混音功能。
@@ -1341,7 +1338,6 @@ _每日存檔 · 2026-11-07_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Work-Fisher/ai-girlfriend-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/work-fisher-ai-girlfriend-v2/) — 具有長期記憶和語音克隆功能的Windows AI伴侶。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ling0322/libwaifu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ling0322-libwaifu/) — 本地執行的 AI 機器人，支援 SDXL、Qwen-Image、Anima、IndexTTS 和 CosyVoice 等影像生成和語音合成。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。
 - [fidetolabs/qanat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fidetolabs-qanat/) — 用於構建和回測交易策略的工作流引擎。

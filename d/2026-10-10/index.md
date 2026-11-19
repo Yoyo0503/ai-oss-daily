@@ -1000,7 +1000,6 @@ _每日存檔 · 2026-10-10_
 - [modelcontextprotocol/servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-servers/) — 提供模型上下文協議的伺服器。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TokenRhythm/NeoHorse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tokenrhythm-neohorse/) — 一個通過代理後訓練實現自我改進的大型語言模型。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [thunderstrike668/Buildpage-usa-review-and-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thunderstrike668-buildpage-usa-review-and-guide/) — 為海外行銷人員和美國流量最佳化設計的 BuildPage USA 網頁建置器評論。
@@ -1119,7 +1118,6 @@ _每日存檔 · 2026-10-10_
 - [R0650N/spirit-flux-refiner](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/r0650n-spirit-flux-refiner/) — 智慧簡化的Flux1-LoRA訓練工具。
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jzjzzzzzzz/agent-me](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jzjzzzzzzz-agent-me/) — 將知識、記憶和決策轉化為開放原始碼的 AI 代理 twin。
 - [allmodels-io/hermes-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/allmodels-io-hermes-speech/) — AllModels語音模型的Hermes代理TTS和STT外掛。
 - [Alg-Khlifa-Mouad-Iyad/GPT2-MathRiddle-Forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alg-khlifa-mouad-iyad-gpt2-mathriddle-forge/) — 使用 Transformers 和 TRL 對 GPT-2 進行微調，使其能生成數學謎題。

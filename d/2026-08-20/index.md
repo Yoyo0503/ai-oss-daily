@@ -656,7 +656,6 @@ _每日存檔 · 2026-08-20_
 - [electkismet/AxData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/electkismet-axdata/) — 開源量化資料庫框架，涵蓋多個財經介面。
 - [ciddwd/overlay-translator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ciddwd-overlay-translator/) — overlay-translator 是一個開源Android即時螢幕翻譯工具，適用於遊戲和漫畫等。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alephaitech-workbuddyguide/) — 開源實戰指南，幫助掌握 WorkBuddy 的教程與工作流。
 - [Koukyosyumei/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koukyosyumei-h5i-db/) — 用於量化研究的終端機筆記本和高效能時系列資料庫。
 - [the0cp/beatflow-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/the0cp-beatflow-skill/) — 使用 Python DSL 的音樂生成技能，具備診斷和多軌 MIDI 渲染功能。
@@ -746,7 +745,6 @@ _每日存檔 · 2026-08-20_
 - [vybenetwork/solana-swap-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vybenetwork-solana-swap-api/) — Solana交換API及路由器。
 - [omnigent-ai/omnigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omnigent-ai-omnigent/) — 開源 AI 代理框架，可管理多個 AI 代理。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [onism1767-creator/potato](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onism1767-creator-potato/) — 測量品牌在網頁搜尋結果中的提及頻率和引用次數。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — 用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。

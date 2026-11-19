@@ -680,7 +680,6 @@ _每日存檔 · 2026-08-23_
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-generative-media-skills/) — 研究支援的代理技能和工具，用於跨平臺的 AI 媒體生產。
 - [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perfectgf-lora-dataset-studio/) — 自建 LoRA 資料集的工作平臺，具備自動標註和訓練功能。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [BlackMixture/Mix-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blackmixture-mix-studio/) — 基於ComfyUI的清潔響應式AI工作空間，適用於桌面和手機。
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ftshare-lab-ftshare-mcp/) — 金融資料與投資工作流程的MCP工具。
@@ -756,7 +755,6 @@ _每日存檔 · 2026-08-23_
 - [congchuanling-dot/Cohort](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/congchuanling-dot-cohort/) — 連線LLMs到控制工具和桌面自動化的本地代理執行時。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [xerj-org/xerj](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xerj-org-xerj/) — XERJ 是一種自動索引資料的新方式，可快速建立搜尋索引。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [growthack88/growth-marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/growthack88-growth-marketing-os/) — 開源AI營銷平臺，提供促銷策略、技能和代理程式。
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-grid-pilot/) — 超越交易所原生網格機器人的程式化交易系統，適用於加密貨幣交易。

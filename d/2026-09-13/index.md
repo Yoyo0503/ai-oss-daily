@@ -784,7 +784,6 @@ _每日存檔 · 2026-09-13_
 - [xcslys99/FootageFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xcslys99-footageflow/) — 跨平臺的影片搜尋和下載工具。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amazingdraw-amazingdraw/) — AmazingDraw 是一個本地 ComfyUI 抽卡引擎，解決不會寫提示詞的問題。
 - [bamboostrip/Handwriting-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bamboostrip-handwriting-simulator/) — 將普通文本轉換成手寫體圖片，支援 GUI 和 CLI 入口。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -867,7 +866,6 @@ _每日存檔 · 2026-09-13_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [calmrocks/ai-engineer-notebooks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calmrocks-ai-engineer-notebooks/) — 無框架的Colab筆記本，涵蓋AI工程師技能集。
 - [zorost/AI-Engineering-Lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zorost-ai-engineering-lab/) — 24週的AI工程自學課程。

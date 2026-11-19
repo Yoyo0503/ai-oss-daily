@@ -718,7 +718,6 @@ _每日存檔 · 2026-08-31_
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/on-page-ai-geo-seo-superapp/) — 免費的 macOS 工作空間，專為 SEO 和 GEO 機構設計。
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/faizalimam990-startup-builder-pro/) — 將產品點子轉換成安全、測試完畢的 SaaS 應用程式的人工智慧工具。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Blizaine/Maestro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blizaine-maestro/) — 本地端 AI 影片、圖片和音樂工作室，從單一提示規劃完整音樂影片。
 - [patchy631/time-to-first-token](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/patchy631-time-to-first-token/) — LLM 推論服務和最佳化學習路徑。
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/) — 從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。
@@ -804,7 +803,6 @@ _每日存檔 · 2026-08-31_
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
 - [MaxFreedomPollard/Compartment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maxfreedompollard-compartment/) — 加密的離線代理記憶系統，提供圖形介面和跨平臺安裝。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HiThink-Tech/Financial-API](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hithink-tech-financial-api/) — 同花順官方A股資料服務，適用於AI Agent、量化研究等。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。
 - [SergiioB/intel-arc-pro-b70-inference-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergiiob-intel-arc-pro-b70-inference-cookbook/) — Intel Arc Pro B60/B70 GPU 上執行大規模語言模型推理的開源食譜和效能測試工具。

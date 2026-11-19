@@ -2,7 +2,7 @@
 
 使用 minimax-h3 和 comfyui 的影像生成工作流程。
 
-**為何上榜**：HF trending 65 · 69 likes
+**為何上榜**：HF trending 66 · 77 likes
 
 **商用授權**：授權未明 — 未知授權代碼 apache-2.0 — 請人工確認商用條款
 

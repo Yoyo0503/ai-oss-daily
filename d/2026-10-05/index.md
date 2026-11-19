@@ -988,7 +988,6 @@ _每日存檔 · 2026-10-05_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [hzy1522/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hzy1522-tickflow-stock-panel/) — 多市場智慧量化交易平臺，支援A股、港股及美股，提供選股、監控及回測功能。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yuxino/Kiri](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuxino-kiri/) — Kiri 是一個跨平臺的截圖和錄屏工具，支援文字識別和本地儲存。
 - [alesha-pro/tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alesha-pro-tools/) — 基於4x RTX 3090的本地推理工具和工作流程。
 - [ralksta/ComfyUI-Photoshoot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ralksta-comfyui-photoshoot/) — 建立一致的角色，拍攝不同姿勢和角度的照片。
@@ -1104,7 +1103,6 @@ _每日存檔 · 2026-10-05_
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pireel-pireel/) — 一個無需後端支援的人工智慧影片編輯器，專門用於頭像對話影片。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PerryLink/dsh-mcp-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perrylink-dsh-mcp-panel/) — DeepSeek Harness MCP客戶端管理控制台，提供健康診斷和管道試驗呼叫。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。
 - [0toshigami/orbis-pictus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0toshigami-orbis-pictus/) — 點選探索的AI繪圖書。

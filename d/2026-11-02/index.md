@@ -749,7 +749,6 @@ _每日存檔 · 2026-11-02_
 - [mishig/microduck-anatomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mishig-microduck-anatomy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HeyChengC/vibe-knowledge-film](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heychengc-vibe-knowledge-film/) — 自動生成抖音爆款知識短片的技能。
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1161,7 +1160,6 @@ _每日存檔 · 2026-11-02_
 - [blixvip/MotionClone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-motionclone/) — 將參考影片轉換為可編輯的動畫，支援自訂和匯出。
 - [youart-open-source/awesome-gpt-image-2-5-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/youart-open-source-awesome-gpt-image-2-5-prompts/) — 收集150個GPT影像2.5的社群提示，涵蓋多種使用案例。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
 - [StartLuxLabs/StartLux-Prism](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/startluxlabs-startlux-prism/) — 在 NVIDIA GPU 上快速精確推論 StartLux-Decision 模型，降低延遲。
 - [inikolax/remiqora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inikolax-remiqora/) — 統一ACE-Step 1.5和YuE2-3B的本地AI音樂工作室，提供文本轉音樂生成等功能。
@@ -1286,7 +1284,6 @@ _每日存檔 · 2026-11-02_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [residual-lab/alpha-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/residual-lab-alpha-harness/) — 專門的量化金融研究工作區，自動化策略發現和測試。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Roboquant-AI/tradingview-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/roboquant-ai-tradingview-optimizer/) — tradingview-optimizer 是一個適用於 TradingView 的策略最佳化器 Chrome 擴充功能。
 - [alvinunreal/awesome-submitlist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alvinunreal-awesome-submitlist/) — awesome-submitlist 是一個整理好的提交清單，包含300多個目錄，適合創業者提交。
 - [Human-Agent-Society/reef](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/human-agent-society-reef/) — 自我改進代理的持續學習基礎設施。

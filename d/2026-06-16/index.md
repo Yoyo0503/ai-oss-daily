@@ -354,7 +354,6 @@ _每日存檔 · 2026-06-16_
 - [moss-site/moss-trade-bot-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moss-site-moss-trade-bot-skills/) — LLM 交易 agent，把自然語言轉成「趨勢等五大支柱」策略。
 - [facebookresearch/VLM3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/facebookresearch-vlm3/) — 視覺語言模型在三維空間學習的官方實現。
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-hh-rlhf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Mcp-Brasil/mcp-brasil](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mcp-brasil-mcp-brasil/) — MCP Server 提供巴西 70 個公開 API 的伺服器。
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-voxcpm-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

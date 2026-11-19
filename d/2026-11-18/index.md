@@ -8,7 +8,7 @@ _每日存檔 · 2026-11-18_
 - [sensenova/SenseNova-Loop-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b/) — 將影像和文本轉換為文本的多模態模型。
 - [MicksHF/Qwen-Image-2.1-Anime-Fusal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mickshf-qwen-image-2-1-anime-fusal/) — 基於 Qwen-Image-2.1 的影像到影像生成模型。
 - [meituan-longcat/LongCat-Video-Avatar-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meituan-longcat-longcat-video-avatar-1-6/) — 使用 ONNX 和 diffusers 的長貓影片頭像生成。
-- [harness-hub/Qwen3.8-27B-pi-adapted](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-harness-hub-qwen3-8-27b-pi-adapted/) — AI Agent 框架／編排工具，關鍵字：LoRA、agent（依標籤自動歸類，詳細看下方原文）
+- [harness-hub/Qwen3.8-27B-pi-adapted](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-harness-hub-qwen3-8-27b-pi-adapted/) — 將影像和文字轉換為文字的模型。
 - [internlm/Sage-S2.1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internlm-sage-s2-1-flash/) — Sage-S2.1 的快速載入版本。
 - [KORMo-VL/KORMo-Web-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kormo-vl-kormo-web-11b/) — 將影像和文本轉換為文本的網頁代理模型。
 - [maxwell-model/Maxwell-V1-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-maxwell-model-maxwell-v1-flash/) — 快速載入的對話式文本生成模型。
@@ -210,7 +210,7 @@ _每日存檔 · 2026-11-18_
 - [orcarouter/OrcaCyber-Nano-1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-orcarouter-orcacyber-nano-1-0/) — OrcaCyber-Nano-1.0 是一個基於 gguf 格式的影像文本轉文本模型，適用於網路安全。
 - [microsoft/Mage-VL-Cowork](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl-cowork/) — 將影像和文字轉換為文字描述，適用於多模態理解和計算機使用。
 - [Diffuspace/Clover-35B-A3B-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-diffuspace-clover-35b-a3b-preview/) — Diffuspace 的文本生成模型，支援專家混合。
-- [harness-hub/Qwen3.8-27B-pi-adapted](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-harness-hub-qwen3-8-27b-pi-adapted/) — AI Agent 框架／編排工具，關鍵字：LoRA、agent（依標籤自動歸類，詳細看下方原文）
+- [harness-hub/Qwen3.8-27B-pi-adapted](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-harness-hub-qwen3-8-27b-pi-adapted/) — 將影像和文字轉換為文字的模型。
 - [WeiboAI/VibeThinker-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-weiboai-vibethinker-3b/) — VibeThinker-3B 是一個強大的文本生成模型，擅長數學、程式碼推理及問題解答。
 - [unsloth/gemma-4-12b-it-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-gemma-4-12b-it-gguf/) — 將影像和文本轉換為文本的模型。
 - [ccore/Qwen3.5-4B-3D-Coder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ccore-qwen3-5-4b-3d-coder/) — 模型推理／部署引擎，關鍵字：GGUF量化（依標籤自動歸類，詳細看下方原文）
@@ -842,7 +842,6 @@ _每日存檔 · 2026-11-18_
 - [mishig/microduck-anatomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mishig-microduck-anatomy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [venvoo/china-a-share-l2-level2-limit-order-book-tick-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-venvoo-china-a-share-l2-level2-limit-order-book-tick-data/) — Hugging Face 資料集，關鍵字：交易（依標籤自動歸類，詳細看下方原文）
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/simready-central](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nvidia-simready-central/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -895,7 +894,6 @@ _每日存檔 · 2026-11-18_
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [snapwre/amharic-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-snapwre-amharic-speech/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-SFT-Finance-Document-Grounded-Reasoning-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-sft-finance-document-grounded-reasoning-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [google/embedding-draw-challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-google-embedding-draw-challenge/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-amisima-qwen-2-1-turbo-qwen-face-swap-moss-image-edit-outpaint-qwen-detail-enhancer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1292,7 +1290,6 @@ _每日存檔 · 2026-11-18_
 - [yuxinlaile/McD-saver](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuxinlaile-mcd-saver/) — 麥當勞點餐助手，提供成本最佳化和券組合建議。
 - [Zleap-AI/SAG-Wiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zleap-ai-sag-wiki/) — 輕量級知識庫，快速索引和精確檢索。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [vatavale/folivox](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vatavale-folivox/) — 將電子書轉換為有聲書的本地應用，支援多種語言和語音。
 - [openspline/openspline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openspline-openspline/) — 使用五行程式碼生成與聲音同步的即時動畫。
 - [kurbaitaev/ghost-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kurbaitaev-ghost-editor/) — 一款開源AI影片編輯器，可將原始影片轉換為成品。
@@ -1435,7 +1432,6 @@ _每日存檔 · 2026-11-18_
 - [CacheCarti/Crypto-Strategies](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cachecarti-crypto-strategies/) — 加密貨幣交易策略庫。
 - [Oldcircle/geo-sleuth](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oldcircle-geo-sleuth/) — 使用 AI 和地圖資料找到照片拍攝地點的工具。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mirkovicdev/HFTENGINE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mirkovicdev-hftengine/) — 用於回溯市場做市策略的模擬器，適用於Binance。
 - [rabbitfiremediacreation/music-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rabbitfiremediacreation-music-generator/) — 在 Mac 和 Windows 上生成音樂的本地應用。
 - [DelphiMan68/PineEngine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/delphiman68-pineengine/) — Delphi和Free Pascal編寫的Pine Script解析器，返回JSON結果。

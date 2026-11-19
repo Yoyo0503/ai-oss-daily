@@ -666,7 +666,6 @@ _每日存檔 · 2026-08-21_
 - [digistoremaster/clickdesigns-review-and-templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-clickdesigns-review-and-templates/) — 生成高轉換率3D模型的綜合指南和工具集，專為ClickBank/Digistore24橋頁最佳化。
 - [electkismet/AxData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/electkismet-axdata/) — 開源量化資料庫框架，涵蓋多個財經介面。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alephaitech-workbuddyguide/) — 開源實戰指南，幫助掌握 WorkBuddy 的教程與工作流。
@@ -758,7 +757,6 @@ _每日存檔 · 2026-08-21_
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ChartGalaxy/ChartGalaxy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-chartgalaxy-chartgalaxy/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [deer-flow/llm-space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deer-flow-llm-space/) — 用於原型設計和評估代理模型的桌面應用程式。
 - [CyberSunil/LLMVault](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cybersunil-llmvault/) — 用於AI安全、提示注入等的故意脆弱OWASP LLM訓練平臺。

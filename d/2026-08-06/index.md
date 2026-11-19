@@ -661,7 +661,6 @@ _每日存檔 · 2026-08-06_
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Kewal-Yaduvanshi/GPT-Image-2-Flow-Workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kewal-yaduvanshi-gpt-image-2-flow-workbench/) — GPT影像生成的最佳提示和工具指南。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [Cassette-Editor/oh-my-cassette](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cassette-editor-oh-my-cassette/) — 與Claude Code等合作的口袋AI剪輯外掛。

@@ -428,7 +428,6 @@ _每日存檔 · 2026-06-30_
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/earthtojake-text-to-cad/) — CAD、機器人和硬體設計代理技能集。
 - [reikwei/gu-piao-yu-ce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/reikwei-gu-piao-yu-ce/) — 股票預測專案，使用FastAPI和量化金融技術。
 - [dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dianfangsihuo-comfyui-webui-prompt-bridge/) — 提供 ComfyUI 的 WebUI 式提示詞編輯和 LoRA 瀏覽功能。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hughfenghen/dimcut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hughfenghen-dimcut/) — 新型剪輯互動：把 1D 時間軸折成多行的影片編輯設計。
 - [zer0quant/zer0factor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zer0quant-zer0factor/) — 面向 A 股本地資料的 AI 因子研究工作臺，用於生成、儲存、註冊、評估與報告因子。

@@ -997,7 +997,6 @@ _每日存檔 · 2026-10-06_
 - [tswawa/xianyu-saas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tswawa-xianyu-saas/) — 閒魚多店舖智慧運營系統，整合AI客服和自動發貨。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [agentpit-io/hunter-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentpit-io-hunter-community/) — 開源私人金融AI團隊，提供自託管多智慧體系統。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hzy1522/tickflow-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hzy1522-tickflow-stock-panel/) — 多市場智慧量化交易平臺，支援A股、港股及美股，提供選股、監控及回測功能。
@@ -1119,7 +1118,6 @@ _每日存檔 · 2026-10-06_
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pireel-pireel/) — 一個無需後端支援的人工智慧影片編輯器，專門用於頭像對話影片。
 - [yaojingang/GEOHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geohub/) — 提供AI搜尋技能，支援SEO與內容最佳化。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [Egonex-AI/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/) — 將程式碼轉換為可互動探索和查詢的知識圖形工具。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

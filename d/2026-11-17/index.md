@@ -820,7 +820,6 @@ _每日存檔 · 2026-11-17_
 - [Jakeschincariol/replica-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-replica-skill/) — Eleven 免費的 Claude 技能，用於逆向工程和測試應用程式。
 - [Edge0/Audio8-TTS-Realistic-Air](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-edge0-audio8-tts-realistic-air/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wquguru/shisei](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wquguru-shisei/) — 提供AI繪圖工具的姿勢參考相簿。
@@ -869,7 +868,6 @@ _每日存檔 · 2026-11-17_
 - [bigfacing/GOKU-2M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bigfacing-goku-2m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [snapwre/amharic-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-snapwre-amharic-speech/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Nemotron-SFT-Finance-Document-Grounded-Reasoning-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-nemotron-sft-finance-document-grounded-reasoning-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/gemma-avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-gemma-avatar/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [multimodalart/jev-decision-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-multimodalart-jev-decision-index/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [google/embedding-draw-challenge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-google-embedding-draw-challenge/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1273,7 +1271,6 @@ _每日存檔 · 2026-11-17_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [kurbaitaev/ghost-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kurbaitaev-ghost-editor/) — 一款開源AI影片編輯器，可將原始影片轉換為成品。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Ryze-AI-Adgent/open-seo-mcp-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryze-ai-adgent-open-seo-mcp-skills/) — 開源 SEO 工具，支援關鍵字研究和排名追蹤。
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
 - [Juneo-Lab/decision-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juneo-lab-decision-forge/) — 將組織政策編譯為可驗證的決策訓練資料。
@@ -1413,7 +1410,6 @@ _每日存檔 · 2026-11-17_
 - [CacheCarti/Crypto-Strategies](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cachecarti-crypto-strategies/) — 加密貨幣交易策略庫。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [iamyoki/qwen-image-2.1-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iamyoki-qwen-image-2-1-skill/) — Qwen-Image-2.1 的代理技能，最佳化文本轉影像提示。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mirkovicdev/HFTENGINE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mirkovicdev-hftengine/) — 用於回溯市場做市策略的模擬器，適用於Binance。
 - [HuggingFaceTB/smol-training-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacetb-smol-training-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [DelphiMan68/PineEngine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/delphiman68-pineengine/) — Delphi和Free Pascal編寫的Pine Script解析器，返回JSON結果。

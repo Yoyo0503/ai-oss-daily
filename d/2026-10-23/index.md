@@ -919,7 +919,6 @@ _每日存檔 · 2026-10-23_
 - [precisionaiinc/AgriStress-500](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-precisionaiinc-agristress-500/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ZJU-REAL/Easel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/) — 一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。
 - [AxisEgretDefeat/kling-ai-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/axisegretdefeat-kling-ai-master/) — Kling AI主體模型，將文字轉換為影像。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [iyqhcef3ffn/hailuo2.3-hailuo-2.3-gateway](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iyqhcef3ffn-hailuo2-3-hailuo-2-3-gateway/) — 與OpenAI相容的Hailuo 2.3 API閘道器。
 - [TencentARC/WorldCrafter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tencentarc-worldcrafter/) — 具隱式3D記憶的影片世界模型。
 - [kajisho5/ffmpeg-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kajisho5-ffmpeg-skill/) — 本地影片編輯工具，支援42種FFmpeg功能。
@@ -1076,7 +1075,6 @@ _每日存檔 · 2026-10-23_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [kinzaaliakbar18u-netizen/flux-lora-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kinzaaliakbar18u-netizen-flux-lora-forge/) — flux-lora-forge 是一個開放原始碼的 LoRA 訓練工具包，適用於 Flux1 AI 模型微調。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pallavi-shekhar-ai-engineering-interview-questions-company-wise/) — AI工程師面試 cheatsheet，提供各大公司的面試題目與解答。
 - [incoai/splash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/incoai-splash/) — 適用於Apple矽晶片的本地推理引擎。
@@ -1197,7 +1195,6 @@ _每日存檔 · 2026-10-23_
 - [thunderstrike668/Buildpage-usa-review-and-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thunderstrike668-buildpage-usa-review-and-guide/) — 為海外行銷人員和美國流量最佳化設計的 BuildPage USA 網頁建置器評論。
 - [surya-koritala/Glyd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/surya-koritala-glyd/) — 無損AI壓縮工具，節省33%的GPU記憶體。
 - [Yuzzyuk/marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuzzyuk-marketing-os/) — 在Claude中模擬整個行銷部門的技能。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [chenkanglin198904/Personal_External_Brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chenkanglin198904-personal-external-brain/) — 個人知識圖譜工具，將筆記、網頁、PDF和音影片轉換為知識圖譜，完全在本地執行。
 - [thunderstrike668/contentqueen-app-erfahrung-review-deutsch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thunderstrike668-contentqueen-app-erfahrung-review-deutsch/) — 德語市場的 AI 文本生成器 Contentqueen App 測試報告。
 - [nerin81-netizen/threads-affiliate-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nerin81-netizen-threads-affiliate-automation/) — 開源Threads聯盟行銷自動化工具包，具備本地儀錶板、卡片工作室和Graph API/Playwright支援。

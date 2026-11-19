@@ -457,7 +457,6 @@ _每日存檔 · 2026-11-09_
 - [OpenMOSS-Team/MOSS-Transcribe-Diarize](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openmoss-team-moss-transcribe-diarize/) — 基於轉換器的音訊轉文本模型，支援語音識別和分離。
 - [victor/DeepSeek-V4-Flash-0731-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-deepseek-v4-flash-0731-free-endpoint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [webml-community/gemma-4-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-gemma-4-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor-demos/marlin-2b-video-understanding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-demos-marlin-2b-video-understanding/) — Marlin-2B 影片理解線上示範。
 - [GrimOrbita/rpocket-team-meeting-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/grimorbita-rpocket-team-meeting-agent/) — 加入會議並生成英文報告的AI筆記工具。
 - [Def28641eatclaw/Restaurant-Ai-Agent-rpocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/def28641eatclaw-restaurant-ai-agent-rpocket/) — 餐廳AI點餐助手，支援自然語言訂餐、對話記憶和自動紀錄。
@@ -790,7 +789,6 @@ _每日存檔 · 2026-11-09_
 - [mishig/microduck-anatomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mishig-microduck-anatomy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
 - [appariciojunior/video-editor-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appariciojunior-video-editor-skills/) — 教Claude Code在DaVinci Resolve中編輯影片的技能。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1222,7 +1220,6 @@ _每日存檔 · 2026-11-09_
 - [sahilmahendrakar/paradee](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahilmahendrakar-paradee/) — 從 Kokoro-82M 精簡而來的英文文本轉語音模型。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruoji6-artex/) — Autumn-27/ARTEX 的持續維護開源版本。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
 - [glincker/awesome-selfhosted-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glincker-awesome-selfhosted-ai/) — 開源AI自建清單，涵蓋本地LLM、聊天介面等。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1351,7 +1348,6 @@ _每日存檔 · 2026-11-09_
 - [scenario-labs/blender-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scenario-labs-blender-plugin/) — Blender 擴充，提供 AI 影像、影片和 3D 材質，並內建 MCP 伺服器。
 - [apimart-66/ai-api-aggregator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-66-ai-api-aggregator/) — AI API 綜合器，提供多模型路由和成本核算。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [suoha888/Trader-Archives](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/suoha888-trader-archives/) — 公開交易員推文的資料湖。
 - [hypit-ai/hypit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/) — 使用 AI 代理程式克隆病毒影片，自動生成多種變體。
 - [liupig/xiaokeai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liupig-xiaokeai/) — 開源的本地 3D 虛擬伴侶，支援多種語言和功能。

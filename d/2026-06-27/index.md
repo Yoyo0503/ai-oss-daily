@@ -417,7 +417,6 @@ _每日存檔 · 2026-06-27_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [fikrikarim/parlor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fikrikarim-parlor/) — 端側即時多模態 AI，可做自然語音與視覺對話。
 - [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saurabhv749-supertonic3-voice-clone/) — 訓練 Supertone/supertonic-3 模型的語音樣式。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ChrisChen667788/wind-comic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrischen667788-wind-comic/) — 將文字轉換成動漫劇本和影片的多代理 AI 管道。
 - [codeaashu/claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codeaashu-claude-code/) — Claude Code 是一個終端機中的程式碼助手，能幫助你更快地編寫和管理程式碼。

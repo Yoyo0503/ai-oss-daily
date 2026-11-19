@@ -1008,7 +1008,6 @@ _每日存檔 · 2026-10-12_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Yuzzyuk/marketing-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuzzyuk-marketing-os/) — 在Claude中模擬整個行銷部門的技能。
 - [aleksandr-alhoff/seo-landing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aleksandr-alhoff-seo-landing/) — AI 技能，用於生成高效能 SEO 落地頁。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [lexmount/moli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lexmount-moli/) — Moli 是一個輕量級、快速且相容性高的無頭瀏覽器，專為 AI 代理設計。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1126,7 +1125,6 @@ _每日存檔 · 2026-10-12_
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [miqdadbadjuber/anti-slop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miqdadbadjuber-anti-slop/) — 規則過濾AI生成的通用UI設計、文本和程式碼，提高AI程式碼代理的品質。
 - [njgymb/diffusers-sculptor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/njgymb-diffusers-sculptor/) — 輕量級的穩定擴散模型微調框架。
 - [hieuphung97/dely](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hieuphung97-dely/) — 協調獨立工作會話的多協調控制協議。

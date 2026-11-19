@@ -396,7 +396,6 @@ _每日存檔 · 2026-06-25_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [lambda/hermes-agent-reasoning-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lambda-hermes-agent-reasoning-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mjason/long](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mjason-long/) — 基於 Elixir 的單二進位LLM代理執行時，提供聊天介面和多供應商路由等功能。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saurabhv749-supertonic3-voice-clone/) — 訓練 Supertone/supertonic-3 模型的語音樣式。
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-open-swe-traces/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）

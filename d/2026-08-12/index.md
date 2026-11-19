@@ -11,11 +11,11 @@ _每日存檔 · 2026-08-12_
 - [callebtc/sayit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/callebtc-sayit/) — 在Apple矽Mac上進行私人的文字轉語音。
 - [ProCreations/maple-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-procreations-maple-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [sarvamai/indic-diarbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sarvamai-indic-diarbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [linoyts/smart-character-swap-flux2-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-smart-character-swap-flux2-klein/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [finebooks/bhl-impact-gt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-finebooks-bhl-impact-gt/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GokuScraper/seedance-2-prompts-datasets](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gokuscraper-seedance-2-prompts-datasets/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TexasBedouin/vibe-check](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/texasbedouin-vibe-check/) — 幫助初學者從模糊的想法到具體的計劃，再到實際開發的工具。
+- [68110923/xunlongjue_doc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/68110923-xunlongjue-doc/) — A股一進二競價打板量化系統，提供首板掃描、競價評分和個股預測。
 
 ## 🚀 Star 竄升
 
@@ -556,7 +556,6 @@ _每日存檔 · 2026-08-12_
 - [Specterchoreflect/Stable-Diffusion-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/specterchoreflect-stable-diffusion-pro/) — Stable Diffusion Pro 2026 本機出圖(SDXL/ControlNet) — 來源不明，謹慎。
 - [calesthio/generative-media-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calesthio-generative-media-skills/) — 研究支援的代理技能和工具，用於跨平臺的 AI 媒體生產。
 - [NeoteAIEmbodied/OpenNeoData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-neoteaiembodied-openneodata/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-hh-rlhf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [gclef-cmu/multtipop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gclef-cmu-multtipop/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -700,7 +699,6 @@ _每日存檔 · 2026-08-12_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atlascloudai-awesome-seedance-2-5-prompts-skills/) — 包含100多個Seedance 2.5提示和影片預覽的列表，以及最佳化提示、建立故事板和生成影片的技能。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SlavaSexton/ComfyUI-Agent-Kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/slavasexton-comfyui-agent-kit/) — 為多種 AI 程式設計代理驅動 ComfyUI 的技能套件，包含模型提示配方和自動啟動功能。
 - [Alisa0808/vibe-creating-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vibe-creating-skill/) — 開源 AI 動畫提示技能，將想法轉換為文字到影片的提示。
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

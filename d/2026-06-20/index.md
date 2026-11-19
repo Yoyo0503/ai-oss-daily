@@ -368,7 +368,6 @@ _每日存檔 · 2026-06-20_
 - [Visko-Platform/VEFX-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/visko-platform-vefx-bench/) — VEFX-Bench：通用影片編輯與視覺特效的綜合基準測試。
 - [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-llm-flashcards/) — 手繪的 LLM 工作原理卡片集，包含19張免費樣品卡。
 - [PatterAI/Patter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/patterai-patter/) — 開源語音 AI SDK，Vapi/Retell 的自主可控替代品（自建語音對話）。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wanshuiyin/Auto-claude-code-research-in-sleep](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wanshuiyin-auto-claude-code-research-in-sleep/) — 輕量級Markdown技能工具，用於自動化機器學習研究和實驗。
 - [EKKOLearnAI/hermes-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ekkolearnai-hermes-studio/) — hermes-studio 是 Hermes Agent 的網頁控制台，提供多平臺聊天、任務管理等功能。
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

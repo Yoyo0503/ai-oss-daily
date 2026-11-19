@@ -744,7 +744,6 @@ _每日存檔 · 2026-10-30_
 - [faunix/Qwen3.8-27B-Distillation-40K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-faunix-qwen3-8-27b-distillation-40k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mishig/microduck-anatomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mishig-microduck-anatomy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1142,7 +1141,6 @@ _每日存檔 · 2026-10-30_
 - [beyondtahir/beyondseo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beyondtahir-beyondseo/) — 全方位的 SEO 工具，提供原生爬蟲、內容策略、競爭者分析和聲譽管理，內建 206 個發布來源。
 - [scenario-labs/blender-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scenario-labs-blender-plugin/) — Blender 擴充，提供 AI 影像、影片和 3D 材質，並內建 MCP 伺服器。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tristmeister/HEISS-UI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tristmeister-heiss-ui/) — ComfyUI 的本地前端介面，無需圖形。
 - [Appllama/appllama-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appllama-appllama-skills/) — 將熱門應用程式轉換成高品質手機螢幕的 AI 技能。
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
@@ -1264,7 +1262,6 @@ _每日存檔 · 2026-10-30_
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [saihhold-zhao/polox_ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saihhold-zhao-polox-ai/) — 基於 DeepSeek Harness 的多模態 AI 生成平臺，統一創作和生成。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [milind-soni/OpenMausBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/) — OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。
 - [sergqwer/strata-nvfp4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergqwer-strata-nvfp4/) — Qwen3.8-Flash-Next 125B MoE模型的改進版本，可在單張RTX卡上執行。
 - [AgriciDaniel/keywordpro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-keywordpro/) — keywordpro 是一個本地優先的關鍵字研究工具，提供報告、圖表和資料匯出。

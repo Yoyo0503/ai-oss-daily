@@ -638,7 +638,6 @@ _每日存檔 · 2026-08-04_
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-thedaw/) — GANTASMO 開發的 AI 音樂創作、編輯和混音一站式工作室。
 - [OranAi-Ltd/orangeo-ai-visibility-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oranai-ltd-orangeo-ai-visibility-skill/) — 開放原始碼的AI可見性檢查工具，用於檢測網站SEO和競爭對手差距。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [wuxuedaifu/vllm-chatterbox-stream](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuxuedaifu-vllm-chatterbox-stream/) — 相容OpenAI的多語言TTS伺服器，支援即時音訊流、語音克隆及23種語言。
 - [TokenSpender/ComfyUI-Sidebar-Gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tokenspender-comfyui-sidebar-gallery/) — 提供可搜尋的媒體相簿和元資料檢視器。

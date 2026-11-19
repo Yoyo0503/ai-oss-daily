@@ -731,7 +731,6 @@ _每日存檔 · 2026-08-30_
 - [Faizalimam990/Startup_builder_pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/faizalimam990-startup-builder-pro/) — 將產品點子轉換成安全、測試完畢的 SaaS 應用程式的人工智慧工具。
 - [YizhiSong/FriesTrader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yizhisong-friestrader/) — 自動化股票交易機器人，基於Claude Code進行風險管理。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/) — 聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
@@ -812,7 +811,6 @@ _每日存檔 · 2026-08-30_
 - [HiThink-Tech/Financial-API](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hithink-tech-financial-api/) — 同花順官方A股資料服務，適用於AI Agent、量化研究等。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [SergiioB/intel-arc-pro-b70-inference-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergiiob-intel-arc-pro-b70-inference-cookbook/) — Intel Arc Pro B60/B70 GPU 上執行大規模語言模型推理的開源食譜和效能測試工具。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [deepmemteam/deepmem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepmemteam-deepmem/) — 快速且低成本的AI記憶層，與Mem0 API完全相容。
 - [lidge-jun/opencodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lidge-jun-opencodex/) — 一個通用代理，讓使用者可以使用任何大型語言模型來驅動OpenAI Codex和Claude Code。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。

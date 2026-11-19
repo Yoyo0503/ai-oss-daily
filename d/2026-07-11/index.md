@@ -517,7 +517,6 @@ _每日存檔 · 2026-07-11_
 - [microsoft/ResearchStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-researchstudio/) — AI 合作者，從研究問題到最終發表的一站式解決方案。
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sapientinc-hrm-text/) — 基於分層推理模型的大型語言生成模型，強化了任務完成和潛在空間推理。
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ggml-org-gguf-my-repo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DenisSergeevitch/agents-best-practices](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denissergeevitch-agents-best-practices/) — Codex、Claude Code 和其他平臺的通用代理技能。
 - [Meddies/meddies-persona-vie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-meddies-meddies-persona-vie/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

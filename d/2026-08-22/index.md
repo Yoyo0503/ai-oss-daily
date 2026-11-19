@@ -675,7 +675,6 @@ _每日存檔 · 2026-08-22_
 - [BlackMixture/Mix-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blackmixture-mix-studio/) — 基於ComfyUI的清潔響應式AI工作空間，適用於桌面和手機。
 - [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perfectgf-lora-dataset-studio/) — 自建 LoRA 資料集的工作平臺，具備自動標註和訓練功能。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [deepmemteam/deepmem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepmemteam-deepmem/) — 快速且低成本的AI記憶層，與Mem0 API完全相容。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [snflkd/fluent-korean](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/snflkd-fluent-korean/) — 讓Claude Code生成流暢的韓文。
@@ -755,7 +754,6 @@ _每日存檔 · 2026-08-22_
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ttfake92-lab/ai-workflow-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ttfake92-lab-ai-workflow-prompts/) — 兩套可複製的AI影片生產工作流提示詞。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NicholasCone/agnes-ai-video-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nicholascone-agnes-ai-video-suite/) — 最佳開源 AI 影片生成器，將文字轉換為帶旁白和字幕的電影。
 - [AbdulWasay13/TradingView-Pipe-Executor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdulwasay13-tradingview-pipe-executor/) — 使用 AI 警報和 Webhook 連線的自動化外匯交易機器人。
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。

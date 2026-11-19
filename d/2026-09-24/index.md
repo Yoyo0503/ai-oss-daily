@@ -909,7 +909,6 @@ _每日存檔 · 2026-09-24_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/) — 使用大模型驅動的完整電商客服自動化系統。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [elie222/rakazo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elie222-rakazo/) — 開源 Grok Bot 替代品，可自選模型和沙盒。
@@ -1001,7 +1000,6 @@ _每日存檔 · 2026-09-24_
 - [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/activeing123-mcptoon/) — mcptoon 是一個高效的工具發現 CLI，支援所有 AI 代理。
 - [Johnson-Durui/Companion-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/johnson-durui-companion-space/) — 一款本地優先的二次元陪伴學習應用，結合虛擬角色和語音AI，支援自我託管。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Conquerer-yinn/Kakaaaa-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/conquerer-yinn-kakaaaa-quant/) — 輕量級量化研究平臺，面向 A 股研究。
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-hh-rlhf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

@@ -877,7 +877,6 @@ _每日存檔 · 2026-09-21_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pireel-pireel/) — 一個無需後端支援的人工智慧影片編輯器，專門用於頭像對話影片。
 - [0xsline/OpenChatCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsline-openchatcut/) — 本地化對話式AI影片編輯器，具備多軌時間線和MCP整合。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -963,7 +962,6 @@ _每日存檔 · 2026-09-21_
 - [amitshekhariitbhu/llm-inference-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amitshekhariitbhu-llm-inference-engineering/) — 學習大型語言模型推理工程的步驟指南。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [zorost/AI-Engineering-Lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zorost-ai-engineering-lab/) — 24週的AI工程自學課程。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [shtjww/llm-inference-capacity-handbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shtjww-llm-inference-capacity-handbook/) — 大模型推理案頭手冊，提供GPU算力下的模型QPS估算。
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

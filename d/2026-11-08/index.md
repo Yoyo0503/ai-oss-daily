@@ -450,7 +450,6 @@ _每日存檔 · 2026-11-08_
 - [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/) — 提供加密貨幣交易後的K線圖生成工具及範例。
 - [FastVideo/FastH3-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fastvideo-fasth3-omni/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [webml-community/ternary-bonsai-2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-ternary-bonsai-2-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [D3voz/openjutsu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/d3voz-openjutsu/) — 用於替換影片中角色的開源工具。
 - [ShekMohammedAkram/Stable-Diffusion-2026-Free-Local](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shekmohammedakram-stable-diffusion-2026-free-local/) — 免費本地執行的穩定擴散模型，適用於AI影像生成。
 - [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-black-forest-labs-flux-3-image-klein/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -786,7 +785,6 @@ _每日存檔 · 2026-11-08_
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
 - [kanaworksai-hue/audio-studio-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kanaworksai-hue-audio-studio-mcp/) — audio-studio-mcp 是一個在地端執行的音效生成工具。
 - [alexturkey/voxcpm2-turkce-ses-tasarimi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexturkey-voxcpm2-turkce-ses-tasarimi/) — 使用VoxCPM2在4GB GPU上設計土耳其語音。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1218,7 +1216,6 @@ _每日存檔 · 2026-11-08_
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [vanzll/DiffusionART](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vanzll-diffusionart/) — 一種高效的增強擴散模型的強化學習方法，適用於影像到影片的轉換。
 - [OneMoh/html-explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onemoh-html-explainer/) — 將主題轉換為有配音和字幕的HTML影片。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jev-chat/jev-chat-jarvis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jev-chat-jev-chat-jarvis/) — 手機上的對話助手，支援微信、QQ等聊天軟體，提供智慧回覆建議。
@@ -1346,7 +1343,6 @@ _每日存檔 · 2026-11-08_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [incoai/splash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/incoai-splash/) — 適用於Apple矽晶片的本地推理引擎。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Appllama/appllama-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appllama-appllama-skills/) — 將熱門應用程式轉換成高品質手機螢幕的 AI 技能。
 - [kyky2347/ALTA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kyky2347-alta/) — ALTA 是一個自動化研究工具，用於發現機會和進行市場研究。
 - [liupig/xiaokeai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liupig-xiaokeai/) — 開源的本地 3D 虛擬伴侶，支援多種語言和功能。

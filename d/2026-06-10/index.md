@@ -320,7 +320,6 @@ _每日存檔 · 2026-06-10_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [rohitg00/ai-engineering-from-scratch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rohitg00-ai-engineering-from-scratch/) — 從零學 AI 工程：學它、做它、交付給別人（教學型，單日 +1290★）。
 - [timoncool/ACE-Step-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-ace-step-studio/) — 行動式 AI 歌曲生成器，可製作完整歌曲和音樂影片，離線執行。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DottedSign-Official/dottedsign-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dottedsign-official-dottedsign-mcp/) — DottedSign MCP server，讓 AI 助手管理電子簽署任務。
 - [jiuhuang-asset/jh_quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiuhuang-asset-jh-quant/) — 開源量化交易平台，兼容 akshare/tushare，含回測引擎/因子模型/實盤/儀表盤。
 - [Saganaki22/ComfyUI-OmniVoice-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-omnivoice-tts/) — ComfyUI 的 OmniVoice TTS 節點，支援零樣本多語言語音克隆和設計。

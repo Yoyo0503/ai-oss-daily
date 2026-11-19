@@ -338,7 +338,6 @@ _每日存檔 · 2026-06-13_
 - [ather-techie/rag-interview-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-system/) — 一套完整的 RAG 面試問題、答案及系統設計場景集合。
 - [superseo-skills（11 個 SEO 技能）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inhouseseo-superseo-skills/) — 11 個給 Claude 用的 SEO 技能：頁面稽核、外鏈建立、文章撰寫。
 - [sergebulaev/linkedin-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergebulaev-linkedin-skills/) — LinkedIn 成長的 Claude skills：寫像真人的貼文與會被注意的留言。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bubblesslayyer-cmd-awesome-gpt-image-2-openai/) — GPT Image 2 prompt 大全（策展清單）。
 - [cutebacktests（選擇權回測框架）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cutemarkets-cutebacktests/) — 針對現代選擇權策略的回測框架。
 - [Agentic SEO（by Addy Osmani）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agentic-seo/) — Google 工程師 Addy Osmani 的 agentic SEO / AEO 工具。

@@ -334,7 +334,6 @@ _每日存檔 · 2026-06-15_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phuryn-pm-skills/) — PM 技能市場：涵蓋發現到增長的 100 多種代理技能和外掛。
 - [ShurikenTrade/shuriken-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shurikentrade-shuriken-skills/) — 適用於 Shuriken 平臺的 AI 交易技能集。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gvkhosla-pi-tinker/) — 使用 Tinker 在 Pi 中微調開放原始碼模型的工具。
 - [zhenye234/Talker-T2AV](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhenye234-talker-t2av/) — 結合自迴歸差分模型的音影片生成框架。
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

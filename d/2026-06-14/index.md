@@ -338,7 +338,6 @@ _每日存檔 · 2026-06-14_
 - [facebookresearch/VLM3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/facebookresearch-vlm3/) — 視覺語言模型在三維空間學習的官方實現。
 - [TencentCloud/TencentDB-Agent-Memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tencentcloud-tencentdb-agent-memory/) — 提供完全本地化的長期記憶系統，支援AI代理的四層進階流程。
 - [zhenye234/Talker-T2AV](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhenye234-talker-t2av/) — 結合自迴歸差分模型的音影片生成框架。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [gvkhosla/pi-tinker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gvkhosla-pi-tinker/) — 使用 Tinker 在 Pi 中微調開放原始碼模型的工具。
 - [large-performance-model/large-performance-model.github.io](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/large-performance-model-large-performance-model-github-io/) — 基於影片的角色表演模型。

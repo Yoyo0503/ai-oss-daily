@@ -557,7 +557,6 @@ _每日存檔 · 2026-07-21_
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/claudiodrews-memory-os/) — 適用於 Hermes Agent 的七層記憶作業系統，提供永續性記憶和上下文注入。
 - [wuyoscar/GPT-Image2-Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-gpt-image2-skill/) — GPT Image 2 的 prompt 圖庫、agentic skill 與 CLI，串接 OpenAI 圖像生成。
 - [rookiestar28/ComfyUI-LongCat-Avatar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rookiestar28-comfyui-longcat-avatar/) — 用於生成長尾貓影片頭像的 ComfyUI 自定義節點，支援 macOS 和 Apple Silicon MLX 測試。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [runapi-ai/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/runapi-ai-mcp/) — RunAPI 的模型發現和價格查詢伺服器，提供 LLM 聊天功能。

@@ -1021,7 +1021,6 @@ _每日存檔 · 2026-10-16_
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [v-modal/awesome-jev-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/v-modal-awesome-jev-tools/) — 整理好的工具清單，專為 TypeSafe AI 的 Jev 模型打造，用於進行型別化決策。
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [tigerless-labs/agent-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tigerless-labs-agent-memory/) — agent-memory 為 AI 代理提供長期記憶執行時，使用 Markdown 儲存。
@@ -1165,7 +1164,6 @@ _每日存檔 · 2026-10-16_
 - [ralksta/ComfyUI-Photoshoot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ralksta-comfyui-photoshoot/) — 建立一致的角色，拍攝不同姿勢和角度的照片。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [datawhalechina/zero-to-sglang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datawhalechina-zero-to-sglang/) — zero-to-sglang 是一個系統化的 SGLang 教程，幫助開發者掌握大模型推理。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanliudesign-mono-color-skill/) — 單色印刷影像技能，適用於編輯設計。
 - [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-roneneldan-tinystories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

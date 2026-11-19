@@ -289,7 +289,6 @@ _每日存檔 · 2026-06-06_
 - [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kangarooking-cangjie-skill/) — 將書籍轉換為可執行的代理技能集。
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dontplantoend-ugi-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [brodyautomates/polymarket-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brodyautomates-polymarket-pipeline/) — 事件驅動 AI 管道：即時監測突發新聞、用 AI 分類其市場影響。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CONSTELLATION-ENGINE/constellation-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/constellation-engine-constellation-engine/) — Constellation Engine 讓AI代理擁有記憶功能，持續與使用者互動。
 - [gaaiyun/joinquant-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaaiyun-joinquant-skill/) — 在 JoinQuant 平台生成量化策略碼的 AI agent skill（Cursor／Claude）。
 - [FrancoisRost1/mini-bloomberg-terminal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/francoisrost1-mini-bloomberg-terminal/) — Streamlit 打造的整合投研終端，串接 10 個獨立金融引擎。

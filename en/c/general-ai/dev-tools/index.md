@@ -4,11 +4,12 @@
 - [autotrust/jev-9b-decision-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-autotrust-jev-9b-decision-demo/) — · gradio, mcp-server, region:us
 - [hugging-apps/bfs-best-face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-bfs-best-face-swap/) — · gradio, mcp-server, region:us
 - [fishpasters/uncensored-imageTOimage2Ref](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fishpasters-uncensored-imagetoimage2ref/) — · gradio, mcp-server, region:us
+- [linoyts/qwen-image-2-1-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-qwen-image-2-1-realtime/) — · gradio, mcp-server, region:us
 - [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-black-forest-labs-flux-3-image-klein/) — · gradio, mcp-server, region:us
 - [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mothersuperior-yue2-hum-to-song/) — · gradio, mcp-server, region:us
 - [hugging-apps/hi3dv1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-hi3dv1/) — · gradio, mcp-server, region:us
+- [AJ-Gonzalez/qwen4-max-reasoning-250x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aj-gonzalez-qwen4-max-reasoning-250x/) — · task_categories:text-generation, source_datasets:xtools-at/Xiaomi-MiMo-2.6-Pro-High-Reasoning-250x, source_…
 - [inclusionAI/ming-image-0-1-design-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-inclusionai-ming-image-0-1-design-demo/) — · gradio, mcp-server, region:us
-- [linoyts/qwen-image-2-1-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-qwen-image-2-1-realtime/) — · gradio, mcp-server, region:us
 - [thornmaze/reel-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-thornmaze-reel-lab/) — · gradio, mcp-server, region:us
 - [hugging-apps/spotsound-temporal-grounding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-spotsound-temporal-grounding/) — · gradio, mcp-server, region:us
 - [gaalos/wan2-2-fp8da-aoti-preview-2c-finishing](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-gaalos-wan2-2-fp8da-aoti-preview-2c-finishing/) — · gradio, mcp-server, region:us
@@ -23,7 +24,6 @@
 - [sahilmahendrakar/paradee](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-sahilmahendrakar-paradee/) — · gradio, mcp-server, region:us
 - [hugging-apps/midashenglm-gen](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-midashenglm-gen/) — · gradio, mcp-server, region:us
 - [victor/MiniMax-Music3-Jam](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-victor-minimax-music3-jam/) — · gradio, mcp-server, region:us
-- [AJ-Gonzalez/qwen4-max-reasoning-250x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aj-gonzalez-qwen4-max-reasoning-250x/) — · task_categories:text-generation, source_datasets:xtools-at/Xiaomi-MiMo-2.6-Pro-High-Reasoning-250x, source_…
 - [society-ethics/annotated-encyclical](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-society-ethics-annotated-encyclical/) — · static, ethics, ai-policy
 - [jimmycarter/krea2-turbo-bbox-canvas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jimmycarter-krea2-turbo-bbox-canvas/) — · gradio, mcp-server, region:us
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cisco-ai-stupase-speech-enhancement/) — · gradio, mcp-server, region:us
@@ -56,8 +56,9 @@
 - [JeffKeeping/dsh-purge-plus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jeffkeeping-dsh-purge-plus/) — dsh-purge 的非官方分支（fork）：适配 DeepSeek Harness 0.2.1-rc.2、破甲内核 v3、设置页 UI 重做 / unofficial fork of YuJunZhiXue/dsh-…
 - [docling-project/DeskForge-1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-docling-project-deskforge-1m/) — · task_categories:image-to-text, task_categories:object-detection, language:en
 - [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ebony-vinyl-dsh-our-free-model/) — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install…
-- [zhanghao123vip/ai-manju-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhanghao123vip-ai-manju-skills/) — 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek
+- [vAPI-Network/vapi-network](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vapi-network-vapi-network/) — Buyer-controlled client for x402 API payments in USDC on Base.
 - [JoasASantos/REA-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/joasasantos-rea-prompts/) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break dow…
+- [zhanghao123vip/ai-manju-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhanghao123vip-ai-manju-skills/) — 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — · gradio, mcp-server, region:us
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K

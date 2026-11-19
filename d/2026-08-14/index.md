@@ -557,7 +557,6 @@ _每日存檔 · 2026-08-14_
 - [khakhasshi/LLM_QUANT_FACTORY](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/khakhasshi-llm-quant-factory/) — 可審計的多代理量化研究和回測平臺。
 - [Alinebm17/trade-backtesting-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alinebm17-trade-backtesting-engine/) — 用於 DCA 和網格交易策略的回測引擎，支援技術指標和歷史資料模擬。
 - [Kuberwastaken/megaphone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kuberwastaken-megaphone/) — megaphone 是一個免費、私人的Mac語音轉文字應用，使用Apple SpeechAnalyzer和Foundation Models。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Eyeline-Labs/ID-V2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/) — ID-V2V 是用於影片重風格化並保持身份特徵的官方實現。
 - [techfreakworm/LTX2.3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-techfreakworm-ltx2-3-studio/) — LTX 2.3 影片生成工作室線上示範（HF Space）。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
@@ -708,7 +707,6 @@ _每日存檔 · 2026-08-14_
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [estebanstifli/LocalText2Voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/estebanstifli-localtext2voice/) — 本地化文本轉語音工作流程，適用於教育和播客。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceH4/ultrachat_200k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfaceh4-ultrachat-200k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [timoncool/dub-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-dub-studio/) — 免費的離線 AI 影片配音工作室，支援語音克隆、翻譯及字幕本地化。
 - [lcy362/agnes-video-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lcy362-agnes-video-generator/) — Agnes Video Generator 是一個免費的 AI 影片生成器，可將文字轉換為多場景影片。

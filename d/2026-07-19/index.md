@@ -541,7 +541,6 @@ _每日存檔 · 2026-07-19_
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vigozhao-ai-visual-prompt-cookbook/) — AI影像生成的可重用JSON提示模板集合，每日更新。
 - [raiyanyahya/llmaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raiyanyahya-llmaker/) — 現代大語言模型堆疊的自我主控工具，可在終端機上執行整個模型群組。
 - [BillLucky/echocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/billlucky-echocut/) — 將原始影片轉換為品牌適用、平臺最佳化的影片，只需一條命令。本地優先：FFmpeg + WhisperX/MLX + Ollama。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Vibe-Trading（個人交易 Agent）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hkuds-vibe-trading/) — 港大資料科學實驗室(HKUDS)開源的「個人交易代理人」，全站投資理財最熱（9,027★）。
 - [ruvnet/agenticow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruvnet-agenticow/) — 用於嵌入式多代理記憶系統的 Git 風格分支機制，效能優異且佔用空間小。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

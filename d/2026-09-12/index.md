@@ -781,7 +781,6 @@ _每日存檔 · 2026-09-12_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [Accstall/accstall-account-line-parser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/accstall-accstall-account-line-parser/) — 瀏覽器內的帳號解析工具，可分割帳號密碼組合，並匯出CSV或JSON。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [worldbench/DiffusionOPSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldbench-diffusionopsd/) — 基於擴散模型的在策略自我蒸餾。
 - [deeplethe/utopia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/) — 自託運知識平臺，基於知識圖譜，使用Rust和PostgreSQL。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -871,7 +870,6 @@ _每日存檔 · 2026-09-12_
 - [AMAP-ML/LongHorizon-Harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amap-ml-longhorizon-harness/) — 長時間執行AI代理的工具，保持任務狀態並可靠地完成複雜工作流程。
 - [calmrocks/ai-engineer-notebooks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calmrocks-ai-engineer-notebooks/) — 無框架的Colab筆記本，涵蓋AI工程師技能集。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [v-modal/vmodal_sdk_android](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/v-modal-vmodal-sdk-android/) — 適用於 Android 的影片搜尋 SDK，可整合到任何影片應用程式中。
 - [aiheem879-creator/AI-Voice-Mod-Pr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aiheem879-creator-ai-voice-mod-pr/) — 即時音訊變更工具，適用於直播主和內容創作者。

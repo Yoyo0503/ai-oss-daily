@@ -496,7 +496,6 @@ _每日存檔 · 2026-07-09_
 - [Harahan/RTDMD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/harahan-rtdmd/) — 論文 RTDMD 官方 PyTorch 實作：強化少步數生成式擴散模型。
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [GEOFlow（GEO 內容工程與多站分發）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geoflow/) — 開源的 GEO(生成式引擎優化)內容工程與多站分發系統，賺錢方法榜最熱（2,378★）。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [huawei-csl/KVarN](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huawei-csl-kvarn/) — 為代理提供原生 vLLM KV-快取量化後端，提升上下文和吞吐量。
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

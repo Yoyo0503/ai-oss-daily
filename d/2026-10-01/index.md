@@ -956,7 +956,6 @@ _每日存檔 · 2026-10-01_
 - [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinxuxin-keystone-bench/) — 臨床決策支援的評估基準，基於 HealthBench 建立。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yjh051108/dsh-routing-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yjh051108-dsh-routing-suite/) — dsh-routing-suite 是一個用於 AI 代理的注入器和路由器套件。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [animede/Realtime_Narration_Video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/animede-realtime-narration-video/) — 即時生成講話角色的AI工具。
 - [decionis/docker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/decionis-docker/) — 在Docker中管理AI代理行動，確保政策確定性和人為批准。
 - [wang2122/sprix-sage-router](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wang2122-sprix-sage-router/) — 狀態感知的SELF/COLLABORATE/HANDOFF路由系統。
@@ -1065,7 +1064,6 @@ _每日存檔 · 2026-10-01_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [fuxicodex/Fuxi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fuxicodex-fuxi/) — 在終端機中執行的AI程式設計助手。
 - [Heroesjouney/AIMovieStudiov2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heroesjouney-aimoviestudiov2/) — 無需程式設計的 AI 製作電影工作流，支援 ComfyUI 和 Fal/Replicate 雲端。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

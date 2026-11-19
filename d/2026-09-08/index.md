@@ -763,7 +763,6 @@ _每日存檔 · 2026-09-08_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [veedstudio/open-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/veedstudio-open-edit/) — 一個使用 AI 代理的影片編輯工具，可自訂字幕和轉錄。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Leonxlnx/unlazy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-unlazy/) — 一種讓 AI 代理提高工作效率的方法，透過深度樹法將任務拆分，提高執行效率。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [syv-ai/qwen38-27b-rtx3090](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syv-ai-qwen38-27b-rtx3090/) — 在單個RTX 3090上執行Qwen3.8-27B的模型推理工具。
@@ -844,7 +843,6 @@ _每日存檔 · 2026-09-08_
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [erduo1998-cell/erduo-broll-loop-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/erduo1998-cell-erduo-broll-loop-engineering/) — 自動路由 HyperFrames 和 Remotion 的雙後端 B-roll 代理技能，整合 Shotcraft 鏡頭卡。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [dacnay816y62-hub/photo-revival](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dacnay816y62-hub-photo-revival/) — 將照片轉換為手繪風格插圖的工具。
 - [zvec-ai/zvec-grep](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zvec-ai-zvec-grep/) — zvec-grep 是一個為人類和 AI 代理設計的本地搜尋工具。

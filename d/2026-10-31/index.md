@@ -740,7 +740,6 @@ _每日存檔 · 2026-10-31_
 - [faunix/Qwen3.8-27B-Distillation-40K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-faunix-qwen3-8-27b-distillation-40k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mishig/microduck-anatomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mishig-microduck-anatomy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1143,7 +1142,6 @@ _每日存檔 · 2026-10-31_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [liupig/xiaokeai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liupig-xiaokeai/) — 開源的本地 3D 虛擬伴侶，支援多種語言和功能。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [deepseek-ai/deepseek-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepseek-ai-deepseek-harness/) — 一切皆可作為外掛的AI代理框架。
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
 - [sgp2hidyk7jm/flux2-flux-2-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sgp2hidyk7jm-flux2-flux-2-prompts/) — flux-2 API 提供模型 ID、設定、curl 和 Python 示例，支援按次計費。
@@ -1268,7 +1266,6 @@ _每日存檔 · 2026-10-31_
 - [Saganaki22/ComfyUI-AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-auk/) — 使用 ComfyUI 管理模型，生成、編輯和增強語音的工具。
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [youngyangyang04/llm-master](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/youngyangyang04-llm-master/) — 大模型全棧學習路徑與中文教程，涵蓋提示工程、RAG、AI Agent 等。
 - [tbraman-dev/nt8-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tbraman-dev-nt8-mcp/) — 為 NinjaTrader 8 提供 AI 程式碼助手和無頭回測功能。
 - [heaven999b/hello-agent-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heaven999b-hello-agent-system/) — 企業級 AI 代理系統設計教程，包含多種實踐練習。

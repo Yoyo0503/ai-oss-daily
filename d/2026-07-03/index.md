@@ -468,7 +468,6 @@ _每日存檔 · 2026-07-03_
 - [freestylefly/awesome-gpt-image-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/freestylefly-awesome-gpt-image-2/) — 工業級提示詞引擎與模板庫，涵蓋470多個案例和20多種模板。
 - [yaojingang/yao-open-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-yao-open-prompts/) — 中文AI提示詞庫，覆蓋工作、學習等多場景。
 - [gantasmo/StableDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-stabledaw/) — 基於瀏覽器的AI音訊工作站，支援文本轉語音和LoRA訓練等功能。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MemPalace/mempalace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mempalace-mempalace/) — 最佳評估開源AI記憶系統，免費使用。
 - [pineforge-4pass/pineforge-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pineforge-4pass-pineforge-engine/) — 確定性 PineScript v6 回測執行時，與 TradingView 對比驗證。
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-can-i-finetune-this/) — 估計Hugging Face模型是否能在你的本地GPU上微調。

@@ -885,7 +885,6 @@ _每日存檔 · 2026-09-22_
 - [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seesee75-commits-comfyui-minimaxh3-director/) — 用於 ComfyUI 中 MiniMax H3 的時間軸編輯器，支援故事板提示和動態預覽。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [elie222/rakazo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elie222-rakazo/) — 開源 Grok Bot 替代品，可自選模型和沙盒。
 - [yaojingang/GEOHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geohub/) — 提供AI搜尋技能，支援SEO與內容最佳化。
 - [worldbench/DiffusionOPSD](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldbench-diffusionopsd/) — 基於擴散模型的在策略自我蒸餾。
@@ -970,7 +969,6 @@ _每日存檔 · 2026-09-22_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [calmrocks/ai-engineer-notebooks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calmrocks-ai-engineer-notebooks/) — 無框架的Colab筆記本，涵蓋AI工程師技能集。
 - [FuRongJun-1999/dsh-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/furongjun-1999-dsh-memory/) — 白箱AGI架構探索，包含元認知、持續學習、世界模型、自我改進等模組。
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。

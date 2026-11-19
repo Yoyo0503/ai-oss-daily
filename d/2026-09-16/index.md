@@ -807,7 +807,6 @@ _每日存檔 · 2026-09-16_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [Johnson-Durui/Companion-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/johnson-durui-companion-space/) — 一款本地優先的二次元陪伴學習應用，結合虛擬角色和語音AI，支援自我託管。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [datawhalechina/zero-to-sglang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datawhalechina-zero-to-sglang/) — zero-to-sglang 是一個系統化的 SGLang 教程，幫助開發者掌握大模型推理。
 - [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/) — 使用大模型驅動的完整電商客服自動化系統。
 - [PNGTRID/AnvilWiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pngtrid-anvilwiki/) — 開源遊戲維基模板，適用於快速部署。
@@ -892,7 +891,6 @@ _每日存檔 · 2026-09-16_
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/activeing123-mcptoon/) — mcptoon 是一個高效的工具發現 CLI，支援所有 AI 代理。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

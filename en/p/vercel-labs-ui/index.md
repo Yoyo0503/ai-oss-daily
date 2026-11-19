@@ -4,5 +4,5 @@ A library of behaviors for agents to build the next generation of user interface
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：5,562
+**Stars**：5,880
 **Source**：https://github.com/vercel-labs/ui

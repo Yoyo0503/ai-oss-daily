@@ -780,7 +780,6 @@ _每日存檔 · 2026-10-24_
 - [lordx64/agentic-distill-fable-5-sft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lordx64-agentic-distill-fable-5-sft/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/fable-5-boeing-747-trace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-victor-fable-5-boeing-747-trace/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/) — dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Infatoshi/kernelbench-hard-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-infatoshi-kernelbench-hard-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [leosayer06/wan555](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-leosayer06-wan555/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [VoltAgent/official-mcp-servers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/voltagent-official-mcp-servers/) — 官方MCP伺服器目錄，涵蓋各大產品公司的伺服器。
@@ -1080,7 +1079,6 @@ _每日存檔 · 2026-10-24_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [fidetolabs/qanat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fidetolabs-qanat/) — 用於構建和回測交易策略的工作流引擎。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1197,7 +1195,6 @@ _每日存檔 · 2026-10-24_
 - [ant-research/4DAnyone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ant-research-4danyone/) — 4DAnyone 是一個從單目影片生成四維動畫的工具。
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NanmiCoder/creator-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nanmicoder-creator-pipeline/) — 本地語音克隆和SRT驅動的網頁展示工具。
 - [Vincentwei1021/video-shotcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-video-shotcraft/) — video-shotcraft 是用於Claude Code和Codex的AI影片技能，提供電影級產品宣傳片模板。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

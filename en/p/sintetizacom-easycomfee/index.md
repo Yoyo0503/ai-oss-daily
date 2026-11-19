@@ -4,5 +4,5 @@ Open-source, Higgsfield-style creative studio on ComfyUI: image, video, LTX VFX,
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：22
+**Stars**：23
 **Source**：https://github.com/sintetizacom/easycomfee

@@ -531,7 +531,6 @@ _每日存檔 · 2026-07-17_
 - [0xSero/glm-5.2-sm120](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsero-glm-5-2-sm120/) — GLM-5.2-NVFP4-REAP-469B 在SM120上執行的大規模語言模型推理工具。
 - [derek-zhuolin/interflow-video-cut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/derek-zhuolin-interflow-video-cut/) — 將口播影片自動剪輯成卡片式影片，支援多種視覺風格與佈局。
 - [kodelyx/flow-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kodelyx-flow-agent/) — Google Flow的CLI工具，支援無限生成影片和影像。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enping-hu-minimind-deep-dive/) — MiniMind 原始碼精讀及大模型技術體系中文學習筆記。
 - [ruvnet/agenticow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruvnet-agenticow/) — 用於嵌入式多代理記憶系統的 Git 風格分支機制，效能優異且佔用空間小。
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

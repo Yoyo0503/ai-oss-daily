@@ -701,7 +701,6 @@ _每日存檔 · 2026-08-27_
 - [YizhiSong/FriesTrader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yizhisong-friestrader/) — 自動化股票交易機器人，基於Claude Code進行風險管理。
 - [kirodotdev/KiroCrew](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kirodotdev-kirocrew/) — 一個自我進化的開發工作空間，可持續多個會話。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [khakhasshi/LLM_QUANT_FACTORY](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/khakhasshi-llm-quant-factory/) — 可審計的多代理量化研究和回測平臺。
 - [katipally/openlive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katipally-openlive/) — 開源的在地端語音與視覺層AI代理框架，支援本地語音迴圈處理。
 - [kachence/polymm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kachence-polymm/) — 使用Python編寫的一個運動市場套利機器人，用於去 vig 運動賭博和報價。
@@ -784,7 +783,6 @@ _每日存檔 · 2026-08-27_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [deepmemteam/deepmem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepmemteam-deepmem/) — 快速且低成本的AI記憶層，與Mem0 API完全相容。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Travisun/Opptrix](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/travisun-opptrix/) — 大模型驅動的投研助手，支援因子篩選、回測等功能。
 - [nexu-io/open-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-open-design/) — 本機優先的開源 Claude Design 替代品：原生桌面 App、259+ skills（+874★）。
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。

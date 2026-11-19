@@ -372,7 +372,6 @@ _每日存檔 · 2026-06-23_
 - [AI 商業行銷技能包（雙語）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minhnv0807-ai-business-skills/) — 63 個雙語(越南/全球) AI 行銷技能，支援 Claude Code、OpenCode、Codex 等。
 - [lambda/hermes-agent-reasoning-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-lambda-hermes-agent-reasoning-traces/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [volcengine/SearchCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volcengine-searchcli/) — 整合 AI 搜尋和對話系統的命令列工具。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chiennv2000-orthrus/) — 快速、無損的大語言模型推論，通過雙檢視擴散解碼實現。
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jnMetaCode/superpowers-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-superpowers-zh/) — Claude Code等AI程式設計工具的中文增強版和技能。

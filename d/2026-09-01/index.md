@@ -742,7 +742,6 @@ _每日存檔 · 2026-09-01_
 - [shy3130/tick-stock-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shy3130-tick-stock-panel/) — TSP 是一個自託管的量化工作臺，支援選股、監控和回測。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [rajpurkar/squad](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rajpurkar-squad/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TuolaGe/vertical-talking-head-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tuolage-vertical-talking-head-video/) — 用來製作高品質直式數位人頭像影片的工作流程。
 - [0xShug0/audio.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xshug0-audio-cpp/) — audio.cpp 是一個基於 C++ 的音訊模型推理引擎，支援 TTS、STT、VAD 等。
@@ -830,7 +829,6 @@ _每日存檔 · 2026-09-01_
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [modelcontextprotocol/python-sdk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/modelcontextprotocol-python-sdk/) — 官方 Python SDK，用於 Model Context Protocol 伺服器和客戶端。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Koukyosyumei/h5i-db](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koukyosyumei-h5i-db/) — 用於量化研究的終端機筆記本和高效能時系列資料庫。
 - [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ftshare-lab-ftshare-mcp/) — 金融資料與投資工作流程的MCP工具。
 - [the0cp/beatflow-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/the0cp-beatflow-skill/) — 使用 Python DSL 的音樂生成技能，具備診斷和多軌 MIDI 渲染功能。

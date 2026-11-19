@@ -917,7 +917,6 @@ _每日存檔 · 2026-09-25_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Cripacx/mediagen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cripacx-mediagen/) — Claude Code 的多模態生成技能，結合 Gemini、OpenAI 和 Kie AI，支援 EU AI Act 內容標記。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [whitecircle/halo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whitecircle-halo/) — Halo 是一個用於訓練大型語言和多模態模型的開源框架。
 - [elie222/rakazo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elie222-rakazo/) — 開源 Grok Bot 替代品，可自選模型和沙盒。
 - [whichmen/dxl-commerce-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/whichmen-dxl-commerce-agent/) — 使用大模型驅動的完整電商客服自動化系統。
@@ -1014,7 +1013,6 @@ _每日存檔 · 2026-09-25_
 - [AMAP-ML/LongHorizon-Harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amap-ml-longhorizon-harness/) — 長時間執行AI代理的工具，保持任務狀態並可靠地完成複雜工作流程。
 - [Johnson-Durui/Companion-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/johnson-durui-companion-space/) — 一款本地優先的二次元陪伴學習應用，結合虛擬角色和語音AI，支援自我託管。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Conquerer-yinn/Kakaaaa-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/conquerer-yinn-kakaaaa-quant/) — 輕量級量化研究平臺，面向 A 股研究。

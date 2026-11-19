@@ -983,7 +983,6 @@ _每日存檔 · 2026-10-04_
 - [tswawa/xianyu-saas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tswawa-xianyu-saas/) — 閒魚多店舖智慧運營系統，整合AI客服和自動發貨。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yjh051108/dsh-routing-suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yjh051108-dsh-routing-suite/) — dsh-routing-suite 是一個用於 AI 代理的注入器和路由器套件。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinxuxin-keystone-bench/) — 臨床決策支援的評估基準，基於 HealthBench 建立。
 - [wang2122/sprix-sage-router](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wang2122-sprix-sage-router/) — 狀態感知的SELF/COLLABORATE/HANDOFF路由系統。
 - [PotionUI/PotionUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/potionui-potionui/) — 自建的影像、影片和音訊生成工作室，使用擴散模型。
@@ -1097,7 +1096,6 @@ _每日存檔 · 2026-10-04_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [PerryLink/dsh-mcp-panel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perrylink-dsh-mcp-panel/) — DeepSeek Harness MCP客戶端管理控制台，提供健康診斷和管道試驗呼叫。
 - [Egonex-AI/Understand-Anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egonex-ai-understand-anything/) — 將程式碼轉換為可互動探索和查詢的知識圖形工具。

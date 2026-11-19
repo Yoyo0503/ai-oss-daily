@@ -639,7 +639,6 @@ _每日存檔 · 2026-08-18_
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [MaxFreedomPollard/Compartment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maxfreedompollard-compartment/) — 加密的離線代理記憶系統，提供圖形介面和跨平臺安裝。
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oomol-lab-open-connector/) — 開源認證門戶，連線SaaS供應商與AI代理。
@@ -729,7 +728,6 @@ _每日存檔 · 2026-08-18_
 - [benbenbang/libitofin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/benbenbang-libitofin/) — 高效率量化金融庫，適用於價格評估、風險管理和數值工具。
 - [spinabot/brigade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/) — 企業級個人智慧助手，支援自動化任務和協作。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [congchuanling-dot/Cohort](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/congchuanling-dot-cohort/) — 連線LLMs到控制工具和桌面自動化的本地代理執行時。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [Saivineeth147/lora-speedrun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saivineeth147-lora-speedrun/) — 加速LoRA微調的模擬器和排行榜。

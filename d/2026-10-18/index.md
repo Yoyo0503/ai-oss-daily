@@ -1030,7 +1030,6 @@ _每日存檔 · 2026-10-18_
 - [zc6503204-collab/stock-strategy-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zc6503204-collab-stock-strategy-dashboard/) — 本地執行的股票選股、模擬交易與風險控制工作臺。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [liupig/xiaokeai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liupig-xiaokeai/) — 開源的本地 3D 虛擬伴侶，支援多種語言和功能。
 - [angel291592/Intent-Router](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/angel291592-intent-router/) — 將模糊請求轉換為明確合約的 AI 代理技能編譯器。
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
@@ -1173,7 +1172,6 @@ _每日存檔 · 2026-10-18_
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [QwenAudio/qwen-audio-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qwenaudio-qwen-audio-agent/) — 即時語音執行框架，讓 AI 代理保持線上和互動。
 - [OceanOver/Tomechat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oceanover-tomechat/) — 基於 LangChain 的知識庫聊天應用，支援 OpenAI 和 Gemini。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Carasibana/ComfyUI-H3-FaceRefine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carasibana-comfyui-h3-facerefine/) — 使用MiniMax H3技術提升小臉清晰度的AI工具。
 - [muratmula/ai-robinhood-chain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/muratmula-ai-robinhood-chain/) — ai-robinhood-chain 是一個基於 Discord 和 Telegram 的自動化加密貨幣交易生態系統。
 - [Sidiora-Labs/centra-gideon-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sidiora-labs-centra-gideon-agent/) — centra-gideon-agent 是一個能夠學習和適應各種工作的 AI 代理。

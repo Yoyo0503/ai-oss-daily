@@ -688,7 +688,6 @@ _每日存檔 · 2026-08-24_
 - [Ali-hey-0/audio-ai-field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ali-hey-0-audio-ai-field-guide/) — 從原始波形到生產語音系統的音訊 AI 應用指南，涵蓋 ASR、TTS 和音訊分類等。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FTShare-Lab/FTShare-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ftshare-lab-ftshare-mcp/) — 金融資料與投資工作流程的MCP工具。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prism-shadow-penguin-harness/) — 讓AI自行建立AI的工具。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [vastsa/BokeBox](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vastsa-bokebox/) — 私有AI播客工作室，將多源內容轉換為語音節目。
@@ -763,7 +762,6 @@ _每日存檔 · 2026-08-24_
 - [SilentFleetKK/riskguard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/silentfleetkk-riskguard/) — 交易風險控制層，提供倉位上限、熔斷機制等核心功能，無外部依賴。
 - [dduongtrandai/LA-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dduongtrandai-la-studio/) — 隱私優先的本地AI音訊應用，支援語音轉文字、文字轉語音等。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [Raymondhou0917/speak-human-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raymondhou0917-speak-human-tw/) — 將繁體中文 AI 文本改寫成人類易懂的語言，修正中國用語及標點符號。

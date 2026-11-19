@@ -418,7 +418,6 @@ _每日存檔 · 2026-06-28_
 - [KDAN-PDF/KDAN-PDF-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kdan-pdf-kdan-pdf-mcp/) — 將 Claude 和 ChatGPT 結合到 KDAN PDF，支援上傳、編輯、壓縮等 PDF 功能。
 - [thaolst/tara-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thaolst-tara-bot/) — Tara Bot 是一個智慧 Telegram 機器人，能搜尋航班、比較價格並插入聯盟連結。
 - [ChrisChen667788/wind-comic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrischen667788-wind-comic/) — 將文字轉換成動漫劇本和影片的多代理 AI 管道。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jegly/Box](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jegly-box/) — 私人 Android 裝置 AI 套件，內含語音識別、影像生成等功能。
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

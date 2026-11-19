@@ -321,7 +321,6 @@ _每日存檔 · 2026-06-09_
 - [jiuhuang-asset/jh_quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jiuhuang-asset-jh-quant/) — 開源量化交易平台，兼容 akshare/tushare，含回測引擎/因子模型/實盤/儀表盤。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [Saganaki22/ComfyUI-OmniVoice-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-omnivoice-tts/) — ComfyUI 的 OmniVoice TTS 節點，支援零樣本多語言語音克隆和設計。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [witty-suckerpunch492/daihuo-jianshou](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/witty-suckerpunch492-daihuo-jianshou/) — 自動生成電商帶貨短影片，適配抖音、快手等平臺。
 - [DontPlanToEnd/UGI-Leaderboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-dontplantoend-ugi-leaderboard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mksglu-context-mode/) — 最佳化AI程式碼代理的上下文視窗，減少工具輸出。

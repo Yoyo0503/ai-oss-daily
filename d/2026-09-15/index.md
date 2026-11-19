@@ -797,7 +797,6 @@ _每日存檔 · 2026-09-15_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [Johnson-Durui/Companion-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/johnson-durui-companion-space/) — 一款本地優先的二次元陪伴學習應用，結合虛擬角色和語音AI，支援自我託管。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yaojingang/GEOHub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geohub/) — 提供AI搜尋技能，支援SEO與內容最佳化。
 - [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seesee75-commits-comfyui-minimaxh3-director/) — 用於 ComfyUI 中 MiniMax H3 的時間軸編輯器，支援故事板提示和動態預覽。
 - [wassgha/rescript](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/) — 基於字幕的線上影音編輯器。
@@ -882,7 +881,6 @@ _每日存檔 · 2026-09-15_
 - [oomol-lab/open-connector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oomol-lab-open-connector/) — 開源認證門戶，連線SaaS供應商與AI代理。
 - [notivn/AIEV](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/notivn-aiev/) — 自動化AI影片編輯工具，使用Claude和Remotion將原始片段轉換為完成的影片。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skill-recorder/) — 使用GitHub Copilot CLI記錄並重建工作會話的桌面應用程式。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

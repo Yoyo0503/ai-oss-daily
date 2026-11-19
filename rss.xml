@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>18 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>19 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>vyrekai/minimax-h3-image-comfyui-workflows</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-vyrekai-minimax-h3-image-comfyui-workflows/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-vyrekai-minimax-h3-image-comfyui-workflows/</guid>
-<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
-<description>使用 minimax-h3 和 comfyui 的影像生成工作流程。</description>
+<title>apple/FastFrames-L</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-apple-fastframes-l/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-apple-fastframes-l/</guid>
+<pubDate>19 Nov 2026 08:00:00 +0000</pubDate>
+<description>將文字轉換為影片的模型。</description>
 </item>
 <item>
-<title>sensenova/SenseNova-Loop-9B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b/</guid>
-<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
-<description>將影像和文本轉換為文本的多模態模型。</description>
+<title>tencent/Hy4-flash</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-flash/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-flash/</guid>
+<pubDate>19 Nov 2026 08:00:00 +0000</pubDate>
+<description>基於轉換器的影像文字轉文字模型。</description>
 </item>
 <item>
-<title>MicksHF/Qwen-Image-2.1-Anime-Fusal</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mickshf-qwen-image-2-1-anime-fusal/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mickshf-qwen-image-2-1-anime-fusal/</guid>
-<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
-<description>基於 Qwen-Image-2.1 的影像到影像生成模型。</description>
+<title>Reson8/Rumble-2-Flash</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reson8-rumble-2-flash/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reson8-rumble-2-flash/</guid>
+<pubDate>19 Nov 2026 08:00:00 +0000</pubDate>
+<description>自動語音識別模型。</description>
 </item>
 <item>
-<title>ZJU-REAL/Easel</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/</guid>
-<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
-<description>一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。</description>
+<title>morluto/rea</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</guid>
+<pubDate>19 Nov 2026 08:00:00 +0000</pubDate>
+<description>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</description>
 </item>
 <item>
-<title>elementalsouls/Claude-BugHunter</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</guid>
-<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
-<description>Claude Code 程式設計技能包：漏洞狩獵和外部紅隊工作</description>
+<title>vercel-labs/ui</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-labs-ui/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-labs-ui/</guid>
+<pubDate>19 Nov 2026 08:00:00 +0000</pubDate>
+<description>為代理程式提供一套建立下一代使用者介面的行為庫。</description>
 </item>
 <item>
-<title>boringmarketer/boring-marketing-skills</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boringmarketer-boring-marketing-skills/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boringmarketer-boring-marketing-skills/</guid>
-<pubDate>18 Nov 2026 08:00:00 +0000</pubDate>
-<description>為 AI 最佳化 31 種免費行銷技能，涵蓋研究、定位和內容創作。</description>
+<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
+<pubDate>19 Nov 2026 08:00:00 +0000</pubDate>
+<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
 </item>
 </channel>
 </rss>

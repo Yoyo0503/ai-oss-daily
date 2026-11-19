@@ -466,7 +466,6 @@ _每日存檔 · 2026-07-05_
 - [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egoist-machines-lodedb/) — 快速、安全的向量資料庫，適合本地 RAG 和隱私保護。
 - [Chz1Y/Steerable-music-transformer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chz1y-steerable-music-transformer/) — 可控節奏複雜度的自回歸音樂生成模型（PyTorch 官方實作）。
 - [python-telegramBot/crypto-liquidity-ai-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/python-telegrambot-crypto-liquidity-ai-trading-bot/) — 加密貨幣流動性／訂單簿微結構的演算法交易機器人（Python）。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RightNow-AI/AutoMegaKernel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rightnow-ai-automegakernel/) — AutoMegaKernel 是一個自調優的 CUDA 巨核編譯器，適用於大型語言模型解碼。
 - [Graphify-Labs/graphify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graphify-labs-graphify/) — 將程式碼檔案轉換為可查詢的知識圖譜，支援多種程式語言和資料格式。
 - [Qwen/Qwen3-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-qwen-qwen3-tts/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

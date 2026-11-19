@@ -377,7 +377,6 @@ _每日存檔 · 2026-06-19_
 - [anyshift-io/sre-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anyshift-io-sre-skills/) — 開源 SRE 技能庫，提供給 AI 代理進行事故管理與後事分析。
 - [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-llm-flashcards/) — 手繪的 LLM 工作原理卡片集，包含19張免費樣品卡。
 - [DaviddTech/ai-trading-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daviddtech-ai-trading-agent/) — ai-trading-agent 是一個使用 Claude 等工具建立的 AI 股票交易代理。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sanswtf/Template-Pro-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sanswtf-template-pro-desktop/) — 專業級PC影片編輯套件，提供AI增強的專案檔案和高品質LUT。
 - [Evolutionary Alpha Miner（演化式選股因子挖掘）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaosu0715-lgtm-evolutionary-alpha-miner/) — 家族感知的演化式 alpha 挖掘，用 LLM 引導符號回歸。
 - [0xSteph/pentest-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsteph-pentest-ai/) — Offensive-security MCP伺服器，包含205個工具、17種專業代理和60個SPA探測器。

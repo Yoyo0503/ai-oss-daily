@@ -692,7 +692,6 @@ _每日存檔 · 2026-08-25_
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orkas-ai-orkas-videostudio/) — 將程式碼代理轉換為影片工作室，描述文字生成影片。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Ali-hey-0/audio-ai-field-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ali-hey-0-audio-ai-field-guide/) — 從原始波形到生產語音系統的音訊 AI 應用指南，涵蓋 ASR、TTS 和音訊分類等。
 - [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prism-shadow-penguin-harness/) — 讓AI自行建立AI的工具。
 - [Greninja9257/LabLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/greninja9257-labllm/) — 適用於 Apple Silicon 的本地微型語言模型訓練平臺。
@@ -770,7 +769,6 @@ _每日存檔 · 2026-08-25_
 - [nexu-io/html-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-video/) — 將 HTML、CSS 和資料轉換成 MP4 影片，支援多種渲染引擎和音效。
 - [SilentFleetKK/riskguard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/silentfleetkk-riskguard/) — 交易風險控制層，提供倉位上限、熔斷機制等核心功能，無外部依賴。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [dduongtrandai/LA-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dduongtrandai-la-studio/) — 隱私優先的本地AI音訊應用，支援語音轉文字、文字轉語音等。
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 - [mars-tw/anti-gambling-trader-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mars-tw-anti-gambling-trader-tw/) — 免費的投資防詐工具，提供交易統計與自動化交易功能。

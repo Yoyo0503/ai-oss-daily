@@ -814,7 +814,6 @@ _Daily archive · 2026-09-17_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helpmeeadice-te-speed-minimaxh3-oss/) — MiniMax-H3超级缓存加速插件
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — Automatisiere dein Affiliate-Business auf Digistore24 mit Easy Ebiz Pro. Vorlagen, CTR-Optimierung & Strategi…
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, task_categories:translation
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — · task_categories:text-to-speech, task_categories:automatic-speech-recognition, annotations_creators:machine-…
 - [kulkas2pintu/wan777](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-wan777/) — · gradio, mcp-server, region:us
 - [wang2122/sprix-sage-router](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wang2122-sprix-sage-router/) — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanliudesign-mono-color-skill/) — One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained…
@@ -841,7 +840,7 @@ _Daily archive · 2026-09-17_
 - [wassgha/rescript](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wassgha-rescript/) — 🎬 Open source, transcript-based video/audio editor that lives in the browser.
 - [wjhccc/TradingAgents-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wjhccc-tradingagents-studio/) — 可视化多智能体 LLM 交易研究平台 — 看见 Agent 怎么想、怎么辩、怎么拍板,而不只是最后那个 BUY/SELL。
 - [genspark-ai/genoffice](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/genspark-ai-genoffice/) — Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), Powe…
-- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — 本地 ComfyUI 抽卡引擎，随机产出高质量提示词。
+- [AmazingDraw/AmazingDraw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/amazingdraw-amazingdraw/) — ComfyUI 抽卡引擎，随机产出高质量提示词。
 - [xcslys99/FootageFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xcslys99-footageflow/) — Open-source footage search, research workspace & link downloader for macOS and Windows.
 - [deeplethe/utopia](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/deeplethe-utopia/) — World's first open-source enterprise world model.
 - [avifenesh/bw24](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avifenesh-bw24/) — bw24 — from-scratch LLM inference for RTX 5090 (sm_120a) and H100 (sm_90a)
@@ -898,7 +897,6 @@ _Daily archive · 2026-09-17_
 - [Alisa0808/vox-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alisa0808-vox-director/) — Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Clo…
 - [Conquerer-yinn/Kakaaaa-quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/conquerer-yinn-kakaaaa-quant/) — 面向 A 股研究工作流的轻量量化研究工作台 · 情绪指标 / Excel 历史主表 / 飞书卡片 / FastAPI / React
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-loveseries-wanmanlove/) — · gradio, mcp-server, region:us
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-allenai-c4/) — · task_categories:text-generation, task_categories:fill-mask, task_ids:language-modeling
 - [Jaycheng1103/chatgpt-video-editing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jaycheng1103-chatgpt-video-editing-skills/) — 用 ChatGPT／Codex 安裝 AI 剪輯環境，並依八大步驟完成可驗證的短影音剪輯。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/anthropics-skills/) — Public repository for Agent Skills
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/govsoftusa-go-for-launch/) — A toolbox for Astro sites, started by GovSoft. Convert sites to Astro, keep them on current versions, test we…
@@ -1173,7 +1171,7 @@ _Daily archive · 2026-09-17_
 - [virgiliojr94/book-to-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/virgiliojr94-book-to-skill/) — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [esengine/DeepSeek-Reasonix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/esengine-deepseek-reasonix/) — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it runnin…
 - [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
-- [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nanocoai-nanoclaw/) — A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, S…
+- [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nanocoai-nanoclaw/) — Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container …
 - [zeraix/zeraix](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zeraix-zeraix/) — Open-source local AI workspace — advancing on-device inference.
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ai4bharat-msmarco-xi/) — · size_categories:10M<n<100M, format:parquet, modality:text
 - [helasaoudi/llm-inspector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/helasaoudi-llm-inspector/) — The htop for LLM inference see exactly where every GB of VRAM goes and get measured quantization savings.

@@ -357,7 +357,6 @@ _每日存檔 · 2026-06-17_
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [OpenSenseNova/SenseNova-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opensensenova-sensenova-skills/) — 構建AI驅動辦公助手和工作流程的模組化技能。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GammaLabTechnologies/harmonist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gammalabtechnologies-harmonist/) — 行動式AI代理協調系統，無執行時依賴。
 - [NirDiamant/Agent_Memory_Techniques](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nirdiamant-agent-memory-techniques/) — LLM的代理記憶技術集合。
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

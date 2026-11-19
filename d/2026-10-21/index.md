@@ -1062,7 +1062,6 @@ _每日存檔 · 2026-10-21_
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Appllama/appllama-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appllama-appllama-skills/) — 將熱門應用程式轉換成高品質手機螢幕的 AI 技能。
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [incoai/splash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/incoai-splash/) — 適用於Apple矽晶片的本地推理引擎。
@@ -1192,7 +1191,6 @@ _每日存檔 · 2026-10-21_
 - [helloworld8661/Viddeos-ai-system-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helloworld8661-viddeos-ai-system-review/) — 深入介紹 Ultimate Viddeos A.I. 系統，自動化文字轉影片。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [chefkitchenjoy/digital-asset-growth-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chefkitchenjoy-digital-asset-growth-engine/) — digital-asset-growth-engine 是一個自動化數位資產增長和流量轉換的工具。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [michaelxu688/Easy-ai-ebook-writer-kdp-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/michaelxu688-easy-ai-ebook-writer-kdp-generator/) — Easy-ai-ebook-writer-kdp-generator 是一個使用 AI 自動生成和出版 Kindle 電子書的工具。
 - [jenniferye888/dach-affiliate-quiz-funnel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jenniferye888-dach-affiliate-quiz-funnel/) — dach-affiliate-quiz-funnel 是一個用於德國市場聯盟營銷的互動式測驗漏斗。
 - [ApodexAI/FrontierAgent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apodexai-frontieragent/) — 開源代理框架，支援多種代理模式和終端介面。

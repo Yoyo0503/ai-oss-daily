@@ -651,7 +651,6 @@ _每日存檔 · 2026-08-05_
 - [karnstack/reins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/karnstack-reins/) — 控制真實瀏覽器的AI代理工具。
 - [helasaoudi/llm-inspector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helasaoudi-llm-inspector/) — 監控大型語言模型推論過程中的 GPU 記憶體使用情況，並測量量化節省。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [tatsu-lab/alpaca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tatsu-lab-alpaca/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

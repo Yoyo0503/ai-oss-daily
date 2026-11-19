@@ -554,7 +554,6 @@ _每日存檔 · 2026-08-13_
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orkas-ai-orkas-videostudio/) — 將程式碼代理轉換為影片工作室，描述文字生成影片。
 - [0xNikoDev/robinhood-ai-dev-sniper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xnikodev-robinhood-ai-dev-sniper/) — 專為Robinhood Chain設計的AI交易狙擊工具。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [kachence/polymm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kachence-polymm/) — 使用Python編寫的一個運動市場套利機器人，用於去 vig 運動賭博和報價。
 - [kirodotdev/KiroCrew](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kirodotdev-kirocrew/) — 一個自我進化的開發工作空間，可持續多個會話。
 - [v-modal/vmodal_sdk_android](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/v-modal-vmodal-sdk-android/) — 適用於 Android 的影片搜尋 SDK，可整合到任何影片應用程式中。
@@ -706,7 +705,6 @@ _每日存檔 · 2026-08-13_
 - [timoncool/dub-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-dub-studio/) — 免費的離線 AI 影片配音工作室，支援語音克隆、翻譯及字幕本地化。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [myccarl/ai-shortVideo-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/myccarl-ai-shortvideo-pipeline/) — 使用 FastAPI 和 Spring Boot 的端到端短影片生產管道。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [GangOstrichCrimp/Stable-Diffusion-WebUI-Creative-Suite-Pro-Pack-Ultimate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gangostrichcrimp-stable-diffusion-webui-creative-suite-pro-pack-ultimate/) — 為Windows桌面工作流程設計的Stable Diffusion創意套件，提供導出工具和生產預設。
 - [beijingcao/binance-deribit-btc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beijingcao-binance-deribit-btc/) — 跨交易所BTC套利機器人，具備Telegram通知和Flask監控儀錶板。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。

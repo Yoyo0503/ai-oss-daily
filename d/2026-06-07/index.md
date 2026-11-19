@@ -310,7 +310,6 @@ _每日存檔 · 2026-06-07_
 - [ThetaCursed/Illustrious-NoobAI-Style-Explorer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thetacursed-illustrious-noobai-style-explorer/) — 快速參考 16000 多種藝術風格的相簿，適用於 Illustrious XL 和 NoobAI-XL 模型。
 - [Frank-ay/mimo-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/frank-ay-mimo-mcp/) — 將小米 MiMo 的多模態能力封裝成 stdio MCP 伺服器，Claude Code 和 Codex 可直接呼叫。
 - [witty-suckerpunch492/daihuo-jianshou](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/witty-suckerpunch492-daihuo-jianshou/) — 自動生成電商帶貨短影片，適配抖音、快手等平臺。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [TechSquidTV/Cliparr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techsquidtv-cliparr/) — 從個人媒體伺服器上的媒體建立剪輯。
 - [walkinglabs/learn-harness-engineering](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/walkinglabs-learn-harness-engineering/) — 官方初學者教程，從零開始學習 Harness 工程。
 - [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synapseorch-ai-synapse-ai/) — 開源AI代理平臺，支援自定義工具和連線。

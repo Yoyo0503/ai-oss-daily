@@ -754,7 +754,6 @@ _每日存檔 · 2026-09-07_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carloslfu-slotstream/) — 在 Mac 上流式傳輸 Qwen3.8-Flash-Next 模型，減少記憶體使用。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Spielewoy/autoprompt-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spielewoy-autoprompt-skill/) — 自動提示技能，減少代理程式碼任務失敗率。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [syv-ai/qwen38-27b-rtx3090](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syv-ai-qwen38-27b-rtx3090/) — 在單個RTX 3090上執行Qwen3.8-27B的模型推理工具。
@@ -837,7 +836,6 @@ _每日存檔 · 2026-09-07_
 - [RNetworks2019/fine-tuning-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rnetworks2019-fine-tuning-playground/) — 掌握 2026 年 LLM 微調技巧：從 Hugging Face 基礎到生產實踐
 - [StudioFoysal/RiddleGen-FineTuned-GPT2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/studiofoysal-riddlegen-finetuned-gpt2/) — 2026 年數學謎題生成：微調 GPT-2 自動解謎
 - [Leb947/modernbert-multi-task-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leb947-modernbert-multi-task-studio/) — ModernBERT 多工微調中心 2026：簡化 AI 工作流程
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/drumih-turbo-fieldfare/) — turbo-fieldfare 在M系列MacBook上使用約2GB RAM進行Gemma 4的推理。
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。

@@ -1003,7 +1003,6 @@ _每日存檔 · 2026-10-13_
 - [0xbrutusdev/polymarket-5min-crypto-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xbrutusdev-polymarket-5min-crypto-trading-bot/) — Polymarket BTC 5 分鐘期貨交易機器人。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ant-research/4DAnyone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ant-research-4danyone/) — 4DAnyone 是一個從單目影片生成四維動畫的工具。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abrahampaulj-nightmare-mobile/) — Android 上的本地 Stable Diffusion 影像生成工具。
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
@@ -1127,7 +1126,6 @@ _每日存檔 · 2026-10-13_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [PillCrew/claimchain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pillcrew-claimchain/) — 驗證 AI 代理的區塊鏈宣告是否真實。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tornikegomareli/Talkify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tornikegomareli-talkify/) — 快速、免費的 macOS 語音轉文字應用程式，可在裝置上進行語音辨識。
 - [ARahim3/kaggle-tpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arahim3-kaggle-tpu-lab/) — 在免費的 Kaggle TPU 上執行 Qwen3.8-27B，支援 Claude Code 等。
 - [tsingyuai/growth-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsingyuai-growth-lab/) — 從程式碼到市場的開源增長工具，自動化營銷活動。

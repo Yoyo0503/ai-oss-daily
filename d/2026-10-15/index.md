@@ -1010,7 +1010,6 @@ _每日存檔 · 2026-10-15_
 - [tigerless-labs/agent-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tigerless-labs-agent-memory/) — agent-memory 為 AI 代理提供長期記憶執行時，使用 Markdown 儲存。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AgriciDaniel/keywordpro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-keywordpro/) — keywordpro 是一個本地優先的關鍵字研究工具，提供報告、圖表和資料匯出。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [davidalmeida90/quant-models](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/davidalmeida90-quant-models/) — 開源量化金融模型，涵蓋選股、風險管理等。
 - [shmidtqq65/loxley](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shmidtqq65-loxley/) — 一個用於Robinhood Chain的自動交易機器人。
 - [flaqai/backlink_skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flaqai-backlink-skills/) — 提交網址到免費網站以獲取更多回鏈，增加流量。
@@ -1149,7 +1148,6 @@ _每日存檔 · 2026-10-15_
 - [datawhalechina/zero-to-sglang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datawhalechina-zero-to-sglang/) — zero-to-sglang 是一個系統化的 SGLang 教程，幫助開發者掌握大模型推理。
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [roneneldan/TinyStories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-roneneldan-tinystories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。
 - [0toshigami/orbis-pictus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0toshigami-orbis-pictus/) — 點選探索的AI繪圖書。

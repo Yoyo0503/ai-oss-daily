@@ -708,7 +708,6 @@ _每日存檔 · 2026-10-26_
 - [kulkas2pintu/wan777](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-wan777/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-morethought-fable-5-1-max-reasoning-filtered-10000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1100,7 +1099,6 @@ _每日存檔 · 2026-10-26_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hypit-ai/hypit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hypit-ai-hypit/) — 使用 AI 代理程式克隆病毒影片，自動生成多種變體。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Vincentwei1021/video-talkcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentwei1021-video-talkcraft/) — 將Claude程式碼轉換為動畫設計工作室的技能。
 - [Work-Fisher/ai-girlfriend-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/work-fisher-ai-girlfriend-v2/) — 具有長期記憶和語音克隆功能的Windows AI伴侶。
 - [mdpsec/bug-bounty-hunting-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mdpsec-bug-bounty-hunting-prompts/) — 提供結構化、證據為先的漏洞獎勵狩獵工作流程重用提示。
@@ -1215,7 +1213,6 @@ _每日存檔 · 2026-10-26_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Phosphenq/bodkin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phosphenq-bodkin/) — Robinhood Chain 上的狙擊交易終端，支援非託管交易。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jceronch1/Clonar-voz](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jceronch1-clonar-voz/) — 使用 Qwen3-TTS 和 llama.cpp 的本地音訊克隆和文字轉語音工具，支援 10 種語言，具備西班牙語介面。
 - [crow-hq/llm-wiki-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/crow-hq-llm-wiki-v2/) — 將檔案轉換成可回答問題的Markdown wiki。
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。

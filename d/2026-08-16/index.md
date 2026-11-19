@@ -618,7 +618,6 @@ _每日存檔 · 2026-08-16_
 - [nxin-github/Auteur](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nxin-github-auteur/) — 多功能AI電影工作室，支援多代理程式協作。
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MaxFreedomPollard/Compartment](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maxfreedompollard-compartment/) — 加密的離線代理記憶系統，提供圖形介面和跨平臺安裝。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/) — 幫助程式碼代理生成適合ADHD使用者的清晰答案。
@@ -711,7 +710,6 @@ _每日存檔 · 2026-08-16_
 - [spinabot/brigade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/) — 企業級個人智慧助手，支援自動化任務和協作。
 - [nexu-io/html-anything](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexu-io-html-anything/) — 本地 AI 最佳化 HTML 編輯器，支援多種設計表面。
 - [Saivineeth147/lora-speedrun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saivineeth147-lora-speedrun/) — 加速LoRA微調的模擬器和排行榜。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HiThink-Tech/Financial-API](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hithink-tech-financial-api/) — 同花順官方A股資料服務，適用於AI Agent、量化研究等。
 - [koala73/worldmonitor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/koala73-worldmonitor/) — 即時全球情報儀錶板，整合新聞聚合、地緣政治監控等功能。
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bytedance-bernini/) — 字節 Bernini：結合多模態 LLM 的統一影片生成與編輯框架。

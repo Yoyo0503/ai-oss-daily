@@ -774,7 +774,6 @@ _每日存檔 · 2026-09-10_
 - [pireel/pireel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pireel-pireel/) — 一個無需後端支援的人工智慧影片編輯器，專門用於頭像對話影片。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenqi9115-glitch-systematic-etf-relative-strength-alpha-attribution/) — 系統化 ETF 相對強度研究及套利組合構建工具。
 - [carloslfu/slotstream](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carloslfu-slotstream/) — 在 Mac 上流式傳輸 Qwen3.8-Flash-Next 模型，減少記憶體使用。
 - [chadhurley25075-png/pd-bridge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chadhurley25075-png-pd-bridge/) — pd-bridge 是一個異質推理系統，用於 DeepSeek-V4-Flash 的前填和解碼。
@@ -861,7 +860,6 @@ _每日存檔 · 2026-09-10_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [armand0e/claude-fable-5-claude-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-claude-fable-5-claude-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [MartinDelophy/ai-video-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/martindelophy-ai-video-editor/) — ai-video-editor 是一個基於瀏覽器的AI影片編輯器，支援ONNX語音旁白等功能。
 - [Robbyant/lingbot-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/robbyant-lingbot-video/) — 一種基於混合專家的影片預訓練方法，適用於具身智慧。

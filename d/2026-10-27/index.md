@@ -705,7 +705,6 @@ _每日存檔 · 2026-10-27_
 - [mishig/microduck-anatomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mishig-microduck-anatomy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [timoncool/speech-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-speech-studio/) — speech-studio 是一個適用於 Windows 的離線 AI 語音工作室，提供文字轉語音和語音辨識功能。
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [TeichAI/DeepSeek-v4-Pro-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teichai-deepseek-v4-pro-agent/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1099,7 +1098,6 @@ _每日存檔 · 2026-10-27_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [apimart-awesome-ai-api-proxy/nano-banana-pro-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-awesome-ai-api-proxy-nano-banana-pro-api/) — 提供Gemini-3-Pro影像生成API，包含價格、範例和非同步任務輪詢。
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [scenario-labs/blender-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scenario-labs-blender-plugin/) — Blender 擴充，提供 AI 影像、影片和 3D 材質，並內建 MCP 伺服器。
 - [cclank/lanshu-create-ai-presenter-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-create-ai-presenter-video/) — 從指令碼和授權影像生成驗證的AI主播影片。
 - [apimart-66/ai-api-aggregator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-66-ai-api-aggregator/) — AI API 綜合器，提供多模型路由和成本核算。
@@ -1221,7 +1219,6 @@ _每日存檔 · 2026-10-27_
 - [Saganaki22/ComfyUI-AuK](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-auk/) — 使用 ComfyUI 管理模型，生成、編輯和增強語音的工具。
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [DietrichGebert/ponytail](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dietrichgebert-ponytail/) — 讓AI代理程式以懶惰開發者的思維方式運作，減少程式碼編寫。
 - [AgriciDaniel/keywordpro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-keywordpro/) — keywordpro 是一個本地優先的關鍵字研究工具，提供報告、圖表和資料匯出。
 - [ILSVRC/imagenet-1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ilsvrc-imagenet-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

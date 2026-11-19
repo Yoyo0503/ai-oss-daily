@@ -455,7 +455,6 @@ _每日存檔 · 2026-11-10_
 - [huuyfytryr/Jigarrzz](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huuyfytryr-jigarrzz/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [OpenOneRec/Explorer_LLM_Rec_Competition](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openonerec-explorer-llm-rec-competition/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
-- [speechcolab/gigaspeech3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-speechcolab-gigaspeech3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [RaelamcoralRelentless/bahrain-flip-rpocket-team-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raelamcoralrelentless-bahrain-flip-rpocket-team-finder/) — 尋找巴林二手電子產品的Telegram通知機器人。
 - [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/) — 提供加密貨幣交易後的K線圖生成工具及範例。
 - [webml-community/ternary-bonsai-2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-ternary-bonsai-2-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -798,7 +797,6 @@ _每日存檔 · 2026-11-10_
 - [faunix/Qwen3.8-27B-Distillation-40K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-faunix-qwen3-8-27b-distillation-40k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [mishig/microduck-anatomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mishig-microduck-anatomy/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openai/clip-vit-base-patch32](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-clip-vit-base-patch32/) — clip-vit-base-patch32 是一個零樣本影像分類模型。
-- [somast/somali-nlp-corpus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-somast-somali-nlp-corpus/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/fireredaudio-tts-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-fireredaudio-tts-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [KRAFTON/ax-k2-raon-speech-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-krafton-ax-k2-raon-speech-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ccch1mneyyy/dsh-Go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/) — DeepSeek手機應用，可在手機上執行並遙控電腦。
@@ -1234,7 +1232,6 @@ _每日存檔 · 2026-11-10_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [aa1143/NamiGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aa1143-namigpt/) — 從零開始手寫GPT-2教程，適合初學大模型開發。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AllenPan-Git/SimpleQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/allenpan-git-simplequant/) — 低程式碼的中國A股量化回測工具，適用於股票量化分析。
 - [nace-ai/kapitsa](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nace-ai-kapitsa/) — Kapitsa 是一個為 Qwen 和 Nemotron 最佳化的快速蘋果晶片推理引擎，相容 OpenAI 和 Anthropic API。
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
@@ -1361,7 +1358,6 @@ _每日存檔 · 2026-11-10_
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Mafdet-AI/mafdet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mafdet-ai-mafdet/) — 本地 LLM，邊打字邊進行閱讀和思考。
 - [WeWorker/WeWorker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/weworker-weworker/) — 開源桌面 AI 助手，可在網站上執行真實操作。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-Autonomous-Vehicles](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-autonomous-vehicles/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [apimart-API-Gateway/grok-image-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/apimart-api-gateway-grok-image-api/) — grok-image-api 是一個提供文字轉影像和影像編輯功能的 AI API。
 - [cclank/lanshu-create-ai-presenter-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-create-ai-presenter-video/) — 從指令碼和授權影像生成驗證的AI主播影片。

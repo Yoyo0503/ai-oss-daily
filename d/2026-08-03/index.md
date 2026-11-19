@@ -630,7 +630,6 @@ _每日存檔 · 2026-08-03_
 - [ather-techie/rag-interview-questions](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ather-techie-rag-interview-questions/) — 涵蓋 Retrieval-Augmented Generation 架構的全面面試準備指南，包含 100 個問題。
 - [momori777/Artemis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/momori777-artemis/) — Artemis 是一款全功能離線 AI 女朋友模擬器，結合了影像生成和桌面寵物等功能。
 - [thedotmack/claude-mem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thedotmack-claude-mem/) — Claude Agent 的持久上下文跨會話系統，捕獲並壓縮會話內容。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [addyosmani/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/addyosmani-agent-skills/) — 生產級工程技能，用於 AI 程式設計代理。
 - [begin0808/VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/begin0808-voxcpm2/) — 基於VoxCPM2模型的離線語音合成與複製桌面工作站。
 - [inkeep/open-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inkeep-open-knowledge/) — open-knowledge 是一個基於AI的Markdown IDE和LLM知識庫。

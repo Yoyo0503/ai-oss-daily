@@ -366,7 +366,6 @@ _每日存檔 · 2026-06-18_
 - [eugeniughelbur/obsidian-second-brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eugeniughelbur-obsidian-second-brain/) — 跨 CLI 的 Obsidian skill，把你的筆記庫變成 AI 第二大腦。
 - [ScaleBrick/founder-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scalebrick-founder-marketing-skills/) — 創業者開源行銷技能套件，包含關鍵字研究和成長策略。
 - [EvoLinkAI/gpt-image-2-for-e-commerce](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-for-e-commerce/) — 如何使用GPT Image 2為電商生成列表照片和其他創意內容。
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yvgude/lean-ctx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yvgude-lean-ctx/) — LeanCTX 是用於 AI 開發的上下文作業系統，壓縮、記憶和驗證程式碼與模型之間的所有 token。
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [DaviddTech/ai-trading-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daviddtech-ai-trading-agent/) — ai-trading-agent 是一個使用 Claude 等工具建立的 AI 股票交易代理。

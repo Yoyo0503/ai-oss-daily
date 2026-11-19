@@ -999,7 +999,6 @@ _每日存檔 · 2026-10-08_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [lexmount/moli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lexmount-moli/) — Moli 是一個輕量級、快速且相容性高的無頭瀏覽器，專為 AI 代理設計。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ehabnegm/100-hour-Egyption-dataset-single-speaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ehabnegm-100-hour-egyption-dataset-single-speaker/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [chenkanglin198904/Personal_External_Brain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chenkanglin198904-personal-external-brain/) — 個人知識圖譜工具，將筆記、網頁、PDF和音影片轉換為知識圖譜，完全在本地執行。
 - [Nanako0129/sepia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nanako0129-sepia/) — Claude程式碼的去AI化寫作技能，適用於小說和專業散文。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1113,7 +1112,6 @@ _每日存檔 · 2026-10-08_
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [PNGTRID/AnvilWiki](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pngtrid-anvilwiki/) — 開源遊戲維基模板，適用於快速部署。
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [allenai/c4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-c4/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wassgha/rescript](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wassgha-rescript/) — 基於字幕的線上影音編輯器。
 - [Leonxlnx/unlazy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-unlazy/) — 一種讓 AI 代理提高工作效率的方法，透過深度樹法將任務拆分，提高執行效率。
 - [FareedKhan-dev/kimi-k3-in-c](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fareedkhan-dev-kimi-k3-in-c/) — 純 C99 實現的 2.78 兆引數 Kimi K3 推理引擎，適用於單 CPU 和記憶體環境。
