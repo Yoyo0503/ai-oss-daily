@@ -2,9 +2,9 @@
 
 本地執行的 AI 機器人，支援 SDXL、Qwen-Image、Anima、IndexTTS 和 CosyVoice 等影像生成和語音合成。
 
-**為何上榜**：113★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 114★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：113
+**Stars**：114
 **原始連結**：https://github.com/ling0322/libwaifu

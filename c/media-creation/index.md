@@ -1,18 +1,19 @@
 # 🎬 影音製作
 
-- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — 基於 Qwen 的影像生成模型，支援從文本生成影像。
 - [higurashi-ai/Haru-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-higurashi-ai-haru-4b/) — 將語音轉換為語音的模型，支援全雙工語音對話。
+- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — 基於 Qwen 的影像生成模型，支援從文本生成影像。
 - [MiniMaxAI/MiniMax-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-minimaxai-minimax-h3-image/) — 將文字轉換成影像的AI模型，支援影像生成和編輯。
-- [PrunaAI/P-H3-Image-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/) — 使用 ComfyUI 的文本生成影像模型。
-- [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/) — Qwen-Image 是一個文本轉影像模型，支援影像編輯和量化的文本生成。
-- [n4ze3m/tiny-voca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-n4ze3m-tiny-voca/) — 小型語音合成模型，將文字轉換為語音。
-- [Zyphra/ZONOS3-Mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos3-mini/) — 將文字轉換成語音的AI模型，支援多語言語音合成。
 - [apple/FastFrames-L](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-apple-fastframes-l/) — 將文字轉換為影片的模型。
+- [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/) — Qwen-Image 是一個文本轉影像模型，支援影像編輯和量化的文本生成。
+- [PrunaAI/P-H3-Image-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/) — 使用 ComfyUI 的文本生成影像模型。
+- [inworld/voice-isolator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inworld-voice-isolator/) — 用於從音訊中分離和增強人聲的工具。
+- [Zyphra/ZONOS3-Mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos3-mini/) — 將文字轉換成語音的AI模型，支援多語言語音合成。
+- [n4ze3m/tiny-voca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-n4ze3m-tiny-voca/) — 小型語音合成模型，將文字轉換為語音。
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-asr-infinite/) — 自動語音辨識模型，支援即時語音轉文字。
+- [black-forest-labs/flux-3-image-klein-comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/) — 使用ComfyUI的影像轉換模型，支援影像生成和編輯。
 - [Cactus-Compute/whistle](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-whistle/) — 自動辨識口哨聲的語音識別模型，適用於裝置端執行。
 - [canberkkkkkk/ema-lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-canberkkkkkk-ema-lightning/) — ema-lightning 是一個將文字轉換成語音的工具。
 - [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein/) — 將影像轉換為新影像的模型，支援影像生成和編輯。
-- [black-forest-labs/flux-3-image-klein-comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-black-forest-labs-flux-3-image-klein-comfy/) — 使用ComfyUI的影像轉換模型，支援影像生成和編輯。
 - [Pika-Labs/Pika-H3-Flex-Turbo-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pika-labs-pika-h3-flex-turbo-lora/) — 將影像轉換為影片的模型。
 - [lodestones/Kromoss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-kromoss/) — Kromoss 是一個使用 diffusers 和 safetensors 技術的文本轉影像模型。
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-viggle-qwen-image-2-1-viggle-turbo/) — 文字轉影像模型，適用於影像生成和編輯。
@@ -55,8 +56,7 @@
 - [vyrekai/minimax-h3-image-comfyui-workflows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-vyrekai-minimax-h3-image-comfyui-workflows/) — 使用 minimax-h3 和 comfyui 的影像生成工作流程。
 - [ausboss/Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ausboss-qwen-image-2-1-outfit-swap-consistency-lora/) — Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA 是一個用於服裝替換和虛擬試穿的影像編輯模型。
 - [fal/LTX-2.3-3DREAL-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-ltx-2-3-3dreal-lora/) — 將影像轉換為影片的模型，支援 LoRA 和 LTX 技術。
+- [Reson8/Rumble-2-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-reson8-rumble-2-flash/) — 自動語音識別模型。
 - [eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-eric-venti-seeds-sun-direction-lora-flux2klein9b/) — 用 Flux2Klein 模型調整影像中的光照方向。
 - [bosonai/higgs-audio-v3-tts-4b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bosonai-higgs-audio-v3-tts-4b/) — 將文本轉換為語音的合成器。
 - [nvidia/Cosmos3-Super-Text2Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-cosmos3-super-text2image/) — NVIDIA Cosmos3 文生圖模型（世界模型系列，授權受限／非商用）。
-- [NicoLab28/ClipProj-MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nicolab28-clipproj-minimax-h3/) — 將文本轉換為影片的MiniMax-H3模型。
-- [robbyant/lingbot-world-v2-14b-causal-fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-robbyant-lingbot-world-v2-14b-causal-fast/) — 將影像轉換為影片的模型，支援多種音影片處理。

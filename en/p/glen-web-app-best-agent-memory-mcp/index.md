@@ -4,5 +4,5 @@ Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude 
 
 **Commercial license**：Commercial OK — 可商用，CC-BY 類需署名
 
-**Stars**：241
+**Stars**：217
 **Source**：https://github.com/Glen-Web-App/best-agent-memory-mcp

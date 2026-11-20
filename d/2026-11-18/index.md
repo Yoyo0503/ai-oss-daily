@@ -338,7 +338,6 @@ _每日存檔 · 2026-11-18_
 - [pyannote 語者分離 3.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pyannote-speaker-diarization-3-1/) — 業界最常用的開源「誰在何時說話」語者分離工具（近千萬下載）。
 - [fal/MiniMax-H3-Realism-People-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fal-minimax-h3-realism-people-lora/) — 基於MiniMax-H3的LoRA模型，用於生成真實人物的影片。
 - [xiaomi-research/Xiaomi-OCR-0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomi-research-xiaomi-ocr-0/) — Xiaomi-OCR-0 是一個用於文件解析和理解的影像轉文本模型。
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prunaai-p-h3-image/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [dealignai/GLM-5.3-CYBERSECURITY-FP8](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-dealignai-glm-5-3-cybersecurity-fp8/) — 專門用於網路安全的文本生成模型。
 - [Comfy-Org/YuE2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-yue2/) — 一款基於ComfyUI的單檔案擴散模型，適用於影像生成。
 - [Comfy-Org/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-mage-flow/) — 基於Microsoft Mage-Flow的擴充套件模型，支援單檔案擴散式生成。
@@ -1322,7 +1321,6 @@ _每日存檔 · 2026-11-18_
 - [FavioVazquez/showtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/faviovazquez-showtime/) — 為你的程式碼代理提供本地影片工作室。
 - [DUNKINKKD/lotei-qflipper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dunkinkkd-lotei-qflipper/) — 粉色 qFlipper 分支，內建本地 AI 海豚，可聊天、監控螢幕並安裝韌體。
 - [YeJe-cpu/SeeCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yeje-cpu-seecut/) — SeeCut 是一個自動剪輯真人口播或數字人影片的 AI 編輯器。
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruoji6-artex/) — Autumn-27/ARTEX 的持續維護開源版本。
 - [autoip/dreamfab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/autoip-dreamfab/) — 自動化 AI 媒體工作站，使用 AutoIP 和 ffmpeg 製作短劇和音樂影片。
 - [Toyhom/awesome-computational-character-modeling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/toyhom-awesome-computational-character-modeling/) — 計算機角色建模的資源列表，涵蓋角色扮演方法、資料基礎和評估。
 - [EvoLinkAI/GPT-Image-2-Seedance2-Workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-gpt-image-2-seedance2-workflow/) — GPT-image-2＋Seedance2 的高品質 AI 影片工作流與 prompt 模板。
@@ -1664,7 +1662,6 @@ _每日存檔 · 2026-11-18_
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [NVIDIA/SkillSpector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvidia-skillspector/) — 檢測 AI 代理技能中的安全風險和漏洞的掃描器。
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-pleias-synth/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-distilly/) — Distilly 將想法轉化為可重用的技能，適用於任何代理或機器人。
 - [shoal-rat/quant-research-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shoal-rat-quant-research-lab/) — 自動化量化研究辦公室，帶有動態桌面桌布功能。
 - [yanun0323/Whallm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanun0323-whallm/) — DeepSeek-V4-Flash 和 Qwen3.8-Next-FP8 在 Mac 上進行低記憶體推論

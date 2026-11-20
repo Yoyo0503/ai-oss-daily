@@ -1,0 +1,16 @@
+# AI OSS Daily · Picks archive · 2026-11-20
+
+Auto-updated daily around 09:00 and pushed straight to your Telegram — free, no ads, unsubscribe anytime.
+
+- [higurashi-ai/Haru-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-higurashi-ai-haru-4b/) — audio-to-audio · safetensors, haru, speech
+- [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/) — text-to-image · gguf, qwen, image-generation
+- [MiniMaxAI/MiniMax-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-h3-image/) — text-to-image · minimax-h3, diffusers, safetensors
+- [apple/FastFrames-L](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-apple-fastframes-l/) — text-to-video · safetensors, text-to-video, arxiv:2611.23226
+- [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/) — text-to-image · diffusers, safetensors, gguf
+- [PrunaAI/P-H3-Image-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prunaai-p-h3-image-comfy/) — text-to-image · diffusion-single-file, comfyui, text-to-image
+- [inworld/voice-isolator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-inworld-voice-isolator/) — audio-to-audio · inworld-voice-isolation, audio, speech
+- [Zyphra/ZONOS3-Mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-zyphra-zonos3-mini/) — text-to-speech · zonos3, safetensors, gguf
+- [n4ze3m/tiny-voca](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-n4ze3m-tiny-voca/) — text-to-speech · onnx, gguf, text-to-speech
+- [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
+- [black-forest-labs/flux-3-image-klein-comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-3-image-klein-comfy/) — image-to-image · diffusion-single-file, comfyui, image-generation
+- [Cactus-Compute/whistle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-whistle/) — automatic-speech-recognition · cactus-needle, whistle, speech-recognition

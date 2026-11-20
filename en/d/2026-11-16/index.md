@@ -402,7 +402,6 @@ _Daily archive · 2026-11-16_
 - [Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mothersuperior-yue2-mothersuperior-realaudio-tokenizer-v4/) — · audio, music, yue2
 - [RekaAI/CS2-10k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rekaai-cs2-10k/) — · task_categories:other, license:cc-by-nc-4.0, size_categories:100K<n<1M
 - [XHToken/Spark-X2.5-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xhtoken-spark-x2-5-4b/) — text-generation · transformers, safetensors, spark2_5
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prunaai-p-h3-image/) — · gradio, ml-intern, region:us
 - [neuronpedia/jacobian-lens](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-neuronpedia-jacobian-lens/) — · jacobian_lens, license:mit, region:us
 - [DevedevT/FFmpeg-GUI-Editor-Windows](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/devedevt-ffmpeg-gui-editor-windows/) — Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, R…
 - [JuneYaooo/rea-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juneyaooo-rea-video/) — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in …
@@ -1283,7 +1282,6 @@ _Daily archive · 2026-11-16_
 - [worldwonderer/video-recap-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/worldwonderer-video-recap-skills/) — Turn any video into a narration recap with claude code skill｜用claude code skill把任何视频剪辑成中文解说视频，支持剪映导出
 - [jbilcke-hf/ai-comic-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-jbilcke-hf-ai-comic-factory/) — · docker, region:us
 - [autoip/dreamfab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/autoip-dreamfab/) — Dreamfab 造夢廠：AI Agent 影音製作框架。一句話，你就是導演和製作人，AI Agent 用 AutoIP + ffmpeg 幫你做出短劇、MV、解說影片。
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruoji6-artex/) — Autumn-27/ARTEX 持续维护开源版本 （Internationalized version）
 - [Kwai-Kolors/Kolors-Virtual-Try-On](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kwai-kolors-kolors-virtual-try-on/) — · gradio, region:us
 - [kividbio/kividb](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kividbio-kividb/) — A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and …
 - [wordghost1234/agnes-ai-storyboard-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wordghost1234-agnes-ai-storyboard-studio/) — 2026 Guide to Self-Hosted Open Source AI Video Generation
@@ -1623,7 +1621,6 @@ _Daily archive · 2026-11-16_
 - [phuryn/pm-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/phuryn-pm-skills/) — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, la…
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentskills-agentskills/) — Specification and documentation for Agent Skills
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-pleias-synth/) — · task_categories:text-generation, task_categories:zero-shot-classification, task_categories:summarization
 - [bojieli/ai-infra-book](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bojieli-ai-infra-book/) — 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/titanwings-distilly/) — Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Ski…
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet

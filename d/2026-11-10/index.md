@@ -333,7 +333,6 @@ _每日存檔 · 2026-11-10_
 - [thea2026/image-to-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-thea2026-image-to-video/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [DAGroup-PKU/Open-HumanWAM-50K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-dagroup-pku-open-humanwam-50k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [microsoft/FrogNano-4B-2609](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-frognano-4b-2609/) — FrogNano-4B-2609 是一個基於 Qwen3.5 的大型語言模型。
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prunaai-p-h3-image/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [meta-models/Muse-Spark-Open-816B-A42B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-spark-open-816b-a42b/) — 將影像和文字轉換為文字的模型，支援影像文字轉換。
 - [Comfy-Org/Boogu-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-comfy-org-boogu-image/) — 一個基於 ComfyUI 的影像生成工具。
@@ -1227,7 +1226,6 @@ _每日存檔 · 2026-11-10_
 - [AbrahamPaulJ/nightmare-mobile](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abrahampaulj-nightmare-mobile/) — Android 上的本地 Stable Diffusion 影像生成工具。
 - [nyanko-devs/danbooru2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nyanko-devs-danbooru2026/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tiger3807861189-j-space-cognition-suite-v3-7/) — J-Space Cognition Suite V3.7 是一個基於 J-space 全球工作空間研究的 AI 智慧增強套件。
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruoji6-artex/) — Autumn-27/ARTEX 的持續維護開源版本。
 - [HELPMEEADICE/TE-Speed-MiniMaxH3-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpmeeadice-te-speed-minimaxh3-oss/) — 加速MiniMax-H3影片生成外掛。
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [aa1143/NamiGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aa1143-namigpt/) — 從零開始手寫GPT-2教程，適合初學大模型開發。
@@ -1593,7 +1591,6 @@ _每日存檔 · 2026-11-10_
 - [Mnilax/lintcha-chain](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mnilax-lintcha-chain/) — Robinhood Chain 上的複製交易工具，支援自動跟單和讀取工具。
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
 - [thunderstrike668/contentqueen-app-erfahrung-review-deutsch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thunderstrike668-contentqueen-app-erfahrung-review-deutsch/) — 德語市場的 AI 文本生成器 Contentqueen App 測試報告。
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-pleias-synth/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-distilly/) — Distilly 將想法轉化為可重用的技能，適用於任何代理或機器人。
 - [bookreaderpage/ai-automation-yield-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bookreaderpage-ai-automation-yield-pipeline/) — 提供使用 LLM 和 AI 自動化建立數位產出管道的技術藍圖和工作流程指南。
 - [travelmapworld/avatar-speak-pro-download](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/travelmapworld-avatar-speak-pro-download/) — 自動生成 AI 虛擬角色影片，提升 TikTok 和 Shopify 的轉換率。

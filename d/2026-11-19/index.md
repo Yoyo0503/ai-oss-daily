@@ -324,7 +324,6 @@ _每日存檔 · 2026-11-19_
 - [SyzygyResearch/Mach-1-Additive-35B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-syzygyresearch-mach-1-additive-35b/) — 大型語言模型／權重（依標籤自動歸類，詳細看下方原文）
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
 - [HubLabs/HubEgo-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hublabs-hubego-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prunaai-p-h3-image/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openai/privacy-filter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-privacy-filter/) — OpenAI 隱私過濾模型（詞元分類，偵測/遮蔽敏感資訊）。
 - [prism-ml/Bonsai-27B-mlx-1bit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-bonsai-27b-mlx-1bit/) — 一種使用 1-bit 壓縮的對話生成模型，支援多語言和裝置端運算。
 - [Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightricks-ltx-2-3-22b-ic-lora-clean-plate/) — 影片去背及物件移除工具，適用於後期製作。
@@ -1360,7 +1359,6 @@ _每日存檔 · 2026-11-19_
 - [kinzaaliakbar18u-netizen/flux-lora-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kinzaaliakbar18u-netizen-flux-lora-forge/) — flux-lora-forge 是一個開放原始碼的 LoRA 訓練工具包，適用於 Flux1 AI 模型微調。
 - [re4/LibreCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/re4-librecode/) — 類似 Ollama 的程式碼編輯和逆向工程介面。
 - [Sallyn0225/eidolon-sc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sallyn0225-eidolon-sc/) — 《偶像大師 閃耀色彩》的AI角色分身，提供日語原聲和中文字幕的對話功能，支援跨角色記憶共享。
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruoji6-artex/) — Autumn-27/ARTEX 的持續維護開源版本。
 - [liuhaisi2026212-maker/taishang-laojun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liuhaisi2026212-maker-taishang-laojun/) — 抖音/小紅書影片創作 Skill，自動生成標題和口播稿。
 - [RustXNG/RustXNG](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rustxng-rustxng/) — 一個基於 Rust 開發的自建 AI 機器人搜尋引擎，提供 JSON API 和可選網頁文本。
 - [kividbio/kividb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kividbio-kividb/) — kividb 是一個快速的 Rust 寫成的 Redis 替代品，支援全文和向量搜尋。
@@ -1679,7 +1677,6 @@ _每日存檔 · 2026-11-19_
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
 - [NVIDIA/SkillSpector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvidia-skillspector/) — 檢測 AI 代理技能中的安全風險和漏洞的掃描器。
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-pleias-synth/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
 - [crow-hq/llm-wiki-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/crow-hq-llm-wiki-v2/) — 將檔案轉換成可回答問題的Markdown wiki。
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-distilly/) — Distilly 將想法轉化為可重用的技能，適用於任何代理或機器人。

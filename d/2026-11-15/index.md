@@ -394,7 +394,6 @@ _每日存檔 · 2026-11-15_
 - [RagnheavenDusk/content-machine-respocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ragnheavendusk-content-machine-respocket/) — content-machine-respocket 是一個自動生成短影片的 CLI 工具，支援 TikTok、Reels 和 Shorts。
 - [fishaudio/Drama-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fishaudio-drama-3/) — Hugging Face 示範應用(Space)，關鍵字：語音合成、語音克隆（依標籤自動歸類，詳細看下方原文）
 - [wlnhnoqefoxt/adult-ai-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wlnhnoqefoxt-adult-ai-video/) — 使用 AI 生成成人影片的工具，支援從文字到影片的轉換。
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prunaai-p-h3-image/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — 經過多階段微調的影像文字轉文字模型，適用於所有場景。
 - [AST-1320/Qwen-2511-Plus-Flux.2-klein-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ast-1320-qwen-2511-plus-flux-2-klein-9b/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ProCreations/grug-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-procreations-grug-27b/) — 文本生成模型，具備推理和工具使用能力。
@@ -1289,7 +1288,6 @@ _每日存檔 · 2026-11-15_
 - [WeWorker/WeWorker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/weworker-weworker/) — 開源桌面 AI 助手，可在網站上執行真實操作。
 - [blixvip/html-anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blixvip-html-anime/) — 將場景描述轉換為 HTML 動畫的 AI 工具。
 - [mw00/project-maya](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mw00-project-maya/) — 私有部署 GLM-5.3-Flash 模型，支援多種 GPU 和作業系統。
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruoji6-artex/) — Autumn-27/ARTEX 的持續維護開源版本。
 - [DUNKINKKD/lotei-qflipper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dunkinkkd-lotei-qflipper/) — 粉色 qFlipper 分支，內建本地 AI 海豚，可聊天、監控螢幕並安裝韌體。
 - [BijectiveLabs/bitra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bijectivelabs-bitra/) — 自動交易機器人，提出交易建議，系統決定執行。
 - [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/folkbench-folkbench/) — 評測AI API的實用性、延遲和價格的開源工具。
@@ -1618,7 +1616,6 @@ _每日存檔 · 2026-11-15_
 - [milind-soni/OpenMausBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/milind-soni-openmausbot/) — OpenMausBot 是一個開源的 Grok Bot 替代方案，提供虛擬機器供機器人使用。
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-pleias-synth/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [CopilotKit/OpenBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/copilotkit-openbot/) — OpenBot 是一個開源的 AI 同事系統，每個代理都有自己的電腦和工具。
 - [dataelement/dsh-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-dsh-desktop/) — DeepSeek 機器人桌面版。
 - [AgriciDaniel/keywordpro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-keywordpro/) — keywordpro 是一個本地優先的關鍵字研究工具，提供報告、圖表和資料匯出。

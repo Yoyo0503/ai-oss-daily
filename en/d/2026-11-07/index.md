@@ -12,10 +12,10 @@ _Daily archive · 2026-11-07_
 - [Mars-1438/indextts2-longform-workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mars-1438-indextts2-longform-workbench/) — 基于 IndexTTS2.0 超级优化整合包 V3 的长篇台本工作台与多轨时间轴扩展：台本整理、批量 AI 配音、音效编排、空间音频、自动化混音与专业工程导出。仅含工作台代码。
 - [didilili/mianstack](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/didilili-mianstack/) — 🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标…
 - [liuhaisi2026212-maker/taishang-laojun](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/liuhaisi2026212-maker-taishang-laojun/) — 太上老君·AI炼丹炉：抖音/小红书短视频创作 Skill。不知道拍啥、不会写稿，丢给你的 AI：找对标拆爆款、选题、系列策划、口播稿、标题、复盘、去AI味。Claude Code / Codex 等 npx 一行安装，…
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruoji6-artex/) — Autumn-27/ARTEX 持续维护开源版本 （Internationalized version）
 - [Zihao-Wu06/distillops](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zihao-wu06-distillops/) — Black-box LLM distillation for any verifiable task, with text or image inputs: teacher API -> rejection sampl…
 - [Mafdet-AI/mafdet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mafdet-ai-mafdet/) — You type. It already knows. Local LLMs that read and think while you type.
 - [Bruce848647703/Atlas-MultiAsset-Advisor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bruce848647703-atlas-multiasset-advisor/) — Atlas - a DeepSeek-driven multi-asset investment advisor agent: risk profiling, strategy allocation, factor s…
+- [Dpro-at/Tel-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dpro-at-tel-agent/) — AI phone assistant | open-source
 
 ## 🚀 Climbing
 
@@ -386,7 +386,6 @@ _Daily archive · 2026-11-07_
 - [wlnhnoqefoxt/adult-ai-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wlnhnoqefoxt-adult-ai-video/) — AI adult video generator: text-to-clip diffusion, image-to-video motion, 4K NSFW output, uncensored model pre…
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [townbox/ava](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-townbox-ava/) — · static, region:us
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prunaai-p-h3-image/) — · gradio, ml-intern, region:us
 - [AST-1320/Qwen-2511-Plus-Flux.2-klein-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ast-1320-qwen-2511-plus-flux-2-klein-9b/) — · gradio, region:us
 - [ProCreations/grug-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-procreations-grug-27b/) — text-generation · safetensors, qwen3_5, grug
 - [nvidia/Kumo-Tabular](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-kumo-tabular/) — · tabular-foundation-model, structured-data-models, license:openmdw-1.1
@@ -1028,7 +1027,6 @@ _Daily archive · 2026-11-07_
 - [zai-org/OpenVuln](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-zai-org-openvuln/) — · docker, region:us
 - [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elementarrow-make-com/) — Make.com
 - [Jackrong/DeepSeek-V4-Pro-Distilled-200K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-deepseek-v4-pro-distilled-200k/) — · task_categories:text-generation, language:en, license:cc-by-4.0
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruoji6-artex/) — Autumn-27/ARTEX 持续维护开源版本 （Internationalized version）
 - [AlicanKiraz0/Turkish-CoT-Instruct-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alicankiraz0-turkish-cot-instruct-dataset/) — · task_categories:text-generation, task_categories:question-answering, language:tr
 - [Rai81047nranger/TikTok-rpocket-team-Account-Creator-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rai81047nranger-tiktok-rpocket-team-account-creator-2/) — Tiktok Account Creator Web Api
 - [TencentARC/GAE-GeometricAutoEncoder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentarc-gae-geometricautoencoder/) — [arxiv'26] GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
@@ -1580,7 +1578,6 @@ _Daily archive · 2026-11-07_
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentskills-agentskills/) — Specification and documentation for Agent Skills
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/titanwings-distilly/) — Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Ski…
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanliudesign-mono-color-skill/) — One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained…
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-pleias-synth/) — · task_categories:text-generation, task_categories:zero-shot-classification, task_categories:summarization
 - [NVIDIA/SkillSpector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvidia-skillspector/) — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt inje…
 - [shoal-rat/quant-research-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shoal-rat-quant-research-lab/) — An autonomous anime quant research office — chibi researchers hunt for alpha behind deflated-Sharpe gates whi…
 - [yanun0323/Whallm](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanun0323-whallm/) — DeepSeek-V4-Flash-0731 284B inference in ~25 GB of RAM / Qwen3.8-Next-Flash-FP8 inference in ~18 GB of RAM on…

@@ -4,5 +4,5 @@ Agent-native viral video studio: one-click replicate viral short videos, deconst
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：328
+**Stars**：382
 **Source**：https://github.com/fendouai/ViralForge

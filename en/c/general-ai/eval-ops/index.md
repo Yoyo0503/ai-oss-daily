@@ -5,8 +5,8 @@
 - [hongzhuyi/VDEBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hongzhuyi-vdebench/) — · benchmark:official, benchmark:eval-yaml, task_categories:image-to-image
 - [Qwen/BlenderWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-blenderworld/) — · language:en, language:zh, license:mit
 - [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonworks-lunara-art-eval/) — · task_categories:text-to-image, license:apache-2.0, size_categories:1K<n<10K
-- [collinear-ai/cwe-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-collinear-ai-cwe-bench/) — · benchmark:official, benchmark:eval-yaml, license:apache-2.0
 - [NousResearch/Propaganda_Eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nousresearch-propaganda-eval/) — · task_categories:question-answering, language:en, license:mit
+- [collinear-ai/cwe-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-collinear-ai-cwe-bench/) — · benchmark:official, benchmark:eval-yaml, license:apache-2.0
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-redmadrobot-rnd-pii-benchmark/) — · task_categories:token-classification, language:ru, license:mit
 - [ASLP-lab/DRAMA-Eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aslp-lab-drama-eval/) — · task_categories:text-to-speech, language:en, language:zh
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
@@ -15,8 +15,8 @@
 - [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zouhar-last-translation-benchmark/) — · task_categories:translation, task_categories:text-generation, language:en
 - [prometheus-eval/into-the-unknown](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-prometheus-eval-into-the-unknown/) — · task_categories:text-generation, license:other, size_categories:n<1K
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — · task_categories:text-to-speech, language:ja, license:mit
-- [Xin-YuXiao/Awesome-AI-for-Astronomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xin-yuxiao-awesome-ai-for-astronomy/) — A curated list of papers for AI in Astronomy & Astrophysics.
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
+- [Xin-YuXiao/Awesome-AI-for-Astronomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xin-yuxiao-awesome-ai-for-astronomy/) — A curated list of papers for AI in Astronomy & Astrophysics.
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us
 - [Toyhom/awesome-computational-character-modeling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/toyhom-awesome-computational-character-modeling/) — Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation…
 - [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/folkbench-folkbench/) — AI API 中转站推荐与评测：中转站排行榜、中转站检测、Claude / GPT / Gemini 中转站对比 · AI API relay rankings · Folkbench Switch for Claud…

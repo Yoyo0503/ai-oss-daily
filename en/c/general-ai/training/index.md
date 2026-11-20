@@ -3,12 +3,12 @@
 - [Efficient-Large-Model/Open-H3-Regenerate-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-efficient-large-model-open-h3-regenerate-2k/) — video-to-video · minimax-h3, diffusers, safetensors
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
 - [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xtools-at-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic/) — text-generation · transformers, safetensors, qwen3_5
+- [briaai/RMBG-3.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-briaai-rmbg-3-0/) — image-segmentation · diffusers, safetensors, background-removal
 - [lodestones/MOSS-Image-SFT-8-steps-dmd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lodestones-moss-image-sft-8-steps-dmd/) — · diffusers, safetensors, base_model:OpenMOSS-Team/MOSS-Image-SFT
 - [lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/) — · peft, safetensors, lora
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akatz-ai-minimax-h3-character-swap-lora/) — video-to-video · diffusion-single-file, minimax-h3, lora
 - [pablodawson/MiniMax-H3-360-Orbit-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pablodawson-minimax-h3-360-orbit-lora/) — image-text-to-video · minimax-h3, lora, image-to-video
-- [briaai/RMBG-3.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-briaai-rmbg-3-0/) — image-segmentation · diffusers, safetensors, background-removal
 - [bespokelabs/Bespoke-Nimble-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bespokelabs-bespoke-nimble-9b/) — text-classification · peft, safetensors, lora
 - [Alissonerdx/Minimax-H3-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alissonerdx-minimax-h3-comfyui/) — · minimax-h3, lora, video
 - [Edge0/Edge0-35B-A3B-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-edge0-35b-a3b-preview/) — text-generation · mlx, safetensors, qwen3_5_moe
@@ -28,8 +28,8 @@
 - [Soofi-Project/Pretraining-Tech-Report-old](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-soofi-project-pretraining-tech-report-old/) — · static, region:us
 - [multimodalart/krea2-lora-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-multimodalart-krea2-lora-trainer/) — · gradio, region:us
 - [obsxrver/wan22-i2v-omni-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-obsxrver-wan22-i2v-omni-lora/) — · gradio, region:us
-- [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-viggle-qwen-image-2-1-viggle-turbo/) — · gradio, text-to-image, image-editing
 - [Trelis/duplex-pre-training-yodas3-mimi](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-trelis-duplex-pre-training-yodas3-mimi/) — · language:en, license:cc-by-3.0, size_categories:1K<n<10K
+- [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-viggle-qwen-image-2-1-viggle-turbo/) — · gradio, text-to-image, image-editing
 - [ovi054/Qwen-Image-Edit-2511-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ovi054-qwen-image-edit-2511-lora/) — · gradio, mcp-server, region:us
 - [hugging-apps/kroma-krea2-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-kroma-krea2-lora-demo/) — · gradio, mcp-server, region:us
 - [amisima/minimax-h3-reference-4-step-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-minimax-h3-reference-4-step-lora/) — · gradio, video, image-to-video
@@ -54,8 +54,8 @@
 - [datamllab/OpenEBFM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datamllab-openebfm/) — Open-source code for training and scaling up energy-based foundation models.
 - [chrisipanaque/qwen-lora-finetune](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisipanaque-qwen-lora-finetune/) — Fine-tune Qwen2.5-Coder for code generation on your own dataset using QLoRA. Train on JSONL instruction-respo…
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
-- [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/akashpriyadarshii-jev-curate/) — High-throughput synthetic and pretraining dataset sifter for TypeSafe Jev. Rust streaming core, Parquet and J…
 - [STEAM-DROPS/finetune-lab-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/steam-drops-finetune-lab-notes/) — Fine-Tuning Transformers in 2026: Hands-On LLM Training, LoRA, and PEFT Guide
+- [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/akashpriyadarshii-jev-curate/) — High-throughput synthetic and pretraining dataset sifter for TypeSafe Jev. Rust streaming core, Parquet and J…
 - [Lucas5913/tllm-instruct-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lucas5913-tllm-instruct-forge/) — Open Source Instruction Tuning LLM Training Library 2026
 - [Specific-Labs/Scaffold-CoT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-specific-labs-scaffold-cot/) — · task_categories:text-generation, language:en, license:cc-by-4.0
 - [mehmetbulutaktas458-dev/Aozora-Forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mehmetbulutaktas458-dev-aozora-forge/) — Low VRAM SDXL Fine-Tuning Toolkit 2026: Train Full-Quality AI Models on 12GB GPUs

@@ -4,5 +4,5 @@ Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：8,027
+**Stars**：8,364
 **Source**：https://github.com/kajisho5/ffmpeg-skill

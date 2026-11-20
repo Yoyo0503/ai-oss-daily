@@ -4,5 +4,5 @@ NVIDIA Alpamayo 2 Edge is a 2B-parameter in-vehicle reasoning vision-language-ac
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：69
+**Stars**：75
 **Source**：https://github.com/NVlabs/alpamayo2-edge

@@ -4,5 +4,5 @@ Your AI VTuber Studio: give a character a personality, and in minutes it's chatt
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：71
+**Stars**：72
 **Source**：https://github.com/livliv-dev/stage

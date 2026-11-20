@@ -12,10 +12,10 @@ _每日存檔 · 2026-11-07_
 - [Mars-1438/indextts2-longform-workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mars-1438-indextts2-longform-workbench/) — 基於 IndexTTS2.0 的長篇臺本工作臺，支援多軌時間軸。
 - [didilili/mianstack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/didilili-mianstack/) — 面向程式設計師的面試題庫，涵蓋多種技術領域。
 - [liuhaisi2026212-maker/taishang-laojun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liuhaisi2026212-maker-taishang-laojun/) — 抖音/小紅書影片創作 Skill，自動生成標題和口播稿。
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruoji6-artex/) — Autumn-27/ARTEX 的持續維護開源版本。
 - [Zihao-Wu06/distillops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zihao-wu06-distillops/) — 黑盒 LLM 蒸餾，適用於任何可驗證任務。
 - [Mafdet-AI/mafdet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mafdet-ai-mafdet/) — 本地 LLM，邊打字邊進行閱讀和思考。
 - [Bruce848647703/Atlas-MultiAsset-Advisor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bruce848647703-atlas-multiasset-advisor/) — 一個由 DeepSeek 驅動的多資產投資顧問，提供風險評估、策略配置和宏觀因素融合等功能。
+- [Dpro-at/Tel-Agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dpro-at-tel-agent/) — 開放原始碼的 AI 衛星電話助手，可協助處理電話相關事務。
 
 ## 🚀 Star 竄升
 
@@ -386,7 +386,6 @@ _每日存檔 · 2026-11-07_
 - [wlnhnoqefoxt/adult-ai-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wlnhnoqefoxt-adult-ai-video/) — 使用 AI 生成成人影片的工具，支援從文字到影片的轉換。
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — 經過多階段微調的影像文字轉文字模型，適用於所有場景。
 - [townbox/ava](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-townbox-ava/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prunaai-p-h3-image/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AST-1320/Qwen-2511-Plus-Flux.2-klein-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ast-1320-qwen-2511-plus-flux-2-klein-9b/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ProCreations/grug-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-procreations-grug-27b/) — 文本生成模型，具備推理和工具使用能力。
 - [nvidia/Kumo-Tabular](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-kumo-tabular/) — Kumo-Tabular 是一個用於結構化資料的基礎模型。
@@ -1028,7 +1027,6 @@ _每日存檔 · 2026-11-07_
 - [zai-org/OpenVuln](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-zai-org-openvuln/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementarrow-make-com/) — AI 自動化專案建立平臺。
 - [Jackrong/DeepSeek-V4-Pro-Distilled-200K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-jackrong-deepseek-v4-pro-distilled-200k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruoji6-artex/) — Autumn-27/ARTEX 的持續維護開源版本。
 - [AlicanKiraz0/Turkish-CoT-Instruct-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alicankiraz0-turkish-cot-instruct-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rai81047nranger/TikTok-rpocket-team-Account-Creator-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rai81047nranger-tiktok-rpocket-team-account-creator-2/) — TikTok帳號建立Web API。
 - [TencentARC/GAE-GeometricAutoEncoder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tencentarc-gae-geometricautoencoder/) — GAE 是一個用於生成三維一致世界的幾何原生潛在空間學習模型。
@@ -1580,7 +1578,6 @@ _每日存檔 · 2026-11-07_
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentskills-agentskills/) — 代理技能的規範與檔案。
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-distilly/) — Distilly 將想法轉化為可重用的技能，適用於任何代理或機器人。
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanliudesign-mono-color-skill/) — 單色印刷影像技能，適用於編輯設計。
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-pleias-synth/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [NVIDIA/SkillSpector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvidia-skillspector/) — 檢測 AI 代理技能中的安全風險和漏洞的掃描器。
 - [shoal-rat/quant-research-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shoal-rat-quant-research-lab/) — 自動化量化研究辦公室，帶有動態桌面桌布功能。
 - [yanun0323/Whallm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanun0323-whallm/) — DeepSeek-V4-Flash 和 Qwen3.8-Next-FP8 在 Mac 上進行低記憶體推論

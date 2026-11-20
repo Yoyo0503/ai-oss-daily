@@ -4,5 +4,5 @@ let your agent control your phone
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：5,098
+**Stars**：5,169
 **Source**：https://github.com/phone-harness/phone-harness

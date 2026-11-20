@@ -328,7 +328,6 @@ _Daily archive · 2026-11-09_
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-boogu-boogu-image-0-1-edit/) — · diffusers, safetensors, en
 - [microsoft/FrogNano-4B-2609](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-frognano-4b-2609/) — · safetensors, qwen3_5, license:mit
 - [ccore/ThreeJS-3D-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ccore-threejs-3d-scenes/) — · task_categories:text-generation, language:en, license:mit
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prunaai-p-h3-image/) — · gradio, ml-intern, region:us
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — · gradio, mcp-server, region:us
 - [meta-models/Muse-Spark-Open-816B-A42B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-models-muse-spark-open-816b-a42b/) — image-text-to-text · transformers, safetensors, muse_spark
 - [linoyts/qwen-image-2-1-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-linoyts-qwen-image-2-1-realtime/) — · gradio, mcp-server, region:us
@@ -1219,7 +1218,6 @@ _Daily archive · 2026-11-09_
 - [AllenPan-Git/SimpleQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/allenpan-git-simplequant/) — 低代码的 A 股量化回测工具 · Low-code quant backtesting for China A-shares
 - [sahilmahendrakar/paradee](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sahilmahendrakar-paradee/) — An 8M-parameter English text-to-speech model distilled from Kokoro-82M. 9 MB, runs 18x real time on one CPU t…
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — · task_categories:automatic-speech-recognition, task_categories:text-to-speech, task_categories:translation
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruoji6-artex/) — Autumn-27/ARTEX 持续维护开源版本 （Internationalized version）
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ablation-tool-ablation/) — Ablation is an AI-assisted reverse engineering (AIARE) framework
 - [glincker/awesome-selfhosted-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/glincker-awesome-selfhosted-ai/) — Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image …
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ibm-research-cuga-apps/) — · static, region:us
@@ -1586,7 +1584,6 @@ _Daily archive · 2026-11-09_
 - [Bruce848647703/Atlas-MultiAsset-Advisor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bruce848647703-atlas-multiasset-advisor/) — Atlas - a DeepSeek-driven multi-asset investment advisor agent: risk profiling, strategy allocation, factor s…
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/titanwings-distilly/) — Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Ski…
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yanliudesign-mono-color-skill/) — One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained…
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-pleias-synth/) — · task_categories:text-generation, task_categories:zero-shot-classification, task_categories:summarization
 - [Sidiora-Labs/centra-gideon-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sidiora-labs-centra-gideon-agent/) — The companion AI agent that learns, adapts and gets the work done no matter the task
 - [chefkitchenjoy/digital-asset-growth-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chefkitchenjoy-digital-asset-growth-engine/) — 🚀 A high-performance growth hacking and traffic monetization toolkit. Automate lead capture, optimize convers…
 - [ChromaDotNet/ChromaDB.Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chromadotnet-chromadb-client/) — .NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9.

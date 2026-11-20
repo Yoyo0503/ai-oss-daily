@@ -1363,7 +1363,6 @@ _Daily archive · 2026-10-14_
 - [NousResearch/hermes-function-calling-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nousresearch-hermes-function-calling-v1/) — · task_categories:text-generation, task_categories:question-answering, task_categories:feature-extraction
 - [FuRongJun-1999/dsh-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/furongjun-1999-dsh-memory/) — 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。
 - [latent-spaces/brag](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/latent-spaces-brag/) — You built it. Now brag. Turn the project you just created into a short, shareable launch video with one comma…
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-pleias-synth/) — · task_categories:text-generation, task_categories:zero-shot-classification, task_categories:summarization
 - [callebtc/sayit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/callebtc-sayit/) — Private, local text-to-speech for Apple silicon Macs
 - [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/activeing123-mcptoon/) — One zero-dependency MCP gateway CLI for every server and agent skill. Token optimization, tool discovery and …
 - [drumih/turbo-fieldfare](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/drumih-turbo-fieldfare/) — Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook

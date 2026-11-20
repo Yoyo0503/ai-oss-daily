@@ -328,7 +328,6 @@ _每日存檔 · 2026-11-09_
 - [Boogu/Boogu-Image-0.1-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-boogu-boogu-image-0-1-edit/) — AI 相關專案，關鍵字：擴散模型（依標籤自動歸類，詳細看下方原文）
 - [microsoft/FrogNano-4B-2609](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-frognano-4b-2609/) — FrogNano-4B-2609 是一個基於 Qwen3.5 的大型語言模型。
 - [ccore/ThreeJS-3D-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ccore-threejs-3d-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prunaai-p-h3-image/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wank3r/Wan_2.2_I2V_14B_Custom_Lora_Wow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-wank3r-wan-2-2-i2v-14b-custom-lora-wow/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [meta-models/Muse-Spark-Open-816B-A42B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-spark-open-816b-a42b/) — 將影像和文字轉換為文字的模型，支援影像文字轉換。
 - [linoyts/qwen-image-2-1-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-linoyts-qwen-image-2-1-realtime/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1219,7 +1218,6 @@ _每日存檔 · 2026-11-09_
 - [AllenPan-Git/SimpleQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/allenpan-git-simplequant/) — 低程式碼的中國A股量化回測工具，適用於股票量化分析。
 - [sahilmahendrakar/paradee](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahilmahendrakar-paradee/) — 從 Kokoro-82M 精簡而來的英文文本轉語音模型。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ruoji6-artex/) — Autumn-27/ARTEX 的持續維護開源版本。
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
 - [glincker/awesome-selfhosted-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/glincker-awesome-selfhosted-ai/) — 開源AI自建清單，涵蓋本地LLM、聊天介面等。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1586,7 +1584,6 @@ _每日存檔 · 2026-11-09_
 - [Bruce848647703/Atlas-MultiAsset-Advisor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bruce848647703-atlas-multiasset-advisor/) — 一個由 DeepSeek 驅動的多資產投資顧問，提供風險評估、策略配置和宏觀因素融合等功能。
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-distilly/) — Distilly 將想法轉化為可重用的技能，適用於任何代理或機器人。
 - [yanliudesign/mono-color-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanliudesign-mono-color-skill/) — 單色印刷影像技能，適用於編輯設計。
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-pleias-synth/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Sidiora-Labs/centra-gideon-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sidiora-labs-centra-gideon-agent/) — centra-gideon-agent 是一個能夠學習和適應各種工作的 AI 代理。
 - [chefkitchenjoy/digital-asset-growth-engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chefkitchenjoy-digital-asset-growth-engine/) — digital-asset-growth-engine 是一個自動化數位資產增長和流量轉換的工具。
 - [ChromaDotNet/ChromaDB.Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromadotnet-chromadb-client/) — .NET客戶端庫，用於Chroma和Chroma Cloud。

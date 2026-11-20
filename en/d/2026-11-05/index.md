@@ -11,11 +11,11 @@ _Daily archive · 2026-11-05_
 - [JuneYaooo/rea-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juneyaooo-rea-video/) — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in …
 - [fendouai/free-ai-humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fendouai-free-ai-humanizer/) — · static, ai-humanizer, rule-based
 - [nvidia/NVIDIA-NemotronLabs-RE-USE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotronlabs-re-use/) — audio-to-audio · mamba-ssm, safetensors, speech-enhancement
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prunaai-p-h3-image/) — · gradio, ml-intern, region:us
 - [ML-Intern-lab/weight-space-programming-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ml-intern-lab-weight-space-programming-demo/) — · gradio, ml-intern, weight-space-programming
 - [mochistudio-vn/kitviet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mochistudio-vn-kitviet/) — 🇻🇳 Kit Việt – Bộ AI Agent tiếng Việt cho 20 nghề: kế toán, nhân sự, xây dựng, y tế, pháp lý... 340+ skill & 1…
 - [CrossSWE/CrossSWE-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-crossswe-crossswe-bench/) — · task_categories:text-generation, language:en, license:other
 - [ppxxyy/H3-Turbo-Lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ppxxyy-h3-turbo-lora/) — · gradio, region:us
+- [CacheCarti/Crypto-Strategies](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cachecarti-crypto-strategies/) — A repository of hundreds of strategies I tested against 7 stage validation on 6 months of data
 
 ## 🚀 Climbing
 
@@ -411,7 +411,6 @@ _Daily archive · 2026-11-05_
 - [audnai/penclaw-Kimi-K3.0-abliterated-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-audnai-penclaw-kimi-k3-0-abliterated-gguf/) — · region:us
 - [ibm-granite/granite-4.2-30b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ibm-granite-granite-4-2-30b/) — text-generation · transformers, safetensors, granite
 - [fishpasters/uncensored-imageTOimage2Ref](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fishpasters-uncensored-imagetoimage2ref/) — · gradio, mcp-server, region:us
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prunaai-p-h3-image/) — · gradio, ml-intern, region:us
 - [LiconStudio/LTX-2.3-Multiple-Subject-Reference](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liconstudio-ltx-2-3-multiple-subject-reference/) — · diffusers, video-generation, multi-reference
 - [2i/pornmaster-krea2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-2i-pornmaster-krea2/) — · gradio, region:us
 - [lazarus19/Vibe-Coding-Instruct](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-lazarus19-vibe-coding-instruct/) — · task_categories:text-generation, language:en, license:apache-2.0
@@ -1556,7 +1555,6 @@ _Daily archive · 2026-11-05_
 - [pliny-the-prompter/obliteratus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pliny-the-prompter-obliteratus/) — · gradio, abliteration, mechanistic-interpretability
 - [NousResearch/hermes-function-calling-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nousresearch-hermes-function-calling-v1/) — · task_categories:text-generation, task_categories:question-answering, task_categories:feature-extraction
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/titanwings-distilly/) — Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Ski…
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-pleias-synth/) — · task_categories:text-generation, task_categories:zero-shot-classification, task_categories:summarization
 - [ARahim3/kaggle-tpu-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/arahim3-kaggle-tpu-lab/) — Frontier-class open models on a free Kaggle TPU v5e-8: GLM-5.3-Flash 320B MoE (~165 tok/s, our own JAX engine…
 - [NVIDIA/SkillSpector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvidia-skillspector/) — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt inje…
 - [shoal-rat/quant-research-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/shoal-rat-quant-research-lab/) — An autonomous anime quant research office — chibi researchers hunt for alpha behind deflated-Sharpe gates whi…

@@ -394,7 +394,6 @@ _Daily archive · 2026-11-15_
 - [RagnheavenDusk/content-machine-respocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ragnheavendusk-content-machine-respocket/) — CLI-first automated short-form video generator for TikTok, Reels, and Shorts (npm: @45ck/content-machine)
 - [fishaudio/Drama-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-fishaudio-drama-3/) — · gradio, text-to-speech, fish-audio
 - [wlnhnoqefoxt/adult-ai-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wlnhnoqefoxt-adult-ai-video/) — AI adult video generator: text-to-clip diffusion, image-to-video motion, 4K NSFW output, uncensored model pre…
-- [PrunaAI/P-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prunaai-p-h3-image/) — · gradio, ml-intern, region:us
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — image-text-to-text · gguf, unsloth, fine tune
 - [AST-1320/Qwen-2511-Plus-Flux.2-klein-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ast-1320-qwen-2511-plus-flux-2-klein-9b/) — · gradio, region:us
 - [ProCreations/grug-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-procreations-grug-27b/) — text-generation · safetensors, qwen3_5, grug
@@ -1289,7 +1288,6 @@ _Daily archive · 2026-11-15_
 - [WeWorker/WeWorker](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/weworker-weworker/) — Open-source desktop AI agent that takes real actions on websites — 33 adapters for mail, shopping, social, an…
 - [blixvip/html-anime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/blixvip-html-anime/) — Turn a scene prompt into a shot sheet, then have a coding agent draw the film in HTML. No video model.
 - [mw00/project-maya](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mw00-project-maya/) — Run GLM-5.3 (744B), GLM-5.3-Flash (321B), DeepSeek-V4.1-Flash (748B) and MiniMax-M3.1-Flash (428B) on your ow…
-- [RuoJi6/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ruoji6-artex/) — Autumn-27/ARTEX 持续维护开源版本 （Internationalized version）
 - [DUNKINKKD/lotei-qflipper](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dunkinkkd-lotei-qflipper/) — 🐬 A pink qFlipper fork with LOTEI — a 100% local AI dolphin (Ollama) that chats, talks, watches your Flipper'…
 - [BijectiveLabs/bitra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bijectivelabs-bitra/) — Autonomous trading agents with deterministic execution. The agents propose, the system decides.
 - [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/folkbench-folkbench/) — AI API 中转站推荐与评测：中转站排行榜、中转站检测、Claude / GPT / Gemini 中转站对比 · AI API relay rankings · Folkbench Switch for Claud…
@@ -1618,7 +1616,6 @@ _Daily archive · 2026-11-15_
 - [milind-soni/OpenMausBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/milind-soni-openmausbot/) — Open-source Grok Bot alternative with a virtual machine that bots can use
 - [JimLiu/baoyu-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jimliu-baoyu-skills/) — 包含多種代理技能和外掛的集合庫。
 - [agentskills/agentskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agentskills-agentskills/) — Specification and documentation for Agent Skills
-- [PleIAs/SYNTH](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-pleias-synth/) — · task_categories:text-generation, task_categories:zero-shot-classification, task_categories:summarization
 - [CopilotKit/OpenBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/copilotkit-openbot/) — The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into e…
 - [dataelement/dsh-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataelement-dsh-desktop/) — DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 - [AgriciDaniel/keywordpro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/agricidaniel-keywordpro/) — Local-first keyword research with guided reports, charts, saved sessions, and PDF, CSV, and JSON exports.
