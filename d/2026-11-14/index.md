@@ -6,7 +6,6 @@ _每日存檔 · 2026-11-14_
 
 - [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/) — Qwen-Image 是一個文本轉影像模型，支援影像編輯和量化的文本生成。
 - [Edge0/Edge0-145B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-145b-nvfp4/) — Edge0 是一個大型語言模型，支援邊緣推理和4位元運算。
-- [thinkingmachines/Inkling-2-Small](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling-2-small/) — Inkling-2-Small 是一個影像文字轉文本模型，支援對話式和多工運算。
 - [DevedevT/FFmpeg-GUI-Editor-Windows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/devedevt-ffmpeg-gui-editor-windows/) — FFmpeg-GUI-Editor-Windows 是一個輕量級的FFmpeg圖形化編輯器，支援多國語言。
 - [hugging-apps/mirage-vision](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-mirage-vision/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [0xS4N4TG/papercut-explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xs4n4tg-papercut-explainer/) — papercut-explainer 是一個使用程式碼代理生成剪紙風格的解說影片工具。
@@ -257,7 +256,6 @@ _每日存檔 · 2026-11-14_
 - [autotrust/news](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-autotrust-news/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [google/timesfm-3.0-pytorch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-timesfm-3-0-pytorch/) — Google 的 timesfm 模型，用於時間序列預測。
 - [convaiinnovations/laya](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-convaiinnovations-laya/) — 一個基於轉換器的強化學習代理，用於決策和分類。
-- [thinkingmachines/Inkling-2-Small](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling-2-small/) — Inkling-2-Small 是一個影像文字轉文本模型，支援對話式和多工運算。
 - [nota-ai/Solar-Open2-250B-Nota-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nota-ai-solar-open2-250b-nota-nvfp4/) — 一個基於vllm和NVFP4技術的大型語言模型，適用於文本生成。
 - [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-obliteratus-gemma-4-12b-obliterated/) — 將影像文字轉換為純文本的生成式模型。
 - [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-labs-dory1-0-4b-bf16/) — NVIDIA 的 Dory1.0 模型，用於生成文本和對話。
@@ -1524,7 +1522,6 @@ _每日存檔 · 2026-11-14_
 - [Roboquant-AI/tradingview-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/roboquant-ai-tradingview-optimizer/) — tradingview-optimizer 是一個適用於 TradingView 的策略最佳化器 Chrome 擴充功能。
 - [ggml-org/gguf-my-repo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ggml-org-gguf-my-repo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [sergqwer/strata-nvfp4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergqwer-strata-nvfp4/) — Qwen3.8-Flash-Next 125B MoE模型的改進版本，可在單張RTX卡上執行。
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [xingyuanzhao/nocode-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-xingyuanzhao-nocode-workflow/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [alibaba/open-code-review](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-open-code-review/) — 阿里巴巴規模下驗證的程式碼審查工具，結合確定性管道與 LLM 代理。
 - [crow-hq/llm-wiki-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/crow-hq-llm-wiki-v2/) — 將檔案轉換成可回答問題的Markdown wiki。

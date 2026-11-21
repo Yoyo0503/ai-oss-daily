@@ -106,7 +106,6 @@ _每日存檔 · 2026-11-19_
 - [FrancisRing/Prism](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-francisring-prism/) — Prism 是一個將影像轉換成影片的工具。
 - [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nvidia-nemotron-3-5-transcribe-30b-a4b/) — NVIDIA 的自動語音轉文字模型，適用於多語言語音識別。
 - [BreezeBlue/Breeze-TTS-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-breezeblue-breeze-tts-2/) — 一款基於轉換器的語音合成模型，支援語音克隆和設計。
-- [thinkingmachines/Inkling-2-Small](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling-2-small/) — Inkling-2-Small 是一個影像文字轉文本模型，支援對話式和多工運算。
 - [SexGod1979/PinkCherry_MiniMax-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sexgod1979-pinkcherry-minimax-h3/) — 基於MiniMax-H3的文字生成影片模型。
 - [Alissonerdx/LTX-Best-Face-ID](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-ltx-best-face-id/) — 將文字轉換為保留身份的影片，適用於Lora和ComfyUI。
 - [microsoft/VibeVoice-ASR-Streaming-7B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-streaming-7b/) — 用於即時語音轉文字的自動語音辨識模型。
@@ -1652,7 +1651,6 @@ _每日存檔 · 2026-11-19_
 - [eigent-ai/eigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eigent-ai-eigent/) — 開放原始碼協作桌面，免費替代Claude Cowork。
 - [inssist/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inssist-mcp/) — MCP 伺服器允許 AI 代理在 Instagram 中運作。
 - [LiquidAI/antidoom-mix-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-liquidai-antidoom-mix-v1-0/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [bayshier/voicestudio-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bayshier-voicestudio-zh/) — 開源的ElevenLabs替代品，支援語音克隆、設計和轉寫。
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nevamind-ai-memu/) — 為主動型AI代理設計的記憶系統，提供結構化儲存和意圖捕捉功能。
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-open-swe-traces/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）

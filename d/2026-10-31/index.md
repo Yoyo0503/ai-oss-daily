@@ -1244,7 +1244,6 @@ _每日存檔 · 2026-10-31_
 - [allenai/ai2_arc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-allenai-ai2-arc/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — 詳細介紹 LLM 微調方法（lora, qlora, unsloth）的教程。
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [TIGER-Lab/MMLU-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tiger-lab-mmlu-pro/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [zadescoxp/Jev-Trades](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zadescoxp-jev-trades/) — 使用TypeSafe AI的Jev模型的自動化交易機器人。
 - [RevolutionLA/awesome-YuE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/revolutionla-awesome-yue/) — 開源音樂生成生態系統的精選清單，涵蓋UI、執行時、量化等。

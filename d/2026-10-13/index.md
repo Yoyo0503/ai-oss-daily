@@ -939,7 +939,6 @@ _每日存檔 · 2026-10-13_
 - [tigerless-labs/seo-ops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tigerless-labs-seo-ops/) — 一個用於檢查網站SEO基礎的代理技能。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [PolinniZhong/omi-read-aloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polinnizhong-omi-read-aloud/) — 輕量級 macOS 選單欄應用，讀取剪貼簿中的文字並朗讀。
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [PolyTutor-Labs/polymarket-strategy-handbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-labs-polymarket-strategy-handbook/) — 研究驅動的Polymarket策略手冊，涵蓋市場結構和風險管理。
 - [BadgeCorporal/Adobe-Tool-Premiere-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/badgecorporal-adobe-tool-premiere-pro/) — Windows版Adobe Premiere Pro，強大的影片編輯軟體。
 - [callirra-ai/gpt-image-2-5-prompt-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/callirra-ai-gpt-image-2-5-prompt-atlas/) — 包含50個GPT-Image 2.5生成的影像提示範例，包括短提示和工程簡報。

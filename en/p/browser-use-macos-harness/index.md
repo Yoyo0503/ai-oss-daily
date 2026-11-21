@@ -4,5 +4,5 @@ The simplest, thinnest harness that gives an LLM complete freedom to control a M
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,022
+**Stars**：1,023
 **Source**：https://github.com/browser-use/macos-harness

@@ -1333,7 +1333,6 @@ _每日存檔 · 2026-11-04_
 - [IlyaGusev/habr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ilyagusev-habr/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OpenAssistant/oasst1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openassistant-oasst1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Rolymarket/Polymarket-Arbitrage-Trading-Bot-Python](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rolymarket-polymarket-arbitrage-trading-bot-python/) — 用於PolyMarket套利交易的Python機器人。
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [cais/mmlu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-mmlu/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [sanswtf/Template-Pro-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sanswtf-template-pro-desktop/) — 專業級PC影片編輯套件，提供AI增強的專案檔案和高品質LUT。
 - [GangOstrichCrimp/Stable-Diffusion-WebUI-Creative-Suite-Pro-Pack-Ultimate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gangostrichcrimp-stable-diffusion-webui-creative-suite-pro-pack-ultimate/) — 為Windows桌面工作流程設計的Stable Diffusion創意套件，提供導出工具和生產預設。

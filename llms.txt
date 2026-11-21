@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-11-20 09:06 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-11-21 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-11-21](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-21/)
 - [2026-11-20](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-20/)
 - [2026-11-19](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-19/)
 - [2026-11-18](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-18/)
@@ -26,15 +27,14 @@
 - [2026-11-08](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-08/)
 - [2026-11-07](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-07/)
 - [2026-11-06](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-06/)
-- [2026-11-05](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-05/)
 
 ## 今日精選 Today's picks
-- [inworld/voice-isolator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inworld-voice-isolator/)
-- [RadixArk/DaisyRose-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-radixark-daisyrose-27b/)
-- [PrunaAI/P-Image-OSS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prunaai-p-image-oss/)
-- [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/)
-- [ccch1mneyyy/dsh-Go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ccch1mneyyy-dsh-go/)
-- [higurashi-ai/Haru-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-higurashi-ai-haru-4b/)
+- [thinkingmachines/Inkling-2-Mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling-2-mini/)
+- [dickoyudha-netizen/adobe-firefly-image-creator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dickoyudha-netizen-adobe-firefly-image-creator/)
+- [apple/DepthPro2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-apple-depthpro2/)
+- [rocketride-org/rocketride-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rocketride-org-rocketride-server/)
+- [elementalsouls/Claude-BugHunter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/)
+- [PrunaAI/P-H3-Image-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

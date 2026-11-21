@@ -130,7 +130,6 @@ _每日存檔 · 2026-11-20_
 - [prism-ml/Ternary-Bonsai-2-27B-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prism-ml-ternary-bonsai-2-27b-gguf/) — 基於llama.cpp的TERNARY模型，用於文本生成，支援2位元運算。
 - [Angais/pixel-art-atlas-1.4m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-angais-pixel-art-atlas-1-4m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [baidu/Unlimited-OCR-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baidu-unlimited-ocr-2/) — 百度的 OCR 模型，用於影像文字轉換。
-- [thinkingmachines/Inkling-2-Small](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling-2-small/) — Inkling-2-Small 是一個影像文字轉文本模型，支援對話式和多工運算。
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-8-27b-nvfp4/) — Qwen 27B 模型的量化版本。
 - [microsoft/VibeVoice-ASR-BitNet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-vibevoice-asr-bitnet/) — 自動語音辨識模型，適用於 CPU 推論。
 - [FastVideo/FastH3-Omni-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fastvideo-fasth3-omni-comfy/) — 單檔案擴散模型，支援參考到影片生成。
@@ -1675,7 +1674,6 @@ _每日存檔 · 2026-11-20_
 - [Roboquant-AI/tradingview-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/roboquant-ai-tradingview-optimizer/) — tradingview-optimizer 是一個適用於 TradingView 的策略最佳化器 Chrome 擴充功能。
 - [Anil-matcha/zack-d-films-ai-video-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anil-matcha-zack-d-films-ai-video-generator/) — 自動生成Zack D Films風格的3D動畫短片。
 - [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-fleurs/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [davidalmeida90/quant-models](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/davidalmeida90-quant-models/) — 開源量化金融模型，涵蓋選股、風險管理等。
 - [vastsa/BokeBox](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vastsa-bokebox/) — 私有AI播客工作室，將多源內容轉換為語音節目。
 - [FloorCommander/MultiCharts-Advanced-Backtesting-Premium](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/floorcommander-multicharts-advanced-backtesting-premium/) — 提供完整版本策略開發與回測功能的量化交易平臺。

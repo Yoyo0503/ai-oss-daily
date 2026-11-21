@@ -1514,7 +1514,6 @@ _每日存檔 · 2026-11-13_
 - [bayshier/voicestudio-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bayshier-voicestudio-zh/) — 開源的ElevenLabs替代品，支援語音克隆、設計和轉寫。
 - [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/) — 幫助程式碼代理生成適合ADHD使用者的清晰答案。
 - [coreyhaines31/marketingskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/coreyhaines31-marketingskills/) — marketingskills 為 Claude Code 和 AI 代理提供行銷技能，包括 CRO、SEO 等。
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [ant-research/AntOmniEvo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ant-research-antomnievo/) — 自動演化框架，最佳化任何系統。
 - [heaven999b/hello-agent-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heaven999b-hello-agent-system/) — 企業級 AI 代理系統設計教程，包含多種實踐練習。
 - [teknium/OpenHermes-2.5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-teknium-openhermes-2-5/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

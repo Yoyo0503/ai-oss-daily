@@ -4,5 +4,5 @@ Sınırsız Foto: Z-Image-Turbo (Q8_0, full quality) on a 4 GB GTX 1050 Ti lapto
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：181
+**Stars**：187
 **Source**：https://github.com/alexturkey/z-image-turbo-pascal-4gb

@@ -934,7 +934,6 @@ _每日存檔 · 2026-10-10_
 - [Junchao-cs/SolarWM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/junchao-cs-solarwm/) — SolarWM 是一個用於長期影片世界模型的開放資料和可擴充套件訓練平臺。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [PolinniZhong/omi-read-aloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polinnizhong-omi-read-aloud/) — 輕量級 macOS 選單欄應用，讀取剪貼簿中的文字並朗讀。
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [PolyTutor-Labs/polymarket-strategy-handbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polytutor-labs-polymarket-strategy-handbook/) — 研究驅動的Polymarket策略手冊，涵蓋市場結構和風險管理。
 - [BadgeCorporal/Adobe-Tool-Premiere-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/badgecorporal-adobe-tool-premiere-pro/) — Windows版Adobe Premiere Pro，強大的影片編輯軟體。
 - [Human-Agent-Society/reef](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/human-agent-society-reef/) — 自我改進代理的持續學習基礎設施。

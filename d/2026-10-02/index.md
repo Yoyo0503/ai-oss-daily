@@ -10,7 +10,6 @@ _每日存檔 · 2026-10-02_
 - [vincentsch/explainroo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vincentsch-explainroo/) — 使用AI代理生成解說影片和產品演示。
 - [PSA-Team-source/AdLibrarySpy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/psa-team-source-adlibraryspy/) — 免費的Shopify和Meta廣告監控工具。
 - [databluedev/searchmirror](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/databluedev-searchmirror/) — 自建的AI排名追蹤器，監控SEO表現。
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [latent-spaces/brag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/latent-spaces-brag/) — 將新專案轉換為可分享的啟動影片。
 - [Gitruck/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gitruck-cli/) — 將口播影片轉換為可編輯的剪輯工程。
 - [jordan-gibbs/hyperresearch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jordan-gibbs-hyperresearch/) — 將 Claude Code 或 Codex 轉換為智慧研究代理，收集、搜尋並綜合網路研究，建立可持續擴充套件的 wiki。
@@ -739,7 +738,6 @@ _每日存檔 · 2026-10-02_
 - [VAST-AI/TripoSplat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-vast-ai-triposplat/) — VAST AI TripoSplat：圖像轉 3D 高斯潑濺(3DGS)線上示範。
 - [AweAI-Team/Scale-SWE-Distilled-DeepSeek-v4-Pro-High-41k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aweai-team-scale-swe-distilled-deepseek-v4-pro-high-41k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [embedl/hfviewer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-embedl-hfviewer/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [DenRakEiw/scumble](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/denrakeiw-scumble/) — 免費的AI影像修復桌面應用，選取、提示、生成。
 - [fidetolabs/qanat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fidetolabs-qanat/) — 用於構建和回測交易策略的工作流引擎。
 - [smolagents/hf-realtime-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [CodeSoft/SLM-Arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-codesoft-slm-arena/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
