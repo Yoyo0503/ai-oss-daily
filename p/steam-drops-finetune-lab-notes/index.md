@@ -2,9 +2,9 @@
 
 2026 年 Transformer 微調指南，涵蓋 LLM、LoRA 和 PEFT。
 
-**為何上榜**：53★ · 近期活躍
+**為何上榜**：近一日新增 1★（現 54★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：53
+**Stars**：54
 **原始連結**：https://github.com/STEAM-DROPS/finetune-lab-notes

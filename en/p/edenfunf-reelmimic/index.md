@@ -4,5 +4,5 @@ Open-source AI video style cloning for 2D animation. Give it a reference video o
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,081
+**Stars**：2,107
 **Source**：https://github.com/edenfunf/reelmimic

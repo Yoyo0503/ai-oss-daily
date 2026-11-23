@@ -4,5 +4,5 @@ AI Agent Skill (Claude Code, Codex & more): Turn any script into animated stickm
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：7,220
+**Stars**：7,501
 **Source**：https://github.com/kaomei/stickman-video-director

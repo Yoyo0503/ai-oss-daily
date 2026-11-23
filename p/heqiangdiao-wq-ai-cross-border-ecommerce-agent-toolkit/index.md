@@ -2,9 +2,9 @@
 
 AI-Cross-Border-Ecommerce-Agent-Toolkit 是一個用於跨境電商的智慧運營工具。
 
-**為何上榜**：近一日新增 3★（現 1,238★）
+**為何上榜**：近一日新增 7★（現 1,245★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,238
+**Stars**：1,245
 **原始連結**：https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit

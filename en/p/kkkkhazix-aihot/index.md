@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：11,146
+**Stars**：11,236
 **Source**：https://github.com/KKKKhazix/AIHOT

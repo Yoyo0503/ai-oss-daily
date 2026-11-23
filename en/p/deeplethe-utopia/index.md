@@ -4,5 +4,5 @@ World's first open-source enterprise world model.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：8,740
+**Stars**：8,693
 **Source**：https://github.com/deeplethe/utopia
