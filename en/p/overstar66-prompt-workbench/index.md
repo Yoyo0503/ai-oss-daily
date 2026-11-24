@@ -4,5 +4,5 @@ Local anime prompt workbench — WD14 image-to-tags, AI expand, 18k+ tag library
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：68
+**Stars**：72
 **Source**：https://github.com/Overstar66/prompt-workbench

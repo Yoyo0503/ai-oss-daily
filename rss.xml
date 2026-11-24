@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>23 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>24 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>AtomicChat/Inkling-2-Mini-Uncensored-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-atomicchat-inkling-2-mini-uncensored-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-atomicchat-inkling-2-mini-uncensored-gguf/</guid>
-<pubDate>23 Nov 2026 08:00:00 +0000</pubDate>
-<description>無審核的圖文轉文字模型，支援gguf格式。</description>
+<title>inclusionAI/Ling-3.2-air</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-2-air/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ling-3-2-air/</guid>
+<pubDate>24 Nov 2026 08:00:00 +0000</pubDate>
+<description>一款使用自訂程式碼和特殊技術的AI模型。</description>
 </item>
 <item>
-<title>SulphurAI/Sulphur-3</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-3/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sulphurai-sulphur-3/</guid>
-<pubDate>23 Nov 2026 08:00:00 +0000</pubDate>
-<description>基於MiniMax-H3的AI模型，適用於多種場景。</description>
+<title>strata-engine/Inkling-2-Mini-Strata</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-strata-engine-inkling-2-mini-strata/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-strata-engine-inkling-2-mini-strata/</guid>
+<pubDate>24 Nov 2026 08:00:00 +0000</pubDate>
+<description>將影像和文字轉換為文字的AI模型。</description>
 </item>
 <item>
-<title>bookwjitchieni1986/blender-ai-mcp-addon</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bookwjitchieni1986-blender-ai-mcp-addon/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bookwjitchieni1986-blender-ai-mcp-addon/</guid>
-<pubDate>23 Nov 2026 08:00:00 +0000</pubDate>
-<description>Blender的AI助手外掛，支援多種AI對話和工作流程。</description>
+<title>praseesh369/youtube-ai-video-editing-system</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/praseesh369-youtube-ai-video-editing-system/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/praseesh369-youtube-ai-video-editing-system/</guid>
+<pubDate>24 Nov 2026 08:00:00 +0000</pubDate>
+<description>用AI編輯工作流程為YouTube建立故事板、捕捉和動畫。</description>
 </item>
 <item>
-<title>heygen-com/hyperframes</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/</guid>
-<pubDate>23 Nov 2026 08:00:00 +0000</pubDate>
-<description>使用HTML生成動畫影片的框架，專為代理設計。</description>
+<title>rocketride-org/rocketride-server</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rocketride-org-rocketride-server/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rocketride-org-rocketride-server/</guid>
+<pubDate>24 Nov 2026 08:00:00 +0000</pubDate>
+<description>高效能AI管道引擎，支援多種模型供應商和向量資料庫。</description>
 </item>
 <item>
-<title>morluto/rea</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/morluto-rea/</guid>
-<pubDate>23 Nov 2026 08:00:00 +0000</pubDate>
-<description>rea 是一個用於逆向工程的工具，支援從應用程式行為到原生二進位碼的分析。</description>
+<title>elementalsouls/Claude-BugHunter</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</guid>
+<pubDate>24 Nov 2026 08:00:00 +0000</pubDate>
+<description>Claude Code 程式設計技能包：漏洞狩獵和外部紅隊工作</description>
 </item>
 <item>
-<title>abenzerps/Qwen-Image-2.1-Uncensored-GGUF</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abenzerps-qwen-image-2-1-uncensored-gguf/</guid>
-<pubDate>23 Nov 2026 08:00:00 +0000</pubDate>
-<description>基於 Qwen 的影像生成模型，支援從文本生成影像。</description>
+<title>PrunaAI/P-H3-Image-Comfy</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/</guid>
+<pubDate>24 Nov 2026 08:00:00 +0000</pubDate>
+<description>使用 ComfyUI 的文本生成影像模型。</description>
 </item>
 </channel>
 </rss>

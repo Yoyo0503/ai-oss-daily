@@ -11,16 +11,16 @@
 - [ASLP-lab/DRAMA-Eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aslp-lab-drama-eval/) — · task_categories:text-to-speech, language:en, language:zh
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
 - [UniParser/RxnMiner-Benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uniparser-rxnminer-benchmark/) — · task_categories:image-to-text, language:en, license:cc-by-nc-sa-4.0
-- [TabBioMed/results](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tabbiomed-results/) — · task_categories:tabular-classification, task_categories:tabular-regression, modality:tabular
 - [LocalLLaMA/typed-decisions](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-localllama-typed-decisions/) — · benchmark:official, benchmark:eval-yaml, task_categories:text-classification
 - [zouhar/last-translation-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zouhar-last-translation-benchmark/) — · task_categories:translation, task_categories:text-generation, language:en
+- [TabBioMed/results](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tabbiomed-results/) — · task_categories:tabular-classification, task_categories:tabular-regression, modality:tabular
 - [prometheus-eval/into-the-unknown](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-prometheus-eval-into-the-unknown/) — · task_categories:text-generation, license:other, size_categories:n<1K
 - [sbintuitions/joyo-kanji-yomi-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sbintuitions-joyo-kanji-yomi-benchmark/) — · task_categories:text-to-speech, language:ja, license:mit
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us
 - [Xin-YuXiao/Awesome-AI-for-Astronomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xin-yuxiao-awesome-ai-for-astronomy/) — A curated list of papers for AI in Astronomy & Astrophysics.
-- [Toyhom/awesome-computational-character-modeling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/toyhom-awesome-computational-character-modeling/) — Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation…
 - [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/folkbench-folkbench/) — AI API 中转站推荐与评测：中转站排行榜、中转站检测、Claude / GPT / Gemini 中转站对比 · AI API relay rankings · Folkbench Switch for Claud…
+- [Toyhom/awesome-computational-character-modeling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/toyhom-awesome-computational-character-modeling/) — Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation…
 - [TIGER-Lab/MMLU-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tiger-lab-mmlu-pro/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibaba-yufeng-mma-safetybench/) — · license:cc-by-4.0, size_categories:n<1K, format:imagefolder
@@ -29,8 +29,8 @@
 - [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xinxuxin-keystone-bench/) — A clinical decision-evidence benchmark: pull the one fact an answer rests on, and see whether the assistant's…
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madslorentzen-ai-job-search/) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate posting…
 - [Necent/llm-jailbreak-prompt-injection-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-necent-llm-jailbreak-prompt-injection-dataset/) — · task_categories:text-classification, language:en, language:zh
-- [ytu-ce-cosmos/Turkish-Speech-Benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ytu-ce-cosmos-turkish-speech-benchmark/) — · docker, region:us
 - [ibm-research/ScarfBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ibm-research-scarfbench/) — · task_categories:text-generation, arxiv:2605.06754, region:us
+- [ytu-ce-cosmos/Turkish-Speech-Benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ytu-ce-cosmos-turkish-speech-benchmark/) — · docker, region:us
 - [Omni-Scientist/Awesome-AI-Scientist](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/omni-scientist-awesome-ai-scientist/) — 🧪 Awesome list of AI Scientist papers, systems, benchmarks, datasets and open-source platforms.
 - [MME-Benchmarks/Video-MME-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mme-benchmarks-video-mme-v2/) — Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding
 - [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thenicolas1894-awesome-claude-fable-5-prompt-vault/) — Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks

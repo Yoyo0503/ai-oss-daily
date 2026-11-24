@@ -766,7 +766,6 @@ _每日存檔 · 2026-11-20_
 - [yoge7388095s/eth-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yoge7388095s-eth-trading-bot/) — 自動化以太坊交易機器人，具備 gas 預覽和路由器支援。
 - [adventists-ai/sophon-realtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adventists-ai-sophon-realtime/) — 全雙工語音模型，支援即時語音克隆和表達性語音生成。
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cisco-ai-stupase-speech-enhancement/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [leoquenikeny/premierepro-video-editor-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoquenikeny-premierepro-video-editor-2026/) — PremierePro Video Editor 2026 是一個多軌時間軸和 Lumetri 色彩工作流程的影片編輯器。
 - [K-intelligence/KSAFE-MM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-k-intelligence-ksafe-mm/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [internlm/Atria-Dawn-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internlm-atria-dawn-preview/) — Atria-Dawn-Preview 是一個基於 GLM-MoE-DSA 的大型語言模型，支援中英文。
 - [TencentARC/Pixal3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tencentarc-pixal3d/) — 騰訊 ARC Pixal3D 3D 生成線上示範。
@@ -800,7 +799,6 @@ _每日存檔 · 2026-11-20_
 - [nvidia/nemotron-transcribe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nvidia-nemotron-transcribe/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/irodori-tts-anime-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-irodori-tts-anime-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [codepawl/rocketbox-avatars-glb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-codepawl-rocketbox-avatars-glb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [dhruvthakur11/youtube-ai-video-editing-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dhruvthakur11-youtube-ai-video-editing-system/) — YouTube AI 影片編輯系統是一個基於 JSON 的動畫和運動圖形工作流程系統。
 - [HenryJ12/InvestorLastExam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-henryj12-investorlastexam/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [datapointai/text-to-speech-human-preferences-315k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-datapointai-text-to-speech-human-preferences-315k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [victor/Qwen3.8-Flash-Next-free-endpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-victor-qwen3-8-flash-next-free-endpoint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1026,7 +1024,6 @@ _每日存檔 · 2026-11-20_
 - [nvidia/simready-central-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-simready-central-library/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Brilliant666/ai-costume-gallery-cn](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brilliant666-ai-costume-gallery-cn/) — AI繪製的服裝參考相簿，中文版。
 - [appariciojunior/video-editor-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appariciojunior-video-editor-skills/) — 教Claude Code在DaVinci Resolve中編輯影片的技能。
-- [livliv-dev/stage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livliv-dev-stage/) — AI VTuber 工作室，快速為角色賦予個性和即時互動能力。
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [NJohansen/handle-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/njohansen-handle-mcp/) — 丹麥超市網站的MCP伺服器，提供商品搜尋和價格比較。
 - [antirez/deepseek-v4-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-antirez-deepseek-v4-gguf/) — 基於 GGUF 格式的深度搜尋文本生成模型。

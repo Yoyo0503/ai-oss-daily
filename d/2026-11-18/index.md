@@ -463,7 +463,6 @@ _每日存檔 · 2026-11-18_
 - [build-small-hackathon/registration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-registration/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [arudradey/qwen-image-2.1-uncensored-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-arudradey-qwen-image-2-1-uncensored-gguf/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Sandflow/sand3d-objaverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sandflow-sand3d-objaverse/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [livliv-dev/stage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livliv-dev-stage/) — AI VTuber 工作室，快速為角色賦予個性和即時互動能力。
 - [Sharpa-Robotics/SharpaDex-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-sharpa-robotics-sharpadex-v1-0/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ropedia-ai/Ropedia-Xperience-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ropedia-ai-ropedia-xperience-2/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [QuickCricketCherish/Stable-Diffusion-WebUI-Portable-Full-Pack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickcricketcherish-stable-diffusion-webui-portable-full-pack/) — SD WebUI 可攜整合包（含模型/ControlNet/LoRA）— 來源不明，謹慎下載。
@@ -750,7 +749,6 @@ _每日存檔 · 2026-11-18_
 - [ProCreations/maple-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-procreations-maple-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [yoge7388095s/eth-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yoge7388095s-eth-trading-bot/) — 自動化以太坊交易機器人，具備 gas 預覽和路由器支援。
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cisco-ai-stupase-speech-enhancement/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [leoquenikeny/premierepro-video-editor-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoquenikeny-premierepro-video-editor-2026/) — PremierePro Video Editor 2026 是一個多軌時間軸和 Lumetri 色彩工作流程的影片編輯器。
 - [K-intelligence/KSAFE-MM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-k-intelligence-ksafe-mm/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [internlm/Atria-Dawn-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internlm-atria-dawn-preview/) — Atria-Dawn-Preview 是一個基於 GLM-MoE-DSA 的大型語言模型，支援中英文。
 - [TencentARC/Pixal3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tencentarc-pixal3d/) — 騰訊 ARC Pixal3D 3D 生成線上示範。
@@ -765,7 +763,6 @@ _每日存檔 · 2026-11-18_
 - [bcbl190626/SpanishBCBL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-bcbl190626-spanishbcbl/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [wideeyededi/uncensored-nsfw-ai-video-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wideeyededi-uncensored-nsfw-ai-video-api/) — 成人向 AI 影片生成 API，支援文生/圖生影片。
 - [codepawl/objaverse-clean-glb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-codepawl-objaverse-clean-glb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [dhruvthakur11/youtube-ai-video-editing-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dhruvthakur11-youtube-ai-video-editing-system/) — YouTube AI 影片編輯系統是一個基於 JSON 的動畫和運動圖形工作流程系統。
 - [hugging-apps/kroma-krea2-lora-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-kroma-krea2-lora-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [openai-community/gpt2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-openai-community-gpt2/) — OpenAI 的 GPT-2 模型，用於文本生成。
 - [biglam/europeana_newspapers_images](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-biglam-europeana-newspapers-images/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

@@ -662,7 +662,6 @@ _每日存檔 · 2026-11-15_
 - [ideogram-ai/ideogram4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ideogram-ai-ideogram4/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [build-small-hackathon/certificate-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-certificate-generator/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Rapidata/text-to-3d-with-llm-code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-rapidata-text-to-3d-with-llm-code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [dhruvthakur11/youtube-ai-video-editing-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dhruvthakur11-youtube-ai-video-editing-system/) — YouTube AI 影片編輯系統是一個基於 JSON 的動畫和運動圖形工作流程系統。
 - [nvidia/PhysicalAI-Autonomous-Vehicles-Foundation4D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-autonomous-vehicles-foundation4d/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AlexWortega/same-data-different-losses](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-alexwortega-same-data-different-losses/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hide1/MOSS-Image-Character-Catalog](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hide1-moss-image-character-catalog/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -684,7 +683,6 @@ _每日存檔 · 2026-11-15_
 - [shinyobjectz/raea](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shinyobjectz-raea/) — Render Anything Engine 是一個基於 Rust 和 Bevy 的渲染引擎，支援 3D 和遊戲開發。
 - [ankitjh4/bharat-government-documents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ankitjh4-bharat-government-documents/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [FINAL-Bench/Aether-7B-5Attn-checkpoints](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-final-bench-aether-7b-5attn-checkpoints/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [leoquenikeny/premierepro-video-editor-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoquenikeny-premierepro-video-editor-2026/) — PremierePro Video Editor 2026 是一個多軌時間軸和 Lumetri 色彩工作流程的影片編輯器。
 - [qualialabsAI/SmoothConv](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qualialabsai-smoothconv/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [webml-community/s1-mini-webgpu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-s1-mini-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [jaredpalmer/kev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jaredpalmer-kev/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

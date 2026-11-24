@@ -9,13 +9,13 @@ _每日存檔 · 2026-11-09_
 - [autotrust/AutoTrust-JEV-27B-v1.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-autotrust-jev-27b-v1-1/) — AutoTrust-JEV-27B-v1.1 是一個用於文本分類的模型，支援 vllm 和 qwen3_5。
 - [RikiyaT/Qwen3.5-0.8B-weight-space-programming](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-rikiyat-qwen3-5-0-8b-weight-space-programming/) — Qwen3.5-0.8B-weight-space-programming 是一個用於影像文字轉文字生成的模型，支援 transformers 和 qwen3_5。
 - [qybaihe/bla](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qybaihe-bla/) — BLA 是一個保護二進位制、Electron 應用程式等免受 AI 反向工程攻擊的防護系統。
-- [leoquenikeny/premierepro-video-editor-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoquenikeny-premierepro-video-editor-2026/) — PremierePro Video Editor 2026 是一個多軌時間軸和 Lumetri 色彩工作流程的影片編輯器。
-- [dhruvthakur11/youtube-ai-video-editing-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dhruvthakur11-youtube-ai-video-editing-system/) — YouTube AI 影片編輯系統是一個基於 JSON 的動畫和運動圖形工作流程系統。
 - [Nihilist-ZIO/prompt-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nihilist-zio-prompt-library/) — Prompt-Library 是一個包含 95 個 AI 影像和影片提示詞的庫，分為六大類。
 - [codepawl/asset-index](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-codepawl-asset-index/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [israellaguan/codex-tool-use-trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-israellaguan-codex-tool-use-trajectories/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [codepawl/objaverse-clean-glb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-codepawl-objaverse-clean-glb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nace-ai/kapitsa](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nace-ai-kapitsa/) — Kapitsa 是一個為 Qwen 和 Nemotron 最佳化的快速蘋果晶片推理引擎，相容 OpenAI 和 Anthropic API。
+- [WallStreetPete/awesome-open-source-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wallstreetpete-awesome-open-source-trading/) — Awesome-Open-Source-Trading 是一個整理了 450 多個開源交易專案和 110 多個量化策略論文的清單。
+- [HuggingFaceTB/smol-training-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacetb-smol-training-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -359,8 +359,6 @@ _每日存檔 · 2026-11-09_
 - [ATH-MaaS/OvisOCR2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ath-maas-ovisocr2/) — 將影像文字轉換為純文本的 OCR 模型，支援多種檔案格式解析。
 - [hotdogs/qwen3.6-27b-fable5-lora](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-hotdogs-qwen3-6-27b-fable5-lora/) — 使用LoRA技術訓練的文本生成模型，適用於程式碼生成和對話。
 - [baseten/GLM-5.2-Vision-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-baseten-glm-5-2-vision-nvfp4/) — 圖文轉文字模型，支援多模態和對話功能。
-- [leoquenikeny/premierepro-video-editor-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoquenikeny-premierepro-video-editor-2026/) — PremierePro Video Editor 2026 是一個多軌時間軸和 Lumetri 色彩工作流程的影片編輯器。
-- [dhruvthakur11/youtube-ai-video-editing-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dhruvthakur11-youtube-ai-video-editing-system/) — YouTube AI 影片編輯系統是一個基於 JSON 的動畫和運動圖形工作流程系統。
 - [Unsloth 版 Qwen3.6-27B（GGUF 量化）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-unsloth-qwen3-6-27b-mtp-gguf/) — 由 Unsloth 釋出的 Qwen3.6-27B GGUF 量化權重，下載近 88 萬。
 - [KRAFTON/A.X-K2-Raon-Speech-21B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-krafton-a-x-k2-raon-speech-21b-a3b/) — 基於transformers框架的多模態語音處理模型。
 - [WizardTY/GEAR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-wizardty-gear/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

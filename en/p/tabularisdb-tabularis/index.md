@@ -4,5 +4,5 @@ Open-source desktop SQL workspace with 3 built-in database drivers and 29 shippe
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：5,522
+**Stars**：5,531
 **Source**：https://github.com/TabularisDB/tabularis

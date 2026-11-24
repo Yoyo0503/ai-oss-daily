@@ -771,7 +771,6 @@ _每日存檔 · 2026-11-23_
 - [yoge7388095s/eth-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yoge7388095s-eth-trading-bot/) — 自動化以太坊交易機器人，具備 gas 預覽和路由器支援。
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cisco-ai-stupase-speech-enhancement/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [laion/laion-audio-xl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-laion-laion-audio-xl/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [leoquenikeny/premierepro-video-editor-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoquenikeny-premierepro-video-editor-2026/) — PremierePro Video Editor 2026 是一個多軌時間軸和 Lumetri 色彩工作流程的影片編輯器。
 - [K-intelligence/KSAFE-MM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-k-intelligence-ksafe-mm/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [internlm/Atria-Dawn-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internlm-atria-dawn-preview/) — Atria-Dawn-Preview 是一個基於 GLM-MoE-DSA 的大型語言模型，支援中英文。
 - [TencentARC/Pixal3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tencentarc-pixal3d/) — 騰訊 ARC Pixal3D 3D 生成線上示範。
@@ -808,7 +807,6 @@ _每日存檔 · 2026-11-23_
 - [nvidia/nemotron-transcribe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nvidia-nemotron-transcribe/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/irodori-tts-anime-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-irodori-tts-anime-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [codepawl/rocketbox-avatars-glb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-codepawl-rocketbox-avatars-glb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [dhruvthakur11/youtube-ai-video-editing-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dhruvthakur11-youtube-ai-video-editing-system/) — YouTube AI 影片編輯系統是一個基於 JSON 的動畫和運動圖形工作流程系統。
 - [HenryJ12/InvestorLastExam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-henryj12-investorlastexam/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [YanNyeinHtet/EggLab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yannyeinhtet-egglab/) — 在 Windows 上使用 Qwen-Image-2.1 生成和編輯影像的本地 AI 工具。
 - [hasan6969macho-bit/vectorbt-avoria-analysis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hasan6969macho-bit-vectorbt-avoria-analysis/) — 用於 Avoria 分析的可重現策略實驗研究程式碼。
@@ -1031,7 +1029,6 @@ _每日存檔 · 2026-11-23_
 - [smolagents/hf-realtime-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-smolagents-hf-realtime-voice/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [CodeSoft/SLM-Arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-codesoft-slm-arena/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [HeyChengC/wallstreet-explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heychengc-wallstreet-explainer/) — 設計和生成財經或科技解讀短片的工具。
-- [livliv-dev/stage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livliv-dev-stage/) — AI VTuber 工作室，快速為角色賦予個性和即時互動能力。
 - [gallerypheasanttongs/melodyne](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gallerypheasanttongs-melodyne/) — 音樂旋律提取和MIDI生成工具。
 - [papisoV/Selenequant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/papisov-selenequant/) — 本地化AI量化研究平臺，支援問題持久化和版本控制。
 - [baka999/MiniMax-H3-Image-MysticXXX-V5](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-baka999-minimax-h3-image-mysticxxx-v5/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）

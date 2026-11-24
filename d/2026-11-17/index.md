@@ -12,10 +12,10 @@ _每日存檔 · 2026-11-17_
 - [IFM/PAN2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ifm-pan2/) — 將影像和文本轉換為影片的模型。
 - [VillagePrefect/stable-diffusion-atelier](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/villageprefect-stable-diffusion-atelier/) — 穩定擴散模型的實驗筆記，包含 sampler 和 LoRA 計劃。
 - [Suraj64x/VoiceBird](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/suraj64x-voicebird/) — 將指令碼轉換為專業語音過場的 AI 工具，支援離線和快速匯出。
-- [livliv-dev/stage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livliv-dev-stage/) — AI VTuber 工作室，快速為角色賦予個性和即時互動能力。
 - [HubLabs/HubEgo-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hublabs-hubego-100k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [n4ze3m/tiny-voca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-n4ze3m-tiny-voca/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [AJ-Gonzalez/qwen4-max-reasoning-250x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-aj-gonzalez-qwen4-max-reasoning-250x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [Keys-Wasserman/Imagination-Studio-by-keys-Wasserman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/keys-wasserman-imagination-studio-by-keys-wasserman/) — 一個基於 TensorFold 的 AI 影片工作室，支援 Mac 和 NVIDIA DGX Spark，用於影片創作和渲染。
 
 ## 🚀 Star 竄升
 
@@ -697,7 +697,6 @@ _每日存檔 · 2026-11-17_
 - [ostris/minimax_h3_1k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ostris-minimax-h3-1k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [keysersoze/Faceswap-Headswap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-keysersoze-faceswap-headswap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Photoroom/PRX-Pixel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-photoroom-prx-pixel/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [livliv-dev/stage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/livliv-dev-stage/) — AI VTuber 工作室，快速為角色賦予個性和即時互動能力。
 - [Qwen/BlenderWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-blenderworld/) — Hugging Face 資料集，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
 - [armand0e/qwen3.7-max-pi-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-armand0e-qwen3-7-max-pi-traces/) — Qwen3.7-max 的推理軌跡資料集（小型 <1K）。
 - [build-small-hackathon/jawbreaker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-build-small-hackathon-jawbreaker/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -711,7 +710,6 @@ _每日存檔 · 2026-11-17_
 - [Hcompany/trajectories](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-hcompany-trajectories/) — Hugging Face 資料集，關鍵字：agent（依標籤自動歸類，詳細看下方原文）
 - [LiquidAI/LFM2.5-VL-3B-WebGPU](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-liquidai-lfm2-5-vl-3b-webgpu/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [inclusionAI/ConceptEdit-12M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-inclusionai-conceptedit-12m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [dhruvthakur11/youtube-ai-video-editing-system](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dhruvthakur11-youtube-ai-video-editing-system/) — YouTube AI 影片編輯系統是一個基於 JSON 的動畫和運動圖形工作流程系統。
 - [alkhudarigroupuae/PumpFun-Trainer_V1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alkhudarigroupuae-pumpfun-trainer-v1/) — Solana幣交易的自動化工具，具備狙擊、價格監控等功能。
 - [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jub0t-concat/) — Concat 是一個免費的跨平臺影片編輯器，可替代 CapCut。
 - [Routeclijudge/Pinnacle-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/routeclijudge-pinnacle-studio/) — Pinnacle Studio 相關的音訊編輯指南與顯示設定。
@@ -727,7 +725,6 @@ _每日存檔 · 2026-11-17_
 - [yoge7388095s/eth-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yoge7388095s-eth-trading-bot/) — 自動化以太坊交易機器人，具備 gas 預覽和路由器支援。
 - [shinyobjectz/raea](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shinyobjectz-raea/) — Render Anything Engine 是一個基於 Rust 和 Bevy 的渲染引擎，支援 3D 和遊戲開發。
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cisco-ai-stupase-speech-enhancement/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [leoquenikeny/premierepro-video-editor-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leoquenikeny-premierepro-video-editor-2026/) — PremierePro Video Editor 2026 是一個多軌時間軸和 Lumetri 色彩工作流程的影片編輯器。
 - [K-intelligence/KSAFE-MM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-k-intelligence-ksafe-mm/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [internlm/Atria-Dawn-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-internlm-atria-dawn-preview/) — Atria-Dawn-Preview 是一個基於 GLM-MoE-DSA 的大型語言模型，支援中英文。
 - [TencentARC/Pixal3D](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-tencentarc-pixal3d/) — 騰訊 ARC Pixal3D 3D 生成線上示範。
