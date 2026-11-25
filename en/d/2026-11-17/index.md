@@ -1053,7 +1053,7 @@ _Daily archive · 2026-11-17_
 - [suvadityamuk/3d-representations-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-suvadityamuk-3d-representations-guide/) — · static, 3d, visualization
 - [AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/academiasd-academiasd-loralab-trainerstudio/) — Train LoRAs for Qwen-Image 2.1, FLUX.2 Klein 9B, Krea 2, Z-Image, Ideogram 4, Anima, SDXL (Pony, Illustrious,…
 - [tradoor-terminal/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tradoor-terminal-tradoor/) — Open-source crypto trading terminal in the browser: charts, DOM, footprint, TPO market profile, liquidations …
-- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build the next generation of user interfaces.
+- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build and drive the next generation of user interfaces.
 - [theonetrade/pynecore-strategies](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/theonetrade-pynecore-strategies/) — PyneCore ports of 449 TradingView community strategies, 471 indicators and 85 Pine libraries, compiled from P…
 - [open-thoughts/OpenThoughts-Agent-SFT-100K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-open-thoughts-openthoughts-agent-sft-100k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
 - [amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-qwen-2-1-turbo-qwen-face-swap-moss-image-edit-outpaint-qwen-detail-enhancer/) — · gradio, image-to-image, image-editing
@@ -1602,7 +1602,7 @@ _Daily archive · 2026-11-17_
 - [inssist/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inssist-mcp/) — MCP server that lets AI agents (Claude Code, Codex, Cursor) work inside your own Instagram session through th…
 - [LiquidAI/antidoom-mix-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-liquidai-antidoom-mix-v1-0/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [datamllab/OpenEBFM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datamllab-openebfm/) — Open-source code for training and scaling up energy-based foundation models.
-- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Community CLI for Google Workspace APIs.
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Personal memory across agents
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:1M<n<10M, modality:text
 - [zc6503204-collab/stock-strategy-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zc6503204-collab-stock-strategy-dashboard/) — 本地运行的A股/美股多策略选股、模拟交易与风控提醒工作台｜Local-first and read-only

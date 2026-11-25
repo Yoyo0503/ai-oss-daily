@@ -976,7 +976,7 @@ _Daily archive · 2026-11-15_
 - [google/elephant-goldfish-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/google-elephant-goldfish-model/) — Open-source plugin for designing and reviewing software with agents
 - [artefactory/ledger-market-sentiment](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-artefactory-ledger-market-sentiment/) — · task_categories:text-classification, task_categories:time-series-forecasting, language:en
 - [google/WikiProfile](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-google-wikiprofile/) — · task_categories:question-answering, language:en, license:cc-by-sa-4.0
-- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build the next generation of user interfaces.
+- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build and drive the next generation of user interfaces.
 - [nisten/opus5-5-doctor-patient-conversations-all-human-diseases](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nisten-opus5-5-doctor-patient-conversations-all-human-diseases/) — · task_categories:question-answering, task_categories:text-generation, language:en
 - [assafkip/claudemy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/assafkip-claudemy/) — Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and bu…
 - [LosaLosSantos/aurelio-finance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/losalossantos-aurelio-finance/) — Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash …
@@ -1586,7 +1586,7 @@ _Daily archive · 2026-11-15_
 - [inssist/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inssist-mcp/) — MCP server that lets AI agents (Claude Code, Codex, Cursor) work inside your own Instagram session through th…
 - [monid-ai/monid](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/monid-ai-monid/) — Monid - OpenRouter for agent tools. Join our community at https://discord.gg/rQzztcgJV8
 - [LiquidAI/antidoom-mix-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-liquidai-antidoom-mix-v1-0/) — · task_categories:text-generation, language:en, license:apache-2.0
-- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Community CLI for Google Workspace APIs.
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Personal memory across agents
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:1M<n<10M, modality:text
 - [lifeidle/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lifeidle-comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2-2/) — RTX 5090 Laptop (24GB) + ComfyUI: 12 model lines / 21 measured configs — MiniMax H3, Wan 2.2, Qwen-Image 2512…

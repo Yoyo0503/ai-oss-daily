@@ -4,5 +4,5 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：73,446
+**Stars**：74,222
 **Source**：https://github.com/mvanhorn/last30days-skill

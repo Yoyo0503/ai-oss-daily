@@ -2,7 +2,7 @@
 
 使用 ONNX 和 diffusers 的長貓影片頭像生成。
 
-**為何上榜**：HF trending 114 · 466 likes · 4,083 下載
+**為何上榜**：HF trending 84 · 492 likes · 4,665 下載
 
 **商用授權**：授權未明 — 未知授權代碼 mit — 請人工確認商用條款
 

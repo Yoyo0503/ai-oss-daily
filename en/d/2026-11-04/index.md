@@ -1513,7 +1513,7 @@ _Daily archive · 2026-11-04_
 - [felixmelanson/quantdrift](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/felixmelanson-quantdrift/) — WIP; Tracking 7 AI models as they pilot live stock portfolios using distinct, data-driven philosophies.
 - [ChartGalaxy/ChartGalaxy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-chartgalaxy-chartgalaxy/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
 - [xpzouying/xiaohongshu-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xpzouying-xiaohongshu-mcp/) — MCP for xiaohongshu.com
-- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Community CLI for Google Workspace APIs.
 - [eigent-ai/eigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eigent-ai-eigent/) — Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 - [galleonlabs/hypergrok-trading-desk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/galleonlabs-hypergrok-trading-desk/) — Hyperliquid trading desk for AI agents: 7 roles, 17 skills and keyless market tools. Research first; executio…
 - [LiquidAI/antidoom-mix-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-liquidai-antidoom-mix-v1-0/) — · task_categories:text-generation, language:en, license:apache-2.0

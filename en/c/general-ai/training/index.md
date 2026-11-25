@@ -8,10 +8,10 @@
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akatz-ai-minimax-h3-character-swap-lora/) — video-to-video · diffusion-single-file, minimax-h3, lora
 - [pablodawson/MiniMax-H3-360-Orbit-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pablodawson-minimax-h3-360-orbit-lora/) — image-text-to-video · minimax-h3, lora, image-to-video
+- [Lakonik/pi-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lakonik-pi-h3/) — image-text-to-video · diffusers, safetensors, flow-matching
 - [bespokelabs/Bespoke-Nimble-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bespokelabs-bespoke-nimble-9b/) — text-classification · peft, safetensors, lora
 - [Alissonerdx/Minimax-H3-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alissonerdx-minimax-h3-comfyui/) — · minimax-h3, lora, video
 - [Edge0/Edge0-35B-A3B-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-edge0-35b-a3b-preview/) — text-generation · mlx, safetensors, qwen3_5_moe
-- [Lakonik/pi-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lakonik-pi-h3/) — image-text-to-video · diffusers, safetensors, flow-matching
 - [briaai/RMBG-3.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-briaai-rmbg-3-0/) — image-segmentation · diffusers, safetensors, background-removal
 - [ilkerzgi/fal-Krea-2-Style-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ilkerzgi-fal-krea-2-style-loras/) — · lora, krea, krea-2
 - [nvidia/Nemotron-Labs-Audex-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-labs-audex-30b-a3b/) — text-generation · transformers, safetensors, nemotron_labs_audex
@@ -24,6 +24,7 @@
 - [Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pepe104-minimax-h3-turbo-lora-uncensored/) — · gradio, region:us
 - [amisima/LTX-2.3-10Eros_I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-ltx-2-3-10eros-i2v/) — · gradio, video, image-to-video
 - [Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mothersuperior-yue2-mothersuperior-realaudio-tokenizer-v4/) — · audio, music, yue2
+- [sous-labs/songe](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sous-labs-songe/) — A training engine for your local model, using your idle compute
 - [conradlocke/krea2-identity-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-conradlocke-krea2-identity-edit/) — · image-editing, lora, comfyui
 - [arudradey/qwen-image-2.1-uncensored-aio-loras](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-arudradey-qwen-image-2-1-uncensored-aio-loras/) — · gradio, mcp-server, region:us
 - [Soofi-Project/Pretraining-Tech-Report-old](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-soofi-project-pretraining-tech-report-old/) — · static, region:us
@@ -39,7 +40,6 @@
 - [nvidia/Nemotron-SFT-Finance-Document-Grounded-Reasoning-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-sft-finance-document-grounded-reasoning-v1/) — · task_categories:text-generation, language:en, license:openmdw-1.1
 - [IFM/SFT-Reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ifm-sft-reasoning/) — · task_categories:text-generation, license:apache-2.0, region:us
 - [M3st3rJ4k3l/qwen-image-2.1-multi-Loras](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-m3st3rj4k3l-qwen-image-2-1-multi-loras/) — · gradio, region:us
-- [sous-labs/songe](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sous-labs-songe/) — A training engine for your local model, using your idle compute
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
 - [cereeenn120/MiniMax-H3-Turbo-Lora-Unrestricted-REF2VA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cereeenn120-minimax-h3-turbo-lora-unrestricted-ref2va/) — · gradio, region:us
 - [pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pnemrow-qwen-image-edit-rapid-aio-loras-experimental-neo/) — · gradio, mcp-server, region:us
@@ -58,9 +58,9 @@
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
 - [Lucas5913/tllm-instruct-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lucas5913-tllm-instruct-forge/) — Open Source Instruction Tuning LLM Training Library 2026
 - [Specific-Labs/Scaffold-CoT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-specific-labs-scaffold-cot/) — · task_categories:text-generation, language:en, license:cc-by-4.0
-- [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/akashpriyadarshii-jev-curate/) — High-throughput synthetic and pretraining dataset sifter for TypeSafe Jev. Rust streaming core, Parquet and J…
 - [petkyletampu28-a11y/tasknet-multitask](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/petkyletampu28-a11y-tasknet-multitask/) — Modern Multi-Task NLP Fine-Tuning Framework with ModernBERT 2026
 - [Himanshu-giri-01/k8s-ai-runtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/himanshu-giri-01-k8s-ai-runtime/) — Streamline AI Workloads on Kubernetes: Universal Python SDK Guide 2026
+- [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/akashpriyadarshii-jev-curate/) — High-throughput synthetic and pretraining dataset sifter for TypeSafe Jev. Rust streaming core, Parquet and J…
 - [mehmetbulutaktas458-dev/Aozora-Forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mehmetbulutaktas458-dev-aozora-forge/) — Low VRAM SDXL Fine-Tuning Toolkit 2026: Train Full-Quality AI Models on 12GB GPUs
 - [Tranvanviet27/NLP-LLM-Fine-Tuning-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tranvanviet27-nlp-llm-fine-tuning-studio/) — Best Open Source NLP LLM Fine-Tuning Trainer Framework 2026
 - [Alg-Khlifa-Mouad-Iyad/GPT2-MathRiddle-Forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alg-khlifa-mouad-iyad-gpt2-mathriddle-forge/) — Fine-Tuning GPT-2 for Math Riddles Generation with Transformers and TRL 2026
@@ -69,10 +69,10 @@
 - [STEAM-DROPS/finetune-lab-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/steam-drops-finetune-lab-notes/) — Fine-Tuning Transformers in 2026: Hands-On LLM Training, LoRA, and PEFT Guide
 - [IIGroup/X-Coder-SFT-376k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-iigroup-x-coder-sft-376k/) — · task_categories:text-generation, language:en, license:mit
 - [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
+- [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sunrainyg-randopt/) — Official Codebase for "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights" (ICML 2026 …
 - [njgymb/diffusers-sculptor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/njgymb-diffusers-sculptor/) — Efficient Stable Diffusion Fine-Tuning Framework 2026: Lightweight Config-Driven Pipeline
 - [RNetworks2019/fine-tuning-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rnetworks2019-fine-tuning-playground/) — Mastering LLM Fine-Tuning in 2026: A Practical Guide from Hugging Face Basics to Production
 - [StudioFoysal/RiddleGen-FineTuned-GPT2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/studiofoysal-riddlegen-finetuned-gpt2/) — Math Riddle Generation 2026: Fine-Tuned GPT-2 for Automated Puzzle Solving
-- [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sunrainyg-randopt/) — Official Codebase for "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights" (ICML 2026 …
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-hrm-text/) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and lat…
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-can-i-finetune-this/) — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.

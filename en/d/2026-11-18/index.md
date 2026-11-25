@@ -1088,7 +1088,7 @@ _Daily archive · 2026-11-18_
 - [zai-org/OpenVuln](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-zai-org-openvuln/) — · docker, region:us
 - [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/elementarrow-make-com/) — Make.com
 - [Jackrong/DeepSeek-V4-Pro-Distilled-200K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-jackrong-deepseek-v4-pro-distilled-200k/) — · task_categories:text-generation, language:en, license:cc-by-4.0
-- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build the next generation of user interfaces.
+- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build and drive the next generation of user interfaces.
 - [AlicanKiraz0/Turkish-CoT-Instruct-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alicankiraz0-turkish-cot-instruct-dataset/) — · task_categories:text-generation, task_categories:question-answering, language:tr
 - [ethanplusai/astro-conversion-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ethanplusai-astro-conversion-kit/) — Agent Skills that convert a WordPress site (or any live site) into a static Astro site with URL, SEO, content…
 - [cclank/lanshu-infinite-stream-koubo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-infinite-stream-koubo/) — 一套母片，持续出片。Agent 驱动的无限流数字人口播 Skill：素材复用、多风格剪辑、可见片段口型与音轨锁定。
@@ -1626,7 +1626,7 @@ _Daily archive · 2026-11-18_
 - [eigent-ai/eigent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eigent-ai-eigent/) — Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 - [inssist/mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/inssist-mcp/) — MCP server that lets AI agents (Claude Code, Codex, Cursor) work inside your own Instagram session through th…
 - [LiquidAI/antidoom-mix-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-liquidai-antidoom-mix-v1-0/) — · task_categories:text-generation, language:en, license:apache-2.0
-- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Community CLI for Google Workspace APIs.
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Personal memory across agents
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:1M<n<10M, modality:text
 - [zc6503204-collab/stock-strategy-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zc6503204-collab-stock-strategy-dashboard/) — 本地运行的A股/美股多策略选股、模拟交易与风控提醒工作台｜Local-first and read-only

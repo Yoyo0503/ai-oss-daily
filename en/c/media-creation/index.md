@@ -5,18 +5,18 @@
 - [inworld/voice-isolator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-inworld-voice-isolator/) — audio-to-audio · inworld-voice-isolation, audio, speech
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
 - [higurashi-ai/Haru-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-higurashi-ai-haru-4b/) — audio-to-audio · safetensors, haru, speech
-- [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/) — text-to-image · diffusers, safetensors, gguf
 - [Cactus-Compute/whistle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-whistle/) — automatic-speech-recognition · cactus-needle, whistle, speech-recognition
-- [MiniMaxAI/MiniMax-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-h3-image/) — text-to-image · minimax-h3, diffusers, safetensors
 - [canberkkkkkk/ema-lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-canberkkkkkk-ema-lightning/) — text-to-speech · ema-lightning, text-to-speech, tts
-- [apple/FastFrames-L](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-apple-fastframes-l/) — text-to-video · safetensors, text-to-video, arxiv:2611.23226
 - [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-3-image-klein/) — image-to-image · diffusers, safetensors, image-generation
 - [Pika-Labs/Pika-H3-Flex-Turbo-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pika-labs-pika-h3-flex-turbo-lora/) — image-to-video · minimax-h3, pika, pika-h3-flex
 - [lodestones/Kromoss](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lodestones-kromoss/) — text-to-image · diffusers, safetensors, moss-image
 - [Viggle/Qwen-Image-2.1-viggle-turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-viggle-qwen-image-2-1-viggle-turbo/) — text-to-image · diffusers, safetensors, gguf
 - [Pika-Labs/Pika-H3-Flex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pika-labs-pika-h3-flex/) — image-to-video · pika-h3-flex, diffusers, safetensors
+- [apple/FastFrames-L](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-apple-fastframes-l/) — text-to-video · safetensors, text-to-video, arxiv:2611.23226
+- [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/) — text-to-image · diffusers, safetensors, gguf
 - [PrunaAI/Pruna-Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prunaai-pruna-qwen-image-2-1/) — text-to-image · diffusers, qwen, image-generation
 - [microsoft/Mage-Flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-flow/) — text-to-image · diffusers, safetensors, text-to-image
+- [MiniMaxAI/MiniMax-H3-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-minimaxai-minimax-h3-image/) — text-to-image · minimax-h3, diffusers, safetensors
 - [maya-research/maya2-native](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-maya-research-maya2-native/) — text-to-speech · safetensors, maya3, text-to-speech
 - [Comfy-Org/RelayVSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-relayvsr/) — unconditional-image-generation · diffusion-single-file, comfyui, unconditional-image-generation
 - [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree/) — text-to-video · diffusers, safetensors, text-to-video
@@ -41,7 +41,6 @@
 - [alibaba-pai/MiniMax-H3-Acc-LoRAs](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-acc-loras/) — text-to-video · videox_fun, text-to-video, arxiv:2607.26004
 - [Supertone/supertonic-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-supertone-supertonic-3/) — text-to-speech · supertonic, onnx, text-to-speech
 - [ConwayResearch/Underdog-Woof](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-conwayresearch-underdog-woof/) — text-to-speech · numpy, text-to-speech, tts
-- [black-forest-labs/flux-3-image-klein-comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-3-image-klein-comfy/) — image-to-image · diffusion-single-file, comfyui, image-generation
 - [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-drbaph-minimax-h3-turbo-lora-comfyui/) — text-to-video · minimax-h3, lora, adapter
 - [google/magenta-realtime-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-magenta-realtime-2/) — text-to-audio · magenta-realtime-2, tflite, text-to-audio
 - [moondream/parakeet-redux](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-moondream-parakeet-redux/) — automatic-speech-recognition · safetensors, parakeet_tdt, ternary
@@ -51,6 +50,7 @@
 - [alibaba-pai/MiniMax-H3-Fun-Controlnet-Union](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/) — text-to-video · videox_fun, controlnet, video-to-video
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-warmbloodaban-minimax-h3-singularity/) — image-to-video · minimax-h3, video-generation, text-to-video
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-patil-krea-2-depth-controlnet/) — image-to-image · controlnet, lora, depth
+- [black-forest-labs/flux-3-image-klein-comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-black-forest-labs-flux-3-image-klein-comfy/) — image-to-image · diffusion-single-file, comfyui, image-generation
 - [Gazingstars123/Anima-2.9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-gazingstars123-anima-2-9b/) — text-to-image · diffusion-single-file, anima, comfyui
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — automatic-speech-recognition · transformers, safetensors, cohere_asr
 - [vyrekai/minimax-h3-image-comfyui-workflows](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-vyrekai-minimax-h3-image-comfyui-workflows/) — text-to-image · minimax-h3, comfyui, workflow

@@ -4,5 +4,5 @@ Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：12,674
+**Stars**：13,005
 **Source**：https://github.com/JuneYaooo/rea-video

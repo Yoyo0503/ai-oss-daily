@@ -1056,7 +1056,7 @@ _Daily archive · 2026-11-20_
 - [SequentialLearning/DualTime-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-sequentiallearning-dualtime-data/) — · task_categories:question-answering, task_categories:multiple-choice, task_categories:summarization
 - [CrossSWE/CrossSWE-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-crossswe-crossswe-bench/) — · task_categories:text-generation, language:en, license:other
 - [greghavens/gpt-5.6-sol-coding-and-debugging-traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-greghavens-gpt-5-6-sol-coding-and-debugging-traces/) — · task_categories:text-generation, task_categories:question-answering, language:en
-- [BaaRai/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/baarai-artex/) — ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)
+- [BaaRai/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/baarai-artex/) — Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-ba…
 - [pollen-robotics/microduck-arena](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pollen-robotics-microduck-arena/) — · docker, region:us
 - [makora-ai/triton-gpu-latency](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-makora-ai-triton-gpu-latency/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [markov-ai/gaming-500-hours](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-markov-ai-gaming-500-hours/) — · size_categories:n<1K, format:json, modality:tabular
@@ -1117,7 +1117,7 @@ _Daily archive · 2026-11-20_
 - [brewed-ops/talking-explainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/brewed-ops-talking-explainer/) — A Claude Code skill that turns a topic into a narrated motion-design explainer, presented by a cartoon that l…
 - [ethanplusai/astro-conversion-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ethanplusai-astro-conversion-kit/) — Agent Skills that convert a WordPress site (or any live site) into a static Astro site with URL, SEO, content…
 - [andyboss1995/ritmex-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/andyboss1995-ritmex-bot/) — Bun/TypeScript multi-exchange perpetuals trading bot + HK momentum strategy
-- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build the next generation of user interfaces.
+- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build and drive the next generation of user interfaces.
 - [Fangx-AI/geo-doctor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fangx-ai-geo-doctor/) — GEO 医生：一句话装进 AI 助手，查清豆包、DeepSeek、ChatGPT、Claude 为什么不推荐你，改资料、写内容、再复查。开源中英双语 GEO（生成式引擎优化）skill。
 - [Rai81047nranger/TikTok-rpocket-team-Account-Creator-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rai81047nranger-tiktok-rpocket-team-account-creator-2/) — Tiktok Account Creator Web Api
 - [TencentARC/GAE-GeometricAutoEncoder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tencentarc-gae-geometricautoencoder/) — [arxiv'26] GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
@@ -1659,7 +1659,7 @@ _Daily archive · 2026-11-20_
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Personal memory across agents
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:1M<n<10M, modality:text
 - [bayshier/voicestudio-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bayshier-voicestudio-zh/) — VoiceStudio 中文版：开源、完全本地的 ElevenLabs 替代品——语音克隆、语音设计、视频配音、听写、转写与有声书，646 种语言（译自 debpalash/VoiceStudio，AGPL-3.0）
-- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Community CLI for Google Workspace APIs.
 - [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nari-labs-nari-qwen3-tts/) — Ultrafast Qwen3-TTS: sub-50 ms time-to-first-audio at 10 requests per second.
 - [avifenesh/memra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avifenesh-memra/) — Rust + CUDA inference engine for NVIDIA RTX PRO 6000 Blackwell and RTX 5090. Serves safetensors and GGUF over…
 - [PlaceNL2026/best-of-algorithmic-trading](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/placenl2026-best-of-algorithmic-trading/) — algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source…

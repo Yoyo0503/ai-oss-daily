@@ -4,5 +4,5 @@ Convert Claude Code or Codex into the most intelligent Deep Research Agent. Coll
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：5,046
+**Stars**：5,081
 **Source**：https://github.com/jordan-gibbs/hyperresearch

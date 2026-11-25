@@ -15,7 +15,7 @@ _每日存檔 · 2026-11-24_
 - [fujc683/cheap-video-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fujc683-cheap-video-api/) — 按秒計費的AI影片模型排名和預算建議。
 - [fujc683/ai-video-api-gateway](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fujc683-ai-video-api-gateway/) — 一個相容OpenAI的端點，支援多個AI影片生成工具。
 - [Carol-lyh/Jeveration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carol-lyh-jeveration/) — Jeveration 是一個使用 PyTorch 的影像生成系統，支援文字轉影像和視覺語言模型。
-- [byttrade/bytx-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/byttrade-bytx-skills/) — bytx-skills 是用於 AI 助手的加密貨幣交易技能，包括 CLI 和 Claude 技能。
+- [lewtun/from-llms-to-swarms](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lewtun-from-llms-to-swarms/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 
 ## 🚀 Star 竄升
 
@@ -498,7 +498,6 @@ _每日存檔 · 2026-11-24_
 - [OpenOneRec/Explorer_LLM_Rec_Competition](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openonerec-explorer-llm-rec-competition/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Battalionibnrace/VP13-23](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/battalionibnrace-vp13-23/) — Sony Vegas Pro 21免費版的影片編輯和後製工具。
 - [fendouai/free-youtube-transcript](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-fendouai-free-youtube-transcript/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [byttrade/bytx-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/byttrade-bytx-skills/) — bytx-skills 是用於 AI 助手的加密貨幣交易技能，包括 CLI 和 Claude 技能。
 - [sher1096/klinepic-agent-api-examples](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sher1096-klinepic-agent-api-examples/) — 提供加密貨幣交易後的K線圖生成工具及範例。
 - [webml-community/ternary-bonsai-2-webgpu-kernels](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-webml-community-ternary-bonsai-2-webgpu-kernels/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [arc4g/arc-art](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-arc4g-arc-art/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）

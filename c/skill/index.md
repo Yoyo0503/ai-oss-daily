@@ -1,7 +1,7 @@
 # 🧩 Agent Skills
 
-- [celiarceron-byte/virtual-card-usdt-anthropic-enterprise-claude-team-vcc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/celiarceron-byte-virtual-card-usdt-anthropic-enterprise-claude-team-vcc/) — 解析 Anthropic 企業級 Claude 團隊席位採購方案。
 - [Jakeschincariol/day-trader-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-day-trader-skill/) — Claude的11個日交易技能，用於分析市場和制定交易策略。
+- [celiarceron-byte/virtual-card-usdt-anthropic-enterprise-claude-team-vcc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/celiarceron-byte-virtual-card-usdt-anthropic-enterprise-claude-team-vcc/) — 解析 Anthropic 企業級 Claude 團隊席位採購方案。
 - [Jakeschincariol/replica-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-replica-skill/) — Eleven 免費的 Claude 技能，用於逆向工程和測試應用程式。
 - [google/elephant-goldfish-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/) — Google開發的基於LLM的規格驅動開發方法和技能集。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
@@ -23,8 +23,8 @@
 - [career-ops-hq/career-ops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/career-ops-hq-career-ops/) — 自動化職業搜尋和申請流程的AI代理。
 - [K-Dense-AI/scientific-agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/k-dense-ai-scientific-agent-skills/) — 將任何AI代理轉換為科學家，涵蓋生物化學等領域。
 - [mvanhorn/last30days-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mvanhorn-last30days-skill/) — AI 代理技能，研究熱門話題並生成綜合摘要。
-- [blader/humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/) — 去除文本中的 AI 記號，使其更自然。
 - [cathrynlavery/diagram-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-diagram-design/) — 提供 38 種編輯圖形型別，適用於 Claude Code、Codex 和 Pi，自包含 HTML 和 SVG，無陰影。
+- [blader/humanizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blader-humanizer/) — 去除文本中的 AI 記號，使其更自然。
 - [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/code-yeongyu-oh-my-openagent/) — 專門為複雜程式碼庫設計的AI代理整合工具。
 - [coreyhaines31/marketingskills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/coreyhaines31-marketingskills/) — marketingskills 為 Claude Code 和 AI 代理提供行銷技能，包括 CRO、SEO 等。
 - [ayghri/i-have-adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ayghri-i-have-adhd/) — 幫助程式碼代理生成適合ADHD使用者的清晰答案。

@@ -1036,7 +1036,7 @@ _Daily archive · 2026-11-16_
 - [GigaEtherealos/resp-local-generative-colab-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/gigaetherealos-resp-local-generative-colab-skill/) — Skill that drives a visual-reconstruction, editable-asset-extraction, 3D, audio, voice and video-generation p…
 - [TOPDEV99999/AI-Knowledge-Management-Platform](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/topdev99999-ai-knowledge-management-platform/) — An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction…
 - [bench-labs/slop-classification](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-bench-labs-slop-classification/) — · language:en, license:mit, size_categories:n<1K
-- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build the next generation of user interfaces.
+- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build and drive the next generation of user interfaces.
 - [dronefreak/ExDark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-dronefreak-exdark/) — · task_categories:object-detection, language:en, license:bsd-3-clause
 - [cclank/lanshu-infinite-stream-koubo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-infinite-stream-koubo/) — 一套母片，持续出片。Agent 驱动的无限流数字人口播 Skill：素材复用、多风格剪辑、可见片段口型与音轨锁定。
 - [CliffSector21/fooocus](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cliffsector21-fooocus/) — Fooocus — ДЕСКТОПНЫЕ AI — ИЗОБРАЖЕНИЯ.
@@ -1592,7 +1592,7 @@ _Daily archive · 2026-11-16_
 - [LiquidAI/antidoom-mix-v1.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-liquidai-antidoom-mix-v1-0/) — · task_categories:text-generation, language:en, license:apache-2.0
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K
 - [NVIDIA/SkillSpector](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nvidia-skillspector/) — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt inje…
-- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Community CLI for Google Workspace APIs.
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Personal memory across agents
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:1M<n<10M, modality:text
 - [zc6503204-collab/stock-strategy-dashboard](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zc6503204-collab-stock-strategy-dashboard/) — 本地运行的A股/美股多策略选股、模拟交易与风控提醒工作台｜Local-first and read-only

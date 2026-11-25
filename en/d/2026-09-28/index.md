@@ -1133,7 +1133,7 @@ _Daily archive · 2026-09-28_
 - [RNetworks2019/fine-tuning-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rnetworks2019-fine-tuning-playground/) — Mastering LLM Fine-Tuning in 2026: A Practical Guide from Hugging Face Basics to Production
 - [StudioFoysal/RiddleGen-FineTuned-GPT2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/studiofoysal-riddlegen-finetuned-gpt2/) — Math Riddle Generation 2026: Fine-Tuned GPT-2 for Automated Puzzle Solving
 - [Leb947/modernbert-multi-task-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/leb947-modernbert-multi-task-studio/) — ModernBERT Multi-Task Fine-Tuning Hub 2026: Streamlined AI Workflows
-- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Community CLI for Google Workspace APIs.
 - [nanocoai/nanoclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nanocoai-nanoclaw/) — Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container …
 - [MeiGen-AI/OPSD-V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/meigen-ai-opsd-v/) — On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators
 - [cais/mmlu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-mmlu/) — · task_categories:question-answering, task_ids:multiple-choice-qa, annotations_creators:no-annotation

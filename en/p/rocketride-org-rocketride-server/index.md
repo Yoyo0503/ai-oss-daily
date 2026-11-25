@@ -4,5 +4,5 @@ RocketRide is an open source AI meta-harness with the only enterprise-grade runt
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：19,992
+**Stars**：19,988
 **Source**：https://github.com/rocketride-org/rocketride-server

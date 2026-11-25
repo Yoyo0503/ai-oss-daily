@@ -1165,7 +1165,7 @@ _Daily archive · 2026-11-23_
 - [WithinUsAI/Opus_4.7_Distilled](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-opus-4-7-distilled/) — · license:apache-2.0, size_categories:10K<n<100K, format:json
 - [Zhongzhi1228/Recursive-Task-Synthesis](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-zhongzhi1228-recursive-task-synthesis/) — · task_categories:reinforcement-learning, language:en, license:cc-by-4.0
 - [iceleen/Polymarket-BTC-5m-15m-1h-AI-Model-Trading-Bot-LightGBM-XGBoost-Prediction-Market-CLOB-Crypto-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/iceleen-polymarket-btc-5m-15m-1h-ai-model-trading-bot-lightgbm-xgboost-prediction-market-clob-crypto-bot/) — polymarket AI model trading bot — LightGBM/XGBoost BTC 5m/15m/1h Up/Down bot with CLOB execution, calibrated …
-- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build the next generation of user interfaces.
+- [vercel-labs/ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/vercel-labs-ui/) — A library of behaviors for agents to build and drive the next generation of user interfaces.
 - [AxiomicLabs/Arithmark-3.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-axiomiclabs-arithmark-3-0/) — · task_categories:question-answering, language:en, license:apache-2.0
 - [zhtyyx/codex-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhtyyx-codex-seo/) — Free, open-source SEO audits inside OpenAI Codex CLI. Port of claude-seo: 26 skills, 19 specialist roles, tec…
 - [facebook/sam-3d-body-dinov3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-facebook-sam-3d-body-dinov3/) — · sam-3d-body, sam-3d, 3d-human-mesh-recovery
@@ -1191,7 +1191,7 @@ _Daily archive · 2026-11-23_
 - [cclank/lanshu-infinite-stream-koubo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cclank-lanshu-infinite-stream-koubo/) — 一套母片，持续出片。Agent 驱动的无限流数字人口播 Skill：素材复用、多风格剪辑、可见片段口型与音轨锁定。
 - [CohereLabs/cohere-parse](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-coherelabs-cohere-parse/) — · gradio, region:us
 - [Mars-1438/indextts2-longform-workbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mars-1438-indextts2-longform-workbench/) — 基于 IndexTTS2.0 超级优化整合包 V3 的长篇台本工作台与多轨时间轴扩展：台本整理、批量 AI 配音、音效编排、空间音频、自动化混音与专业工程导出。仅含工作台代码。
-- [BaaRai/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/baarai-artex/) — ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)
+- [BaaRai/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/baarai-artex/) — Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-ba…
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [modelflare-ai/AnyModelBot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/modelflare-ai-anymodelbot/) — 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any mode…
 - [cplj/axiocairn-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/cplj-axiocairn-mcp/) — Portfolio risk MCP: exposure values with data dates, method notes and coverage gaps.
@@ -1685,7 +1685,7 @@ _Daily archive · 2026-11-23_
 - [alchaincyf/huashu-design](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alchaincyf-huashu-design/) — Huashu Design 3.4 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / App Store 宣传图 / 小红书图文 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三…
 - [NevaMind-AI/memU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nevamind-ai-memu/) — Personal memory across agents
 - [nvidia/Open-SWE-Traces](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-open-swe-traces/) — · license:cc-by-4.0, size_categories:1M<n<10M, modality:text
-- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more.…
+- [googleworkspace/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/googleworkspace-cli/) — Community CLI for Google Workspace APIs.
 - [ling0322/libwaifu](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ling0322-libwaifu/) — Your local AI waifu! Local SDXL / Qwen-Image / Anima / IndexTTS / CosyVoice inference in Rust + C++, CUDA / M…
 - [nari-labs/nari-qwen3-tts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nari-labs-nari-qwen3-tts/) — Ultrafast Qwen3-TTS: sub-50 ms time-to-first-audio at 10 requests per second.
 - [avifenesh/memra](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/avifenesh-memra/) — Rust + CUDA inference engine for NVIDIA RTX PRO 6000 Blackwell and RTX 5090. Serves safetensors and GGUF over…

@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：2,293
+**Stars**：2,303
 **Source**：https://github.com/can4hou6joeng4/boss-agent-cli

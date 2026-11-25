@@ -8,9 +8,8 @@
 - [autotrust/JEV-35B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-jev-35b-nvfp4/) — 用於文本分類的決策模型。
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — 將文字、圖片轉換為影片的多模態模型。
 - [XingChen-AGI/TeleOCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xingchen-agi-teleocr/) — 將影像文字轉換為純文字的OCR工具。
-- [tencent/Hy4-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-flash/) — 基於轉換器的影像文字轉文字模型。
 - [Cloudflare/clef](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cloudflare-clef/) — Cloudflare的圖文轉文字模型，支援Qwen3.5等。
-- [sensenova/SenseNova-Loop-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b/) — 將影像和文本轉換為文本的多模態模型。
+- [tencent/Hy4-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-tencent-hy4-flash/) — 基於轉換器的影像文字轉文字模型。
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-glimmer-30b/) — 將影像和文字轉換為文本的模型，適用於對話式應用。
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-diffusiongemma-26b-a4b-it/) — 基於影像文字轉文本的對話式AI模型，支援Apache 2.0授權。
 - [ornith-ai/Ornith-1.5-122B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ornith-ai-ornith-1-5-122b/) — 一個大型語言模型，用於生成文本和對話。
@@ -19,16 +18,17 @@
 - [PSRben/VisionHOPE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-psrben-visionhope/) — 用於影像分類的計算機視覺模型，適用於 PyTorch。
 - [LiquidAI/d1-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-d1-3b/) — 基於 LiquidAI 的影像到文字轉換模型，適用於邊緣裝置。
 - [microsoft/Mage-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl/) — 將影像和文字轉換為文本的多模態模型，適用於視覺語言任務。
+- [sensenova/SenseNova-Loop-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-sensenova-sensenova-loop-9b/) — 將影像和文本轉換為文本的多模態模型。
 - [datalab-to/indra-ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-datalab-to-indra-ocr/) — 將影像轉換成文字的OCR模型。
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — 一個支援影像和文字轉換為任何格式的通用模型。
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bytedance-research-lance/) — 字節 3B 啟用參數的原生統一多模態模型（理解＋生成）。
 - [microsoft/Mage-VL-Cowork](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-mage-vl-cowork/) — 將影像和文字轉換為文字描述，適用於多模態理解和計算機使用。
 - [nex-agi/Nex-N2.5-mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nex-agi-nex-n2-5-mini/) — 一個基於轉換器的模型，用於生成文字和對話。
 - [akhilaaa3/Jev-Omni](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akhilaaa3-jev-omni/) — 多模態文本分類模型，適用於多種任務。
-- [RadixArk/DaisyRose-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-radixark-daisyrose-27b/) — 基於轉換器的影像文字轉文字模型，支援強化學習。
 - [AlexWortega/openjev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alexwortega-openjev/) — 一個使用轉換器的文本分類模型，用於重排和評分。
 - [AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/) — 一個基於Qwen 3.5的大型語言模型，支援文本生成。
 - [RikiyaT/Qwen3.5-0.8B-weight-space-programming](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-rikiyat-qwen3-5-0-8b-weight-space-programming/) — Qwen3.5-0.8B-weight-space-programming 是一個用於影像文字轉文字生成的模型，支援 transformers 和 qwen3_5。
+- [RadixArk/DaisyRose-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-radixark-daisyrose-27b/) — 基於轉換器的影像文字轉文字模型，支援強化學習。
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-paddlepaddle-paddleocr-vl-1-6/) — 百度 PaddleOCR-VL 視覺語言 OCR 模型。
 - [KORMo-VL/KORMo-Web-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kormo-vl-kormo-web-11b/) — 將影像和文本轉換為文本的網頁代理模型。
 - [LiquidAI/LFM3-Omni-2B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-liquidai-lfm3-omni-2b/) — LiquidAI 的多模態模型，適用於影像文字轉換。
@@ -42,6 +42,8 @@
 - [dots-studio/dots3-note-prev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-dots-studio-dots3-note-prev/) — 將影像和文字轉換為文本的多模態生成模型。
 - [Kwai-Keye/Keye-VL-2.0-30B-A3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kwai-keye-keye-vl-2-0-30b-a3b/) — 快手 Keye-VL 2.0 視覺語言模型（30B MoE，看圖理解）。
 - [kai-os/Grug-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kai-os-grug-12b/) — 經過QLoRA微調的影像文字轉純文本生成模型，具備推理能力。
+- [inclusionAI/LingSante-3.1-air-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-lingsante-3-1-air-vl/) — 將影像和文字轉換為文字的模型。
+- [thinkingmachines/TML-d24-varloop-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-tml-d24-varloop-research/) — 將影像和文字轉換為文字的模型。
 - [xiaomi-research/Xiaomi-OCR-0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xiaomi-research-xiaomi-ocr-0/) — Xiaomi-OCR-0 是一個用於文件解析和理解的影像轉文本模型。
 - [meta-models/Muse-Spark-Open-816B-A42B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-meta-models-muse-spark-open-816b-a42b/) — 將影像和文字轉換為文字的模型，支援影像文字轉換。
 - [ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ethanfel-qwen3-vl-32b-ultra-heretic-h3-comfyui-int8-convrot/) — 一個使用 ComfyUI 和 H3 的圖文生成模型，支援 INT8 量化。
