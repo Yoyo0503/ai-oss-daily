@@ -9,54 +9,54 @@
 - [Zen-Labs-Corp/hatamoto](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zen-labs-corp-hatamoto/) — 快速、安全的自託管內容管理系統，支援 WebAssembly 外掛。
 - [achun1107/xianyu-auto-listing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/achun1107-xianyu-auto-listing/) — 自動化上架工具，支援輸入關鍵字自動生成商品並上架。
 - [Pluviobyte/saas-growth-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pluviobyte-saas-growth-agents/) — 自動化SaaS增長任務的代理。
+- [dansugc/reverse-engineer-marketing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dansugc-reverse-engineer-marketing/) — 透過 CLI 和 MCP 伺服器分析競品行銷策略，提供廣告、SEO 等資料。
 - [StuccoDestroyer/Writesonic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stuccodestroyer-writesonic/) — 內容生成工具。
 - [NorthMizukageBond/social-media-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/northmizukagebond-social-media-automation/) — 自動化社群媒體管理工具，可協助發文、互動。
-- [shipwords-dev/shipwords](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shipwords-dev-shipwords/) — 自動化建立賺錢的AI網站，適用於SEO和內容行銷。
 - [RaelamcoralRelentless/bahrain-flip-rpocket-team-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raelamcoralrelentless-bahrain-flip-rpocket-team-finder/) — 尋找巴林二手電子產品的Telegram通知機器人。
-- [dansugc/reverse-engineer-marketing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dansugc-reverse-engineer-marketing/) — 透過 CLI 和 MCP 伺服器分析競品行銷策略，提供廣告、SEO 等資料。
-- [zhuyansen/new-term-radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-new-term-radar/) — 每日追蹤新 AI 熱詞，包括新模型、產品和 GitHub 存放庫，提供 SEO 和趨勢分析。
 - [PSA-Team-source/AdLibrarySpy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/psa-team-source-adlibraryspy/) — 免費的Shopify和Meta廣告監控工具。
+- [zhuyansen/new-term-radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-new-term-radar/) — 每日追蹤新 AI 熱詞，包括新模型、產品和 GitHub 存放庫，提供 SEO 和趨勢分析。
+- [shipwords-dev/shipwords](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shipwords-dev-shipwords/) — 自動化建立賺錢的AI網站，適用於SEO和內容行銷。
 - [RankSpotAI/awesome-geo-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rankspotai-awesome-geo-tools/) — 整理的 GEO 和 AI 能見度工具清單，比較各引擎追蹤、更新頻率、費用等。
 - [BoatswainValve94/1min-ai-download](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boatswainvalve94-1min-ai-download/) — 1min.AI業務SaaS列表，訪問連結需通過SOFTGIT。
 - [skillplus（可編譯技能包標準）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eight-acres-lab-skillplus/) — 可編譯的技能包標準，用於打造可靠的內容生成 agent。
 - [Nymph90896Iron/generative-agent-resocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nymph90896iron-generative-agent-resocket/) — 具備持久記憶和Telegram整合的AI代理。
 - [PeaceOfElf37336/resilient-telegram-rpocket-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/peaceofelf37336-resilient-telegram-rpocket-bot/) — 在API故障時自動重試的Telegram機器人。
 - [ElementArrow/make-com](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementarrow-make-com/) — AI 自動化專案建立平臺。
-- [ethanplusai/astro-conversion-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ethanplusai-astro-conversion-kit/) — 將WordPress網站轉換為靜態Astro網站的工具。
 - [Rai81047nranger/TikTok-rpocket-team-Account-Creator-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rai81047nranger-tiktok-rpocket-team-account-creator-2/) — TikTok帳號建立Web API。
-- [zhtyyx/codex-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhtyyx-codex-seo/) — 在OpenAI Codex CLI中提供免費的開源SEO審核工具。
+- [jaikydota/BullFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaikydota-bullflow/) — 企業級知識庫和內容自動化生產的開源解決方案。
 - [tnandla/portfolio-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tnandla-portfolio-os/) — 自託管的團隊運營應用，管理網站專案、憑證、內容、人員和資金。
 - [nexscope-ai/ecommerce-ai-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nexscope-ai-ecommerce-ai-tools/) — 適用於 Amazon 的 AI 工具，包括評論分析和清單最佳化。
+- [zhtyyx/codex-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhtyyx-codex-seo/) — 在OpenAI Codex CLI中提供免費的開源SEO審核工具。
 - [TideDeliverer/make-com-enhancer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tidedeliverer-make-com-enhancer/) — 為 Make.com 增強自動化功能的工具。
 - [openpromoter/openpromoter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openpromoter-openpromoter/) — 開源的聯盟和推薦程式軟體。
+- [ethanplusai/astro-conversion-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ethanplusai-astro-conversion-kit/) — 將WordPress網站轉換為靜態Astro網站的工具。
 - [BadgeCorporal/Adobe-Tool-Premiere-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/badgecorporal-adobe-tool-premiere-pro/) — Windows版Adobe Premiere Pro，強大的影片編輯軟體。
-- [Fangx-AI/geo-doctor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/) — GEO醫生是一個生成式引擎最佳化技能，用於評估和最佳化AI助手。
 - [Cordelia886/affiliate-bonus-manager](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cordelia886-affiliate-bonus-manager/) — 自動化聯盟營銷解決方案，減少手動工作和損失佣金。
 - [AbyssBehindPhoton/Youtube-resocket-Automation-Suite](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abyssbehindphoton-youtube-resocket-automation-suite/) — Youtube-resocket-Automation-Suite 是一個跨平臺的 YouTube 自動化工具，支援 GUI 和 CLI。
 - [Seraphinayes/wordpress-link-tracking-cloaking-guide-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seraphinayes-wordpress-link-tracking-cloaking-guide-de/) — 德語區WordPress連結隱藏與追蹤實用指南。
+- [Fangx-AI/geo-doctor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-geo-doctor/) — GEO醫生是一個生成式引擎最佳化技能，用於評估和最佳化AI助手。
 - [Archibaldys/ai-copywriting-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archibaldys-ai-copywriting-prompts/) — 適用於社交媒體和長篇文章生成的人工智慧文案提示集。
 - [Alexandriayes/ki-kreativsuite-bundle-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexandriayes-ki-kreativsuite-bundle-guide/) — 德語區的設計工具指南，提供Canva替代方案，讓設計變得輕鬆。
 - [Ferdinandyes/automated-video-marketing-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ferdinandyes-automated-video-marketing-tools/) — 自動生成TikTok和推廣影片的AI工具。
-- [thebigasif/affiliate-tracking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thebigasif-affiliate-tracking/) — 開源的聯盟追蹤軟體，提供自建聯盟追蹤方案。
 - [Montgomery66/massive-passive-ai-blueprint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/montgomery66-massive-passive-ai-blueprint/) — AI自動化策略和系統架構清單，適用於建立數位資產和被動收入流。
 - [Ferdinandyes/performance-marketing-deutschland](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ferdinandyes-performance-marketing-deutschland/) — 德語區的自動化流量漏斗，提高轉換率和ROI。
 - [Nathanielyseterday/traffic-monetization-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanielyseterday-traffic-monetization-toolkit/) — 自動化的數位流量轉換工具，提高廣告效果。
-- [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [everyinfra/seo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/everyinfra-seo-skills/) — 免費的全球SEO技能套件，適用於多種AI代理和市場平臺。
+- [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [nodemaven/google-browser-scraper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nodemaven-google-browser-scraper/) — 自建 Google 搜尋抓取器，使用真實 Chrome 瀏覽器和住宅代理抓取搜尋結果。
-- [JeffLi1993/saas-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeffli1993-saas-seo-playbook/) — 一本專門為 AI 工具站和 SaaS 官網設計的 SEO 指南。
+- [thebigasif/affiliate-tracking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thebigasif-affiliate-tracking/) — 開源的聯盟追蹤軟體，提供自建聯盟追蹤方案。
 - [jianruntech/geo-score](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jianruntech-geo-score/) — 評估網站在 ChatGPT 中的可見性，快速打分。
-- [SelmiAbderrahim/rankme.fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/selmiabderrahim-rankme-fast/) — 自建的SEO平臺。
+- [JeffLi1993/saas-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jeffli1993-saas-seo-playbook/) — 一本專門為 AI 工具站和 SaaS 官網設計的 SEO 指南。
 - [springvoiceswell/semrush-ai-tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/springvoiceswell-semrush-ai-tool/) — semrush-ai-tool 是一個基於 Semrush 的 AI 功能 SEO 分析工具。
+- [SelmiAbderrahim/rankme.fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/selmiabderrahim-rankme-fast/) — 自建的SEO平臺。
 - [yanstd888/threads-auto-poster](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanstd888-threads-auto-poster/) — 自動釋出內容的AI助手，提供草稿和審核功能。
 - [repoboost-hq/github-launch-checklist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/repoboost-hq-github-launch-checklist/) — 在 GitHub 上釋出前的準備清單，檢查名稱、描述、許可證等。
+- [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。
 - [xiaodou-official/xiaodou-market](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaodou-official-xiaodou-market/) — 數位商品交易平臺，支援自動發貨和支付。
 - [mrlong0129/yominpost](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrlong0129-yominpost/) — 自建 AI 社交媒體工作室，自動生成平臺原生貼文。
-- [govsoftusa/go-for-launch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/govsoftusa-go-for-launch/) — 將網站轉換為 Astro 框架並進行測試的工具。
-- [WeWorker/WeWorker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/weworker-weworker/) — 開源桌面 AI 助手，可在網站上執行真實操作。
 - [Accstall/accstall-account-line-parser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/accstall-accstall-account-line-parser/) — 瀏覽器內的帳號解析工具，可分割帳號密碼組合，並匯出CSV或JSON。
+- [ZJU-REAL/Easel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zju-real-easel/) — 一個開源 AI 社交媒體代理，用於發現趨勢和內容創作。
 - [yanceydaisy/wechat-resonance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanceydaisy-wechat-resonance/) — wechat-resonance 讓 AI 與 WeChat 桌面版連線，支援 Windows 自動化和訊息轉發。
 - [databluedev/searchmirror](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/databluedev-searchmirror/) — 自建的AI排名追蹤器，監控SEO表現。
 - [marcosmodly/marketing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marcosmodly-marketing-skill/) — Claude Code外掛，提供14種可組合的市場營銷技能。
-- [AliSharjeell/OpenBUA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisharjeell-openbua/) — 自動化瀏覽器代理，可在認證瀏覽器中執行。
-- [beyondtahir/beyondseo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beyondtahir-beyondseo/) — 全方位的 SEO 工具，提供原生爬蟲、內容策略、競爭者分析和聲譽管理，內建 206 個發布來源。
+- [WeWorker/WeWorker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/weworker-weworker/) — 開源桌面 AI 助手，可在網站上執行真實操作。

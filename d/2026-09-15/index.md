@@ -1232,7 +1232,6 @@ _每日存檔 · 2026-09-15_
 - [vercel/eve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vercel-eve/) — 用於構建代理的框架。
 - [NVIDIA/SkillSpector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvidia-skillspector/) — 檢測 AI 代理技能中的安全風險和漏洞的掃描器。
 - [tanweai/pua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tanweai-pua/) — 一個用於代理的高能動性技能，適用於績效改進計劃。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [RightNow-AI/openfang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rightnow-ai-openfang/) — 開源的AI代理作業系統。
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — 用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。
 - [dramaclaw/dramaclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dramaclaw-dramaclaw/) — 通用AIGC影片引擎，從劇本到成片一站式製作。

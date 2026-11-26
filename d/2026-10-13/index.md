@@ -1950,7 +1950,6 @@ _每日存檔 · 2026-10-13_
 - [fim-ai/fim-one](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fim-ai-fim-one/) — 開源AI平臺，連線全球和中國企業系統的核心代理。
 - [opensquilla/opensquilla](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opensquilla-opensquilla/) — OpenSquilla 是一種節省 Token 的 AI 代理，能在相同預算下提供更高的智慧密度。
 - [HelpCode-ai/anythingmcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpcode-ai-anythingmcp/) — 自建無程式碼 API 聯結器，支援多種協議和許可權管理。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [agentlas-ai/Agentlas-OS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agentlas-ai-agentlas-os/) — 本地專用的代理機器人作業系統，支援任何模型。
 - [showlab/Kiwi-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/showlab-kiwi-edit/) — 統一的開放原始碼框架，使用自然語言進行指令和參考引導式影片編輯。
 - [motiful/product-shots](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/motiful-product-shots/) — 使用Claude Code技能將單一產品照片轉換為完整的電商視覺素材。

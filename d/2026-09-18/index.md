@@ -1308,7 +1308,6 @@ _每日存檔 · 2026-09-18_
 - [asciimoo/hister](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asciimoo-hister/) — 個人化搜尋引擎，可索引瀏覽器歷史紀錄。
 - [llllllilllll/Kalshi-Trade-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llllllilllll-kalshi-trade-bot/) — 利用 Polymarket 和 Kalshi 預測市場差價進行套利交易的機器人。
 - [ibm-research/ScarfBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ibm-research-scarfbench/) — Hugging Face 資料集，關鍵字：基準測試（依標籤自動歸類，詳細看下方原文）
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [Tsukimisaka/MamboTTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tsukimisaka-mambotts/) — 本地執行的文字轉語音工具，支援 NVIDIA 硬體加速。
 - [7WaySecurity/ai_osint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/7waysecurity-ai-osint/) — 收集 AI OSINT 資源，用於發現暴露的 LLM 端點和未保護的 AI 代理。
 - [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/) — 本地優先的超級工作代理，快速學習並記住工作上下文。

@@ -4,5 +4,5 @@ Free, open-source charting app: live crypto, stocks, forex and futures on any ti
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：215
+**Stars**：235
 **Source**：https://github.com/keptaduona/wickline

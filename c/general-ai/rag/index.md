@@ -3,6 +3,7 @@
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-nemotron-3-embed-1b-bf16/) — 用於句子相似度分析的模型，生成文本嵌入以支援檢索。
 - [peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf/) — Tiel-Coder-35B-A3B-GGUF 是一個基於 LLaMa 的影像文字轉文字模型，支援代理編碼和混合專家系統。
 - [llamaindex/OCRia-nano-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-llamaindex-ocria-nano-1/) — 使用ONNX和LiteParse將影像轉換為文字。
+- [llamaindex/OCRia-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-llamaindex-ocria-1/) — 將影像中的文字轉換成純文字的工具。
 - [peculiar-ragdoll/Qwen-Sharp-Chat-Templates](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-peculiar-ragdoll-qwen-sharp-chat-templates/) — RAG／檢索／向量庫工具（依標籤自動歸類，詳細看下方原文）
 - [Cactus-Compute/mirage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-cactus-compute-mirage/) — 將影像和文字轉換成純文字描述的AI模型，支援零樣本物件檢測。
 - [pat-jj/harness-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pat-jj-harness-1/) — 用於生成文本的轉換器模型，支援對話和搜尋。
@@ -20,13 +21,14 @@
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
 - [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [uw-math-ai/math-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-uw-math-ai-math-graph/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [zaxiu88888/issue-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zaxiu88888-issue-rag/) — 評估 GitHub 問題的 RAG 方法，報告間隔而非單一最佳值。
 - [jsdhwfmax/EvalForge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jsdhwfmax-evalforge/) — AI評估工具，生成JSON、JUnit和SARIF報告，適用於持續整合。
+- [zaxiu88888/issue-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zaxiu88888-issue-rag/) — 評估 GitHub 問題的 RAG 方法，報告間隔而非單一最佳值。
 - [QuickButlerPace65/AnythingLLM-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quickbutlerpace65-anythingllm-desktop/) — 增強版AI桌面應用程式。
 - [FlowElement-ai/m_flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flowelement-ai-m-flow/) — 生物啟發式認知記憶引擎，適用於圖形 RAG 的新方法。
 - [kividbio/kividb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kividbio-kividb/) — kividb 是一個快速的 Rust 寫成的 Redis 替代品，支援全文和向量搜尋。
-- [Dongbumlee/ontosmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dongbumlee-ontosmith/) — 基於決策模型的知識圖譜構建工具。
+- [pgsty/vchord](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pgsty-vchord/) — 在Postgres資料庫中進行快速向量搜尋的擴充套件。
 - [ant-intl/DeveloperSkills-Code2Skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ant-intl-developerskills-code2skill/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [Dongbumlee/ontosmith](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dongbumlee-ontosmith/) — 基於決策模型的知識圖譜構建工具。
 - [YOLOW92/pagesift](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yolow92-pagesift/) — 自建網頁抓取器，支援 URL、PDF、Office 檔案轉換為清潔的 Markdown/JSON。
 - [Vecshield/VecShield](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vecshield-vecshield/) — 開源向量資料庫和 RAG 管道安全掃描。
 - [essmos/nonodb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/essmos-nonodb/) — 輕量級 JSON 文書資料庫，支援 SQL 查詢與加密備份。
@@ -42,6 +44,7 @@
 - [ChromaDotNet/ChromaDB.Client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chromadotnet-chromadb-client/) — .NET客戶端庫，用於Chroma和Chroma Cloud。
 - [RyanCodrai/turbovec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ryancodrai-turbovec/) — 基於 TurboQuant 的向量索引，使用 Rust 和 Python 結合。
 - [deeplethe/utopia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeplethe-utopia/) — 自託運知識平臺，基於知識圖譜，使用Rust和PostgreSQL。
+- [kakagawa/llm-master-ua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kakagawa-llm-master-ua/) — 烏克蘭版大型語言模型工程課程，涵蓋RAG、代理、微調等主題，附有126篇文章和可執行程式碼。
 - [lhh737/KnowledgeBase-RAG-LLM-System](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lhh737-knowledgebase-rag-llm-system/) — 輕量級知識庫系統，支援 LangChain 和 Chroma 技術。
 - [FutureUniant/WorkShadow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/futureuniant-workshadow/) — 本地優先的桌面工作日誌應用，支援富文本記錄和語義檢索。
 - [rollroyces/py-idp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rollroyces-py-idp/) — Python 的智慧檔案處理工具，支援多種 LLM 和自動模式發現。
@@ -49,8 +52,8 @@
 - [inkeep/open-knowledge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inkeep-open-knowledge/) — open-knowledge 是一個基於AI的Markdown IDE和LLM知識庫。
 - [Johnson-Durui/Companion-Space](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/johnson-durui-companion-space/) — 一款本地優先的二次元陪伴學習應用，結合虛擬角色和語音AI，支援自我託管。
 - [giancarloerra/SocratiCode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/giancarloerra-socraticode/) — 企業級程式碼庫智慧外掛，提供混合語義搜尋及多語言依賴圖。
-- [arnsri33/embedflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arnsri33-embedflow/) — 提供零中斷的嵌入式升級功能。
 - [openlake-project/openlake](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openlake-project-openlake/) — 高效LLM推理和GPU訓練的高效能儲存引擎。
+- [arnsri33/embedflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arnsri33-embedflow/) — 提供零中斷的嵌入式升級功能。
 - [Prismer-AI/PrismerCloud](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prismer-ai-prismercloud/) — 用於AI代理間通訊和知識管理的雲端平臺。
 - [ENDEVSOLS/LongParser](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/endevsols-longparser/) — 隱私優先的檔案智慧引擎，將 PDF 等文件解析為 AI 友好的片段。
 - [bohyy/academic-ai-prompt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bohyy-academic-ai-prompt/) — 一套為研究生和學術研究者設計的完整AI提示庫，包含多種工具和模板，節省時間並提高效率。
@@ -76,10 +79,10 @@
 - [Sandermage/sndr_core_engine](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sandermage-sndr-core-engine/) — Qwen3.6 和 Gemma4 的 vLLM 執行時程式覆蓋，支援 NVIDIA Ampere 裝置。
 - [McKern3l/RAGdrag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mckern3l-ragdrag/) — RAG管道安全測試工具，涵蓋MITRE ATLAS的六個階段技術。
 - [GaeaRuiW/kube-llmops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaearuiw-kube-llmops/) — 用 Kubernetes 管理大型語言模型的運維工具。
-- [deepmemteam/deepmem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepmemteam-deepmem/) — 快速且低成本的AI記憶層，與Mem0 API完全相容。
 - [lyonzin/knowledge-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lyonzin-knowledge-rag/) — 從 Claude Code 搜尋檔案，提供混合搜尋和重排序功能，本地執行無伺服器。
 - [ogham-mcp/ogham-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogham-mcp-ogham-mcp/) — 共享記憶MCP伺服器，支援Claude和Opencode的持久化、可搜尋功能。
 - [aa0101181514/tw-legal-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aa0101181514-tw-legal-rag/) — 臺灣判決語意檢索系統，支援自帶LLM。
+- [deepmemteam/deepmem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deepmemteam-deepmem/) — 快速且低成本的AI記憶層，與Mem0 API完全相容。
 - [SantanderAI/linear-adapter-trainer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/santanderai-linear-adapter-trainer/) — 使用 triplet loss 訓練線性嵌入介面卡以對齊檢索嵌入。
 - [bigint/rag.computer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigint-rag-computer/) — 自我主機化的 RAG 平臺，提供檔案嵌入和向量搜尋功能。
 - [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egoist-machines-lodedb/) — 快速、安全的向量資料庫，適合本地 RAG 和隱私保護。

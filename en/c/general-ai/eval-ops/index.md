@@ -19,9 +19,9 @@
 - [treble-technologies/ffasr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-treble-technologies-ffasr/) — · gradio, leaderboard, asr
 - [nvidia/Cosmos-HumanEval-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-cosmos-humaneval-v1/) — · region:us
 - [Xin-YuXiao/Awesome-AI-for-Astronomy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xin-yuxiao-awesome-ai-for-astronomy/) — A curated list of papers for AI in Astronomy & Astrophysics.
-- [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/folkbench-folkbench/) — AI API 中转站推荐与评测：中转站排行榜、中转站检测、Claude / GPT / Gemini 中转站对比 · AI API relay rankings · Folkbench Switch for Claud…
 - [Toyhom/awesome-computational-character-modeling](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/toyhom-awesome-computational-character-modeling/) — Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation…
 - [TIGER-Lab/MMLU-Pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-tiger-lab-mmlu-pro/) — · benchmark:official, benchmark:eval-yaml, task_categories:question-answering
+- [Folkbench/folkbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/folkbench-folkbench/) — AI API 中转站推荐与评测：中转站排行榜、中转站检测、Claude / GPT / Gemini 中转站对比 · AI API relay rankings · Folkbench Switch for Claud…
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gaia-benchmark-gaia/) — · language:en, size_categories:n<1K, format:parquet
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibaba-yufeng-mma-safetybench/) — · license:cc-by-4.0, size_categories:n<1K, format:imagefolder
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K

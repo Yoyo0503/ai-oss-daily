@@ -2,7 +2,7 @@
 
 使用ONNX和LiteParse將影像轉換為文字。
 
-**為何上榜**：HF trending 135 · 156 likes
+**為何上榜**：HF trending 190 · 231 likes · 126 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

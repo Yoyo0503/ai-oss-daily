@@ -2732,7 +2732,6 @@ _每日存檔 · 2026-11-21_
 - [PolyX-Research/Awesome-Remote-Sensing-Agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/polyx-research-awesome-remote-sensing-agents/) — 智慧遙感代理官網：一項關於大型語言模型在遙感領域應用的調查。
 - [MCKRUZ/ComfyUI-Expert](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mckruz-comfyui-expert/) — ComfyUI專家模組，提供Claude Code代理服務於影像生成和影片製作等。
 - [wanyichen06/LLMInternSkill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wanyichen06-llminternskill/) — 大模型實習生的求職技能箱，包括簡歷打磨、JD 定製等。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [Nathanw1014/strix-halo-llamacpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanw1014-strix-halo-llamacpp/) — 針對 AMD Strix Halo 進行最佳化的 llama.cpp，適用於 Vulkan 和 HIP。
 - [0xSanei/darwinia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsanei-darwinia/) — 自我演化的交易 agent 生態：達爾文式選擇汰弱留強。
 - [zilliztech/milvus-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-milvus-skill/) — 教 LLM 使用 pymilvus 操作 Milvus 向量資料庫的技能。

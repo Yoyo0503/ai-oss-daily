@@ -2,7 +2,7 @@
 
 將文字轉換為影片的模型。
 
-**為何上榜**：HF trending 178 · 594 likes
+**為何上榜**：HF trending 102 · 631 likes
 
 **商用授權**：授權未明 — 未知授權代碼 apple-amlr — 請人工確認商用條款
 

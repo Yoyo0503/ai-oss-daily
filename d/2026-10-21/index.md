@@ -2186,7 +2186,6 @@ _每日存檔 · 2026-10-21_
 - [Aratako/MioTTS-Inference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aratako-miotts-inference/) — 基於大模型的輕量級快速語音合成伺服器。
 - [Cynthiazxy123/SAMA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cynthiazxy123-sama/) — 基於因子化語義錨定和運動對齊的指令引導影片編輯模型推論程式碼。
 - [NaufalRizqullah/opensource-clipping](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/naufalrizqullah-opensource-clipping/) — 自動剪輯長影片為短影片高光片段的AI工具。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [Snailclimb/AIGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/snailclimb-aiguide/) — AIGuide 是一個涵蓋多種 AI 技術與實踐的手冊，適用於開發者和工程師。
 - [AbdulWasay13/TradingView-Pipe-Executor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdulwasay13-tradingview-pipe-executor/) — 使用 AI 警報和 Webhook 連線的自動化外匯交易機器人。
 - [Human-Agent-Society/CORAL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/human-agent-society-coral/) — CORAL 是一個輕量級的多代理自主演化基礎設施，適用於自動研究。

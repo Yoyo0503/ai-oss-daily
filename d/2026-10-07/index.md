@@ -1760,7 +1760,6 @@ _每日存檔 · 2026-10-07_
 - [codefromkarl/ContextAtlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codefromkarl-contextatlas/) — 用於 AI 程式設計代理的上下文基礎設施，支援混合檢索和專案記憶。
 - [raiyanyahya/how-to-train-your-gpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raiyanyahya-how-to-train-your-gpt/) — 從零開始構建現代語言模型，每行程式碼都有註釋。
 - [wei1104/bigApush](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wei1104-bigapush/) — BigApush 是一個自動推送A股量化選股策略的系統。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [dwgx/WindsurfAPI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dwgx-windsurfapi/) — 將 Windsurf 的 AI 模型轉換為相容 OpenAI 等 API 的代理。
 - [ashhart/TensorFold](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ashhart-tensorfold/) — 在Apple Silicon上快速精確解碼大型語言模型的工具。
 - [samber/cc-skills-golang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/samber-cc-skills-golang/) — 一套可用於代理技能的Golang程式庫集合。

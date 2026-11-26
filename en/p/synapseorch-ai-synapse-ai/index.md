@@ -4,5 +4,5 @@ SynapseOrch: AI workflows that follow the plan. Describe a job, approve the step
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：343
+**Stars**：342
 **Source**：https://github.com/synapseorch-ai/synapse-ai

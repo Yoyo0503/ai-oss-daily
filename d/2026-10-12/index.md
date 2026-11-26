@@ -1898,7 +1898,6 @@ _每日存檔 · 2026-10-12_
 - [okx/agent-trade-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/okx-agent-trade-kit/) — OKX 官方交易 MCP server — 讓 AI agent 操作現貨/合約/網格機器人。
 - [akii-technologies-ltd/akii-seo-ai-search-optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/akii-technologies-ltd-akii-seo-ai-search-optimizer/) — 免費的 Claude Code 外掛，用於 SEO 最佳化和追蹤 AI 能見度。
 - [Jwuthri/Tracely-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jwuthri-tracely-ai/) — 為AI代理提供原生的CI/CD系統。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [openedclaude/claude-reviews-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openedclaude-claude-reviews-claude/) — Claude 自我審查程式碼，深入解析其架構。
 - [agenvoy/Agenvoy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agenvoy-agenvoy/) — 個人AI代理，能自行編寫工具並自我修復。
 - [discoveredlabs/awesome-aeo-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/discoveredlabs-awesome-aeo-seo/) — 工程師和增長行銷人員的AEO和SEO資源清單。

@@ -2,9 +2,9 @@
 
 marketing-skills 為 Claude Code 和 claude.ai 提供 49 種免費行銷技能。
 
-**為何上榜**：近一日新增 15★（現 8,427★）
+**為何上榜**：近一日新增 20★（現 8,447★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：8,427
+**Stars**：8,447
 **原始連結**：https://github.com/irinabuht12-oss/marketing-skills

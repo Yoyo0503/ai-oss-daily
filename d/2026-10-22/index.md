@@ -2295,7 +2295,6 @@ _每日存檔 · 2026-10-22_
 - [tercumantanumut/selene](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tercumantanumut-selene/) — 桌面應用程式，允許在本地機器上執行AI代理並連線到即時通訊軟體。
 - [DEEIX-AI/DEEIX-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deeix-ai-deeix-chat/) — 企業級AI工作區，提供多模態聊天、檔案管理和計費功能。
 - [heygen-com/heygen-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-heygen-cli/) — 從終端機建立 AI 影片的命令列工具。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [AhmadHassan-BTed/B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ahmadhassan-bted-b/) — 一款具備即時螢幕視覺和語音合成功能的自主AI桌面伴侶。
 - [ahatem/QTranslate](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ahatem-qtranslate/) — 快速擴充套件的桌面翻譯套件，支援多種語言翻譯、OCR、語音轉文字等功能。
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-field-reels-af/) — 利用AI系統自動化製作熱門短影片和TikTok內容。

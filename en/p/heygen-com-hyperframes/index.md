@@ -4,5 +4,5 @@ Open-source AI video editor: edit your own footage, or create and remake any vid
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：89,584
+**Stars**：90,170
 **Source**：https://github.com/heygen-com/hyperframes

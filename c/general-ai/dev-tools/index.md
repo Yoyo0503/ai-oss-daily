@@ -92,8 +92,8 @@
 - [Prysai/Prysai-LLM-Playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prysai-prysai-llm-playbook/) — Prysai-LLM-Playbook 是一個基於證據的 LLM 演練手冊。
 - [filiksyos/gitreverse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/filiksyos-gitreverse/) — 將任意程式碼庫逆向工程為原始提示的工具。
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
-- [lixiaoxiao9888-create/short-drama-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lixiaoxiao9888-create-short-drama-factory/) — 自動化編劇系統，將創意轉換為標準短劇指令碼。
 - [xstongxue/best-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xstongxue-best-prompts/) — 通用高質量 Prompt 合集。
+- [lixiaoxiao9888-create/short-drama-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lixiaoxiao9888-create-short-drama-factory/) — 自動化編劇系統，將創意轉換為標準短劇指令碼。
 - [snflkd/fluent-korean](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/snflkd-fluent-korean/) — 讓Claude Code生成流暢的韓文。
 - [Raymondhou0917/speak-human-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raymondhou0917-speak-human-tw/) — 將繁體中文 AI 文本改寫成人類易懂的語言，修正中國用語及標點符號。
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrgediao-shuorenhua/) — 中文優先的去AI味改寫技能，保留事實，適合多場景使用。

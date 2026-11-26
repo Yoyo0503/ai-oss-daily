@@ -9,7 +9,6 @@
 - [Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-abiray-minimax-h3-nvfp4-int4-int8-convrot/) — image-text-to-video · diffusers, text-to-video, image-to-video
 - [XingChen-AGI/TeleOCR](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xingchen-agi-teleocr/) — image-text-to-text · transformers, safetensors, qwen2_5_vl
 - [Cloudflare/clef](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cloudflare-clef/) — image-text-to-text · transformers, safetensors, qwen3_5
-- [tencent/Hy4-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy4-flash/) — image-text-to-text · transformers, safetensors, hy_v4_flash
 - [meta-models/Muse-Glimmer-30B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-meta-models-muse-glimmer-30b/) — image-text-to-text · transformers, safetensors, muse_glimmer
 - [google/diffusiongemma-26B-A4B-it](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-diffusiongemma-26b-a4b-it/) — image-text-to-text · transformers, safetensors, diffusion_gemma
 - [ornith-ai/Ornith-1.5-122B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ornith-ai-ornith-1-5-122b/) — text-generation · transformers, safetensors, qwen3_5_moe
@@ -18,8 +17,8 @@
 - [PSRben/VisionHOPE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-psrben-visionhope/) — image-classification · computer-vision, pytorch, visionhope
 - [LiquidAI/d1-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-d1-3b/) — image-text-to-text · transformers, safetensors, lfm2_vl
 - [microsoft/Mage-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-vl/) — image-text-to-text · transformers, safetensors, mage_vl
-- [sensenova/SenseNova-Loop-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sensenova-sensenova-loop-9b/) — image-text-to-text · transformers, safetensors, sensenova_loop
 - [datalab-to/indra-ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-datalab-to-indra-ocr/) — image-to-text · onnx, safetensors, indra-ocr
+- [tencent/Hy4-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy4-flash/) — image-text-to-text · transformers, safetensors, hy_v4_flash
 - [huihui-ai/Huihui-gemma-4-12B-it-abliterated](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-huihui-ai-huihui-gemma-4-12b-it-abliterated/) — any-to-any · transformers, safetensors, gemma4_unified
 - [bytedance-research/Lance](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bytedance-research-lance/) — any-to-any · Lance, safetensors, multimodal
 - [microsoft/Mage-VL-Cowork](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-mage-vl-cowork/) — image-text-to-text · transformers, safetensors, llava_onevision2
@@ -28,15 +27,16 @@
 - [AlexWortega/openjev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-openjev/) — text-classification · transformers, safetensors, nli
 - [AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/) — text-generation · transformers, safetensors, qwen3_5
 - [RikiyaT/Qwen3.5-0.8B-weight-space-programming](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-rikiyat-qwen3-5-0-8b-weight-space-programming/) — image-text-to-text · transformers, safetensors, qwen3_5
-- [RadixArk/DaisyRose-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-radixark-daisyrose-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
+- [sensenova/SenseNova-Loop-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sensenova-sensenova-loop-9b/) — image-text-to-text · transformers, safetensors, sensenova_loop
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [KORMo-VL/KORMo-Web-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kormo-vl-kormo-web-11b/) — image-text-to-text · transformers, safetensors, llava_onevision
 - [LiquidAI/LFM3-Omni-2B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm3-omni-2b/) — any-to-any · transformers, safetensors, lfm3_omni
-- [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash-1017/) — image-text-to-text · transformers, safetensors, deepseek_v41
+- [RadixArk/DaisyRose-27B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-radixark-daisyrose-27b/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [perplexity-ai/pplx-decider-v1.1-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-perplexity-ai-pplx-decider-v1-1-27b/) — text-classification · pytorch, safetensors, qwen3_5
 - [LiquidAI/d1-omni-600M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-d1-omni-600m/) — image-text-to-text · transformers, safetensors, d1_omni
 - [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [Agnes-AI/Agnes-3.0-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-agnes-ai-agnes-3-0-flash/) — image-text-to-text · transformers, safetensors, agnes
+- [deepseek-ai/DeepSeek-V4.1-Flash-1017](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-deepseek-ai-deepseek-v4-1-flash-1017/) — image-text-to-text · transformers, safetensors, deepseek_v41
 - [adventists-ai/Sophon-Realtime-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-adventists-ai-sophon-realtime-v1/) — any-to-any · sophon-realtime, full-duplex, speech-to-speech
 - [google/gemma-4-12B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-google-gemma-4-12b/) — any-to-any · transformers, safetensors, gemma4_unified
 - [dots-studio/dots3-note-prev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-dots-studio-dots3-note-prev/) — image-text-to-text · transformers, safetensors, dots3_note

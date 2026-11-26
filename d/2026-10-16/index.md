@@ -2041,7 +2041,6 @@ _每日存檔 · 2026-10-16_
 - [zhu1090093659/spec_driven_develop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-spec-driven-develop/) — 基於規格驅動的 AI 程式碼代理開發工作流程，支援任務分解和追蹤。
 - [witty-suckerpunch492/daihuo-jianshou](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/witty-suckerpunch492-daihuo-jianshou/) — 自動生成電商帶貨短影片，適配抖音、快手等平臺。
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [discoveredlabs/awesome-aeo-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/discoveredlabs-awesome-aeo-seo/) — 工程師和增長行銷人員的AEO和SEO資源清單。
 - [wanshuiyin/ARIS-in-AI-Offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wanshuiyin-aris-in-ai-offer/) — AI 秋招面試雙語備忘單，生成 CV 轉換器。
 - [russelleNVy/three-man-team](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/russellenvy-three-man-team/) — 結構化的三名 AI 開發者團隊，包含建築師、建造者和審查員角色。

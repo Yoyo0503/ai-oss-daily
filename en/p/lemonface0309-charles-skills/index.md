@@ -4,5 +4,5 @@ Skills for Claude Code and Codex: design craft, reel editing, quality-of-life he
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：272
+**Stars**：284
 **Source**：https://github.com/LemonFace0309/charles-skills

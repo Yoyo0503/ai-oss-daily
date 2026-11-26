@@ -1591,7 +1591,6 @@ _每日存檔 · 2026-10-01_
 - [hangeaiagent/kronos-free-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hangeaiagent-kronos-free-api/) — Kronos 提供免費的財經資料預測 API。
 - [SteliyanH/kadr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/steliyanh-kadr/) — 適用於Apple平臺的宣告式影片組合框架，支援構建、轉換和匯出。
 - [1weiho/open-slide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/1weiho-open-slide/) — 用於代理的滑動框架。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [EthanYoQ/AI-Novel-Writer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ethanyoq-ai-novel-writer/) — AI 小說創作工具，整合靈感、角色和章節創作流程。
 - [mnfst/awesome-free-llm-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mnfst-awesome-free-llm-apis/) — 永久免費的大語言模型API列表。
 - [Saganaki22/Higgs-Audio-v3-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-audio-v3-studio/) — 使用Rust/Tauri開發的跨平臺桌面應用程式，提供Higgs Audio v3 TTS本地推理功能。

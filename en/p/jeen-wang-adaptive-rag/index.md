@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：290
+**Stars**：293
 **Source**：https://github.com/JEen-wang/Adaptive-rag

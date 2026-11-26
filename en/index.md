@@ -1,6 +1,6 @@
 # AI OSS Daily — Today's Picks
 
-_Last updated: 2026-11-25 09:05 CST_
+_Last updated: 2026-11-26 09:05 CST_
 
 - [bookwjitchieni1986/blender-ai-mcp-addon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/bookwjitchieni1986-blender-ai-mcp-addon/) — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/…
 - [feder-cr/invisible_playwright_mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/feder-cr-invisible-playwright-mcp/) — Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth F…
@@ -18,14 +18,14 @@ _Last updated: 2026-11-25 09:05 CST_
 - [PrunaAI/P-H3-Image-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prunaai-p-h3-image-comfy/) — text-to-image · diffusion-single-file, comfyui, text-to-image
 - [inworld/voice-isolator](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-inworld-voice-isolator/) — audio-to-audio · inworld-voice-isolation, audio, speech
 - [Edge0/Audio8-ASR-Infinite](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-audio8-asr-infinite/) — automatic-speech-recognition · transformers, safetensors, audio8_asr_infinite
-- [higurashi-ai/Haru-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-higurashi-ai-haru-4b/) — audio-to-audio · safetensors, haru, speech
 - [Cactus-Compute/whistle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-cactus-compute-whistle/) — automatic-speech-recognition · cactus-needle, whistle, speech-recognition
-- [jackson-cmd/risk-aware-trading-agents](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jackson-cmd-risk-aware-trading-agents/) — AI trading agents for US stocks with news backtesting that can't see the future: a public LLM trading agent l…
+- [canberkkkkkk/ema-lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-canberkkkkkk-ema-lightning/) — text-to-speech · ema-lightning, text-to-speech, tts
 - [MalcolmMcGough/polymarket-trading-bot-scalping](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/malcolmmcgough-polymarket-trading-bot-scalping/) — A high-perforomance automated trading bot for Polymarket's ultra-short crypto prediction markets - 5-minute a…
 - [misasimmons/trust-wallet-metamask-seed-recovery](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/misasimmons-trust-wallet-metamask-seed-recovery/) — Trust Wallet Metamask Seed Recovery [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config
 - [piyushverse001/quantconnect-lean-selvon-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/piyushverse001-quantconnect-lean-selvon-research/) — Quantconnect Lean Selvon Research: structured environment for strategy experiments and backtesting
 - [pgmergulhao75-dot/openbb-calvona-market-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/pgmergulhao75-dot-openbb-calvona-market-research/) — Openbb Calvona Market Research delivers structured market data analysis and research workflows.
 - [dianenelson33/kalshi-polymarket-cross-exchange-arb-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dianenelson33-kalshi-polymarket-cross-exchange-arb-bot/) — Kalshi Polymarket Cross Exchange Arb Bot [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config
+- [lori1635/krypolybot-polymarket-mcp-whale-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lori1635-krypolybot-polymarket-mcp-whale-trader/) — Krypolybot Polymarket Mcp Whale Trader [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config
 - [RagnheavenDusk/content-machine-respocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ragnheavendusk-content-machine-respocket/) — CLI-first automated short-form video generator for TikTok, Reels, and Shorts (npm: @45ck/content-machine)
 - [GrimOrbita/rpocket-team-meeting-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/grimorbita-rpocket-team-meeting-agent/) — AI notetaker that joins Microsoft Teams and Google Meet calls, understands Hindi, Telugu, English and mixed s…
 - [Def28641eatclaw/Restaurant-Ai-Agent-rpocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/def28641eatclaw-restaurant-ai-agent-rpocket/) — Built an AI ordering assistant with n8n, OpenRouter, Google Sheets, and Telegram. Customers order in natural …

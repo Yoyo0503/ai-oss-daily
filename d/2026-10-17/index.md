@@ -2076,7 +2076,6 @@ _每日存檔 · 2026-10-17_
 - [gauss314/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gauss314-skills/) — 提供給Claude程式碼和AI代理使用的金融市場資料消費技能。
 - [MrGeDiao/shuorenhua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrgediao-shuorenhua/) — 中文優先的去AI味改寫技能，保留事實，適合多場景使用。
 - [cporter202/stock-market-signal-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-stock-market-signal-automation/) — 基於 AI 的股票市場訊號自動化工具。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [laolaoshiren/claude-code-skills-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laolaoshiren-claude-code-skills-zh/) — 面向中文開發者的Claude Code技能庫，包含多種場景的技能和外掛。
 - [discoveredlabs/awesome-aeo-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/discoveredlabs-awesome-aeo-seo/) — 工程師和增長行銷人員的AEO和SEO資源清單。
 - [brekkylab/backlot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brekkylab-backlot/) — 模擬企業SaaS API的本地模擬器，支援Slack、Gmail等。

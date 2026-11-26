@@ -4,5 +4,5 @@ Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D a
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：5,005
+**Stars**：5,198
 **Source**：https://github.com/shinyobjectz/raea

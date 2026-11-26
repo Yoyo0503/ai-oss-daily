@@ -24,7 +24,6 @@
 - [Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pepe104-minimax-h3-turbo-lora-uncensored/) — · gradio, region:us
 - [amisima/LTX-2.3-10Eros_I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-amisima-ltx-2-3-10eros-i2v/) — · gradio, video, image-to-video
 - [Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mothersuperior-yue2-mothersuperior-realaudio-tokenizer-v4/) — · audio, music, yue2
-- [sous-labs/songe](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sous-labs-songe/) — A training engine for your local model, using your idle compute
 - [conradlocke/krea2-identity-edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-conradlocke-krea2-identity-edit/) — · image-editing, lora, comfyui
 - [arudradey/qwen-image-2.1-uncensored-aio-loras](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-arudradey-qwen-image-2-1-uncensored-aio-loras/) — · gradio, mcp-server, region:us
 - [Soofi-Project/Pretraining-Tech-Report-old](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-soofi-project-pretraining-tech-report-old/) — · static, region:us
@@ -40,6 +39,7 @@
 - [nvidia/Nemotron-SFT-Finance-Document-Grounded-Reasoning-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-sft-finance-document-grounded-reasoning-v1/) — · task_categories:text-generation, language:en, license:openmdw-1.1
 - [IFM/SFT-Reasoning](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ifm-sft-reasoning/) — · task_categories:text-generation, license:apache-2.0, region:us
 - [M3st3rJ4k3l/qwen-image-2.1-multi-Loras](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-m3st3rj4k3l-qwen-image-2-1-multi-loras/) — · gradio, region:us
+- [sous-labs/songe](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sous-labs-songe/) — A training engine for your local model, using your idle compute
 - [nvidia/Nemotron-Pretraining-Code-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-pretraining-code-v3/) — · task_categories:text-generation, language:code, license:cc-by-4.0
 - [cereeenn120/MiniMax-H3-Turbo-Lora-Unrestricted-REF2VA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cereeenn120-minimax-h3-turbo-lora-unrestricted-ref2va/) — · gradio, region:us
 - [pnemrow/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental-neo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-pnemrow-qwen-image-edit-rapid-aio-loras-experimental-neo/) — · gradio, mcp-server, region:us
@@ -50,10 +50,11 @@
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-facebook-mms-300m/) — · transformers, pytorch, wav2vec2
 - [Juneo-Lab/decision-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juneo-lab-decision-forge/) — Compile organizational policy into verifiable decision training data.
 - [jwuthri-cloud/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jwuthri-cloud-selfjev/) — Self-hosted decision model (selfjev-4b) with a Jev-compatible API: Python SDK, server, fine-tuning and RLCD.
+- [face-hh/eblan](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/face-hh-eblan/) — A chatbot trained on Counter-Strike 2 game chat, plus the toxicity benchmark and training pipeline behind it.
 - [HuggingFaceTB/smol-training-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacetb-smol-training-playbook/) — · docker, research-article-template, research paper
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — Fine-tuning LLM — lora, qlora, unsloth, fine tune tutorial.
-- [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-hh-rlhf/) — · license:mit, size_categories:100K<n<1M, format:json
 - [datamllab/OpenEBFM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datamllab-openebfm/) — Open-source code for training and scaling up energy-based foundation models.
+- [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-hh-rlhf/) — · license:mit, size_categories:100K<n<1M, format:json
 - [chrisipanaque/qwen-lora-finetune](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisipanaque-qwen-lora-finetune/) — Fine-tune Qwen2.5-Coder for code generation on your own dataset using QLoRA. Train on JSONL instruction-respo…
 - [nvidia/Nemotron-Post-Training-Dataset-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nvidia-nemotron-post-training-dataset-v2/) — · language:en, language:de, language:it
 - [Lucas5913/tllm-instruct-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lucas5913-tllm-instruct-forge/) — Open Source Instruction Tuning LLM Training Library 2026
@@ -61,15 +62,16 @@
 - [petkyletampu28-a11y/tasknet-multitask](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/petkyletampu28-a11y-tasknet-multitask/) — Modern Multi-Task NLP Fine-Tuning Framework with ModernBERT 2026
 - [Himanshu-giri-01/k8s-ai-runtime](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/himanshu-giri-01-k8s-ai-runtime/) — Streamline AI Workloads on Kubernetes: Universal Python SDK Guide 2026
 - [AkashPriyadarshii/jev-curate](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/akashpriyadarshii-jev-curate/) — High-throughput synthetic and pretraining dataset sifter for TypeSafe Jev. Rust streaming core, Parquet and J…
+- [STEAM-DROPS/finetune-lab-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/steam-drops-finetune-lab-notes/) — Fine-Tuning Transformers in 2026: Hands-On LLM Training, LoRA, and PEFT Guide
 - [mehmetbulutaktas458-dev/Aozora-Forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/mehmetbulutaktas458-dev-aozora-forge/) — Low VRAM SDXL Fine-Tuning Toolkit 2026: Train Full-Quality AI Models on 12GB GPUs
 - [Tranvanviet27/NLP-LLM-Fine-Tuning-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tranvanviet27-nlp-llm-fine-tuning-studio/) — Best Open Source NLP LLM Fine-Tuning Trainer Framework 2026
 - [Alg-Khlifa-Mouad-Iyad/GPT2-MathRiddle-Forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alg-khlifa-mouad-iyad-gpt2-mathriddle-forge/) — Fine-Tuning GPT-2 for Math Riddles Generation with Transformers and TRL 2026
 - [angelmariserg-glitch/diffusion-forge-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/angelmariserg-glitch-diffusion-forge-lab/) — Zero-Config LoRA Fine-Tuning Studio for Diffusers 2026: The Ultimate Lightweight Trainer
 - [fh6312/kubeflow-pipeline-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/fh6312-kubeflow-pipeline-forge/) — Best AI Workload Orchestrator for Kubernetes Python 2026
-- [STEAM-DROPS/finetune-lab-notes](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/steam-drops-finetune-lab-notes/) — Fine-Tuning Transformers in 2026: Hands-On LLM Training, LoRA, and PEFT Guide
 - [IIGroup/X-Coder-SFT-376k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-iigroup-x-coder-sft-376k/) — · task_categories:text-generation, language:en, license:mit
 - [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
 - [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sunrainyg-randopt/) — Official Codebase for "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights" (ICML 2026 …
+- [KingHsp/vram-sage-training](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kinghsp-vram-sage-training/) — The 2026 VRAM-Smart Fine-Tuning Suite for SDXL and ANIMA on 12GB GPUs
 - [njgymb/diffusers-sculptor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/njgymb-diffusers-sculptor/) — Efficient Stable Diffusion Fine-Tuning Framework 2026: Lightweight Config-Driven Pipeline
 - [RNetworks2019/fine-tuning-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rnetworks2019-fine-tuning-playground/) — Mastering LLM Fine-Tuning in 2026: A Practical Guide from Hugging Face Basics to Production
 - [StudioFoysal/RiddleGen-FineTuned-GPT2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/studiofoysal-riddlegen-finetuned-gpt2/) — Math Riddle Generation 2026: Fine-Tuned GPT-2 for Automated Puzzle Solving

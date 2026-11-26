@@ -2,7 +2,7 @@
 
 圖文轉影片模型，支援diffusers和flow-matching。
 
-**為何上榜**：HF trending 83 · 261 likes · 57,282 下載
+**為何上榜**：HF trending 88 · 292 likes · 73,578 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 

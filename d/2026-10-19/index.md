@@ -2147,7 +2147,6 @@ _每日存檔 · 2026-10-19_
 - [wei1104/bigApush](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wei1104-bigapush/) — BigApush 是一個自動推送A股量化選股策略的系統。
 - [discoveredlabs/awesome-aeo-seo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/discoveredlabs-awesome-aeo-seo/) — 工程師和增長行銷人員的AEO和SEO資源清單。
 - [Amshaker/Mobile-O](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amshaker-mobile-o/) — 手機裝置上的統一多模態理解和生成模型。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [Ashish-Patnaik/kokoclone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ashish-patnaik-kokoclone/) — Kokoro 音訊克隆技術，輕鬆生成自然多語音。
 - [Alpha Forge（系統化交易 AI 作業系統）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liu-ming-yu-alpha-forge/) — 標榜 agentic 的系統化交易作業系統。
 - [EYamanS/texel-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyamans-texel-studio/) — 模擬真實藝術家創作風格的AI畫素繪圖代理程式。

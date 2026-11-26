@@ -2103,7 +2103,6 @@ _每日存檔 · 2026-10-18_
 - [brekkylab/backlot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brekkylab-backlot/) — 模擬企業SaaS API的本地模擬器，支援Slack、Gmail等。
 - [Visko-Platform/VEFX-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/visko-platform-vefx-bench/) — VEFX-Bench：通用影片編輯與視覺特效的綜合基準測試。
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/markbrezina-ctrl-alt-defeatthemarket/) — IMC Prosperity 演算法交易競賽的非官方攻略。
-- [hirokawaguchi/open-genai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hirokawaguchi-open-genai/) — 非官方專案，可在本地執行日本數字廳開發的源內(GENAI)系統。
 - [gantasmo/theDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-thedaw/) — GANTASMO 開發的 AI 音樂創作、編輯和混音一站式工作室。
 - [mrbizarro/Phosphene](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mrbizarro-phosphene/) — 在 Mac 上本地執行 MiniMax Hailuo H3 和 LTX-2.5 影片生成。
 - [danishashko/geo-aeo-tracker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/danishashko-geo-aeo-tracker/) — 開源AI視覺智慧儀錶板，追蹤品牌在六種AI模型中的表現。
