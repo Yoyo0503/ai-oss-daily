@@ -35,6 +35,7 @@
 - [humongousissu/Arbitrage-Scanner-Desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/humongousissu-arbitrage-scanner-desktop/) — 用於追蹤區塊鏈網路費用和交易成本的桌面小工具。
 - [waryenemy/ETH-Gas-Optimizer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/waryenemy-eth-gas-optimizer/) — 用於解析ENS名稱和地址的桌面工具。
 - [deadsoot/Token-Gains-Reporter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deadsoot-token-gains-reporter/) — 用於生成加密貨幣稅務報告的桌面工具。
+- [HMphysics/Strategies-OMA-Quant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hmphysics-strategies-oma-quant/) — 一套經過反過擬合引擎審核的量化交易策略書。
 - [laurensa453/polymarket-btc-5m-hedge-ladder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laurensa453-polymarket-btc-5m-hedge-ladder/) — 一個基於 Polymarket 的比特幣 5 分鐘交易機器人，採用梯度提升策略。
 - [penicephalic43/polymarket-weather-latency-gated-copy-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/penicephalic43-polymarket-weather-latency-gated-copy-bot/) — 開源Polymarket天氣市場複製機器人，支援多錢包映象交易。
 - [byttrade/bytx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/byttrade-bytx/) — BYTtrade提供的加密貨幣交易所非同步Python SDK。
@@ -59,4 +60,3 @@
 - [lathanFreeApp/solana-sniper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lathanfreeapp-solana-sniper-bot/) — 用於Solana等平臺的自動交易機器人，支援複製交易。
 - [CosmicThemagnet/glove-respocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cosmicthemagnet-glove-respocket/) — 基於區塊鏈的Web3投資組合分析和最佳化工具。
 - [2827173579/us-market-radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/2827173579-us-market-radar/) — 美股量化交易與 AI 預測工具，提供 LightGBM 預測與多空分析。
-- [tradoor-terminal/tradoor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tradoor-terminal-tradoor/) — 開源加密貨幣交易終端，提供多交易所資料和自定義指標。

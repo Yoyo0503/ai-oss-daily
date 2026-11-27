@@ -4,5 +4,5 @@ HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unif
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：4,521
+**Stars**：4,565
 **Source**：https://github.com/HarnessRouter/harnessrouter

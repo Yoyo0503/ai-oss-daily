@@ -4,5 +4,5 @@ Skills for Designers and Engineers.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：59,598
+**Stars**：60,129
 **Source**：https://github.com/emilkowalski/skills

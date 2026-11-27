@@ -1,6 +1,6 @@
 # AI 開源日報 — 今日精選
 
-_最後更新: 2026-11-26 09:05 CST_
+_最後更新: 2026-11-27 09:05 CST_
 
 - [bookwjitchieni1986/blender-ai-mcp-addon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bookwjitchieni1986-blender-ai-mcp-addon/) — Blender的AI助手外掛，支援多種AI對話和工作流程。
 - [feder-cr/invisible_playwright_mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/feder-cr-invisible-playwright-mcp/) — invisible_playwright_mcp 是一個使用 AI 代理在隱藏模式下瀏覽網頁的工具。
@@ -30,8 +30,8 @@ _最後更新: 2026-11-26 09:05 CST_
 - [GrimOrbita/rpocket-team-meeting-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/grimorbita-rpocket-team-meeting-agent/) — 加入會議並生成英文報告的AI筆記工具。
 - [Def28641eatclaw/Restaurant-Ai-Agent-rpocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/def28641eatclaw-restaurant-ai-agent-rpocket/) — 餐廳AI點餐助手，支援自然語言訂餐、對話記憶和自動紀錄。
 - [boringmarketer/boring-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boringmarketer-boring-marketing-skills/) — 為 AI 最佳化 31 種免費行銷技能，涵蓋研究、定位和內容創作。
+- [openairlabs/fleo-by-flyweel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openairlabs-fleo-by-flyweel/) — 開源AI內容引擎，支援SEO和AEO內容自動化。
 - [TraceCohenTech/ai-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tracecohentech-ai-seo-playbook/) — AI SEO 手冊，涵蓋方法論、指令碼和安全防護。
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [autotrust/GEV-26B-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-gev-26b-decide/) — 進行文本分類的模型。
 - [thinkingmachines/Inkling-2-Mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling-2-mini/) — 將影像和文字轉換為文字的模型，適用於對話式生成。
 - [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-atomicchat-inkling-2-mini-uncensored-gguf/) — 無審核的圖文轉文字模型，支援gguf格式。

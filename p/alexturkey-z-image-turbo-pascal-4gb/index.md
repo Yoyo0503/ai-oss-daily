@@ -2,9 +2,9 @@
 
 在低 VRAM 電腦上執行的 Z-Image-Turbo，適用於影像生成。
 
-**為何上榜**：近一日新增 1★（現 199★）
+**為何上榜**：近一日新增 4★（現 203★）
 
 **商用授權**：可商用 — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：199
+**Stars**：203
 **原始連結**：https://github.com/alexturkey/z-image-turbo-pascal-4gb

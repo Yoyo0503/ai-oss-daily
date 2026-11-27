@@ -4,5 +4,5 @@ Local-first 1v1 anime AI tutor — just 1 API key or local subscription (Antigra
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：701
+**Stars**：746
 **Source**：https://github.com/Johnson-Durui/Companion-Space

@@ -4,5 +4,5 @@ AgentSkillsHub (agentskillshub.top) — security-graded directory of open-source
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：512
+**Stars**：513
 **Source**：https://github.com/zhuyansen/agent-skills-hub

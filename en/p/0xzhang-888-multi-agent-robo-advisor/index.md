@@ -4,5 +4,5 @@ Explainable multi-agent robo-advisor with suitability assessment, portfolio cons
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：52
+**Stars**：39
 **Source**：https://github.com/0xzhang-888/multi-agent-robo-advisor

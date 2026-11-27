@@ -4,5 +4,5 @@ Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio fo
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：1,263
+**Stars**：1,271
 **Source**：https://github.com/Keys-Wasserman/Imagination-Studio-by-keys-Wasserman

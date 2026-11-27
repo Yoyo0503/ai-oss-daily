@@ -4,5 +4,5 @@ Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing fr
 
 **Commercial license**：Commercial OK — 傳染性！整合進專案可能要求全專案開源(AGPL 連 SaaS 也算)，商用需謹慎
 
-**Stars**：5,013
+**Stars**：5,123
 **Source**：https://github.com/jiwoochris/artex-global
