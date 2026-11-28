@@ -855,7 +855,6 @@ _每日存檔 · 2026-11-24_
 - [signsur4739379373/LTX-2.3-Finetuned-I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AdithyaSK/rl-environments-101-slides](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-101-slides/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [briaai/Fibo-2.0-editing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-briaai-fibo-2-0-editing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openvivo-vins-120k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yijunwang2-krea2-outpaint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/h3-world-action-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-h3-world-action-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1340,7 +1339,6 @@ _每日存檔 · 2026-11-24_
 - [MaximilianYes/Passives-einkommen-affiliate-framework-de](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maximilianyes-passives-einkommen-affiliate-framework-de/) — 自動化Digistore24的聯盟行銷業務，提高收益。
 - [everyinfra/seo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/everyinfra-seo-skills/) — 免費的全球SEO技能套件，適用於多種AI代理和市場平臺。
 - [MEDHARVIX-SYSTEMS/bhasaflow-khasi-english-parallel-sample-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-medharvix-systems-bhasaflow-khasi-english-parallel-sample-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [Ablation-Tool/ablation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ablation-tool-ablation/) — AI 協助逆向工程框架，支援二進位分析。
 - [ibm-research/cuga-apps](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ibm-research-cuga-apps/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [kajisho5/ffmpeg-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kajisho5-ffmpeg-skill/) — 本地影片編輯工具，支援42種FFmpeg功能。
@@ -2398,7 +2396,6 @@ _每日存檔 · 2026-11-24_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yuxino/Kiri](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuxino-kiri/) — Kiri 是一個跨平臺的截圖和錄屏工具，支援文字識別和本地儲存。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [bamboostrip/Handwriting-simulator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bamboostrip-handwriting-simulator/) — 將普通文本轉換成手寫體圖片，支援 GUI 和 CLI 入口。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [calmrocks/ai-engineer-notebooks](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/calmrocks-ai-engineer-notebooks/) — 無框架的Colab筆記本，涵蓋AI工程師技能集。
@@ -2760,7 +2757,6 @@ _每日存檔 · 2026-11-24_
 - [Agent-Field/reels-af](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-field-reels-af/) — 利用AI系統自動化製作熱門短影片和TikTok內容。
 - [iFayens/ComfyUI-PuLID-Flux2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifayens-comfyui-pulid-flux2/) — ComfyUI-PuLID-Flux2 為 FLUX.2 提供一致面孔識別功能。
 - [Monet-AI-Editor/Monet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/monet-ai-editor-monet/) — 使用 Claude code 或 Codex 編輯影片和設計影像的工具。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [aitradingbotspro/cryto-trading-ai-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aitradingbotspro-cryto-trading-ai-assistant/) — 手動交易者的 AI 守護：風險監控、策略驗證、情緒控管。
 - [Bomx/qwoted-seo-backlinks-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bomx-qwoted-seo-backlinks-skill/) — Claude Code 技能：在 Qwoted 上尋找 PR 和回鏈機會。
 - [exoharness/exo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/exoharness-exo/) — 一種能自我進化以更好完成任務的代理程式架構。

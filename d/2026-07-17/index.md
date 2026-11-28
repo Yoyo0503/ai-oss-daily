@@ -1045,7 +1045,6 @@ _每日存檔 · 2026-07-17_
 - [0xSanei/darwinia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsanei-darwinia/) — 自我演化的交易 agent 生態：達爾文式選擇汰弱留強。
 - [EYamanS/texel-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyamans-texel-studio/) — 模擬真實藝術家創作風格的AI畫素繪圖代理程式。
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-world-r1/) — 強化3D約束，用於文字轉影片生成。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [xixihhhh/clipforge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xixihhhh-clipforge/) — 基於影像和文字生成抖音等短影片的開源工具。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

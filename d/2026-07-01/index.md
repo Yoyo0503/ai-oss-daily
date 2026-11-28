@@ -913,7 +913,6 @@ _每日存檔 · 2026-07-01_
 - [HuangYuChuh/ComfyUI_Skills_OpenClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/huangyuchuh-comfyui-skills-openclaw/) — 將ComfyUI工作流程轉換為OpenClaw等代理技能的工具。
 - [thearnavrustagi/marketmenow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thearnavrustagi-marketmenow/) — 給新創的 agentic 對外行銷自動化。
 - [rmbell09-lang/tradesight](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rmbell09-lang-tradesight/) — 自架 AI 交易策略實驗室：模擬盤、隔夜策略錦標賽、15+ 工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jackohhhh-medllm-finetuning/) — 用於醫學二元分類任務的開箱即用大語言模型微調框架。

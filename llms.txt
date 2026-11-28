@@ -2,7 +2,7 @@
 
 > 每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。
 
-每日更新的 AI/LLM 開源情報。最後更新 2026-11-27 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
+每日更新的 AI/LLM 開源情報。最後更新 2026-11-28 09:05 CST。每頁皆有同址 index.md 乾淨 Markdown 版，歡迎引用。
 
 ## 分類中樞 Categories
 - [🔌 MCP 伺服器](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/mcp/)
@@ -13,6 +13,7 @@
 - [🧱 AI 基礎堆疊](https://cenxialiu7-cloud.github.io/ai-oss-daily/c/general-ai/)
 
 ## 最新每日存檔 Daily
+- [2026-11-28](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-28/)
 - [2026-11-27](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-27/)
 - [2026-11-26](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-26/)
 - [2026-11-25](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-25/)
@@ -26,15 +27,14 @@
 - [2026-11-16](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-16/)
 - [2026-11-15](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-15/)
 - [2026-11-14](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-14/)
-- [2026-11-13](https://cenxialiu7-cloud.github.io/ai-oss-daily/d/2026-11-13/)
 
 ## 今日精選 Today's picks
-- [kandinskylab/Kandinsky-ImageSR-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kandinskylab-kandinsky-imagesr-2-0/)
-- [ccore/CCORE-Web-Coder-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ccore-ccore-web-coder-4b/)
-- [phil-haderer/pxc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phil-haderer-pxc/)
-- [rocketride-org/rocketride-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rocketride-org-rocketride-server/)
-- [elementalsouls/Claude-BugHunter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/)
-- [PrunaAI/P-H3-Image-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/)
+- [ai-sage/GigaChat4-708B-A41B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ai-sage-gigachat4-708b-a41b/)
+- [XinaTian/MROffice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinatian-mroffice/)
+- [irenea202/comfyui-pro-patcher-installer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irenea202-comfyui-pro-patcher-installer/)
+- [BaaRai/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/baarai-artex/)
+- [dataelement/dsh-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-dsh-desktop/)
+- [inworld/voice-isolator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inworld-voice-isolator/)
 
 ## AI 組合企劃 Build ideas
 - [AI 短影音工廠（批量產內容 → 流量變現）](https://cenxialiu7-cloud.github.io/ai-oss-daily/proposals/P001/)

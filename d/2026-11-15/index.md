@@ -2263,7 +2263,6 @@ _每日存檔 · 2026-11-15_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。
@@ -2396,7 +2395,6 @@ _每日存檔 · 2026-11-15_
 - [gbessoni/seobuild-onpage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gbessoni-seobuild-onpage/) — AI agent 一鍵寫出「Google 排名且被 LLM 引用」的頁面。
 - [zhu1090093659/spec_driven_develop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-spec-driven-develop/) — 基於規格驅動的 AI 程式碼代理開發工作流程，支援任務分解和追蹤。
 - [witty-suckerpunch492/daihuo-jianshou](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/witty-suckerpunch492-daihuo-jianshou/) — 自動生成電商帶貨短影片，適配抖音、快手等平臺。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [netease-youdao/Confucius4-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/netease-youdao-confucius4-tts/) — 多語言零次元語音合成引擎。
 - [Orkas-AI/Orkas-VideoStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orkas-ai-orkas-videostudio/) — 將程式碼代理轉換為影片工作室，描述文字生成影片。
 - [wanshuiyin/ARIS-in-AI-Offer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wanshuiyin-aris-in-ai-offer/) — AI 秋招面試雙語備忘單，生成 CV 轉換器。

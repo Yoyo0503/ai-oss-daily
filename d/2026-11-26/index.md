@@ -881,7 +881,6 @@ _每日存檔 · 2026-11-26_
 - [celiarceron-byte/virtual-card-usdt-anthropic-enterprise-claude-team-vcc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/celiarceron-byte-virtual-card-usdt-anthropic-enterprise-claude-team-vcc/) — 解析 Anthropic 企業級 Claude 團隊席位採購方案。
 - [AdithyaSK/rl-environments-101-slides](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-101-slides/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [briaai/Fibo-2.0-editing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-briaai-fibo-2-0-editing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [XiaoyeCodes/code-animation-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiaoyecodes-code-animation-prompts/) — 提供 341 種程式碼動畫風格提示詞，支援 HTML 影片渲染。
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openvivo-vins-120k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yijunwang2-krea2-outpaint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1381,7 +1380,6 @@ _每日存檔 · 2026-11-26_
 - [figma-ai/motion-graphics-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-figma-ai-motion-graphics-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [thebigasif/affiliate-tracking](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thebigasif-affiliate-tracking/) — 開源的聯盟追蹤軟體，提供自建聯盟追蹤方案。
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-mms-300m/) — 一個使用wav2vec2的轉換器模型，適用於多語言預訓練。
-- [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [uw-math-ai/math-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-uw-math-ai-math-graph/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Cripacx/mediagen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cripacx-mediagen/) — Claude Code 的多模態生成技能，結合 Gemini、OpenAI 和 Kie AI，支援 EU AI Act 內容標記。
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-withinusai-claude-mythos-distilled-25k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -2441,7 +2439,6 @@ _每日存檔 · 2026-11-26_
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。
@@ -2848,7 +2845,6 @@ _每日存檔 · 2026-11-26_
 - [braedonsaunders/homerun](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/braedonsaunders-homerun/) — 開源預測市場交易平臺，支援策略編寫、回測及自動化交易。
 - [lambda-calculus-LLM/lambda-RLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lambda-calculus-llm-lambda-rlm/) — 使用可驗證 lambda 演算的方法來處理長上下文的 RLMs。
 - [AbdulWasay13/TradingView-Pipe-Executor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdulwasay13-tradingview-pipe-executor/) — 使用 AI 警報和 Webhook 連線的自動化外匯交易機器人。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [Agions/frame-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agions-frame-forge/) — AI驅動的影片創作工作室，將故事和劇本轉換為專業影片內容。
 - [dongxinsuperman/ai-phone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dongxinsuperman-ai-phone/) — 三端真機 AI 自動化中台（手機自動化）。
 - [leancoderkavy/premiere-pro-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leancoderkavy-premiere-pro-mcp/) — 控制Adobe Premiere Pro的伺服器，透過CEP/ExtendScript進行AI驅動的影片編輯。

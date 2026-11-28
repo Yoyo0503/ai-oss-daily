@@ -1046,7 +1046,6 @@ _每日存檔 · 2026-09-24_
 - [nanotron/ultrascale-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nanotron-ultrascale-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [tt-a1i/archify](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tt-a1i-archify/) — 將資料流圖形轉換成美麗且可驗證的HTML圖表，適用於Claude Code等AI代理。
 - [heygen-com/hyperframes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heygen-com-hyperframes/) — 使用HTML生成動畫影片的框架，專為代理設計。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [200lz/llm-inference-optimization-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/200lz-llm-inference-optimization-lab/) — 可重現的 llama.cpp CPU 推理分析和確定性 LLM 伺服器模擬工具。
 - [code-yeongyu/oh-my-openagent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/code-yeongyu-oh-my-openagent/) — 專門為複雜程式碼庫設計的AI代理整合工具。
 - [FuRongJun-1999/dsh-memory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/furongjun-1999-dsh-memory/) — 白箱AGI架構探索，包含元認知、持續學習、世界模型、自我改進等模組。
@@ -1703,7 +1702,6 @@ _每日存檔 · 2026-09-24_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [OranAi-Ltd/orangeo-ai-visibility-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oranai-ltd-orangeo-ai-visibility-skill/) — 開放原始碼的AI可見性檢查工具，用於檢測網站SEO和競爭對手差距。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [openai/tunnel-client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openai-tunnel-client/) — 用於連線私有或本地 ChatGPT 和其他 API 的安全客戶端。

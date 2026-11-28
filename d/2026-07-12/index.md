@@ -997,7 +997,6 @@ _每日存檔 · 2026-07-12_
 - [VernonOY/alpha-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vernonoy-alpha-skills/) — 給 AI coding 助手用的量化因子研究 skill。
 - [agenvoy/Agenvoy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agenvoy-agenvoy/) — 個人AI代理，能自行編寫工具並自我修復。
 - [Classic298/open-webui-plugins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/classic298-open-webui-plugins/) — 擴充套件AI聊天體驗的外掛集合。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [MarkBrezina/Ctrl-Alt-DefeatTheMarket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/markbrezina-ctrl-alt-defeatthemarket/) — IMC Prosperity 演算法交易競賽的非官方攻略。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

@@ -1164,7 +1164,6 @@ _Daily archive · 2026-07-29_
 - [alibayram/identity_finetune_magibu_q3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibayram-identity-finetune-magibu-q3/) — · task_categories:text-generation, language:tr, language:en
 - [PrathamLearnsToCode/paper2code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/prathamlearnstocode-paper2code/) — Agent skill to turn any arxiv paper into a working implementation
 - [activeloopai/hivemind](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/activeloopai-hivemind/) — Hivemind turns your traces into reusable skills across agents
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-whale99-interaction2code/) — · task_categories:image-text-to-text, language:en, size_categories:1K<n<10K
 - [dthinkr/yand-mvsk](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dthinkr-yand-mvsk/) — Fast MVSK portfolio optimization: no tensor storage, solves 800 assets in 0.05s
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eval-sys-mcpmark/) — MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in…
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-guide/) — Complete guide to Seedance 2.0 — multimodal AI video generation with image, video, audio & text input. Prompt…

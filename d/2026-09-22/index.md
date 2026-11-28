@@ -1683,7 +1683,6 @@ _每日存檔 · 2026-09-22_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [ClaudioDrews/memory-os](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/claudiodrews-memory-os/) — 適用於 Hermes Agent 的七層記憶作業系統，提供永續性記憶和上下文注入。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [agenvoy/Agenvoy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agenvoy-agenvoy/) — 個人AI代理，能自行編寫工具並自我修復。

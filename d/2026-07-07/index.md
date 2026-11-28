@@ -963,7 +963,6 @@ _每日存檔 · 2026-07-07_
 - [YicunAI/Pnlclaw-community](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yicunai-pnlclaw-community/) — 本機優先的加密與預測市場量化引擎。
 - [markus-global/markus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/markus-global-markus/) — 不是又一個 agent 框架，而是「AI 勞動力的作業系統」，自主 agent 協作。
 - [stevenflanagan1/social-ai-team](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stevenflanagan1-social-ai-team/) — 給中小企業的社群 AI 團隊 Claude skills：品牌設定、內容全包。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Cynthiazxy123/SAMA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cynthiazxy123-sama/) — 基於因子化語義錨定和運動對齊的指令引導影片編輯模型推論程式碼。

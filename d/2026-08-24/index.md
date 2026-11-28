@@ -1398,7 +1398,6 @@ _每日存檔 · 2026-08-24_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [open-gitagent/shadowLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-gitagent-shadowlm/) — 用於微調任何開放模型的SDK，支援多種訓練方法。
 - [ebrahimpichka/open-MFE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebrahimpichka-open-mfe/) — 頂級金融工程課程資源的社群維護庫。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [agenvoy/Agenvoy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agenvoy-agenvoy/) — 個人AI代理，能自行編寫工具並自我修復。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

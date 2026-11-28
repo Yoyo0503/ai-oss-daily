@@ -2273,7 +2273,6 @@ _每日存檔 · 2026-11-16_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [Jit-Roy/WeeLLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jit-roy-weellm/) — 在低VRAM下執行大型擴散模型。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
@@ -2428,7 +2427,6 @@ _每日存檔 · 2026-11-16_
 - [jmaczan/tiny-vllm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jmaczan-tiny-vllm/) — 使用C++和CUDA構建的小型高效能LLM推理引擎。
 - [EverMind-AI/Raven](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evermind-ai-raven/) — 一個記憶優先、自我改進的代理程式，基於 EverOS 和 MiroThinker 深度研究技術。
 - [NVIDIA/NeMo-Speech.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nvidia-nemo-speech-cpp/) — 輕量級的C++推理執行時，用於語音模型的推論。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [Raymondhou0917/speak-human-tw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/raymondhou0917-speak-human-tw/) — 將繁體中文 AI 文本改寫成人類易懂的語言，修正中國用語及標點符號。
 - [quysto/QUYQUY-AntigravityAwesomeSkills-GodVersion-bumbum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quysto-quyquy-antigravityawesomeskills-godversion-bumbum/) — 包含1500多種代理技能的GitHub庫，適用於Claude Code等AI代理。
 - [maddhruv/absolute](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maddhruv-absolute/) — 來自世界各地的優秀技能集合。

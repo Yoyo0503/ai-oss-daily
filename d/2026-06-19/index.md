@@ -794,7 +794,6 @@ _每日存檔 · 2026-06-19_
 - [McKern3l/RAGdrag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mckern3l-ragdrag/) — RAG管道安全測試工具，涵蓋MITRE ATLAS的六個階段技術。
 - [matt-k-wong/mlx-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matt-k-wong-mlx-flash/) — 讓大型模型在Apple Silicon上執行，即使記憶體不足也能流式處理權重。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nitrocloudofficial/nitrostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nitrocloudofficial-nitrostack/) — 全端TypeScript框架，用於構建和部署生產級別的MCP伺服器及原生AI應用。
 - [GaeaRuiW/kube-llmops](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gaearuiw-kube-llmops/) — 用 Kubernetes 管理大型語言模型的運維工具。
 - [fim-ai/fim-one](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fim-ai-fim-one/) — 開源AI平臺，連線全球和中國企業系統的核心代理。

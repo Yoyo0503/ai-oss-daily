@@ -939,7 +939,6 @@ _每日存檔 · 2026-07-03_
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。
 - [nambok/mentedb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nambok-mentedb/) — 專為 AI 代理記憶設計的認知意識資料庫引擎。
 - [xlev-v/Hyperliquid-Trading-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xlev-v-hyperliquid-trading-bot/) — Hyperliquid 自動交易機器人，3 種獨立策略（production 級）。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MuhammadIbtisam/ai-engineer-roadmap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/muhammadibtisam-ai-engineer-roadmap/) — 從 Python 基礎到生產 RAG 的完整 AI 工程師培訓路線圖。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

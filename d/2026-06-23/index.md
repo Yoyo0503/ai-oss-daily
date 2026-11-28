@@ -807,7 +807,6 @@ _每日存檔 · 2026-06-23_
 - [vektori-ai/vektori](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vektori-ai-vektori/) — 記憶三層架構，讓 AI 代理人記得故事脈絡而非單純事實。
 - [okx/agent-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/okx-agent-skills/) — OKX 即插即用 AI agent skills — 讓任何 LLM agent 交易/管理組合。
 - [Rich627/whatsapp-claude-plugin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rich627-whatsapp-claude-plugin/) — 直接在 WhatsApp 上執行 AI，支援語音轉錄和遠端工具批准。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [TYH-labs/unsloth-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tyh-labs-unsloth-buddy/) — 自動化 NVIDIA 和 Apple 裝置上的 LLM 微調技能。

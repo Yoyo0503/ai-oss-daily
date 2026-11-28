@@ -2196,8 +2196,6 @@ _每日存檔 · 2026-11-09_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [MemTensor/memmy-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/memtensor-memmy-agent/) — 個人AI代理和本地記憶中心，讓所有AI共享記憶。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

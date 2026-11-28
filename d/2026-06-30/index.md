@@ -891,7 +891,6 @@ _每日存檔 · 2026-06-30_
 - [zhuyansen/agent-skills-hub](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhuyansen-agent-skills-hub/) — 開放原始碼 Agent 技能、工具和 MCP 伺服器的發現與比較平臺。
 - [Jackohhhh/MedLLM-Finetuning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jackohhhh-medllm-finetuning/) — 用於醫學二元分類任務的開箱即用大語言模型微調框架。
 - [EasonTuT/Awesome-Interactive-World-Model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/easontut-awesome-interactive-world-model/) — 組織整理以核心研究挑戰為基礎的互動式世界模型論文。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [sgaofen/vibe-schooling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sgaofen-vibe-schooling/) — 自動化學業管理，協助學生輕鬆取得高分。

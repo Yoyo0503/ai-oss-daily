@@ -991,7 +991,6 @@ _每日存檔 · 2026-07-10_
 - [Ashutosh0x/rust-finance](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ashutosh0x-rust-finance/) — Rust 寫的高效能、超低延遲交易終端＋AI daemon。
 - [adam-s/alphadidactic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adam-s-alphadidactic/) — 迭代研究 agent：搜尋學術論文並套用到時間序列資料。
 - [cryptopoly/ChaosEngineAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cryptopoly-chaosengineai/) — 本地端 AI 工作站，用於模型執行、聊天和生成影像。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [gbessoni/seobuild-onpage](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gbessoni-seobuild-onpage/) — AI agent 一鍵寫出「Google 排名且被 LLM 引用」的頁面。
 - [quantumaikr/quant.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantumaikr-quant-cpp/) — 純C語言的LLM推論庫，支援長上下文和KV快取壓縮。

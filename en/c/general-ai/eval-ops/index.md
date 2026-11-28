@@ -5,10 +5,10 @@
 - [hongzhuyi/VDEBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-hongzhuyi-vdebench/) — · benchmark:official, benchmark:eval-yaml, task_categories:image-to-image
 - [Qwen/BlenderWorld](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-qwen-blenderworld/) — · language:en, language:zh, license:mit
 - [moonworks/lunara-art-eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-moonworks-lunara-art-eval/) — · task_categories:text-to-image, license:apache-2.0, size_categories:1K<n<10K
+- [yurun-chen/EgoUseBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yurun-chen-egousebench/) — · language:en, license:other, arxiv:2611.34466
 - [NousResearch/Propaganda_Eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-nousresearch-propaganda-eval/) — · task_categories:question-answering, language:en, license:mit
 - [collinear-ai/cwe-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-collinear-ai-cwe-bench/) — · benchmark:official, benchmark:eval-yaml, license:apache-2.0
 - [redmadrobot-rnd/pii_benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-redmadrobot-rnd-pii-benchmark/) — · task_categories:token-classification, language:ru, license:mit
-- [yurun-chen/EgoUseBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-yurun-chen-egousebench/) — · language:en, license:other, arxiv:2611.34466
 - [ASLP-lab/DRAMA-Eval](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-aslp-lab-drama-eval/) — · task_categories:text-to-speech, language:en, language:zh
 - [Rapidata/svg-benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-rapidata-svg-benchmark/) — · task_categories:text-to-image, task_categories:image-classification, task_categories:reinforcement-learning
 - [UniParser/RxnMiner-Benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uniparser-rxnminer-benchmark/) — · task_categories:image-to-text, language:en, license:cc-by-nc-sa-4.0
@@ -27,8 +27,8 @@
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-alibaba-yufeng-mma-safetybench/) — · license:cc-by-4.0, size_categories:n<1K, format:imagefolder
 - [cais/hle](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-cais-hle/) — · benchmark:official, license:mit, size_categories:1K<n<10K
 - [PaddlePaddle/Real5-OmniDocBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-paddlepaddle-real5-omnidocbench/) — · benchmark:official, benchmark:eval-yaml, task_categories:image-to-text
-- [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xinxuxin-keystone-bench/) — A clinical decision-evidence benchmark: pull the one fact an answer rests on, and see whether the assistant's…
 - [MadsLorentzen/ai-job-search](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/madslorentzen-ai-job-search/) — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate posting…
+- [xinxuxin/keystone-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/xinxuxin-keystone-bench/) — A clinical decision-evidence benchmark: pull the one fact an answer rests on, and see whether the assistant's…
 - [Necent/llm-jailbreak-prompt-injection-dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-necent-llm-jailbreak-prompt-injection-dataset/) — · task_categories:text-classification, language:en, language:zh
 - [ibm-research/ScarfBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-ibm-research-scarfbench/) — · task_categories:text-generation, arxiv:2605.06754, region:us
 - [ytu-ce-cosmos/Turkish-Speech-Benchmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-ytu-ce-cosmos-turkish-speech-benchmark/) — · docker, region:us

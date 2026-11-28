@@ -1221,7 +1221,6 @@ _每日存檔 · 2026-08-05_
 - [heider-x/vela](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heider-x-vela/) — AI驅動的創意寫作IDE，本地LLM和隱私優先。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [yzhao062/agent-style](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yzhao062-agent-style/) — 提供給 AI 程式碼和寫作代理的 21 個寫作規則，讓程式碼看起來像專業技術人員的作品。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [kemalai/FreeCrawl-SEO-Tool](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kemalai-freecrawl-seo-tool/) — 一款高效網站爬蟲工具，專為 SEO 稽核設計，可在單機上掃描百萬級網址。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。

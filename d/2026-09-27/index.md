@@ -1129,7 +1129,6 @@ _每日存檔 · 2026-09-27_
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
 - [malcolmrey/various](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-malcolmrey-various/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [cais/mmlu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-cais-mmlu/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [Anil-matcha/zack-d-films-ai-video-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anil-matcha-zack-d-films-ai-video-generator/) — 自動生成Zack D Films風格的3D動畫短片。
 - [Prism-Shadow/penguin-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prism-shadow-penguin-harness/) — 讓AI自行建立AI的工具。
 - [Eyeline-Labs/ID-V2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/) — ID-V2V 是用於影片重風格化並保持身份特徵的官方實現。
@@ -1732,7 +1731,6 @@ _每日存檔 · 2026-09-27_
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

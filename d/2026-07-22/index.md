@@ -1088,7 +1088,6 @@ _每日存檔 · 2026-07-22_
 - [didilili/shopkeeper-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/didilili-shopkeeper-agent/) — 電商資料倉儲的智慧問答 AI 代理，結合 LangGraph、FastAPI 等技術實現自然語言生成 SQL 查詢。
 - [Miasyster/QuantGPT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/miasyster-quantgpt/) — Agent 驅動的 alpha 工廠：LLM 自主設計、回測並提交因子到 WorldQuant。
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-world-r1/) — 強化3D約束，用於文字轉影片生成。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

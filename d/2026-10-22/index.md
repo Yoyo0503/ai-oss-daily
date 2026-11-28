@@ -1676,7 +1676,6 @@ _每日存檔 · 2026-10-22_
 - [Devin-AXIS/iPolloWork](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/devin-axis-ipollowork/) — 下一代Codex和Claude Code替代品，本地部署的代理工作空間。
 - [simonlin1212/a-stock-data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simonlin1212-a-stock-data/) — 中國A股全棧資料工具包，涵蓋多種金融資料來源。
 - [freestylefly/awesome-gpt-image-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/freestylefly-awesome-gpt-image-2/) — 工業級提示詞引擎與模板庫，涵蓋470多個案例和20多種模板。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [scouttyg/writekin](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scouttyg-writekin/) — 一種與你寫作風格相似的本地化 LLM 模型。
 - [forloopcodes/contextplus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/forloopcodes-contextplus/) — Context+ 是一個高精度的MCP伺服器，結合了RAG、AST等技術。
 - [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alistaitsacle-free-llm-api-keys/) — 提供 GPT-5.5、Claude 等免費 AI API 金鑰，每日更新多次，無需信用卡。
@@ -1969,7 +1968,6 @@ _每日存檔 · 2026-10-22_
 - [Wholiver/metis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wholiver-metis/) — 提升 AI 程式碼生成效率的代理工具。
 - [manypost/manypost-app](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manypost-manypost-app/) — 巴西創作者和開發者的自動化多渠道社交媒體工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/samvallad33-vestige/) — AI 代理的安全核心，記錄每一個記憶寫入和代理動作。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — 構建自主 AI 代理的 API 集合，涵蓋代理、AI 模型和 MCP 伺服器。

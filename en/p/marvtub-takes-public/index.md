@@ -1,6 +1,6 @@
 # marvtub/takes-public
 
-Takes for Mac (gettakes.app): a free, open-source Mac app for talking-head videos. A teleprompter that follows your voice, camera and screen recording, and your agent (Claude Code, Codex or pi) writes the script, cuts the edit and drafts the posts through the takes MCP server. Apple silicon, macOS 15+. Shared as is.
+Takes for Mac records talking-head videos that Claude Code, Codex, or pi can edit through the built-in Takes MCP server. Free and open source, with a voice-following teleprompter, camera and screen recording, and agent-drafted scripts and social posts. Apple silicon, macOS 15+. Shared as is.
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 

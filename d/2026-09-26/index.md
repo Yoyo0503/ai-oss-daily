@@ -1138,7 +1138,6 @@ _每日存檔 · 2026-09-26_
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/) — 從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。
 - [Alibaba-YuFeng/MMA-SafetyBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibaba-yufeng-mma-safetybench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [netflix/Vera-Layered-Video-Dataset](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-netflix-vera-layered-video-dataset/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [dnv2003/v100-skinny](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dnv2003-v100-skinny/) — 在Tesla V100上最佳化的Qwen3.6-27B模型。
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [OthmanAdi/planning-with-files](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/othmanadi-planning-with-files/) — 基於Manus風格持久化Markdown計劃的Claude程式碼技能。
@@ -1719,7 +1718,6 @@ _每日存檔 · 2026-09-26_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [agenvoy/Agenvoy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agenvoy-agenvoy/) — 個人AI代理，能自行編寫工具並自我修復。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [openai/tunnel-client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openai-tunnel-client/) — 用於連線私有或本地 ChatGPT 和其他 API 的安全客戶端。

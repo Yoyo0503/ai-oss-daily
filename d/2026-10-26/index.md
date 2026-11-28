@@ -1786,7 +1786,6 @@ _每日存檔 · 2026-10-26_
 - [Orkas-AI/Orkas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/orkas-ai-orkas/) — 開源多代理AI桌面客戶端，通過對話建立和指揮AI代理團隊。
 - [vybenetwork/solana-mcp-vybe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vybenetwork-solana-mcp-vybe/) — 公開的Vybe Solana API元資料 registry。
 - [spinabot/brigade](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spinabot-brigade/) — 企業級個人智慧助手，支援自動化任務和協作。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [bytedance/Bernini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bytedance-bernini/) — 字節 Bernini：結合多模態 LLM 的統一影片生成與編輯框架。
 - [kimsungwhee/apple-docs-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kimsungwhee-apple-docs-mcp/) — 蘋果開發者文件的MCP伺服器，支援在Claude、Cursor等AI助手中搜索相關檔案。
 - [YizhiSong/FriesTrader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yizhisong-friestrader/) — 自動化股票交易機器人，基於Claude Code進行風險管理。
@@ -2026,7 +2025,6 @@ _每日存檔 · 2026-10-26_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [electkismet/AxData](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/electkismet-axdata/) — 開源量化資料庫框架，涵蓋多個財經介面。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [perfectgf/lora-dataset-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/perfectgf-lora-dataset-studio/) — 自建 LoRA 資料集的工作平臺，具備自動標註和訓練功能。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

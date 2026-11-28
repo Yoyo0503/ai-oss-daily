@@ -794,7 +794,6 @@ _每日存檔 · 2026-11-20_
 - [Qwen/RecreationBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-recreationbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MegaPotatoAI/AI-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-megapotatoai-ai-image-upscaler/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nineninesix/gepard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nineninesix-gepard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [johnnablea29-art/stratgies-indicator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/johnnablea29-art-stratgies-indicator/) — 自動化交易策略指令碼。
 - [nvidia/nemotron-transcribe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nvidia-nemotron-transcribe/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/irodori-tts-anime-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-irodori-tts-anime-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1259,7 +1258,6 @@ _每日存檔 · 2026-11-20_
 - [theinvinciblepanther/etf-rotation-paper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/theinvinciblepanther-etf-rotation-paper-bot/) — etf-rotation-paper-bot 是一個社群驅動的 ETF 轉換演算法交易機器人，具備真實回測功能。
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-locallaws-locus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [xiongcp/stock-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xiongcp-stock-skill/) — AI股價分析技能，提供確定性K線結構分析。
-- [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [longsurf-ai/openchart](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/longsurf-ai-openchart/) — 開源交易圖表工具，支援自定義AI。
 - [FlashML-org/FreeVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/flashml-org-freevideo/) — FreeVideo 是一個利用 MiniMax H3 模型生成影片的工具，適用於低 VRAM 裝置。
 - [Sebastianmaxter/ai-profit-sniper-strategy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sebastianmaxter-ai-profit-sniper-strategy/) — ai-profit-sniper-strategy 是一個 24/7 自動化市場分析和技術訊號警報系統。
@@ -2344,7 +2342,6 @@ _每日存檔 · 2026-11-20_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [egoist/waku](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egoist-waku/) — 用於程式碼代理的本地應用。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
@@ -2583,7 +2580,6 @@ _每日存檔 · 2026-11-20_
 - [w8123/EnterpriseAgentFramework](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/w8123-enterpriseagentframework/) — 快速構建企業系統的智慧代理框架，讓AI在安全條件下呼叫真實業務能力。
 - [MachHongHai/HaizFlow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/machhonghai-haizflow/) — 免費的Windows桌面應用，用於AI影片翻譯和配音。
 - [Amshaker/Mobile-O](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amshaker-mobile-o/) — 手機裝置上的統一多模態理解和生成模型。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [Ashish-Patnaik/kokoclone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ashish-patnaik-kokoclone/) — Kokoro 音訊克隆技術，輕鬆生成自然多語音。
 - [Alpha Forge（系統化交易 AI 作業系統）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liu-ming-yu-alpha-forge/) — 標榜 agentic 的系統化交易作業系統。
 - [EYamanS/texel-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyamans-texel-studio/) — 模擬真實藝術家創作風格的AI畫素繪圖代理程式。

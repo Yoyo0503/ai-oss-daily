@@ -6,7 +6,6 @@
 - [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-black-forest-labs-flux-3-image-klein/) — · gradio, mcp-server, region:us
 - [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mothersuperior-yue2-hum-to-song/) — · gradio, mcp-server, region:us
 - [hugging-apps/hi3dv1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-hi3dv1/) — · gradio, mcp-server, region:us
-- [hugging-apps/bfs-best-face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-bfs-best-face-swap/) — · gradio, mcp-server, region:us
 - [inclusionAI/ming-image-0-1-design-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-inclusionai-ming-image-0-1-design-demo/) — · gradio, mcp-server, region:us
 - [thornmaze/reel-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-thornmaze-reel-lab/) — · gradio, mcp-server, region:us
 - [hugging-apps/spotsound-temporal-grounding](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-spotsound-temporal-grounding/) — · gradio, mcp-server, region:us
@@ -27,6 +26,7 @@
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-cisco-ai-stupase-speech-enhancement/) — · gradio, mcp-server, region:us
 - [kulkas2pintu/kv-i2v](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-kulkas2pintu-kv-i2v/) — · gradio, mcp-server, region:us
 - [hugging-apps/irodori-tts-anime-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-irodori-tts-anime-demo/) — · gradio, mcp-server, region:us
+- [hugging-apps/bfs-best-face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-bfs-best-face-swap/) — · gradio, mcp-server, region:us
 - [BreezeBlue/breeze-tts-2-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-breezeblue-breeze-tts-2-demo/) — · gradio, mcp-server, region:us
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-yijunwang2-krea2-outpaint/) — · gradio, mcp-server, region:us
 - [hugging-apps/h3-world-action-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-hugging-apps-h3-world-action-demo/) — · gradio, mcp-server, region:us
@@ -57,8 +57,8 @@
 - [docling-project/DeskForge-1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-docling-project-deskforge-1m/) — · task_categories:image-to-text, task_categories:object-detection, language:en
 - [BaaRai/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/baarai-artex/) — Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-ba…
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — · gradio, mcp-server, region:us
-- [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ebony-vinyl-dsh-our-free-model/) — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install…
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-roman1111111-claude-opus-4-6-10000x/) — · license:mit, size_categories:1K<n<10K, format:json
+- [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ebony-vinyl-dsh-our-free-model/) — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install…
 - [JoasASantos/REA-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/joasasantos-rea-prompts/) — REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break dow…
 - [zhanghao123vip/ai-manju-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zhanghao123vip-ai-manju-skills/) — 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-withinusai-claude-mythos-distilled-25k/) — · language:en, license:apache-2.0, size_categories:10K<n<100K
@@ -69,8 +69,8 @@
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-mrfakename-z-image-turbo/) — · gradio, mcp-server, region:us
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-loveseries-wanmanlove/) — · gradio, mcp-server, region:us
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — · gradio, mcp-server, region:us
-- [NB-Corp/gpt-with-taste](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nb-corp-gpt-with-taste/) — Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.
 - [TripoGrowthLab/awesome-astra-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/tripogrowthlab-awesome-astra-prompts/) — 200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languag…
+- [NB-Corp/gpt-with-taste](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nb-corp-gpt-with-taste/) — Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.
 - [nvidia/Nemotron-Labs-Audex](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-nvidia-nemotron-labs-audex/) — · gradio, mcp-server, region:us
 - [GokuScraper/seedance-2-prompts-datasets](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-gokuscraper-seedance-2-prompts-datasets/) — · task_categories:text-to-video, language:en, language:zh
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-fka-prompts-chat/) — · task_categories:question-answering, task_categories:text-generation, license:cc0-1.0
@@ -81,10 +81,10 @@
 - [udaysharmadev/Gravitas](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/udaysharmadev-gravitas/) — Make Gemini code like Claude Models. Forces it to inspect files before editing, plan changes, test its work, …
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/imbad0202-academic-research-skills/) — Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/alistaitsacle-free-llm-api-keys/) — Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No cred…
-- [yexi-by/dsh-unrestricted](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yexi-by-dsh-unrestricted/) — DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/thysrael-horizon/) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
-- [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
+- [yexi-by/dsh-unrestricted](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/yexi-by-dsh-unrestricted/) — DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用
 - [NateBJones-Projects/OB1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/natebjones-projects-ob1/) — Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any…
+- [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lb623-no-negative-echo/) — 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。
 - [Open-Less/openless](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/open-less-openless/) — Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for …
 - [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/microsoft-skill-recorder/) — Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an …
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/red-ead-flowblock/) — FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models

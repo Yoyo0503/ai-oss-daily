@@ -1905,7 +1905,6 @@ _每日存檔 · 2026-10-30_
 - [WenyuChiou/awesome-agentic-ai-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wenyuchiou-awesome-agentic-ai-zh/) — 中文 AI Agent 學習地圖，涵蓋從 LLM 基礎到多代理系統的資源。
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
 - [MemTensor/memmy-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/memtensor-memmy-agent/) — 個人AI代理和本地記憶中心，讓所有AI共享記憶。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [loopx-project/loopx](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loopx-project-loopx/) — 長期代理控制平面，管理跨多個代理的持久工作。
 - [ausboss/ComfyUI-AusBoss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ausboss-comfyui-ausboss/) — 自訂 ComfyUI 節點，適用於影像生成和影片處理。
 - [abhi1693/openclaw-mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abhi1693-openclaw-mission-control/) — 管理AI代理、分配任務並協調多代理合作的儀錶板。
@@ -2083,7 +2082,6 @@ _每日存檔 · 2026-10-30_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — 構建自主 AI 代理的 API 集合，涵蓋代理、AI 模型和 MCP 伺服器。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

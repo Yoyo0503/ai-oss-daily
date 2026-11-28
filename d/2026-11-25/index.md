@@ -873,7 +873,6 @@ _每日存檔 · 2026-11-25_
 - [signsur4739379373/LTX-2.3-Finetuned-I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AdithyaSK/rl-environments-101-slides](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-101-slides/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [briaai/Fibo-2.0-editing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-briaai-fibo-2-0-editing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openvivo-vins-120k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yijunwang2-krea2-outpaint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/h3-world-action-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-h3-world-action-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1369,7 +1368,6 @@ _每日存檔 · 2026-11-25_
 - [cathrynlavery/yap-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cathrynlavery-yap-studio/) — Claude Code影片編輯器，支援手機和Mac跨平臺操作。
 - [figma-ai/motion-graphics-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-figma-ai-motion-graphics-bench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-mms-300m/) — 一個使用wav2vec2的轉換器模型，適用於多語言預訓練。
-- [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [uw-math-ai/math-graph](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-uw-math-ai-math-graph/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Cripacx/mediagen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cripacx-mediagen/) — Claude Code 的多模態生成技能，結合 Gemini、OpenAI 和 Kie AI，支援 EU AI Act 內容標記。
 - [theinvinciblepanther/etf-rotation-paper-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/theinvinciblepanther-etf-rotation-paper-bot/) — etf-rotation-paper-bot 是一個社群驅動的 ETF 轉換演算法交易機器人，具備真實回測功能。
@@ -2428,7 +2426,6 @@ _每日存檔 · 2026-11-25_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [AMAP-ML/LongHorizon-Harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/amap-ml-longhorizon-harness/) — 長時間執行AI代理的工具，保持任務狀態並可靠地完成複雜工作流程。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。
@@ -2815,7 +2812,6 @@ _每日存檔 · 2026-11-25_
 - [Nathanw1014/strix-halo-llamacpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanw1014-strix-halo-llamacpp/) — 針對 AMD Strix Halo 進行最佳化的 llama.cpp，適用於 Vulkan 和 HIP。
 - [0xSanei/darwinia](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsanei-darwinia/) — 自我演化的交易 agent 生態：達爾文式選擇汰弱留強。
 - [zilliztech/milvus-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-milvus-skill/) — 教 LLM 使用 pymilvus 操作 Milvus 向量資料庫的技能。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [rediumvex/social-media-caption-generator-claude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rediumvex-social-media-caption-generator-claude/) — 社群文案產生器 Claude skill：文字/腳本/截圖轉成貼文。
 - [VeKiner/akshare-stock-data-fetcher](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vekiner-akshare-stock-data-fetcher/) — 基於 AKShare 的 A 股行情批量採集（分鐘線/即時，代理輪轉＋MongoDB＋排程）。
 - [volcengine/SearchCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/volcengine-searchcli/) — 整合 AI 搜尋和對話系統的命令列工具。

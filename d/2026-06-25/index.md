@@ -837,7 +837,6 @@ _每日存檔 · 2026-06-25_
 - [VideoZero/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/videozero-skills/) — 用於生成結構化影片的 MotionCanvas 技能集合。
 - [vivoCameraResearch/MagicBokeh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vivocameraresearch-magicbokeh/) — MagicBokeh 是第一個專門為高倍率散景渲染設計的方法。
 - [fikrikarim/volocal](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fikrikarim-volocal/) — 全本地化的 iOS 語音 AI 應用程式。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [hashgraph-online/standards-sdk-go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hashgraph-online-standards-sdk-go/) — 官方 Go SDK 實現 Hiero 共識規範。

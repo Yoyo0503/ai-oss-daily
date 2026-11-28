@@ -968,7 +968,6 @@ _每日存檔 · 2026-07-08_
 - [wuji-labs/nopua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuji-labs-nopua/) — 透過愛激發AI潛力的技能，鼓勵開放心態和誠實溝通。
 - [Bomx/distribb-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bomx-distribb-skill/) — AI 驅動的 SEO 工具，提供內容創作和分發服務。
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nightmean-ollitert/) — 將 Android 手機變身為 OpenAI 相容的 LLM 推論伺服器，完全本地、私有且開源。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [PocketRisu/PocketRisu](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pocketrisu-pocketrisu/) — 可在個人伺服器上執行的自我主權AI角色扮演平臺。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

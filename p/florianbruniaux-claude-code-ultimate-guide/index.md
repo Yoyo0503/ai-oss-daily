@@ -2,9 +2,9 @@
 
 Claude Code 的全面指南，涵蓋從初學者到高階使用者的所有內容。
 
-**為何上榜**：近一日新增 36★（現 7,468★）
+**為何上榜**：近一日新增 25★（現 7,493★）
 
 **商用授權**：可商用 — 可商用，CC-BY 類需署名
 
-**Stars**：7,468
+**Stars**：7,493
 **原始連結**：https://github.com/FlorianBruniaux/claude-code-ultimate-guide

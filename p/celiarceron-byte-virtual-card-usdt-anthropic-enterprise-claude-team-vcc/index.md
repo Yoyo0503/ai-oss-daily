@@ -2,9 +2,9 @@
 
 解析 Anthropic 企業級 Claude 團隊席位採購方案。
 
-**為何上榜**：近一日新增 12★（現 80★）
+**為何上榜**：近一日新增 26★（現 106★）
 
 **商用授權**：授權未明 — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：80
+**Stars**：106
 **原始連結**：https://github.com/celiarceron-byte/virtual-card-usdt-anthropic-enterprise-claude-team-vcc

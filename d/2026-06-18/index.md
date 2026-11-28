@@ -774,7 +774,6 @@ _每日存檔 · 2026-06-18_
 - [nitrocloudofficial/nitrostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nitrocloudofficial-nitrostack/) — 全端TypeScript框架，用於構建和部署生產級別的MCP伺服器及原生AI應用。
 - [AskKumptenchen/agent-chat-selfie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/askkumptenchen-agent-chat-selfie/) — 讓 AI Agent 在對話中傳送情緒自拍，並根據心情回覆。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [breath57/dingtalk-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/breath57-dingtalk-skills/) — 輕量級DingTalk技能庫，涵蓋AI表格、聊天、會議室等自動管理功能。
 - [fim-ai/fim-one](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fim-ai-fim-one/) — 開源AI平臺，連線全球和中國企業系統的核心代理。
 - [CodeBySonu95/VoxSherpa-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codebysonu95-voxsherpa-tts/) — 為 Android 設計的離線神經文本轉語音引擎，無需網路即可使用。

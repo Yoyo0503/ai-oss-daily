@@ -1824,7 +1824,6 @@ _每日存檔 · 2026-10-27_
 - [pixelpainter/comfyui-AI-prompt-editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pixelpainter-comfyui-ai-prompt-editor/) — 一個完整的 ComfyUI 標題編輯工作室，支援 AI 編輯和無線標題注入。
 - [Syngnat/GoNavi](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syngnat-gonavi/) — 高效能多資料來源資料庫客戶端，支援 AI 和 MCP，體積僅約 30MB。
 - [uber/ADR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/uber-adr/) — Uber 使用的安全框架，為企業 AI 代理提供監控、安全測試和威脅檢測。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/diegosouzapw-omniroute/) — 免費 AI 閘道器，連線多個程式碼生成器和編輯器，節省大量流量。
 - [vmoranv/jshookmcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vmoranv-jshookmcp/) — AI 機器人反向工程工作區，735 個工具跨 36 個領域，集結於一個 MCP 伺服器。
 - [open-multi-agent/open-multi-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-multi-agent-open-multi-agent/) — 基於 TypeScript 的多代理系統自動化工具。
@@ -2038,7 +2037,6 @@ _每日存檔 · 2026-10-27_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
 - [rostamlabs/rostam](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rostamlabs-rostam/) — rostam 是一個開源向量資料庫和超微秒級鍵值儲存引擎，支援嵌入式和叢集部署。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — 構建自主 AI 代理的 API 集合，涵蓋代理、AI 模型和 MCP 伺服器。

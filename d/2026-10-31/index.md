@@ -1934,7 +1934,6 @@ _每日存檔 · 2026-10-31_
 - [microsoft/agent-governance-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-agent-governance-toolkit/) — 微軟AI代理治理工具包，提供政策執行、零信任身分驗證等安全功能。
 - [guanyang/antigravity-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/guanyang-antigravity-skills/) — 通過模組化技能定義賦予代理程式專業能力，如全端開發、複雜邏輯規劃等。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [CortexReach/memory-lancedb-pro](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cortexreach-memory-lancedb-pro/) — 增強版 LanceDB 記憶外掛，適用於 OpenClaw 的混合檢索。
 - [MemTensor/memmy-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/memtensor-memmy-agent/) — 個人AI代理和本地記憶中心，讓所有AI共享記憶。
 - [jdevalk/specification.website](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jdevalk-specification-website/) — 網站規格標準：HTML、無障礙、安全、SEO、agent 可讀性（Yoast 創辦人作品）。
@@ -2092,7 +2091,6 @@ _每日存檔 · 2026-10-31_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [kachence/polymm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kachence-polymm/) — 使用Python編寫的一個運動市場套利機器人，用於去 vig 運動賭博和報價。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

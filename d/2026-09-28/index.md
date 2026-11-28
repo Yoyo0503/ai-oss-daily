@@ -1168,7 +1168,6 @@ _每日存檔 · 2026-09-28_
 - [OWASP/OWASP-MCP-Governance-and-Risk-Project](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owasp-owasp-mcp-governance-and-risk-project/) — 提供組織在採用 Model Context Protocol (MCP) 時的實用治理框架。
 - [openbmb/UltraX-Preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openbmb-ultrax-preview/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/) — 從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [KKKKhazix/khazix-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kkkkhazix-khazix-skills/) — 開源AI技能集，涵蓋潔癖、分析及寫作等功能，適用於多種代理。
 - [OpenEnvision/WorldFoundry](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openenvision-worldfoundry/) — 統一世界模型推理與評估基礎設施。
 - [Sahir619/fable-method](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sahir619-fable-method/) — 將Claude Fable 5的工作流程轉換為通用技能，供其他模型使用。
@@ -1739,7 +1738,6 @@ _每日存檔 · 2026-09-28_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [seuksaedu-beep/Persona-Flow-Chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/seuksaedu-beep-persona-flow-chat/) — 模擬社交平臺上的AI角色，支援即時聊天機器人。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

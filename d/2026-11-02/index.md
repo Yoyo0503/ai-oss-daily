@@ -1993,7 +1993,6 @@ _每日存檔 · 2026-11-02_
 - [HughYau/qiushi-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hughyau-qiushi-skill/) — 求是Skill：從唯物辯證法中提取方法論，用於AI代理。
 - [on-page-ai/geo-seo-superapp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/on-page-ai-geo-seo-superapp/) — 免費的 macOS 工作空間，專為 SEO 和 GEO 機構設計。
 - [MemTensor/memmy-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/memtensor-memmy-agent/) — 個人AI代理和本地記憶中心，讓所有AI共享記憶。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [AlayaLab/AlayaRenderer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alayalab-alayarenderer/) — 面向遊戲與虛擬世界的AI原生渲染引擎。
 - [chengyansen-ai/cys-portrait-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chengyansen-ai-cys-portrait-prompts/) — 中文人像提示詞創作系統，適用於多種AI繪圖工具。
 - [Gitruck/cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gitruck-cli/) — 將口播影片轉換為可編輯的剪輯工程。
@@ -2112,7 +2111,6 @@ _每日存檔 · 2026-11-02_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [digistoremaster/online-business-skalierung-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-online-business-skalierung-tools/) — 自動化匯出與合併PayPal交易記錄，適用於德語區線上商家。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

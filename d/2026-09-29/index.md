@@ -1209,7 +1209,6 @@ _每日存檔 · 2026-09-29_
 - [avifenesh/memra](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/avifenesh-memra/) — 為RTX 5090和H100設計的從零開始構建的大語言模型推論框架。
 - [tonhowtf/omniget](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tonhowtf-omniget/) — AI代理客戶端協議，支援多種下載和管理功能。
 - [microsoft/SkillOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skillopt/) — 用於訓練可重複使用的自然語言技能，讓LLM代理機器人自我進化。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [best-of-algorithmic-trading（演算法交易精選清單）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/placenl2026-best-of-algorithmic-trading/) — 演算法交易精選清單：量化財務、交易機器人、回測、技術分析。
 - [gaia-benchmark/GAIA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gaia-benchmark-gaia/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [digistoremaster/online-business-skalierung-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/digistoremaster-online-business-skalierung-tools/) — 自動化匯出與合併PayPal交易記錄，適用於德語區線上商家。
@@ -1743,7 +1742,6 @@ _每日存檔 · 2026-09-29_
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [agenvoy/Agenvoy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agenvoy-agenvoy/) — 個人AI代理，能自行編寫工具並自我修復。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

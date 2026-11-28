@@ -1345,7 +1345,6 @@ _每日存檔 · 2026-10-07_
 - [osaurus-ai/osaurus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/osaurus-ai-osaurus/) — 一個在 macOS 上執行的原生 AI 機器人平臺，支援任何模型、持久記憶和自動執行。
 - [Agents365-ai/drawio-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-drawio-skill/) — 根據自然語言生成draw.io圖形的技能外掛。
 - [pacifio/atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pacifio-atlas/) — 用於管理AI程式碼代理的原始碼控制工具，追蹤代理修改並查詢。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [jnMetaCode/superpowers-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jnmetacode-superpowers-zh/) — Claude Code等AI程式設計工具的中文增強版和技能。
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-ribbi-velocut/) — 本地優先的AI影片編輯器，支援瀏覽器內執行。
 - [NeelM0906/Mference](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/neelm0906-mference/) — 適用於 Apple Silicon 的 Swift + Metal MoE 推論引擎。
@@ -1822,7 +1821,6 @@ _每日存檔 · 2026-10-07_
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

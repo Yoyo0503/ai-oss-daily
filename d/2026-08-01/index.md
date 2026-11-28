@@ -1188,7 +1188,6 @@ _每日存檔 · 2026-08-01_
 - [alibayram/identity_finetune_magibu_q3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibayram-identity-finetune-magibu-q3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [pouyahasanamreji/continuum](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pouyahasanamreji-continuum/) — 為程式設計代理提供共享記憶和協調服務。
 - [generative-computing/granite-switch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/generative-computing-granite-switch/) — 用於構建 AI 模型的軟體開發工具包。

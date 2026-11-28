@@ -1111,7 +1111,6 @@ _每日存檔 · 2026-07-24_
 - [rasbt/mini-coding-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rasbt-mini-coding-agent/) — 簡潔易懂的 Python 程式碼代理實現，解釋核心元件。
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-world-r1/) — 強化3D約束，用於文字轉影片生成。
 - [alibayram/identity_finetune_magibu_q3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibayram-identity-finetune-magibu-q3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [swarmclawai/swarmvault](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/swarmclawai-swarmvault/) — 本地優先的 LLM 維基，開源知識圖譜建構器和代理記憶體儲存。

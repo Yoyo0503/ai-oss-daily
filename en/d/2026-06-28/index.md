@@ -875,7 +875,6 @@ _Daily archive · 2026-06-28_
 - [iFayens/ComfyUI-PuLID-Flux2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/ifayens-comfyui-pulid-flux2/) — First PuLID implementation for FLUX.2 — Consistent face identity in ComfyUI
 - [woodfantasy/Seedance2.0-ShotDesign-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/woodfantasy-seedance2-0-shotdesign-skills/) — Seedance 2.0 Shot Design Skills
 - [lambda-calculus-LLM/lambda-RLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lambda-calculus-llm-lambda-rlm/) — Method for Long Context RLMs using verifiable Lambda Calculus
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-whale99-interaction2code/) — · task_categories:image-text-to-text, language:en, size_categories:1K<n<10K
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/eval-sys-mcpmark/) — MCPMark is a comprehensive, stress-testing MCP benchmark designed to evaluate model and agent capabilities in…
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/evolinkai-awesome-seedance-2-guide/) — Complete guide to Seedance 2.0 — multimodal AI video generation with image, video, audio & text input. Prompt…
 - [Katzca/AutoSocial](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/katzca-autosocial/) — Local social media automation dashboard for TikTok, Instagram, and YouTube.

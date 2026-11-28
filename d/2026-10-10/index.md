@@ -1412,7 +1412,6 @@ _每日存檔 · 2026-10-10_
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
 - [deanpeters/Product-Manager-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deanpeters-product-manager-skills/) — 基於 AI 代理的產品管理技能框架。
 - [TuolaGe/vertical-talking-head-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tuolage-vertical-talking-head-video/) — 用來製作高品質直式數位人頭像影片的工作流程。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-uv-scripts-ocr/) — Hugging Face 資料集，關鍵字：OCR（依標籤自動歸類，詳細看下方原文）
 - [google/fleurs](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-fleurs/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Q00/ouroboros](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/q00-ouroboros/) — AI 代理作業系統，支援 Socratic 面試和指令驅動執行。
@@ -1855,7 +1854,6 @@ _每日存檔 · 2026-10-10_
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

@@ -878,7 +878,6 @@ _每日存檔 · 2026-06-29_
 - [sgaofen/vibe-schooling](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sgaofen-vibe-schooling/) — 自動化學業管理，協助學生輕鬆取得高分。
 - [mkhsu2002/openclaw-agent-feeds](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mkhsu2002-openclaw-agent-feeds/) — 為 OpenClaw 框架設計的標準化代理資料流與自動化指令集。
 - [lucasinglese/oryon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lucasinglese-oryon/) — 量化研究的特徵/標籤工程（Rust 核心＋Python 介面），production 級。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [Superior-Trade/superior-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/superior-trade-superior-skills/) — 提供超級交易的代理技能和工具模式，用於建立、回測和部署在Hyperliquid上的交易策略。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

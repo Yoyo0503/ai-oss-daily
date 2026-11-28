@@ -1,8 +1,0 @@
-# jc4603/telegram-channel-forwarder
-
-Automated Telegram channel forwarder and content rewriter with zero latency for Windows
-
-**Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
-
-**Stars**：153
-**Source**：https://github.com/jc4603/telegram-channel-forwarder

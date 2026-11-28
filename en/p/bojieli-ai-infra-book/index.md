@@ -4,5 +4,5 @@
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：8,347
+**Stars**：8,365
 **Source**：https://github.com/bojieli/ai-infra-book

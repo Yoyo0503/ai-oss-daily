@@ -6,7 +6,6 @@
 - [black-forest-labs/flux-3-image-klein](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-black-forest-labs-flux-3-image-klein/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Mothersuperior/yue2-hum-to-song](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mothersuperior-yue2-hum-to-song/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/hi3dv1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-hi3dv1/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [hugging-apps/bfs-best-face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-bfs-best-face-swap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [inclusionAI/ming-image-0-1-design-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-inclusionai-ming-image-0-1-design-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [thornmaze/reel-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-thornmaze-reel-lab/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/spotsound-temporal-grounding](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-spotsound-temporal-grounding/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -27,6 +26,7 @@
 - [cisco-ai/stupase-speech-enhancement](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cisco-ai-stupase-speech-enhancement/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [kulkas2pintu/kv-i2v](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kulkas2pintu-kv-i2v/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/irodori-tts-anime-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-irodori-tts-anime-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
+- [hugging-apps/bfs-best-face-swap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-bfs-best-face-swap/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [BreezeBlue/breeze-tts-2-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-breezeblue-breeze-tts-2-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yijunwang2-krea2-outpaint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/h3-world-action-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-h3-world-action-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -57,8 +57,8 @@
 - [docling-project/DeskForge-1M](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-docling-project-deskforge-1m/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [BaaRai/ARTEX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/baarai-artex/) — 一個自動化的 AI 滲透測試系統，使用 Golang 和 Next.js 開發。
 - [EldMans/wan2.2_14b_i2v_480p_lightning_nsfw_diffusers](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-eldmans-wan2-2-14b-i2v-480p-lightning-nsfw-diffusers/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/) — dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-roman1111111-claude-opus-4-6-10000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
+- [Ebony-Vinyl/dsh-our-free-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebony-vinyl-dsh-our-free-model/) — dsh-our-free-model 是一個外掛，讓使用者免費使用前沿模型。
 - [JoasASantos/REA-Prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/joasasantos-rea-prompts/) — REAP 提供了用於逆向工程的提示，幫助使用者克隆或分解程式。
 - [zhanghao123vip/ai-manju-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhanghao123vip-ai-manju-skills/) — 生成漫畫劇全流程的AI技能，包括企劃案、圖資提示詞等。
 - [WithinUsAI/claude_mythos_distilled_25k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-withinusai-claude-mythos-distilled-25k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -69,8 +69,8 @@
 - [mrfakename/Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-mrfakename-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [loveseries/wanmanlove](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-loveseries-wanmanlove/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [prithivMLmods/FireRed-Image-Edit-1.0-Fast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-prithivmlmods-firered-image-edit-1-0-fast/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [NB-Corp/gpt-with-taste](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nb-corp-gpt-with-taste/) — 為GPT系統提供更好的判斷和引導，減少繁瑣的設定流程。
 - [TripoGrowthLab/awesome-astra-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tripogrowthlab-awesome-astra-prompts/) — 收集 200 多個 GPT-6 Astra 模型的提示和 3D 示例。
+- [NB-Corp/gpt-with-taste](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nb-corp-gpt-with-taste/) — 為GPT系統提供更好的判斷和引導，減少繁瑣的設定流程。
 - [nvidia/Nemotron-Labs-Audex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nvidia-nemotron-labs-audex/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [GokuScraper/seedance-2-prompts-datasets](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-gokuscraper-seedance-2-prompts-datasets/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [fka/prompts.chat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-fka-prompts-chat/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -81,10 +81,10 @@
 - [udaysharmadev/Gravitas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/udaysharmadev-gravitas/) — Gravitas 強制 Gemini 檢查檔案並計劃變更，確保編輯後有實際證據。
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/) — Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。
 - [alistaitsacle/free-llm-api-keys](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alistaitsacle-free-llm-api-keys/) — 提供 GPT-5.5、Claude 等免費 AI API 金鑰，每日更新多次，無需信用卡。
-- [yexi-by/dsh-unrestricted](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yexi-by-dsh-unrestricted/) — dsh-unrestricted 是一個解除模型限制的 DeepSeek 外掛。
 - [Thysrael/Horizon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/thysrael-horizon/) — 利用 AI 建立個人新聞摘要系統，每日提供英語和中文簡報。
-- [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lb623-no-negative-echo/) — 減少被否決方案在交付中的殘留，生成標題、注釋等。
+- [yexi-by/dsh-unrestricted](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yexi-by-dsh-unrestricted/) — dsh-unrestricted 是一個解除模型限制的 DeepSeek 外掛。
 - [NateBJones-Projects/OB1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/natebjones-projects-ob1/) — 開源個人知識管理系統，支援多種AI外掛。
+- [LB623/no-negative-echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lb623-no-negative-echo/) — 減少被否決方案在交付中的殘留，生成標題、注釋等。
 - [Open-Less/openless](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-less-openless/) — 按住快捷鍵說話，鬆開後即可在任何應用程式中獲得潤色的文字。
 - [microsoft/skill-recorder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-skill-recorder/) — 使用GitHub Copilot CLI記錄並重建工作會話的桌面應用程式。
 - [Red-EAD/FlowBlock](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/red-ead-flowblock/) — 自校正擴散語言模型的波前並行解碼框架。

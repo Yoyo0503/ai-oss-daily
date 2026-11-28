@@ -1604,7 +1604,6 @@ _每日存檔 · 2026-10-20_
 - [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wesammustafa-claude-code-everything-you-need-to-know/) — Claude Code 指南，涵蓋設定、提示工程等內容。
 - [0xShug0/audio.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xshug0-audio-cpp/) — audio.cpp 是一個基於 C++ 的音訊模型推理引擎，支援 TTS、STT、VAD 等。
 - [microsoft/ResearchStudio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-researchstudio/) — AI 合作者，從研究問題到最終發表的一站式解決方案。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [simonlin1212/Vibe-Research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/simonlin1212-vibe-research/) — 個人投研代理：每日回顧、資訊雷達、個股資料、板塊中心等
 - [browser-use/browser-harness](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/browser-use-browser-harness/) — 自我修復的瀏覽器元件，讓LLMs完成任何任務。
 - [skyhook-io/radar](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/skyhook-io-radar/) — 開源 Kubernetes 介面，提供拓撲、事件時間軸和服務流量等視覺化。
@@ -1935,7 +1934,6 @@ _每日存檔 · 2026-10-20_
 - [Sudharsanselvaraj/Token-Print](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sudharsanselvaraj-token-print/) — 探索轉換器架構和即時LLM推理的3D互動平臺。
 - [Coolver/home-assistant-vibecode-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/coolver-home-assistant-vibecode-agent/) — 讓Home Assistant支援Claude Code等工具，協助自動化設計與除錯。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

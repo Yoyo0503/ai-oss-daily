@@ -1574,7 +1574,6 @@ _每日存檔 · 2026-10-17_
 - [microsoft/flint-chart](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-flint-chart/) — 讓AI代理可靠地從簡單規格建立圖表的視覺化語言。
 - [openai/healthbench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openai-healthbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [iOfficeAI/OfficeCLI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/iofficeai-officecli/) — 專為AI代理設計的命令列工具，用於讀取、編輯和自動化Office檔案。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
 - [Manavarya09/design-extract](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/manavarya09-design-extract/) — 從網站提取完整設計系統的Chrome擴充功能，支援多平臺發射器。
 - [tanweai/pua](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tanweai-pua/) — 一個用於代理的高能動性技能，適用於績效改進計劃。
@@ -1921,7 +1920,6 @@ _每日存檔 · 2026-10-17_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Extraltodeus/J-Wash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/extraltodeus-j-wash/) — 基於 Anthropic 的 Jacobian 鏡頭的手動對齊工具。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [Classic298/open-webui-plugins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/classic298-open-webui-plugins/) — 擴充套件AI聊天體驗的外掛集合。

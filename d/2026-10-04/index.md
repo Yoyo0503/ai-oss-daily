@@ -1297,7 +1297,6 @@ _每日存檔 · 2026-10-04_
 - [JuliusBrussee/caveman](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-caveman/) — Claude Code 省 token skill：用「穴居人講話法」砍 65% token（+518★）。
 - [ClickyGPT/NSFW_Z-Image-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-clickygpt-nsfw-z-image-turbo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [animede/Diffusers_minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/animede-diffusers-minimax-h3/) — MiniMax-H3模型，用於生成帶同步音訊的影片。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alephaitech-workbuddyguide/) — 開源實戰指南，幫助掌握 WorkBuddy 的教程與工作流。
 - [openbmb/VoxCPM-Demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-openbmb-voxcpm-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [brokermr810/QuantDinger](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brokermr810-quantdinger/) — 支援加密貨幣、股票和外匯的自動化交易平臺。
@@ -1796,7 +1795,6 @@ _每日存檔 · 2026-10-04_
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SlavaSexton/ComfyUI-Agent-Kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/slavasexton-comfyui-agent-kit/) — 為多種 AI 程式設計代理驅動 ComfyUI 的技能套件，包含模型提示配方和自動啟動功能。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

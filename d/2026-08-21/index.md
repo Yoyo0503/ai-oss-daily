@@ -1373,7 +1373,6 @@ _每日存檔 · 2026-08-21_
 - [hwdsl2/self-hosted-ai-stack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hwdsl2-self-hosted-ai-stack/) — 使用 Docker Compose 部署的完整自託管 AI 堆疊，包含多個 AI 模型和工具。
 - [ebrahimpichka/open-MFE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebrahimpichka-open-mfe/) — 頂級金融工程課程資源的社群維護庫。
 - [hamzaabduljabbar/construction-drawing-analyzer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hamzaabduljabbar-construction-drawing-analyzer/) — 自動化建築圖紙分析工具，提取多邊形並分類。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [superjack2050/1688-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/superjack2050-1688-cli/) — 用於 1688 資源搜尋、產品研究及訂單管理的自動化 CLI 工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

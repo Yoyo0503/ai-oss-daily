@@ -944,7 +944,6 @@ _每日存檔 · 2026-07-04_
 - [aivrar/portable-hermes-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aivrar-portable-hermes-agent/) — 可在 Windows 桌面執行的 Hermes Agent，內建多種工具和模型。
 - [maddhruv/absolute](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/maddhruv-absolute/) — 來自世界各地的優秀技能集合。
 - [nambok/mentedb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nambok-mentedb/) — 專為 AI 代理記憶設計的認知意識資料庫引擎。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [appautomaton/mlx-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appautomaton-mlx-speech/) — 純 MLX 音訊合成、語音克隆和對話系統，專為 Apple 矽晶片設計。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

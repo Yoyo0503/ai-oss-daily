@@ -2113,7 +2113,6 @@ _每日存檔 · 2026-11-06_
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
 - [AI 商業行銷技能包（雙語）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/minhnv0807-ai-business-skills/) — 63 個雙語(越南/全球) AI 行銷技能，支援 Claude Code、OpenCode、Codex 等。
 - [usmanch96/QxbrokerFutures](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/usmanch96-qxbrokerfutures/) — 為 Quotex 和 QXbroker 提供 AI 動力的 OTC 訊號引擎和預測器。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [Leonxlnx/agentic-ai-prompt-research](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leonxlnx-agentic-ai-prompt-research/) — 研究代理AI程式碼助手的工作方式，重建提示模式和協調。
 - [Auriti-Labs/geo-optimizer-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/auriti-labs-geo-optimizer-skill/) — GEO 生成式引擎優化工具包：稽核、優化、讓網站被 AI 引擎引用。
 - [BehemothDream/Adobe-After-Effects](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/behemothdream-adobe-after-effects/) — 提供 Adobe After Effects 的相關資源和工具。
@@ -2167,7 +2166,6 @@ _每日存檔 · 2026-11-06_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

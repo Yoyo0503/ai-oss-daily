@@ -1075,7 +1075,6 @@ _每日存檔 · 2026-07-21_
 - [microsoft/World-R1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/microsoft-world-r1/) — 強化3D約束，用於文字轉影片生成。
 - [ferosai/feros](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ferosai-feros/) — 開源語音代理作業系統，具備低延遲和多語言支援。
 - [rolfie-han/YoLuster-shorts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rolfie-han-yoluster-shorts/) — 獨立開發的AI短劇創作工作空間，從構思到指令碼、影像和影片製作一應俱全。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [russelleNVy/three-man-team](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/russellenvy-three-man-team/) — 結構化的三名 AI 開發者團隊，包含建築師、建造者和審查員角色。

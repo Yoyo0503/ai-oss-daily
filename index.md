@@ -1,15 +1,15 @@
 # AI 開源日報 — 今日精選
 
-_最後更新: 2026-11-27 09:05 CST_
+_最後更新: 2026-11-28 09:05 CST_
 
 - [bookwjitchieni1986/blender-ai-mcp-addon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bookwjitchieni1986-blender-ai-mcp-addon/) — Blender的AI助手外掛，支援多種AI對話和工作流程。
+- [XinaTian/MROffice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinatian-mroffice/) — 一個類似 Microsoft Office 的 AI 辦公套件，提供文件、試算表、簡報等編輯功能。
 - [feder-cr/invisible_playwright_mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/feder-cr-invisible-playwright-mcp/) — invisible_playwright_mcp 是一個使用 AI 代理在隱藏模式下瀏覽網頁的工具。
 - [illiahaidar/mcptrustchecker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/illiahaidar-mcptrustchecker/) — 用於掃描 MCP 伺服器的安全工具，檢查潛在風險。
 - [qybaihe/bla](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qybaihe-bla/) — BLA 是一個保護二進位制、Electron 應用程式等免受 AI 反向工程攻擊的防護系統。
 - [jub0t/concat](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jub0t-concat/) — Concat 是一個免費的跨平臺影片編輯器，可替代 CapCut。
-- [onehumanbeing/esp32-iphone-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onehumanbeing-esp32-iphone-agent/) — 使用ESP32控制iPhone的AI代理。
-- [Jakeschincariol/day-trader-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-day-trader-skill/) — Claude的11個日交易技能，用於分析市場和制定交易策略。
 - [celiarceron-byte/virtual-card-usdt-anthropic-enterprise-claude-team-vcc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/celiarceron-byte-virtual-card-usdt-anthropic-enterprise-claude-team-vcc/) — 解析 Anthropic 企業級 Claude 團隊席位採購方案。
+- [Jakeschincariol/day-trader-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-day-trader-skill/) — Claude的11個日交易技能，用於分析市場和制定交易策略。
 - [Jakeschincariol/replica-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jakeschincariol-replica-skill/) — Eleven 免費的 Claude 技能，用於逆向工程和測試應用程式。
 - [google/elephant-goldfish-model](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/google-elephant-goldfish-model/) — Google開發的基於LLM的規格驅動開發方法和技能集。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
@@ -27,11 +27,11 @@ _最後更新: 2026-11-27 09:05 CST_
 - [dianenelson33/kalshi-polymarket-cross-exchange-arb-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dianenelson33-kalshi-polymarket-cross-exchange-arb-bot/) — Kalshi Polymarket跨交易所套利機器人。
 - [lori1635/krypolybot-polymarket-mcp-whale-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lori1635-krypolybot-polymarket-mcp-whale-trader/) — Krypolybot Polymarket Mcp鯨魚交易機器人。
 - [RagnheavenDusk/content-machine-respocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ragnheavendusk-content-machine-respocket/) — content-machine-respocket 是一個自動生成短影片的 CLI 工具，支援 TikTok、Reels 和 Shorts。
+- [ankurmans/caldrin-search-oss](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ankurmans-caldrin-search-oss/) — 一個自建的 SEO 和 AI 能見度平臺，可在 Cloudflare 上自託管。
 - [GrimOrbita/rpocket-team-meeting-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/grimorbita-rpocket-team-meeting-agent/) — 加入會議並生成英文報告的AI筆記工具。
 - [Def28641eatclaw/Restaurant-Ai-Agent-rpocket](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/def28641eatclaw-restaurant-ai-agent-rpocket/) — 餐廳AI點餐助手，支援自然語言訂餐、對話記憶和自動紀錄。
+- [Alihanymandour/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alihanymandour-bahrain-flip-finder/) — 一個社群建立的巴林交易工具，可在 Discord 和 Telegram 上使用。
 - [boringmarketer/boring-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/boringmarketer-boring-marketing-skills/) — 為 AI 最佳化 31 種免費行銷技能，涵蓋研究、定位和內容創作。
-- [openairlabs/fleo-by-flyweel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openairlabs-fleo-by-flyweel/) — 開源AI內容引擎，支援SEO和AEO內容自動化。
-- [TraceCohenTech/ai-seo-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tracecohentech-ai-seo-playbook/) — AI SEO 手冊，涵蓋方法論、指令碼和安全防護。
 - [autotrust/GEV-26B-Decide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-autotrust-gev-26b-decide/) — 進行文本分類的模型。
 - [thinkingmachines/Inkling-2-Mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-thinkingmachines-inkling-2-mini/) — 將影像和文字轉換為文字的模型，適用於對話式生成。
 - [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-atomicchat-inkling-2-mini-uncensored-gguf/) — 無審核的圖文轉文字模型，支援gguf格式。

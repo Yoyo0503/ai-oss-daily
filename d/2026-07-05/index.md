@@ -945,7 +945,6 @@ _每日存檔 · 2026-07-05_
 - [zilliztech/memsearch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-memsearch/) — 為AI代理提供統一持久記憶層，支援Markdown和Milvus儲存。
 - [VeKiner/akshare-stock-data-fetcher](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vekiner-akshare-stock-data-fetcher/) — 基於 AKShare 的 A 股行情批量採集（分鐘線/即時，代理輪轉＋MongoDB＋排程）。
 - [0xMassi/webclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xmassi-webclaw/) — 快速本地化的 LLM 網頁內容提取工具，支援 CLI 和 REST API。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [Human-Agent-Society/CORAL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/human-agent-society-coral/) — CORAL 是一個輕量級的多代理自主演化基礎設施，適用於自動研究。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

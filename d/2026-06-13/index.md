@@ -13,9 +13,9 @@ _每日存檔 · 2026-06-13_
 - [walkinglabs/hands-on-modern-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/walkinglabs-hands-on-modern-rl/) — 從基本RL概念到LLM對齊的手動實踐教程。
 - [HughYau/qiushi-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hughyau-qiushi-skill/) — 求是Skill：從唯物辯證法中提取方法論，用於AI代理。
 - [henrywen98/claude-vpn-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/henrywen98-claude-vpn-skill/) — 使用Claude Code AI的一鍵部署自建VPN工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [HelpCode-ai/anythingmcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpcode-ai-anythingmcp/) — 自建無程式碼 API 聯結器，支援多種協議和許可權管理。
 - [Natfii/UnrealClaude](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/natfii-unrealclaude/) — 在 Unreal Engine 5.7 中整合 Claude Code CLI，提供內建編輯器的 AI 程式設計輔助。
+- [chipmates/agoracosmica](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chipmates-agoracosmica/) — 一個可以對話的開放原始碼教育平臺，涵蓋多個歷史人物和領域。
 
 ## 🚀 Star 竄升
 
@@ -615,7 +615,6 @@ _每日存檔 · 2026-06-13_
 - [llmsresearch/paperbanana](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-paperbanana/) — 自動化學術圖表生成工具，擴充套件至簡報生成等新領域。
 - [chrisryugj/korean-law-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrisryugj-korean-law-mcp/) — 韓國法律 API 轉換為 17 個 MCP 工具，支援法條查詢和引用驗證。
 - [iFayens/ComfyUI-PuLID-Flux2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifayens-comfyui-pulid-flux2/) — ComfyUI-PuLID-Flux2 為 FLUX.2 提供一致面孔識別功能。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [aitradingbotspro/cryto-trading-ai-assistant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aitradingbotspro-cryto-trading-ai-assistant/) — 手動交易者的 AI 守護：風險監控、策略驗證、情緒控管。
 - [AnyAI-Labs/AnyAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anyai-labs-anyai/) — 開源 AI 加密交易平台＋Chrome 擴充，即時行情分析。
 - [Agents365-ai/video-podcast-maker](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agents365-ai-video-podcast-maker/) — 自動化 4K 編碼機器人影片播客生成工具。

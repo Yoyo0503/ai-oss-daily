@@ -4,5 +4,5 @@ The open, self-hostable alternative to closed AI bots. Production-ready, fully c
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：13,648
+**Stars**：13,809
 **Source**：https://github.com/CopilotKit/OpenBot

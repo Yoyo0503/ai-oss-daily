@@ -927,7 +927,6 @@ _每日存檔 · 2026-07-02_
 - [KadenMc/work-buddy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kadenmc-work-buddy/) — 基於Claude Code和Obsidian的個人代理框架，實現協調、自動化和智慧跨聊天記憶。
 - [MuhammadIbtisam/ai-engineer-roadmap](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/muhammadibtisam-ai-engineer-roadmap/) — 從 Python 基礎到生產 RAG 的完整 AI 工程師培訓路線圖。
 - [appautomaton/mlx-speech](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/appautomaton-mlx-speech/) — 純 MLX 音訊合成、語音克隆和對話系統，專為 Apple 矽晶片設計。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [QingGo/engram-peft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/qinggo-engram-peft/) — DeepSeek Engram 非官方實現，通過稀疏檢索 PEFT 為 LLMs 新增條件記憶。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

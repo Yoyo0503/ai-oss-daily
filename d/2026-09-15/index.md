@@ -1558,7 +1558,6 @@ _每日存檔 · 2026-09-15_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [LoganBooker/SesquiLSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loganbooker-sesquilsr/) — 支援SDXL等模型的任意比例上取樣器，包含ComfyUI節點和預訓練權重。
 - [jau123/MeiGen-AI-Design-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jau123-meigen-ai-design-mcp/) — 支援GPT Image 2、Nanobanana及ComfyUI的AI影像生成平臺，附帶1400多個提示庫。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

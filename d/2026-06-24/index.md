@@ -819,7 +819,6 @@ _每日存檔 · 2026-06-24_
 - [suislanchez/polymarket-kalshi-weather-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/suislanchez-polymarket-kalshi-weather-bot/) — 多平臺預測市場交易機器人，基於 GFS 整合預報和比特幣微結構訊號進行交易。
 - [zilliztech/memsearch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-memsearch/) — 為AI代理提供統一持久記憶層，支援Markdown和Milvus儲存。
 - [hashgraph-online/standards-sdk-go](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hashgraph-online-standards-sdk-go/) — 官方 Go SDK 實現 Hiero 共識規範。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [vixhal-baraiya/pageindex-rag](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vixhal-baraiya-pageindex-rag/) — 無向量基底的推理增強生成系統。
 - [aitradingbotspro/ai-automated-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aitradingbotspro-ai-automated-trading-bot/) — TradingView webhook 機器人：把警報下單到 Binance/Bybit/OKX/Hyperliquid。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。

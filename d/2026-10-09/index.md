@@ -1377,7 +1377,6 @@ _每日存檔 · 2026-10-09_
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alephaitech-workbuddyguide/) — 開源實戰指南，幫助掌握 WorkBuddy 的教程與工作流。
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-ribbi-velocut/) — 本地優先的AI影片編輯器，支援瀏覽器內執行。
 - [LPX55/Qwen-Image-Edit-2511-Turbo-Lightning](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-lpx55-qwen-image-edit-2511-turbo-lightning/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [NeuralFalcon/Remove-Silence-From-Audio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-neuralfalcon-remove-silence-from-audio/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
 - [builderz-labs/mission-control](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/builderz-labs-mission-control/) — 自架 AI agent 編排平台：派任務、跑多 agent 工作流、監控。
@@ -1842,7 +1841,6 @@ _每日存檔 · 2026-10-09_
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

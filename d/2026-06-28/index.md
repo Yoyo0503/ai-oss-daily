@@ -875,7 +875,6 @@ _每日存檔 · 2026-06-28_
 - [iFayens/ComfyUI-PuLID-Flux2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifayens-comfyui-pulid-flux2/) — ComfyUI-PuLID-Flux2 為 FLUX.2 提供一致面孔識別功能。
 - [woodfantasy/Seedance2.0-ShotDesign-Skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/woodfantasy-seedance2-0-shotdesign-skills/) — Seedance 2.0 射擊設計技能，適用於 AI 影片生成。
 - [lambda-calculus-LLM/lambda-RLM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lambda-calculus-llm-lambda-rlm/) — 使用可驗證 lambda 演算的方法來處理長上下文的 RLMs。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Katzca/AutoSocial](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/katzca-autosocial/) — 用於自動化TikTok、Instagram和YouTube的社交媒體管理儀錶板。

@@ -809,7 +809,6 @@ _每日存檔 · 2026-06-21_
 - [wuyoscar/Internal-Safety-Collapse](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wuyoscar-internal-safety-collapse/) — 將大規模語言模型轉化為敏感資料生成器的安全性測試工具。
 - [OnlyTerp/turboquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onlyterp-turboquant/) — Google TurboQuant 技術的開源實現，提供 LLM 推理中的 KV 快取壓縮。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Ashish-Patnaik/kokoclone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ashish-patnaik-kokoclone/) — Kokoro 音訊克隆技術，輕鬆生成自然多語音。
 - [matt-k-wong/mlx-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matt-k-wong-mlx-flash/) — 讓大型模型在Apple Silicon上執行，即使記憶體不足也能流式處理權重。

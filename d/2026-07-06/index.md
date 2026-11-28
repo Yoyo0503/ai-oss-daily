@@ -954,7 +954,6 @@ _每日存檔 · 2026-07-06_
 - [Hainrixz/claude-banana](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/hainrixz-claude-banana/) — 將粗略想法轉換為完美影像生成提示的 AI 代理，具備多種創意技術。
 - [degausai/wonda](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/degausai-wonda/) — Wonda CLI — 具有 AI 功能的終端內容創作工具。
 - [wildminder/awesome-ai-voice](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wildminder-awesome-ai-voice/) — 開放原始碼 TTS、語音克隆和音樂生成模型列表。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

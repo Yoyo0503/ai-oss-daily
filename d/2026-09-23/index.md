@@ -1687,7 +1687,6 @@ _每日存檔 · 2026-09-23_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [liyue-aigc/female-portrait-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/liyue-aigc-female-portrait-director/) — 用於指導和擴充套件 AI 女性肖像提示的模組化 Codex 技能。
 - [HelpCode-ai/anythingmcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpcode-ai-anythingmcp/) — 自建無程式碼 API 聯結器，支援多種協議和許可權管理。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Syh1906/openai-compatible-imagegen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syh1906-openai-compatible-imagegen/) — 與 OpenAI 相容的影像生成和編輯代理技能。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

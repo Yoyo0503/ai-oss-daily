@@ -1701,7 +1701,6 @@ _每日存檔 · 2026-10-23_
 - [ValueCell-ai/ClawX](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/valuecell-ai-clawx/) — 提供圖形介面的OpenClaw AI代理程式，將命令列轉換為桌面體驗。
 - [timescale/pg-aiguide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timescale-pg-aiguide/) — PostgreSQL 技能和文件的 Claude 外掛，幫助生成更好的 PostgreSQL 程式碼。
 - [zhizhuodemao/js-reverse-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhizhuodemao-js-reverse-mcp/) — AI Agent 為主的 JS 逆向 MCP Server，提供 Chrome 除錯等功能。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [iFurySt/open-codex-computer-use](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ifuryst-open-codex-computer-use/) — Codex Computer Use的開源替代方案，提高可訪問性。
 - [SergiioB/intel-arc-pro-b70-inference-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergiiob-intel-arc-pro-b70-inference-cookbook/) — Intel Arc Pro B60/B70 GPU 上執行大規模語言模型推理的開源食譜和效能測試工具。
 - [ConardLi/garden-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/conardli-garden-skills/) — 包含網頁設計、知識檢索等技能的開源集合。
@@ -1979,7 +1978,6 @@ _每日存檔 · 2026-10-23_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [foeed/FvgGold-EA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/foeed-fvggold-ea/) — MetaTrader 5的黃金期貨自動交易顧問。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — 構建自主 AI 代理的 API 集合，涵蓋代理、AI 模型和 MCP 伺服器。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

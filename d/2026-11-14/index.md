@@ -2247,7 +2247,6 @@ _每日存檔 · 2026-11-14_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。
@@ -2358,7 +2357,6 @@ _每日存檔 · 2026-11-14_
 - [arjun988/blender-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arjun988-blender-skills/) — 提供94種Blender專業技能，支援從草圖到引擎導出的完整生產流程。
 - [ScrapingBee/n8n-no-code-web-scraper](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scrapingbee-n8n-no-code-web-scraper/) — 用 n8n＋ScrapingBee 的無碼網頁爬蟲，做 AI 資料抽取與自動化。
 - [aakarim/OpenLore](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/aakarim-openlore/) — 一個可擴充套件的代理原生知識庫，保持共享上下文的最新和可檢索性。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
 - [withkynam/vibecode-pro-max-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/withkynam-vibecode-pro-max-kit/) — 專為開發者和企業打造的自適應AI程式設計助手，具備自我改善的上下文記憶功能。
 - [code-yeongyu/lazycodex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/code-yeongyu-lazycodex/) — 複雜程式碼庫的AI代理管理工具，支援專案記憶和執行。

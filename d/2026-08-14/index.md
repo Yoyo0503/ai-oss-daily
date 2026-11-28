@@ -1294,7 +1294,6 @@ _每日存檔 · 2026-08-14_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [melgarafael/DeskcommCRM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/melgarafael-deskcommcrm/) — 開源 AI 售後系統，內建 AI 機器人和 WhatsApp 支援，適用於任何銷售業務。
 - [zoyluoblue/mc_aiplayer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zoyluoblue-mc-aiplayer/) — 使用 DeepSeek 驅動的 Minecraft 自主 AI 玩家模組。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [infino-ai/infino](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/infino-ai-infino/) — 基於物件儲存的快速全文檢索引擎，支援向量和SQL查詢。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

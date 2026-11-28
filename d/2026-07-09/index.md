@@ -981,7 +981,6 @@ _每日存檔 · 2026-07-09_
 - [yantrikos/yantrikdb-server](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yantrikos-yantrikdb-server/) — 用於AI代理的認知記憶資料庫，具備檢測重複、矛盾等功能。
 - [Houseofmvps/claude-rank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/houseofmvps-claude-rank/) — Claude Code 外掛，自動修正網站以提高 AI 發現性。
 - [NightMean/OlliteRT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nightmean-ollitert/) — 將 Android 手機變身為 OpenAI 相容的 LLM 推論伺服器，完全本地、私有且開源。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Houseofmvps/ultraship](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/houseofmvps-ultraship/) — Claude Code 外掛，提供 39 個技能、33 個工具和 11 個代理程式，適用於工作流程。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

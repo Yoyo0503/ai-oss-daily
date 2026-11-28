@@ -22,13 +22,13 @@
 - [briaai/Fibo-2.0-dev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-briaai-fibo-2-0-dev/) — 文字轉影像模型，支援影像編輯和多參考生成。
 - [m-a-p/YuE2-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-m-a-p-yue2-3b/) — 將文字轉換為音樂的模型。
 - [lightx2v/Minimax-h3-Turbo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-turbo/) — 將影像轉換為影片的模型，支援差分擴散和影像到影片技術。
+- [kandinskylab/Kandinsky-ImageSR-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kandinskylab-kandinsky-imagesr-2-0/) — 用於影像超解析的深度學習模型，可將低解析度影像轉換為高解析度。
 - [jdopensource/JoyAI-Echo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-jdopensource-joyai-echo/) — 文字轉影片生成工具，適用於長片。
 - [netease-youdao/Confucius4-R2T2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-netease-youdao-confucius4-r2t2/) — Confucius4-R2T2 是一個即時低延遲語音識別模型。
-- [higurashi-ai/Haru-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-higurashi-ai-haru-4b/) — 將語音轉換為語音的模型，支援全雙工語音對話。
+- [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/) — Qwen-Image 是一個文本轉影像模型，支援影像編輯和量化的文本生成。
 - [fishaudio/drama-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fishaudio-drama-3/) — 多語音合成的文本轉語音模型，支援情緒語音生成。
 - [speridlabs/iris-3b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-speridlabs-iris-3b/) — 一種使用 PyTorch 的影像生成模型，可將文字轉換為影像。
 - [Stable Audio 3 Medium（文字生成音樂/音效）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-stabilityai-stable-audio-3-medium/) — Stability AI 的文字生成音訊模型（pipeline: text-to-audio）。
-- [chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-chatrlabs-qwen-image-2-1-uncensored-omni-quantized/) — Qwen-Image 是一個文本轉影像模型，支援影像編輯和量化的文本生成。
 - [Zyphra/ZONOS3-Mini](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-zyphra-zonos3-mini/) — 將文字轉換成語音的AI模型，支援多語言語音合成。
 - [inclusionAI/Ming-Image-0.1-Design](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inclusionai-ming-image-0-1-design/) — 自訂的文本轉影像模型，適用於圖形設計和 RGBA 渲染。
 - [FermionResearch/Phonon-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-fermionresearch-phonon-2/) — 一款適用於蘋果Silicon的低位元語音轉文字模型。
@@ -47,9 +47,9 @@
 - [SupraLabs/Supra2-IMG](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-supralabs-supra2-img/) — Supra2-IMG 是一個使用 SupraDiT 技術的文本轉影像模型。
 - [Edge0/Audio8-TTS-Realistic-Air](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-audio8-tts-realistic-air/) — 將文字轉換為逼真的語音，適用於語音合成和聲音克隆。
 - [alibaba-pai/MiniMax-H3-Fun-Controlnet-Union](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alibaba-pai-minimax-h3-fun-controlnet-union/) — 將文字轉換為影片的AI模型，支援控制網格和影片生成。
-- [kandinskylab/Kandinsky-ImageSR-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kandinskylab-kandinsky-imagesr-2-0/) — 用於影像超解析的深度學習模型，可將低解析度影像轉換為高解析度。
 - [WarmBloodAban/Minimax-h3_Singularity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-warmbloodaban-minimax-h3-singularity/) — 將影像轉換為影片的AI模型。
 - [Patil/Krea-2-depth-controlnet](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-patil-krea-2-depth-controlnet/) — 用於影像轉換的控制網路，支援深度、LoRA和Flow Matching。
+- [higurashi-ai/Haru-4B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-higurashi-ai-haru-4b/) — 將語音轉換為語音的模型，支援全雙工語音對話。
 - [Gazingstars123/Anima-2.9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-gazingstars123-anima-2-9b/) — Anime風格的影像生成模型，支援文字轉圖片。
 - [CohereLabs/cohere-transcribe-arabic-07-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-coherelabs-cohere-transcribe-arabic-07-2026/) — 自動語音辨識模型，支援阿拉伯語轉錄。
 - [vyrekai/minimax-h3-image-comfyui-workflows](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-vyrekai-minimax-h3-image-comfyui-workflows/) — 使用 minimax-h3 和 comfyui 的影像生成工作流程。

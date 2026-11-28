@@ -1734,7 +1734,6 @@ _每日存檔 · 2026-10-24_
 - [BlockRunAI/ClawRouter](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/blockrunai-clawrouter/) — OpenClaw的LLM路由器，支援41+模型，低延遲路由。
 - [datagouv/datagouv-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datagouv-datagouv-mcp/) — 官方資料.gov.fr的MCP伺服器，讓AI聊天機器人能直接對話探索法國開放資料平臺。
 - [0xSteph/pentest-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xsteph-pentest-ai/) — Offensive-security MCP伺服器，包含205個工具、17種專業代理和60個SPA探測器。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [techjarves/Uncensored-Local-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/techjarves-uncensored-local-studio/) — 無縫安裝的AI工作室，提供影像生成、語音轉換等多種功能。
 - [vibheksoni/stealth-browser-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vibheksoni-stealth-browser-mcp/) — 能繞過反機器人系統的瀏覽器自動化工具，AI 可生成網路-hooks 和完美克隆 UI。
 - [vybenetwork/solana-swap-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/vybenetwork-solana-swap-api/) — Solana交換API及路由器。
@@ -1994,7 +1993,6 @@ _每日存檔 · 2026-10-24_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — 構建自主 AI 代理的 API 集合，涵蓋代理、AI 模型和 MCP 伺服器。

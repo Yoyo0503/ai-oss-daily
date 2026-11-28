@@ -2079,7 +2079,6 @@ _每日存檔 · 2026-11-05_
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
 - [rlaope/oh-my-hermes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rlaope-oh-my-hermes/) — 為Hermes Agent最佳化的一套長期記憶系統和自動模型路由工具。
 - [puaclaw/PUAClaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/puaclaw-puaclaw/) — 終將接管世界的 Claw 機器人。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [XRSPACE-Inc/perxona-connect-kit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xrspace-inc-perxona-connect-kit/) — 將 3D 語音 AI 虛擬角色新增到任何網頁應用。
 - [wshobson/maverick-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wshobson-maverick-mcp/) — 個人股票分析的MCP伺服器，使用Claude進行財務分析。
 - [backblaze-labs/genblaze](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/backblaze-labs-genblaze/) — 跨影片、音訊和影像供應商生成 AI 媒體管道的 Python SDK。
@@ -2149,7 +2148,6 @@ _每日存檔 · 2026-11-05_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

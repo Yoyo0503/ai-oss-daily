@@ -1390,7 +1390,6 @@ _每日存檔 · 2026-08-23_
 - [saurabhv749/supertonic3-voice-clone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saurabhv749-supertonic3-voice-clone/) — 訓練 Supertone/supertonic-3 模型的語音樣式。
 - [gantasmo/StableDAW](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gantasmo-stabledaw/) — 基於瀏覽器的AI音訊工作站，支援文本轉語音和LoRA訓練等功能。
 - [ebrahimpichka/open-MFE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebrahimpichka-open-mfe/) — 頂級金融工程課程資源的社群維護庫。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [kklimuk/docx-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kklimuk-docx-cli/) — 讓 AI 代理可以讀取、編輯和評論 .docx 檔案的命令列工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

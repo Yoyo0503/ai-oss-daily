@@ -1418,7 +1418,6 @@ _每日存檔 · 2026-08-26_
 - [tddworks/baguette](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tddworks-baguette/) — 管理 iOS 模擬器並注入輸入指令。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [ebrahimpichka/open-MFE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebrahimpichka-open-mfe/) — 頂級金融工程課程資源的社群維護庫。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [chiennv2000/orthrus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chiennv2000-orthrus/) — 快速、無損的大語言模型推論，通過雙檢視擴散解碼實現。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

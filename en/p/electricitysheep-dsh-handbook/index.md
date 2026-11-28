@@ -4,5 +4,5 @@ DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调�
 
 **Commercial license**：License unclear — 未標示授權 — 商用前務必確認(預設視為保留所有權利)
 
-**Stars**：1,029
+**Stars**：1,034
 **Source**：https://github.com/Electricitysheep/dsh-handbook

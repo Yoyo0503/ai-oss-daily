@@ -1264,7 +1264,6 @@ _每日存檔 · 2026-10-03_
 - [shoal-rat/quant-research-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shoal-rat-quant-research-lab/) — 自動化量化研究辦公室，帶有動態桌面桌布功能。
 - [yanun0323/Whallm](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yanun0323-whallm/) — DeepSeek-V4-Flash 和 Qwen3.8-Next-FP8 在 Mac 上進行低記憶體推論
 - [tatsu-lab/alpaca](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-tatsu-lab-alpaca/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [SergiioB/intel-arc-pro-b70-inference-cookbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sergiiob-intel-arc-pro-b70-inference-cookbook/) — Intel Arc Pro B60/B70 GPU 上執行大規模語言模型推理的開源食譜和效能測試工具。
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alephaitech-workbuddyguide/) — 開源實戰指南，幫助掌握 WorkBuddy 的教程與工作流。
 - [saadansha/crypto-trading-bot-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saadansha-crypto-trading-bot-v2/) — 適用於多個交易所的加密貨幣交易機器人。
@@ -1780,7 +1779,6 @@ _每日存檔 · 2026-10-03_
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [dongshuyan/compass-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dongshuyan-compass-skills/) — 司南：為AI代理提供個人化的任務總控系統。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [Alisa0808/vibe-creating-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alisa0808-vibe-creating-skill/) — 開源 AI 動畫提示技能，將想法轉換為文字到影片的提示。

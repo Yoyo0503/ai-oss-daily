@@ -7,13 +7,13 @@
 - [autotrust/JEV-27B-VL](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-autotrust-jev-27b-vl/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-ista-daslab-deepseek-v4-1-flash-1017-gsq-rco-gguf/) — text-generation · gguf, gsq, rco
 - [Comfy-Org/MOSS-Image](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-moss-image/) — · diffusion-single-file, comfyui, base_model:OpenMOSS-Team/MOSS-Image-Base
+- [SulphurAI/Sulphur-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-3/) — · minimax-h3, base_model:MiniMaxAI/MiniMax-H3, base_model:finetune:MiniMaxAI/MiniMax-H3
 - [Comfy-Org/Qwen-Image-2.1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-qwen-image-2-1/) — · diffusion-single-file, comfyui, base_model:Qwen/Qwen-Image-2.1
 - [Efficient-Large-Model/Open-H3-Regenerate-2K](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-efficient-large-model-open-h3-regenerate-2k/) — video-to-video · minimax-h3, diffusers, safetensors
 - [prism-ml/Ternary-Bonsai-2-27B-gguf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-prism-ml-ternary-bonsai-2-27b-gguf/) — text-generation · llama.cpp, gguf, ternary
 - [baidu/Unlimited-OCR-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-baidu-unlimited-ocr-2/) — image-text-to-text · transformers, safetensors, unlimited-ocr
 - [unsloth/Qwen3.8-27B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-unsloth-qwen3-8-27b-nvfp4/) — · safetensors, qwen3_5, unsloth
 - [FastVideo/FastH3-Omni-Comfy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-fastvideo-fasth3-omni-comfy/) — · diffusion-single-file, comfyui, minimax-h3
-- [SulphurAI/Sulphur-3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sulphurai-sulphur-3/) — · minimax-h3, base_model:MiniMaxAI/MiniMax-H3, base_model:finetune:MiniMaxAI/MiniMax-H3
 - [Comfy-Org/Fibo-2.0](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-comfy-org-fibo-2-0/) — · diffusion-single-file, comfyui, arxiv:2511.06876
 - [Nanbeige/Nanbeige4.3-33B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nanbeige-nanbeige4-3-33b/) — text-generation · transformers, safetensors, llama
 - [autotrust/GLM5.3-Flash-E224-DGX-Spark](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-autotrust-glm5-3-flash-e224-dgx-spark/) — image-text-to-text · vllm, safetensors, glm5_next
@@ -54,9 +54,9 @@
 - [empero-ai/Qwen3.8-9B-Distill-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-empero-ai-qwen3-8-9b-distill-gguf/) — text-generation · gguf, llama.cpp, quantized
 - [PSRben/VisionHOPE](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-psrben-visionhope/) — image-classification · computer-vision, pytorch, visionhope
 - [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-6-27b-fable-fusion-711-uncensored-heretic-nm-dau-neo-max-mtp-gguf/) — image-text-to-text · gguf, unsloth, fine tune
+- [strata-engine/Inkling-2-Mini-Strata](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-strata-engine-inkling-2-mini-strata/) — image-text-to-text · inkling2_loop, strata, inkling-2-mini
 - [nvidia/Nemotron-3-Embed-1B-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nemotron-3-embed-1b-bf16/) — sentence-similarity · sentence-transformers, safetensors, ministral3
 - [LiquidAI/d1-3B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-d1-3b/) — image-text-to-text · transformers, safetensors, lfm2_vl
 - [VideoRebirthAI/hyperflow-h3-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-videorebirthai-hyperflow-h3-flash/) — image-text-to-video · minimax-h3, diffusers, safetensors
 - [mistralai/Timestral-209M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-mistralai-timestral-209m/) — time-series-forecasting · timestral, safetensors, time-series
 - [nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-nvidia-nvidia-nemotron-labs-3-puzzle-75b-a9b-nvfp4/) — text-generation · transformers, safetensors, nemotron_h_puzzle
-- [Aleph-Alpha/Kolibri-1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aleph-alpha-kolibri-1/) — text-generation · vllm, safetensors, kolibri1

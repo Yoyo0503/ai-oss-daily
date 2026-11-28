@@ -6,48 +6,48 @@
 <atom:link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/rss.xml" rel="self" type="application/rss+xml"/>
 <description>每天精選 AI / LLM 開源情報，附繁中說明、為何上榜與商用授權判讀。</description>
 <language>zh-Hant</language>
-<lastBuildDate>27 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>28 Nov 2026 08:00:00 +0000</lastBuildDate>
 <item>
-<title>kandinskylab/Kandinsky-ImageSR-2.0</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kandinskylab-kandinsky-imagesr-2-0/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kandinskylab-kandinsky-imagesr-2-0/</guid>
-<pubDate>27 Nov 2026 08:00:00 +0000</pubDate>
-<description>用於影像超解析的深度學習模型，可將低解析度影像轉換為高解析度。</description>
+<title>ai-sage/GigaChat4-708B-A41B</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ai-sage-gigachat4-708b-a41b/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ai-sage-gigachat4-708b-a41b/</guid>
+<pubDate>28 Nov 2026 08:00:00 +0000</pubDate>
+<description>一個支援多語言的大型對話模型，適用於長上下文的對話生成。</description>
 </item>
 <item>
-<title>ccore/CCORE-Web-Coder-4B</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ccore-ccore-web-coder-4b/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ccore-ccore-web-coder-4b/</guid>
-<pubDate>27 Nov 2026 08:00:00 +0000</pubDate>
-<description>用於網頁開發的文本生成模型，支援React等技術。</description>
+<title>XinaTian/MROffice</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinatian-mroffice/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinatian-mroffice/</guid>
+<pubDate>28 Nov 2026 08:00:00 +0000</pubDate>
+<description>一個類似 Microsoft Office 的 AI 辦公套件，提供文件、試算表、簡報等編輯功能。</description>
 </item>
 <item>
-<title>phil-haderer/pxc</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phil-haderer-pxc/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phil-haderer-pxc/</guid>
-<pubDate>27 Nov 2026 08:00:00 +0000</pubDate>
-<description>透過ComfyUI使用本地AI模型進行影像生成和編輯的工具。</description>
+<title>irenea202/comfyui-pro-patcher-installer</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irenea202-comfyui-pro-patcher-installer/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irenea202-comfyui-pro-patcher-installer/</guid>
+<pubDate>28 Nov 2026 08:00:00 +0000</pubDate>
+<description>ComfyUI 的行動式 Windows 版本。</description>
 </item>
 <item>
-<title>rocketride-org/rocketride-server</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rocketride-org-rocketride-server/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rocketride-org-rocketride-server/</guid>
-<pubDate>27 Nov 2026 08:00:00 +0000</pubDate>
-<description>高效能AI管道引擎，支援多種模型供應商和向量資料庫。</description>
+<title>BaaRai/ARTEX</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/baarai-artex/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/baarai-artex/</guid>
+<pubDate>28 Nov 2026 08:00:00 +0000</pubDate>
+<description>一個自動化的 AI 滲透測試系統，使用 Golang 和 Next.js 開發。</description>
 </item>
 <item>
-<title>elementalsouls/Claude-BugHunter</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</guid>
-<pubDate>27 Nov 2026 08:00:00 +0000</pubDate>
-<description>Claude Code 程式設計技能包：漏洞狩獵和外部紅隊工作</description>
+<title>dataelement/dsh-desktop</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-dsh-desktop/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-dsh-desktop/</guid>
+<pubDate>28 Nov 2026 08:00:00 +0000</pubDate>
+<description>DeepSeek 機器人桌面版。</description>
 </item>
 <item>
-<title>PrunaAI/P-H3-Image-Comfy</title>
-<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/</link>
-<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/</guid>
-<pubDate>27 Nov 2026 08:00:00 +0000</pubDate>
-<description>使用 ComfyUI 的文本生成影像模型。</description>
+<title>inworld/voice-isolator</title>
+<link>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inworld-voice-isolator/</link>
+<guid isPermaLink="true">https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inworld-voice-isolator/</guid>
+<pubDate>28 Nov 2026 08:00:00 +0000</pubDate>
+<description>用於從音訊中分離和增強人聲的工具。</description>
 </item>
 </channel>
 </rss>

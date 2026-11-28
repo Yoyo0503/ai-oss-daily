@@ -1523,7 +1523,6 @@ _每日存檔 · 2026-10-15_
 - [Eyeline-Labs/ID-V2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/) — ID-V2V 是用於影片重風格化並保持身份特徵的官方實現。
 - [yalun753/moe-l2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yalun753-moe-l2/) — 低VRAM GPU的MoE專家解除安裝工具，可在8GB卡上執行大型MoE模型。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [GEOFlow（GEO 內容工程與多站分發）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-geoflow/) — 開源的 GEO(生成式引擎優化)內容工程與多站分發系統，賺錢方法榜最熱（2,378★）。
 - [NotFair（行銷用 Claude Code Skills 合集）](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nowork-studio-notfair/) — 開源 Claude Code 技能包，涵蓋 SEO、GEO、Google Ads、Meta 廣告(2,705★)。
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alephaitech-workbuddyguide/) — 開源實戰指南，幫助掌握 WorkBuddy 的教程與工作流。
@@ -1891,7 +1890,6 @@ _每日存檔 · 2026-10-15_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [SilentFleetKK/riskguard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/silentfleetkk-riskguard/) — 交易風險控制層，提供倉位上限、熔斷機制等核心功能，無外部依賴。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

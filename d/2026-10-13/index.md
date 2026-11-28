@@ -1470,7 +1470,6 @@ _每日存檔 · 2026-10-13_
 - [ai4bharat/MSMARCO-XI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-ai4bharat-msmarco-xi/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [helasaoudi/llm-inspector](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helasaoudi-llm-inspector/) — 監控大型語言模型推論過程中的 GPU 記憶體使用情況，並測量量化節省。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [AlexsJones/llmfit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexsjones-llmfit/) — 快速找到適合您硬體的大型語言模型。
 - [JCodesMore/ai-website-cloner-template](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jcodesmore-ai-website-cloner-template/) — 使用 AI 機器人克隆網站的工具。
 - [databricks/databricks-dolly-15k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-databricks-databricks-dolly-15k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -1867,7 +1866,6 @@ _每日存檔 · 2026-10-13_
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

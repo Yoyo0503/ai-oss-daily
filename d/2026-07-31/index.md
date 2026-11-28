@@ -1179,7 +1179,6 @@ _每日存檔 · 2026-07-31_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [corticalstack/awesome-foundry-nextgen](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/corticalstack-awesome-foundry-nextgen/) — Microsoft Foundry 的實戰實驗室，涵蓋 Azure 平臺即服務 (PaaS) 的企業 AI 系統。
 - [imgx-studio/gpt-image-2-webui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imgx-studio-gpt-image-2-webui/) — 自建GPT影像生成WebUI，支援文本轉影像和多語言創意工作流程。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [znyupup/ai-video-editing-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/znyupup-ai-video-editing-skill/) — AI自動化Vlog剪輯技能，輸入原始影片，獲得成品。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

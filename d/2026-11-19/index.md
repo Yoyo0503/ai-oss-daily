@@ -785,7 +785,6 @@ _每日存檔 · 2026-11-19_
 - [Cha007/pornflux-i2v-6e9et](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-cha007-pornflux-i2v-6e9et/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Qwen/RecreationBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-qwen-recreationbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [MegaPotatoAI/AI-Image-Upscaler](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-megapotatoai-ai-image-upscaler/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [nineninesix/gepard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nineninesix-gepard/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [nvidia/nemotron-transcribe](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-nvidia-nemotron-transcribe/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/irodori-tts-anime-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-irodori-tts-anime-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1251,7 +1250,6 @@ _每日存檔 · 2026-11-19_
 - [microsoft/TRELLIS.2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-microsoft-trellis-2/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [LocalLaws/LOCUS-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-locallaws-locus-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [honwee/mynah](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/honwee-mynah/) — 在自己的伺服器上執行的即時數字人系統。
-- [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [HuggingFaceFW/fineweb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-huggingfacefw-fineweb/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Sebastianmaxter/ai-profit-sniper-strategy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sebastianmaxter-ai-profit-sniper-strategy/) — ai-profit-sniper-strategy 是一個 24/7 自動化市場分析和技術訊號警報系統。
 - [AimeeBingmouQu/ProtectBirds](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-aimeebingmouqu-protectbirds/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -2332,7 +2330,6 @@ _每日存檔 · 2026-11-19_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [activeing123/mcptoon](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/activeing123-mcptoon/) — mcptoon 是一個高效的工具發現 CLI，支援所有 AI 代理。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [Omni-Scientist/Awesome-AI-Scientist](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/omni-scientist-awesome-ai-scientist/) — Awesome-AI-Scientist 是一個包含AI科學家相關資源的清單。
@@ -2550,7 +2547,6 @@ _每日存檔 · 2026-11-19_
 - [QuantiaAI/grid-pilot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/quantiaai-grid-pilot/) — 超越交易所原生網格機器人的程式化交易系統，適用於加密貨幣交易。
 - [yzhao062/agent-style](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yzhao062-agent-style/) — 提供給 AI 程式碼和寫作代理的 21 個寫作規則，讓程式碼看起來像專業技術人員的作品。
 - [heardlabs/heard](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/heardlabs-heard/) — Claude Code等程式碼代理的語音層，實現手動自由對話。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [Saganaki22/Higgs_v3-TTS-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-higgs-v3-tts-comfyui/) — 多語種對話式文字轉語音工具，支援零樣本聲音克隆和內聯標記。
 - [marketcalls/vectorbt-backtesting-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marketcalls-vectorbt-backtesting-skills/) — 使用VectorBT進行交易策略回測的代理程式技能。
 - [stevenflanagan1/social-ai-team](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stevenflanagan1-social-ai-team/) — 給中小企業的社群 AI 團隊 Claude skills：品牌設定、內容全包。

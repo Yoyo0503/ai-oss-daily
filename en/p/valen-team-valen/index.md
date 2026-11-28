@@ -4,5 +4,5 @@ Open multimodal decision models, 0.8B to 27B, for text, images and video. Decide
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：937
+**Stars**：938
 **Source**：https://github.com/Valen-Team/Valen

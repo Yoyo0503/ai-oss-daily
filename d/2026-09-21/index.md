@@ -1676,7 +1676,6 @@ _每日存檔 · 2026-09-21_
 - [mediago-dev/mediago-drama](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mediago-dev-mediago-drama/) — 從文本生成短劇的 AI 工作臺，支援小說改編。
 - [zhnt/loushang](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhnt-loushang/) — 基於 Python 的程式碼工作流程代理程式執行環境，支援多模型協調和工具治理。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Leaderxin/quant-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/leaderxin-quant-desktop/) — 免費開源的 A 股即時行情桌面終端，適用 Windows、macOS 和 Linux。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [agenvoy/Agenvoy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agenvoy-agenvoy/) — 個人AI代理，能自行編寫工具並自我修復。

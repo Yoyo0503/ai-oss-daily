@@ -731,7 +731,6 @@ _每日存檔 · 2026-06-15_
 - [abdulsamed1/AI-skills-bank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/abdulsamed1-ai-skills-bank/) — 統一的多工具平臺，整合和路由各種工作流程中的AI技能。
 - [HelpCode-ai/anythingmcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/helpcode-ai-anythingmcp/) — 自建無程式碼 API 聯結器，支援多種協議和許可權管理。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [marketcalls/vectorbt-backtesting-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/marketcalls-vectorbt-backtesting-skills/) — 使用VectorBT進行交易策略回測的代理程式技能。
 - [rlacombe/switchback-running](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rlacombe-switchback-running/) — 由 Intervals.icu 驅動的超馬拉松訓練伴侶代理。
 - [prncexe/chronex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prncexe-chronex/) — 跨平臺社交媒體排程工具，支援分散式工作處理和OAuth整合。

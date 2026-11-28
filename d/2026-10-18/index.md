@@ -1588,7 +1588,6 @@ _每日存檔 · 2026-10-18_
 - [inlineresearch/Inline-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/inlineresearch-inline-studio/) — 使用 ComfyUI 的 AI 影片創作平臺，提供創意工具和桌面應用程式。
 - [alibaba/zvec](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alibaba-zvec/) — 輕量級向量資料庫，適用於本地語意搜尋。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [ronak-create/FableCut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ronak-create-fablecut/) — 無依賴的瀏覽器影片編輯器，支援AI代理操作。
 - [nextlevelbuilder/goclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nextlevelbuilder-goclaw/) — GoClaw 是用 Go 語言重構的 OpenClaw，提供多租戶隔離和五層級別的安全性。
 - [cft0808/edict](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cft0808-edict/) — 三省六部制多代理系統，包含九種專業 AI 代理、即時儀錶板及完整審計軌跡。
@@ -1923,7 +1922,6 @@ _每日存檔 · 2026-10-18_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [swy2018/Aurora-Audio-Studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/swy2018-aurora-audio-studio/) — 本地優先的Windows AI音訊工作臺，提供多種音樂生成和編輯功能。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

@@ -2164,7 +2164,6 @@ _每日存檔 · 2026-11-08_
 - [openlake-project/openlake](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openlake-project-openlake/) — 高效LLM推理和GPU訓練的高效能儲存引擎。
 - [taco-group/SparkVSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taco-group-sparkvsr/) — 透過稀疏關鍵幀傳播進行互動式影片超解析。
 - [zilliztech/memsearch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zilliztech-memsearch/) — 為AI代理提供統一持久記憶層，支援Markdown和Milvus儲存。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [ChrisChen667788/wind-comic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrischen667788-wind-comic/) — 將文字轉換成動漫劇本和影片的多代理 AI 管道。
 - [bigmacman1129/solana-arbitrage-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-solana-arbitrage-trading-bot/) — 基於 Rust 的 Solana 套利交易機器人，自動掃描 DEX 價格並執行交易。
 - [OpenCPIL/prima.cpp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opencpil-prima-cpp/) — 在日常家用裝置上快速執行大型語言模型的框架。
@@ -2185,7 +2184,6 @@ _每日存檔 · 2026-11-08_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [usmanch96/QxbrokerFutures](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/usmanch96-qxbrokerfutures/) — 為 Quotex 和 QXbroker 提供 AI 動力的 OTC 訊號引擎和預測器。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

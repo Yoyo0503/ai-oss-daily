@@ -1250,7 +1250,6 @@ _每日存檔 · 2026-10-02_
 - [NousResearch/hermes-function-calling-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nousresearch-hermes-function-calling-v1/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [animede/Diffusers_minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/animede-diffusers-minimax-h3/) — MiniMax-H3模型，用於生成帶同步音訊的影片。
 - [zvec-ai/zvec-grep](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zvec-ai-zvec-grep/) — zvec-grep 是一個為人類和 AI 代理設計的本地搜尋工具。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [MemTensor/memmy-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/memtensor-memmy-agent/) — 個人AI代理和本地記憶中心，讓所有AI共享記憶。
 - [shoal-rat/quant-research-lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shoal-rat-quant-research-lab/) — 自動化量化研究辦公室，帶有動態桌面桌布功能。
 - [AlephAITech/WorkBuddyGuide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alephaitech-workbuddyguide/) — 開源實戰指南，幫助掌握 WorkBuddy 的教程與工作流。
@@ -1775,7 +1774,6 @@ _每日存檔 · 2026-10-02_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [spronta/crawlie](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spronta-crawlie/) — 快速、免費且開源的技術 SEO 和 GEO 網站爬蟲工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [dongshuyan/compass-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dongshuyan-compass-skills/) — 司南：為AI代理提供個人化的任務總控系統。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [sbroenne/mcp-server-powerpoint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sbroenne-mcp-server-powerpoint/) — 使用 AI 自動化 Microsoft PowerPoint 的工具。

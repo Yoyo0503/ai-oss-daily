@@ -804,7 +804,6 @@ _每日存檔 · 2026-06-22_
 - [xstongxue/best-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xstongxue-best-prompts/) — 通用高質量 Prompt 合集。
 - [punisherluckysun92/Crypto-AIBot-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/punisherluckysun92-crypto-aibot-2026/) — Crypto AI Analytics 是一款用於資料驅動的加密貨幣市場分析和趨勢檢測的桌面工具。
 - [Greenysmac/awesome-davinci-resolve](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/greenysmac-awesome-davinci-resolve/) — DaVinci Resolve 的外掛、工具和資源列表，由社群維護。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [sysprog21/zhtw-mcp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sysprog21-zhtw-mcp/) — 繁體中文語法檢查工具，協助開發者提升程式碼品質。

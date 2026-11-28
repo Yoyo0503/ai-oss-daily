@@ -15,7 +15,7 @@ _每日存檔 · 2026-11-18_
 - [fujc683/seedance-2-5-flash-pricing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fujc683-seedance-2-5-flash-pricing/) — Seedance 2.5 Flash 的影片生成成本分析。
 - [fujc683/seedance-2-5-flash-camera-movements](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fujc683-seedance-2-5-flash-camera-movements/) — Seedance 2.5 Flash 的12種攝像頭移動範例。
 - [fujc683/seedance-2-5-flash-reference-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fujc683-seedance-2-5-flash-reference-video/) — 使用參考影片控制 Seedance 2.5 Flash 的運動。
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
+- [VoxDance-Lab/VoxMel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/voxdance-lab-voxmel/) — 用波浪因式自回歸模型進行零成本語音合成。
 
 ## 🚀 Star 竄升
 
@@ -413,7 +413,6 @@ _每日存檔 · 2026-11-18_
 - [google/embeddinggemma-2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-google-embeddinggemma-2/) — 用於抽取特徵的轉換器模型，適用於句子嵌入。
 - [DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-davidau-qwen3-6-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-neo-code-di-imatrix-max-gguf/) — 經過多階段微調的影像文字轉文字模型，適用於所有場景。
 - [AST-1320/Qwen-2511-Plus-Flux.2-klein-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-ast-1320-qwen-2511-plus-flux-2-klein-9b/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [ProCreations/grug-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-procreations-grug-27b/) — 文本生成模型，具備推理和工具使用能力。
 - [nvidia/Kumo-Tabular](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-nvidia-kumo-tabular/) — Kumo-Tabular 是一個用於結構化資料的基礎模型。
 - [Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-mothersuperior-yue2-mothersuperior-realaudio-tokenizer-v4/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
@@ -959,7 +958,6 @@ _每日存檔 · 2026-11-18_
 - [junchaoh-cs/SolarWM-Data](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-junchaoh-cs-solarwm-data/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [saidutta69/fable-5-premium-v2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-saidutta69-fable-5-premium-v2/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-nvidia-physicalai-worldmodel-synthetic-digital-human-scenes/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
-- [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [PatronusAI/figmatrace](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-patronusai-figmatrace/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/firered-tts3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-firered-tts3/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [m-a-p/WildSongBench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-m-a-p-wildsongbench/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -2311,7 +2309,6 @@ _每日存檔 · 2026-11-18_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。
@@ -2504,7 +2501,6 @@ _每日存檔 · 2026-11-18_
 - [taisly/agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/taisly-agent/) — 用於在多個平臺發布影片的代理工具套件。
 - [timoncool/dub-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/timoncool-dub-studio/) — 免費的離線 AI 影片配音工作室，支援語音克隆、翻譯及字幕本地化。
 - [shootthesound/Fizgig](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/shootthesound-fizgig/) — Flux 2 Klein 9B LoRA 工作室：訓練/profile/修復/抽取 LoRA。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [kodelyx/flow-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kodelyx-flow-agent/) — Google Flow的CLI工具，支援無限生成影片和影像。
 - [JuliusBrussee/cavemem](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juliusbrussee-cavemem/) — 跨代理持久記憶系統，壓縮儲存、快速檢索。
 - [Visko-Platform/VEFX-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/visko-platform-vefx-bench/) — VEFX-Bench：通用影片編輯與視覺特效的綜合基準測試。

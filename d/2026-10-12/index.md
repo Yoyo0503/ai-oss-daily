@@ -1437,7 +1437,6 @@ _每日存檔 · 2026-10-12_
 - [Tylogi/TyloQuant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tylogi-tyloquant/) — 讓大型模型在現有硬體上順暢執行的智慧化量化解決方案。
 - [AlexAnys/awesome-openclaw-usecases-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexanys-awesome-openclaw-usecases-zh/) — OpenClaw 中文用例大全：50 個真實場景（國內特色＋海外案例在地化）。
 - [wubo0927/xiaoyou-aigc-cinematic-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wubo0927-xiaoyou-aigc-cinematic-director/) — 生成電影級攝影提示詞的 AI 技能，適用於抖音小優與 AIGC 的創作。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [Imbad0202/academic-research-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/imbad0202-academic-research-skills/) — Claude Code 學術研究 skills：研究→寫作→審閱→修訂→定稿全流程（+1010★）。
 - [ArcReel/ArcReel](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/arcreel-arcreel/) — 使用 AI 代理生成影片的工作平臺，從小說到最終成品一鍵完成。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
@@ -1860,7 +1859,6 @@ _每日存檔 · 2026-10-12_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [reunios2024/cortex-sentinel-trading-nexus](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/reunios2024-cortex-sentinel-trading-nexus/) — 自調節多代理 AI 股票交易系統，融合八種訊號源。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [youcefbibo53/PropGuard-Trailing-Equity-Armor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/youcefbibo53-propguard-trailing-equity-armor/) — 提供自動化交易策略，保護資金管理者的風險。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [eliudmakd782/vocal-craft-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eliudmakd782-vocal-craft-studio/) — 調校過的英語及印地語 AI 語音工作室，支援批次克隆和 TTS。

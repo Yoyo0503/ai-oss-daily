@@ -1140,7 +1140,6 @@ _每日存檔 · 2026-07-27_
 - [Saganaki22/ComfyUI-VoxCPM2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/saganaki22-comfyui-voxcpm2/) — VoxCPM2 TTS外掛，支援30種語言和音訊設計。
 - [alibayram/identity_finetune_magibu_q3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibayram-identity-finetune-magibu-q3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [brodyautomates/polymarket-pipeline](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/brodyautomates-polymarket-pipeline/) — 事件驅動 AI 管道：即時監測突發新聞、用 AI 分類其市場影響。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

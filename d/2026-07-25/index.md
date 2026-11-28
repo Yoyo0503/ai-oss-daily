@@ -1122,7 +1122,6 @@ _每日存檔 · 2026-07-25_
 - [john-rocky/apple-silicon-llm-bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/john-rocky-apple-silicon-llm-bench/) — 適用於Apple Silicon裝置的本地LLM中立重現評估工具。
 - [alibayram/identity_finetune_magibu_q3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibayram-identity-finetune-magibu-q3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [ChaosRealmsAI/gpt-image-2-gallery](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chaosrealmsai-gpt-image-2-gallery/) — 包含3800多張GPT-Image-2作品的AI影像靈感集錦。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [SamurAIGPT/seedance-2-generator](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/samuraigpt-seedance-2-generator/) — 開源 Seedance 2.0 影片生成器，提供文字轉影片和多圖參考編輯功能。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

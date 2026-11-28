@@ -605,7 +605,6 @@ _每日存檔 · 2026-06-14_
 - [Kaden-Schutt/hipfire](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kaden-schutt-hipfire/) — 基於 Rust 的 RDNA 原生 LLM 推論引擎。
 - [rmbell09-lang/tradesight](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rmbell09-lang-tradesight/) — 自架 AI 交易策略實驗室：模擬盤、隔夜策略錦標賽、15+ 工具。
 - [0xMassi/webclaw](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/0xmassi-webclaw/) — 快速本地化的 LLM 網頁內容提取工具，支援 CLI 和 REST API。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Light-Heart-Labs/DreamServer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/light-heart-labs-dreamserver/) — 將個人電腦轉變為 AI 伺服器，支援聊天介面、語音和代理工作流程。
 - [momotech/LinkWork](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/momotech-linkwork/) — 開源企業 AI 勞動力平台：容器化角色、宣告式 skill、MCP 工具。
 - [Human-Agent-Society/CORAL](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/human-agent-society-coral/) — CORAL 是一個輕量級的多代理自主演化基礎設施，適用於自動研究。

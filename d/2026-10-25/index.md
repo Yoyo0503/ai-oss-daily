@@ -1763,7 +1763,6 @@ _每日存檔 · 2026-10-25_
 - [Deveraux-Parker/minimax-h3-voice-api](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/deveraux-parker-minimax-h3-voice-api/) — 在 ComfyUI 中為 MiniMax H3 提供本地語音 API，相容 OpenAI 和 ElevenLabs。
 - [nitrocloudofficial/nitrostack](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nitrocloudofficial-nitrostack/) — 全端TypeScript框架，用於構建和部署生產級別的MCP伺服器及原生AI應用。
 - [kangarooking/cangjie-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kangarooking-cangjie-skill/) — 將書籍轉換為可執行的代理技能集。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [mlabonne/harmful_behaviors](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-mlabonne-harmful-behaviors/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [onvoyage-ai/gtm-engineer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onvoyage-ai-gtm-engineer-skills/) — 改善網站 AEO／GEO（AI/生成式引擎優化）的 Claude Code skill。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
@@ -2009,7 +2008,6 @@ _每日存檔 · 2026-10-25_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

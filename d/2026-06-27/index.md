@@ -866,7 +866,6 @@ _每日存檔 · 2026-06-27_
 - [AnyAI-Labs/AnyAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anyai-labs-anyai/) — 開源 AI 加密交易平台＋Chrome 擴充，即時行情分析。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [agent-next/polymarket-paper-trader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agent-next-polymarket-paper-trader/) — Polymarket 模擬盤（給 AI agent，MCP server＋即時訂單簿）。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eddmpython-dartlab/) — 根據股票程式碼生成公司完整報告和分析。
 - [bigint/rag.computer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigint-rag-computer/) — 自我主機化的 RAG 平臺，提供檔案嵌入和向量搜尋功能。

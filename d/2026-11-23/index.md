@@ -845,7 +845,6 @@ _每日存檔 · 2026-11-23_
 - [signsur4739379373/LTX-2.3-Finetuned-I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AdithyaSK/rl-environments-101-slides](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-101-slides/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [briaai/Fibo-2.0-editing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-briaai-fibo-2-0-editing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openvivo-vins-120k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yijunwang2-krea2-outpaint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/h3-world-action-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-h3-world-action-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1316,7 +1315,6 @@ _每日存檔 · 2026-11-23_
 - [essmos/nonodb](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/essmos-nonodb/) — 輕量級 JSON 文書資料庫，支援 SQL 查詢與加密備份。
 - [linoyts/ltx2-19b-distilled-faceswap-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-linoyts-ltx2-19b-distilled-faceswap-v3/) — 用於臉部交換的深度學習模型，適用於影像和影片。
 - [Montgomery66/massive-passive-ai-blueprint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/montgomery66-massive-passive-ai-blueprint/) — AI自動化策略和系統架構清單，適用於建立數位資產和被動收入流。
-- [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [embodied-analysis/FinanceGym](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-embodied-analysis-financegym/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [Ferdinandyes/performance-marketing-deutschland](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ferdinandyes-performance-marketing-deutschland/) — 德語區的自動化流量漏斗，提高轉換率和ROI。
 - [Nathanielyseterday/traffic-monetization-toolkit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nathanielyseterday-traffic-monetization-toolkit/) — 自動化的數位流量轉換工具，提高廣告效果。
@@ -2381,7 +2379,6 @@ _每日存檔 · 2026-11-23_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。
@@ -2698,7 +2695,6 @@ _每日存檔 · 2026-11-23_
 - [GizClaw/flowcraft](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gizclaw-flowcraft/) — 用於構建具長期記憶、知識檢索的AI代理的生產級Go SDK。
 - [onyx-dot-app/EnterpriseRAG-Bench](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/onyx-dot-app-enterpriserag-bench/) — 企業內部檔案上使用的Retrieval-Augmented Generation資料集和評估基準。
 - [Beever-AI/beever-atlas](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/beever-ai-beever-atlas/) — 第一個大型語言模型維基對話知識庫。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [bigmacman1129/btc-arbitrage-trading-bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigmacman1129-btc-arbitrage-trading-bot/) — 基於Python的加密貨幣套利交易機器人，監控價格差異並自動執行交易。
 - [EddieTYP/image-prompt-library](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eddietyp-image-prompt-library/) — 本地一體化影像提示庫，用於生成、儲存和管理影像。
 - [AgriciDaniel/claude-repurpose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agricidaniel-claude-repurpose/) — Claude Code內容重用引擎，將單一內容轉化為多個平臺最佳化的帖子。

@@ -5,10 +5,10 @@
 - [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-xtools-at-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic/) — text-generation · transformers, safetensors, qwen3_5
 - [lodestones/MOSS-Image-SFT-8-steps-dmd](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lodestones-moss-image-sft-8-steps-dmd/) — · diffusers, safetensors, base_model:OpenMOSS-Team/MOSS-Image-SFT
 - [lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/) — · peft, safetensors, lora
+- [Lakonik/pi-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lakonik-pi-h3/) — image-text-to-video · diffusers, safetensors, flow-matching
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-microsoft-fastcontext-1-0-4b-sft/) — text-generation · transformers, safetensors, qwen3
 - [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-akatz-ai-minimax-h3-character-swap-lora/) — video-to-video · diffusion-single-file, minimax-h3, lora
 - [pablodawson/MiniMax-H3-360-Orbit-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-pablodawson-minimax-h3-360-orbit-lora/) — image-text-to-video · minimax-h3, lora, image-to-video
-- [Lakonik/pi-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-lakonik-pi-h3/) — image-text-to-video · diffusers, safetensors, flow-matching
 - [bespokelabs/Bespoke-Nimble-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-bespokelabs-bespoke-nimble-9b/) — text-classification · peft, safetensors, lora
 - [Alissonerdx/Minimax-H3-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alissonerdx-minimax-h3-comfyui/) — · minimax-h3, lora, video
 - [Edge0/Edge0-35B-A3B-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-edge0-edge0-35b-a3b-preview/) — text-generation · mlx, safetensors, qwen3_5_moe
@@ -48,11 +48,11 @@
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — · task_categories:text-generation, task_categories:question-answering, language:en
 - [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-r0b0tlab-qwen3-8-max-glm5-2-kimi-k3-distillation/) — · task_categories:text-generation, language:en, language:zh
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-facebook-mms-300m/) — · transformers, pytorch, wav2vec2
-- [face-hh/eblan](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/face-hh-eblan/) — A chatbot trained on Counter-Strike 2 game chat, plus the toxicity benchmark and training pipeline behind it.
-- [Juneo-Lab/decision-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juneo-lab-decision-forge/) — Compile organizational policy into verifiable decision training data.
 - [jwuthri-cloud/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jwuthri-cloud-selfjev/) — Self-hosted decision model (selfjev-4b) with a Jev-compatible API: Python SDK, server, fine-tuning and RLCD.
 - [HuggingFaceTB/smol-training-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/space-huggingfacetb-smol-training-playbook/) — · docker, research-article-template, research paper
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — Fine-tuning LLM — lora, qlora, unsloth, fine tune tutorial.
+- [Juneo-Lab/decision-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/juneo-lab-decision-forge/) — Compile organizational policy into verifiable decision training data.
+- [face-hh/eblan](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/face-hh-eblan/) — A chatbot trained on Counter-Strike 2 game chat, plus the toxicity benchmark and training pipeline behind it.
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-anthropic-hh-rlhf/) — · license:mit, size_categories:100K<n<1M, format:json
 - [datamllab/OpenEBFM](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/datamllab-openebfm/) — Open-source code for training and scaling up energy-based foundation models.
 - [chrisipanaque/qwen-lora-finetune](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/chrisipanaque-qwen-lora-finetune/) — Fine-tune Qwen2.5-Coder for code generation on your own dataset using QLoRA. Train on JSONL instruction-respo…
@@ -71,11 +71,12 @@
 - [IIGroup/X-Coder-SFT-376k](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-iigroup-x-coder-sft-376k/) — · task_categories:text-generation, language:en, license:mit
 - [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
 - [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sunrainyg-randopt/) — Official Codebase for "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights" (ICML 2026 …
+- [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-hrm-text/) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and lat…
+- [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.
+- [KingHsp/vram-sage-training](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/kinghsp-vram-sage-training/) — The 2026 VRAM-Smart Fine-Tuning Suite for SDXL and ANIMA on 12GB GPUs
 - [njgymb/diffusers-sculptor](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/njgymb-diffusers-sculptor/) — Efficient Stable Diffusion Fine-Tuning Framework 2026: Lightweight Config-Driven Pipeline
 - [RNetworks2019/fine-tuning-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/rnetworks2019-fine-tuning-playground/) — Mastering LLM Fine-Tuning in 2026: A Practical Guide from Hugging Face Basics to Production
 - [StudioFoysal/RiddleGen-FineTuned-GPT2](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/studiofoysal-riddlegen-finetuned-gpt2/) — Math Riddle Generation 2026: Fine-Tuned GPT-2 for Automated Puzzle Solving
-- [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/sapientinc-hrm-text/) — HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and lat…
-- [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/nick7nlp-awesome-llm-on-policy-distillation/) — A curated collection of papers and resources on On-Policy Distillation for Large Language Models.
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/daoyuanli2816-can-i-finetune-this/) — Estimate whether a Hugging Face model fits and fine-tunes on your local GPU.
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/enping-hu-minimind-deep-dive/) — 从 MiniMind 源码读起,再延伸到现代大模型技术体系的中文学习笔记。主线逐行精读预训练 / SFT / DPO / PPO / GRPO 与训练机制;附录 17 篇进阶卷覆盖量化、投机解码、RLHF 全景、模型代…
 - [LingyiChen-AI/ModelForge](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/lingyichen-ai-modelforge/) — 面向小团队的一站式 NLP 小模型平台:数据集版本管理 · 训练 · 评估 · 在线部署 · Badcase 闭环,内置大模型 Prompt 盲测评测(人工 + AI 双指标)。

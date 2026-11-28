@@ -2022,7 +2022,6 @@ _每日存檔 · 2026-11-03_
 - [MemTensor/memmy-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/memtensor-memmy-agent/) — 個人AI代理和本地記憶中心，讓所有AI共享記憶。
 - [walkinglabs/hands-on-modern-rl](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/walkinglabs-hands-on-modern-rl/) — 從基本RL概念到LLM對齊的手動實踐教程。
 - [Kuberwastaken/megaphone](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kuberwastaken-megaphone/) — megaphone 是一個免費、私人的Mac語音轉文字應用，使用Apple SpeechAnalyzer和Foundation Models。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [graykode/abtop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/graykode-abtop/) — 類似htop的AI程式碼代理監控工具。
 - [Stonewuu/ai-fusion-video](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/stonewuu-ai-fusion-video/) — 基於代理的全流程AI短劇和漫畫創作平臺。
 - [UditAkhourii/adhd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/uditakhourii-adhd/) — 一種基於 Claude 和 Codex SDK 的程式碼代理技能，能生成並評估多種創意思路。
@@ -2124,7 +2123,6 @@ _每日存檔 · 2026-11-03_
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
 - [OWASP/OWASP-MCP-Governance-and-Risk-Project](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owasp-owasp-mcp-governance-and-risk-project/) — 提供組織在採用 Model Context Protocol (MCP) 時的實用治理框架。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

@@ -4,47 +4,47 @@
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/"/>
 <link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/feed.xml" rel="self"/>
 <id>https://cenxialiu7-cloud.github.io/ai-oss-daily/</id>
-<updated>2026-11-27T08:00:00+00:00</updated>
+<updated>2026-11-28T08:00:00+00:00</updated>
 <entry>
-<title>kandinskylab/Kandinsky-ImageSR-2.0</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kandinskylab-kandinsky-imagesr-2-0/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-kandinskylab-kandinsky-imagesr-2-0/</id>
-<updated>2026-11-27T08:00:00+00:00</updated>
-<summary>用於影像超解析的深度學習模型，可將低解析度影像轉換為高解析度。</summary>
+<title>ai-sage/GigaChat4-708B-A41B</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ai-sage-gigachat4-708b-a41b/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ai-sage-gigachat4-708b-a41b/</id>
+<updated>2026-11-28T08:00:00+00:00</updated>
+<summary>一個支援多語言的大型對話模型，適用於長上下文的對話生成。</summary>
 </entry>
 <entry>
-<title>ccore/CCORE-Web-Coder-4B</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ccore-ccore-web-coder-4b/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-ccore-ccore-web-coder-4b/</id>
-<updated>2026-11-27T08:00:00+00:00</updated>
-<summary>用於網頁開發的文本生成模型，支援React等技術。</summary>
+<title>XinaTian/MROffice</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinatian-mroffice/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/xinatian-mroffice/</id>
+<updated>2026-11-28T08:00:00+00:00</updated>
+<summary>一個類似 Microsoft Office 的 AI 辦公套件，提供文件、試算表、簡報等編輯功能。</summary>
 </entry>
 <entry>
-<title>phil-haderer/pxc</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phil-haderer-pxc/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/phil-haderer-pxc/</id>
-<updated>2026-11-27T08:00:00+00:00</updated>
-<summary>透過ComfyUI使用本地AI模型進行影像生成和編輯的工具。</summary>
+<title>irenea202/comfyui-pro-patcher-installer</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irenea202-comfyui-pro-patcher-installer/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/irenea202-comfyui-pro-patcher-installer/</id>
+<updated>2026-11-28T08:00:00+00:00</updated>
+<summary>ComfyUI 的行動式 Windows 版本。</summary>
 </entry>
 <entry>
-<title>rocketride-org/rocketride-server</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rocketride-org-rocketride-server/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rocketride-org-rocketride-server/</id>
-<updated>2026-11-27T08:00:00+00:00</updated>
-<summary>高效能AI管道引擎，支援多種模型供應商和向量資料庫。</summary>
+<title>BaaRai/ARTEX</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/baarai-artex/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/baarai-artex/</id>
+<updated>2026-11-28T08:00:00+00:00</updated>
+<summary>一個自動化的 AI 滲透測試系統，使用 Golang 和 Next.js 開發。</summary>
 </entry>
 <entry>
-<title>elementalsouls/Claude-BugHunter</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/elementalsouls-claude-bughunter/</id>
-<updated>2026-11-27T08:00:00+00:00</updated>
-<summary>Claude Code 程式設計技能包：漏洞狩獵和外部紅隊工作</summary>
+<title>dataelement/dsh-desktop</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-dsh-desktop/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataelement-dsh-desktop/</id>
+<updated>2026-11-28T08:00:00+00:00</updated>
+<summary>DeepSeek 機器人桌面版。</summary>
 </entry>
 <entry>
-<title>PrunaAI/P-H3-Image-Comfy</title>
-<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/"/>
-<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-prunaai-p-h3-image-comfy/</id>
-<updated>2026-11-27T08:00:00+00:00</updated>
-<summary>使用 ComfyUI 的文本生成影像模型。</summary>
+<title>inworld/voice-isolator</title>
+<link href="https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inworld-voice-isolator/"/>
+<id>https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-inworld-voice-isolator/</id>
+<updated>2026-11-28T08:00:00+00:00</updated>
+<summary>用於從音訊中分離和增強人聲的工具。</summary>
 </entry>
 </feed>

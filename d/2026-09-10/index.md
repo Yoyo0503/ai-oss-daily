@@ -1522,7 +1522,6 @@ _每日存檔 · 2026-09-10_
 - [Octane0411/open-vibe-island](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/octane0411-open-vibe-island/) — 開源的vibe-island替代品，為重度code agent使用者設計，支援多種終端和程式碼環境。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [zhu1090093659/deepseek-pp](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-deepseek-pp/) — DeepSeek瀏覽器擴充功能，提供AI代理工作空間和自動化工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [藍書 AI 影片工具包](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cclank-lanshu-awesome-ai-video-kit/) — 做企業 AI 影片專案累積出的實戰工具包：411 個 prompt、15 個模型、7 個 Claude Skill。
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。

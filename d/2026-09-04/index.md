@@ -1475,7 +1475,6 @@ _每日存檔 · 2026-09-04_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [derek-zhuolin/interflow-video-cut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/derek-zhuolin-interflow-video-cut/) — 將口播影片自動剪輯成卡片式影片，支援多種視覺風格與佈局。
 - [ebrahimpichka/open-MFE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebrahimpichka-open-mfe/) — 頂級金融工程課程資源的社群維護庫。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [jau123/MeiGen-AI-Design-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jau123-meigen-ai-design-mcp/) — 支援GPT Image 2、Nanobanana及ComfyUI的AI影像生成平臺，附帶1400多個提示庫。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [Egoist-Machines/LodeDB](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/egoist-machines-lodedb/) — 快速、安全的向量資料庫，適合本地 RAG 和隱私保護。

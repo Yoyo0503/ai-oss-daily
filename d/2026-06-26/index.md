@@ -856,7 +856,6 @@ _每日存檔 · 2026-06-26_
 - [showlab/Kiwi-Edit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/showlab-kiwi-edit/) — 統一的開放原始碼框架，使用自然語言進行指令和參考引導式影片編輯。
 - [bigint/rag.computer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bigint-rag-computer/) — 自我主機化的 RAG 平臺，提供檔案嵌入和向量搜尋功能。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Degenapetrader/EVPOLY](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/degenapetrader-evpoly/) — 用 Rust 語言開發的 Polymarket 自動交易引擎，支援多策略迴圈、風險共管和遠端 alpha。
 - [VideoZero/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/videozero-skills/) — 用於生成結構化影片的 MotionCanvas 技能集合。

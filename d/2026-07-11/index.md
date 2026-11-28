@@ -999,7 +999,6 @@ _每日存檔 · 2026-07-11_
 - [OpenDemon/Pilipili-AutoVideo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/opendemon-pilipili-autovideo/) — 自動生成帶字幕的影片代理工具，支援多種影片編輯功能。
 - [zhu1090093659/spec_driven_develop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhu1090093659-spec-driven-develop/) — 基於規格驅動的 AI 程式碼代理開發工作流程，支援任務分解和追蹤。
 - [Dynamis-Labs/spectralquant](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dynamis-labs-spectralquant/) — 基於特徵向量旋轉和位元分配的 KV-Cache 壓縮技術。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [alex-jb/orallexa-ai-trading-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alex-jb-orallexa-ai-trading-agent/) — 自我調校的多 agent 交易系統，融合 8 來源訊號（Polymarket＋Kalshi＋ML）。

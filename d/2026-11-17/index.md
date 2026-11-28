@@ -2286,7 +2286,6 @@ _每日存檔 · 2026-11-17_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。
@@ -2459,7 +2458,6 @@ _每日存檔 · 2026-11-17_
 - [cporter202/stock-market-signal-automation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-stock-market-signal-automation/) — 基於 AI 的股票市場訊號自動化工具。
 - [synapseorch-ai/synapse-ai](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/synapseorch-ai-synapse-ai/) — 開源AI代理平臺，支援自定義工具和連線。
 - [laolaoshiren/claude-code-skills-zh](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/laolaoshiren-claude-code-skills-zh/) — 面向中文開發者的Claude Code技能庫，包含多種場景的技能和外掛。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [op7418/guizang-material-illustration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/op7418-guizang-material-illustration/) — 生成帶字解釋圖、美化圖表和參考輔助配圖的插畫技能。
 - [eddmpython/dartlab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eddmpython-dartlab/) — 根據股票程式碼生成公司完整報告和分析。
 - [LLMQuant/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmquant-skills/) — LLMQuant 的可重用量化 agent skills（Claude/Cursor/OpenClaw 通用）。

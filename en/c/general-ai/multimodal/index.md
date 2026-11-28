@@ -26,7 +26,6 @@
 - [AlexWortega/openjev](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-alexwortega-openjev/) — text-classification · transformers, safetensors, nli
 - [AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16/) — text-generation · transformers, safetensors, qwen3_5
 - [RikiyaT/Qwen3.5-0.8B-weight-space-programming](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-rikiyat-qwen3-5-0-8b-weight-space-programming/) — image-text-to-text · transformers, safetensors, qwen3_5
-- [tencent/Hy4-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy4-flash/) — image-text-to-text · transformers, safetensors, hy_v4_flash
 - [PaddlePaddle/PaddleOCR-VL-1.6](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-paddlepaddle-paddleocr-vl-1-6/) — image-text-to-text · PaddleOCR, safetensors, paddleocr_vl
 - [KORMo-VL/KORMo-Web-11B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-kormo-vl-kormo-web-11b/) — image-text-to-text · transformers, safetensors, llava_onevision
 - [LiquidAI/LFM3-Omni-2B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-lfm3-omni-2b/) — any-to-any · transformers, safetensors, lfm3_omni
@@ -34,6 +33,7 @@
 - [sensenova/SenseNova-Loop-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-sensenova-sensenova-loop-9b/) — image-text-to-text · transformers, safetensors, sensenova_loop
 - [perplexity-ai/pplx-decider-v1.1-27b](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-perplexity-ai-pplx-decider-v1-1-27b/) — text-classification · pytorch, safetensors, qwen3_5
 - [LiquidAI/d1-omni-600M](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-liquidai-d1-omni-600m/) — image-text-to-text · transformers, safetensors, d1_omni
+- [tencent/Hy4-flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-tencent-hy4-flash/) — image-text-to-text · transformers, safetensors, hy_v4_flash
 - [DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NM-DAU](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-davidau-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-nm-dau/) — image-text-to-text · transformers, safetensors, qwen3_5
 - [Agnes-AI/Agnes-3.0-Flash](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-agnes-ai-agnes-3-0-flash/) — image-text-to-text · transformers, safetensors, agnes
 - [adventists-ai/Sophon-Realtime-v1](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/model-adventists-ai-sophon-realtime-v1/) — any-to-any · sophon-realtime, full-duplex, speech-to-speech
@@ -101,7 +101,6 @@
 - [ChartGalaxy/ChartGalaxy](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-chartgalaxy-chartgalaxy/) — · task_categories:visual-question-answering, language:en, license:cc-by-nc-4.0
 - [uv-scripts/ocr](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-uv-scripts-ocr/) — · arxiv:2605.27978, region:us, uv-script
 - [diegosouzapw/OmniRoute](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/diegosouzapw-omniroute/) — Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Curs…
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/dataset-whale99-interaction2code/) — · task_categories:image-text-to-text, language:en, size_categories:1K<n<10K
 - [JenniferZhao0531/ICLR2026-Guide-CN](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/jenniferzhao0531-iclr2026-guide-cn/) — 不想啃 5000+ 全文？我已经替你和 LLM 啃完了 — ICLR 2026 全景中文导读
 - [facebookresearch/VLM3](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/facebookresearch-vlm3/) — Official implementation of paper "VLM³: Vision Language Models Are Native 3D Learners".
 - [zjunlp/LabVLA](https://cenxialiu7-cloud.github.io/ai-oss-daily/en/p/zjunlp-labvla/) — LabVLA: Grounding Vision–Language–Action Models in Scientific Laboratories

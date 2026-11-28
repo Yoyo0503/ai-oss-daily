@@ -1060,7 +1060,6 @@ _每日存檔 · 2026-07-19_
 - [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。
 - [jaylfc/taOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jaylfc-taos/) — 自建 AI 代理系統，適用於消費者硬體如 Mac Mini 或 Raspberry Pi。
 - [CarverXx/jarvis-v3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carverxx-jarvis-v3/) — 具雙腦架構的本地語音助手，快速對話和工具呼叫功能。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [moorcheh-ai/memanto](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/moorcheh-ai-memanto/) — AI 代理程式喜愛的記憶功能。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

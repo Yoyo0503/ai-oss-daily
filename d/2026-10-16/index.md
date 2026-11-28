@@ -1544,7 +1544,6 @@ _每日存檔 · 2026-10-16_
 - [YizhiSong/FriesTrader](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yizhisong-friestrader/) — 自動化股票交易機器人，基於Claude Code進行風險管理。
 - [trailofbits/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/trailofbits-skills/) — 為安全研究和漏洞檢測設計的 Claude Code 技能集。
 - [Donchitos/Claude-Code-Game-Studios](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/donchitos-claude-code-game-studios/) — 將Claude Code轉變為完整的遊戲開發工作室，涵蓋多個AI代理和工作流程技能。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [yuezhiai/jonex](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yuezhiai-jonex/) — 結合多模態解析引擎與知識圖譜的全方位 AI 知識引擎。
 - [ogulcancelik/herdr](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ogulcancelik-herdr/) — 在終端機中執行的AI代理多路復用器。
 - [Eyeline-Labs/ID-V2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eyeline-labs-id-v2v/) — ID-V2V 是用於影片重風格化並保持身份特徵的官方實現。
@@ -1909,7 +1908,6 @@ _每日存檔 · 2026-10-16_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openai/tunnel-client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openai-tunnel-client/) — 用於連線私有或本地 ChatGPT 和其他 API 的安全客戶端。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

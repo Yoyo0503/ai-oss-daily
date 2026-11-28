@@ -5,10 +5,10 @@
 - [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-xtools-at-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic/) — 一個基於轉換器模型的文本生成工具，支援影像轉文本生成。
 - [lodestones/MOSS-Image-SFT-8-steps-dmd](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lodestones-moss-image-sft-8-steps-dmd/) — MOSS-Image-SFT-8-steps-dmd 是一個基於 MOSS-Image-SFT 的微調模型。
 - [lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lightx2v-minimax-h3-prompt-rewriter-lora/) — 模型訓練／微調工具，關鍵字：LoRA（依標籤自動歸類，詳細看下方原文）
+- [Lakonik/pi-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lakonik-pi-h3/) — 圖文轉影片模型，支援diffusers和flow-matching。
 - [microsoft/FastContext-1.0-4B-SFT](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-microsoft-fastcontext-1-0-4b-sft/) — 微軟的快速上下文模型，適用於對話式 AI 和語料庫探索。
 - [akatz-ai/MiniMax-H3-Character-Swap-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-akatz-ai-minimax-h3-character-swap-lora/) — 用於替換影片中角色的AI工具。
 - [pablodawson/MiniMax-H3-360-Orbit-LoRA](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-pablodawson-minimax-h3-360-orbit-lora/) — 將影像和文字轉換為360度視角的影片。
-- [Lakonik/pi-H3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-lakonik-pi-h3/) — 圖文轉影片模型，支援diffusers和flow-matching。
 - [bespokelabs/Bespoke-Nimble-9B](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-bespokelabs-bespoke-nimble-9b/) — 用於文本分類的高效能模型，支援PEFT和LoRA微調。
 - [Alissonerdx/Minimax-H3-ComfyUI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-alissonerdx-minimax-h3-comfyui/) — 模型訓練／微調工具，關鍵字：LoRA、ComfyUI（依標籤自動歸類，詳細看下方原文）
 - [Edge0/Edge0-35B-A3B-preview](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-edge0-edge0-35b-a3b-preview/) — 用於邊緣推論的大型模型，支援高效能運算和資源解除安裝。
@@ -48,11 +48,11 @@
 - [r0b0tlab/qwen3.8-max-distillation-50k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-qwen3-8-max-distillation-50k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [r0b0tlab/qwen3.8-max-glm5.2-kimi-k3-distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-r0b0tlab-qwen3-8-max-glm5-2-kimi-k3-distillation/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [facebook/mms-300m](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/model-facebook-mms-300m/) — 一個使用wav2vec2的轉換器模型，適用於多語言預訓練。
-- [face-hh/eblan](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/face-hh-eblan/) — 根據《反恐精英2》遊戲聊天訓練的聊天機器人。
-- [Juneo-Lab/decision-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juneo-lab-decision-forge/) — 將組織政策編譯為可驗證的決策訓練資料。
 - [jwuthri-cloud/SelfJev](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jwuthri-cloud-selfjev/) — 自建決策模型，提供與Jev相容的API，支援細調和強化學習。
 - [HuggingFaceTB/smol-training-playbook](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-huggingfacetb-smol-training-playbook/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [wallnavigatorhook/fine-tuning-llm-lora-qlora-unsloth](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wallnavigatorhook-fine-tuning-llm-lora-qlora-unsloth/) — 詳細介紹 LLM 微調方法（lora, qlora, unsloth）的教程。
+- [Juneo-Lab/decision-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/juneo-lab-decision-forge/) — 將組織政策編譯為可驗證的決策訓練資料。
+- [face-hh/eblan](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/face-hh-eblan/) — 根據《反恐精英2》遊戲聊天訓練的聊天機器人。
 - [Anthropic/hh-rlhf](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-anthropic-hh-rlhf/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [datamllab/OpenEBFM](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/datamllab-openebfm/) — 用於訓練和擴充套件能量基礎模型的開源程式碼。
 - [chrisipanaque/qwen-lora-finetune](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/chrisipanaque-qwen-lora-finetune/) — 使用 QLoRA 在自定義資料集上微調 Qwen2.5-Coder，生成可分享的 LoRA 介面卡。
@@ -71,11 +71,12 @@
 - [IIGroup/X-Coder-SFT-376k](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-iigroup-x-coder-sft-376k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [R6410418/Jackrong-llm-finetuning-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/r6410418-jackrong-llm-finetuning-guide/) — LLM微調指南，涵蓋資料集和模型選擇。
 - [sunrainyg/RandOpt](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sunrainyg-randopt/) — 基於神經厚林理論的黑盒最佳化官方程式碼庫。
+- [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sapientinc-hrm-text/) — 基於分層推理模型的大型語言生成模型，強化了任務完成和潛在空間推理。
+- [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。
+- [KingHsp/vram-sage-training](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/kinghsp-vram-sage-training/) — 適用於12GB GPU的SDXL和ANIMA微調套件。
 - [njgymb/diffusers-sculptor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/njgymb-diffusers-sculptor/) — 輕量級的穩定擴散模型微調框架。
 - [RNetworks2019/fine-tuning-playground](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/rnetworks2019-fine-tuning-playground/) — 掌握 2026 年 LLM 微調技巧：從 Hugging Face 基礎到生產實踐
 - [StudioFoysal/RiddleGen-FineTuned-GPT2](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/studiofoysal-riddlegen-finetuned-gpt2/) — 2026 年數學謎題生成：微調 GPT-2 自動解謎
-- [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sapientinc-hrm-text/) — 基於分層推理模型的大型語言生成模型，強化了任務完成和潛在空間推理。
-- [nick7nlp/Awesome-LLM-On-Policy-Distillation](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/nick7nlp-awesome-llm-on-policy-distillation/) — 整理大型語言模型在策略蒸餾方面的論文與資源。
 - [DaoyuanLi2816/can-i-finetune-this](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/daoyuanli2816-can-i-finetune-this/) — 估計Hugging Face模型是否能在你的本地GPU上微調。
 - [Enping-Hu/minimind-deep-dive](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enping-hu-minimind-deep-dive/) — MiniMind 原始碼精讀及大模型技術體系中文學習筆記。
 - [LingyiChen-AI/ModelForge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/lingyichen-ai-modelforge/) — 一站式NLP小模型平臺，提供資料集管理、訓練、評估和線上部署等服務。

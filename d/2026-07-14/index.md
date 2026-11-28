@@ -1019,7 +1019,6 @@ _每日存檔 · 2026-07-14_
 - [ebringelvissanchez/Image-AI-Generator-2026](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebringelvissanchez-image-ai-generator-2026/) — 強大的桌面應用程式，快速生成高品質藝術作品和渲染圖。
 - [Classic298/open-webui-plugins](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/classic298-open-webui-plugins/) — 擴充套件AI聊天體驗的外掛集合。
 - [AsuraAce/ambit](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/asuraace-ambit/) — 本地優先的桌面應用程式，用於管理AI影像庫。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [alexpospekhov/searchstack-aeo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexpospekhov-searchstack-aeo/) — 開源搜尋技術堆疊，監控 Google、ChatGPT 等平臺上的能見度。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [MatthewK78/Rose](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/matthewk78-rose/) — 一種 PyTorch 最佳化器，通過範圍標準化的梯度更新進行無狀態最佳化。

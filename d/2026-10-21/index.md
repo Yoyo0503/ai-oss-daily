@@ -1657,7 +1657,6 @@ _每日存檔 · 2026-10-21_
 - [EvoLinkAI/Seedance-2.0-Gateway-Service](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-seedance-2-0-gateway-service/) — Seedance 2.0 API 門戶服務，提供價格、模型和示範指南。
 - [fathah/hermes-desktop](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fathah-hermes-desktop/) — 為 Hermes 代理設計的桌面伴侶，提供聊天機器人功能。
 - [earthtojake/text-to-cad](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/earthtojake-text-to-cad/) — CAD、機器人和硬體設計代理技能集。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [fikrikarim/parlor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fikrikarim-parlor/) — 端側即時多模態 AI，可做自然語音與視覺對話。
 - [sonilo-ai/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sonilo-ai-skills/) — Sonilo 音樂、音效、配音和音訊自動調節 API 的代理技能。
 - [llllllilllll/Kalshi-Trade-Bot](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llllllilllll-kalshi-trade-bot/) — 利用 Polymarket 和 Kalshi 預測市場差價進行套利交易的機器人。
@@ -1967,7 +1966,6 @@ _每日存檔 · 2026-10-21_
 - [samvallad33/vestige](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/samvallad33-vestige/) — AI 代理的安全核心，記錄每一個記憶寫入和代理動作。
 - [cporter202/agentic-ai-apis](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/cporter202-agentic-ai-apis/) — 構建自主 AI 代理的 API 集合，涵蓋代理、AI 模型和 MCP 伺服器。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Coolver/home-assistant-vibecode-agent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/coolver-home-assistant-vibecode-agent/) — 讓Home Assistant支援Claude Code等工具，協助自動化設計與除錯。

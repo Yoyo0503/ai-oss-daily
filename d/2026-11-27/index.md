@@ -885,7 +885,6 @@ _每日存檔 · 2026-11-27_
 - [celiarceron-byte/virtual-card-usdt-anthropic-enterprise-claude-team-vcc](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/celiarceron-byte-virtual-card-usdt-anthropic-enterprise-claude-team-vcc/) — 解析 Anthropic 企業級 Claude 團隊席位採購方案。
 - [AdithyaSK/rl-environments-101-slides](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-101-slides/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [briaai/Fibo-2.0-editing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-briaai-fibo-2-0-editing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [Carol-lyh/Jeveration](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/carol-lyh-jeveration/) — Jeveration 是一個使用 PyTorch 的影像生成系統，支援文字轉影像和視覺語言模型。
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openvivo-vins-120k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yijunwang2-krea2-outpaint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1401,7 +1400,6 @@ _每日存檔 · 2026-11-27_
 - [worldwonderer/video-recap-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/worldwonderer-video-recap-skills/) — video-recap-skills 使用 claude code skill 將影片轉換為敘述性回顧。
 - [jbilcke-hf/ai-comic-factory](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-jbilcke-hf-ai-comic-factory/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [Kwai-Kolors/Kolors-Virtual-Try-On](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-kwai-kolors-kolors-virtual-try-on/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [wordghost1234/agnes-ai-storyboard-studio](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/wordghost1234-agnes-ai-storyboard-studio/) — 自建式開源 AI 影片生成指南。
 - [Player-YN/BrowserKitten](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/player-yn-browserkitten/) — Chrome 瀏覽器選項式網頁代理，可將選定內容轉換為可編輯檔案。
 - [everyinfra/seo-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/everyinfra-seo-skills/) — 免費的全球SEO技能套件，適用於多種AI代理和市場平臺。
@@ -2451,7 +2449,6 @@ _每日存檔 · 2026-11-27_
 - [artbyjazi/autoclip](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/artbyjazi-autoclip/) — 本地AI影片剪輯工具，支援離線操作。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [adambenhassen/minimax-music-ui](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/adambenhassen-minimax-music-ui/) — 自託伺服器的MiniMax-Music3推論介面。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
@@ -2907,7 +2904,6 @@ _每日存檔 · 2026-11-27_
 - [ScaleBrick/founder-marketing-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/scalebrick-founder-marketing-skills/) — 創業者開源行銷技能套件，包含關鍵字研究和成長策略。
 - [bipbopcompany-droid/Risk-Nexus-Command](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/bipbopcompany-droid-risk-nexus-command/) — 多帳戶風險控制系統，具備全球資金保護功能。
 - [Syed-Imran88/MT5-Exposure-Mesh-Analyzer](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/syed-imran88-mt5-exposure-mesh-analyzer/) — MetaTrader 平臺的最佳多資產相關性熱圖分析工具。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [ffroliva/gflow-cli](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ffroliva-gflow-cli/) — 從命令列驅動Google Flow，支援批次處理和程式碼代理。
 - [zhenye234/Talker-T2AV](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zhenye234-talker-t2av/) — 結合自迴歸差分模型的音影片生成框架。
 - [spacesdrive/twiligent](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/spacesdrive-twiligent/) — 本地機器上的社交媒體統計工具，無需訂閱或資料共享。

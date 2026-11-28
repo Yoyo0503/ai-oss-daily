@@ -1132,7 +1132,6 @@ _每日存檔 · 2026-09-25_
 - [titanwings/distilly](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/titanwings-distilly/) — Distilly 將想法轉化為可重用的技能，適用於任何代理或機器人。
 - [Fangx-AI/cut-director](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fangx-ai-cut-director/) — 聊天機器人讀指令碼並指導動畫、視覺效果和剪輯。
 - [xingyuanzhao/nocode-workflow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-xingyuanzhao-nocode-workflow/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [pascalorg/editor](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/pascalorg-editor/) — 本地CLI和MCP工具的3D建築編輯器。
 - [mksglu/context-mode](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mksglu-context-mode/) — 最佳化AI程式碼代理的上下文視窗，減少工具輸出。
 - [zvec-ai/zvec-grep](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zvec-ai-zvec-grep/) — zvec-grep 是一個為人類和 AI 代理設計的本地搜尋工具。
@@ -1714,7 +1713,6 @@ _每日存檔 · 2026-09-25_
 - [OranAi-Ltd/orangeo-ai-visibility-skill](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/oranai-ltd-orangeo-ai-visibility-skill/) — 開放原始碼的AI可見性檢查工具，用於檢測網站SEO和競爭對手差距。
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。

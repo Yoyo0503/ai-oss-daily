@@ -1164,7 +1164,6 @@ _每日存檔 · 2026-07-29_
 - [alibayram/identity_finetune_magibu_q3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-alibayram-identity-finetune-magibu-q3/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [PrathamLearnsToCode/paper2code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/prathamlearnstocode-paper2code/) — 將任何 arXiv 學術論文轉換為可執行程式碼的代理技能。
 - [activeloopai/hivemind](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/activeloopai-hivemind/) — 為所有代理提供統一記憶體的人工智慧平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [dthinkr/yand-mvsk](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dthinkr-yand-mvsk/) — 快速資產最佳化工具，解決大量資產的最佳化問題。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

@@ -4,5 +4,5 @@ Local AI songs with vocals, BGM and sound effects for Claude Code and any MCP cl
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：717
+**Stars**：718
 **Source**：https://github.com/kanaworksai-hue/audio-studio-mcp

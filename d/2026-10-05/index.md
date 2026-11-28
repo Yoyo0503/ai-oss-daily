@@ -1312,7 +1312,6 @@ _每日存檔 · 2026-10-05_
 - [tetsuo-ai/voice_clone_lab](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/tetsuo-ai-voice-clone-lab/) — 從少量語音片段克隆聲音並生成語音，適用於Qwen3-TTS微調流程。
 - [open-ribbi/velocut](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/open-ribbi-velocut/) — 本地優先的AI影片編輯器，支援瀏覽器內執行。
 - [animede/Diffusers_minimax-h3](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/animede-diffusers-minimax-h3/) — MiniMax-H3模型，用於生成帶同步音訊的影片。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [google/WaxalNLP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-google-waxalnlp/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [witfoo/precinct6-cybersecurity](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-witfoo-precinct6-cybersecurity/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [holaboss-ai/holaOS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/holaboss-ai-holaos/) — 本地優先的超級工作代理，快速學習並記住工作上下文。
@@ -1802,7 +1801,6 @@ _每日存檔 · 2026-10-05_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/atlascloudai-awesome-seedance-2-5-prompts-skills/) — 包含100多個Seedance 2.5提示和影片預覽的列表，以及最佳化提示、建立故事板和生成影片的技能。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [openai/tunnel-client](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/openai-tunnel-client/) — 用於連線私有或本地 ChatGPT 和其他 API 的安全客戶端。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

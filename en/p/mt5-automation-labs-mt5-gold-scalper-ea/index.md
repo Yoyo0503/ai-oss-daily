@@ -4,5 +4,5 @@ MT5 gold (XAUUSD) M1 scalper EAs: Z-score mean reversion plus trend breakout, wi
 
 **Commercial license**：Commercial OK — 可商用，通常只需保留著作權聲明/授權條款
 
-**Stars**：84
+**Stars**：117
 **Source**：https://github.com/MT5-Automation-Labs/mt5-gold-scalper-ea

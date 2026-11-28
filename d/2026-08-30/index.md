@@ -1467,7 +1467,6 @@ _每日存檔 · 2026-08-30_
 - [ebrahimpichka/open-MFE](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ebrahimpichka-open-mfe/) — 頂級金融工程課程資源的社群維護庫。
 - [PlagueKind/ComfyUI-PlagueKind-Nodes](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/plaguekind-comfyui-plaguekind-nodes/) — ComfyUI 自訂節點，提供統一的影像和遮罩縮放功能，支援多種縮放模式。
 - [llmsresearch/llm-flashcards](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/llmsresearch-llm-flashcards/) — 手繪的 LLM 工作原理卡片集，包含19張免費樣品卡。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [agenvoy/Agenvoy](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agenvoy-agenvoy/) — 個人AI代理，能自行編寫工具並自我修復。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。

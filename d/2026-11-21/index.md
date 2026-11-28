@@ -811,7 +811,6 @@ _每日存檔 · 2026-11-21_
 - [signsur4739379373/LTX-2.3-Finetuned-I2V](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-signsur4739379373-ltx-2-3-finetuned-i2v/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [AdithyaSK/rl-environments-101-slides](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-adithyask-rl-environments-101-slides/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [briaai/Fibo-2.0-editing](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-briaai-fibo-2-0-editing/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
-- [Gabrissfsf/bahrain-flip-finder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/gabrissfsf-bahrain-flip-finder/) — 社群驅動的 Discord 和 Telegram 處理交易掃描器。
 - [openvivo/VINS-120K](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-openvivo-vins-120k/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [yijunwang2/krea2-outpaint](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-yijunwang2-krea2-outpaint/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
 - [hugging-apps/h3-world-action-demo](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/space-hugging-apps-h3-world-action-demo/) — Hugging Face 示範應用(Space)（依標籤自動歸類，詳細看下方原文）
@@ -1277,7 +1276,6 @@ _每日存檔 · 2026-11-21_
 - [Archibaldys/ai-copywriting-prompts](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/archibaldys-ai-copywriting-prompts/) — 適用於社交媒體和長篇文章生成的人工智慧文案提示集。
 - [Alexandriayes/ki-kreativsuite-bundle-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/alexandriayes-ki-kreativsuite-bundle-guide/) — 德語區的設計工具指南，提供Canva替代方案，讓設計變得輕鬆。
 - [Ferdinandyes/automated-video-marketing-tools](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/ferdinandyes-automated-video-marketing-tools/) — 自動生成TikTok和推廣影片的AI工具。
-- [jc4603/telegram-channel-forwarder](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jc4603-telegram-channel-forwarder/) — 自動化 Telegram 頻道轉發器和內容重寫器。
 - [infercrane/infercrane](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/infercrane-infercrane/) — infercrane 是一個開源的 AI 推理基礎設施，支援模型部署和最佳化。
 - [anthropics/skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/anthropics-skills/) — 公開的Agent Skills儲存庫。
 - [Roman1111111/claude-opus-4.6-10000x](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-roman1111111-claude-opus-4-6-10000x/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
@@ -2355,7 +2353,6 @@ _每日存檔 · 2026-11-21_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
 - [yaojingang/GEORank](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/yaojingang-georank/) — 開源地理排名與生成引擎最佳化平臺。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。
 - [EvoLinkAI/awesome-seedance-2-guide](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/evolinkai-awesome-seedance-2-guide/) — Seedance 2.0 完整指南，介紹多模態 AI 影片生成技術。
 - [Owl-Listener/designer-skills](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/owl-listener-designer-skills/) — 設計師技能集合，涵蓋從研究到系統交付的各項設計工作。
@@ -2627,7 +2624,6 @@ _每日存檔 · 2026-11-21_
 - [fancyboi999/Loomic](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/fancyboi999-loomic/) — 開源 AI 繪圖代理，支援聊天驅動的影像與影片生成。
 - [CodeBySonu95/VoxSherpa-TTS](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/codebysonu95-voxsherpa-tts/) — 為 Android 設計的離線神經文本轉語音引擎，無需網路即可使用。
 - [Mexes1978/comfyui-comfysketch](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/mexes1978-comfyui-comfysketch/) — ComfyUI的繪圖節點，專為草圖創作設計。
-- [ZinYY/AdaFlash](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zinyy-adaflash/) — 通過策略性解碼提高大型語言模型的推論效率。
 - [Agions/panel-flow](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/agions-panel-flow/) — AI驅動的小說、劇本轉換成專業級影片內容的平臺
 - [usmanch96/QxbrokerFutures](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/usmanch96-qxbrokerfutures/) — 為 Quotex 和 QXbroker 提供 AI 動力的 OTC 訊號引擎和預測器。
 - [sapientinc/HRM-Text](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/sapientinc-hrm-text/) — 基於分層推理模型的大型語言生成模型，強化了任務完成和潛在空間推理。

@@ -1569,7 +1569,6 @@ _每日存檔 · 2026-09-16_
 - [zarazhangrui/personalized-podcast](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/zarazhangrui-personalized-podcast/) — 將任何內容轉換為個人化 AI 廣播節目，可在 Apple Podcasts 等平臺收聽。
 - [MADEVAL/FerryAI](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/madeval-ferryai/) — PHP 8.3+的原生AI推論框架，直接在PHP中執行ONNX等模型。
 - [EnragedAntelope/comfyui-identity-forge](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/enragedantelope-comfyui-identity-forge/) — comfyui-identity-forge 是一個用於建立和隨機生成角色的工具。
-- [whale99/Interaction2Code](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/dataset-whale99-interaction2code/) — Hugging Face 資料集（依標籤自動歸類，詳細看下方原文）
 - [LoganBooker/SesquiLSR](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/loganbooker-sesquilsr/) — 支援SDXL等模型的任意比例上取樣器，包含ComfyUI節點和預訓練權重。
 - [jau123/MeiGen-AI-Design-MCP](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/jau123-meigen-ai-design-mcp/) — 支援GPT Image 2、Nanobanana及ComfyUI的AI影像生成平臺，附帶1400多個提示庫。
 - [eval-sys/mcpmark](https://cenxialiu7-cloud.github.io/ai-oss-daily/p/eval-sys-mcpmark/) — 評估MCP模型和代理在實際應用中的能力的綜合測試工具。

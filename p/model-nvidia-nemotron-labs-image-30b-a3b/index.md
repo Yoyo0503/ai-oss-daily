@@ -2,7 +2,7 @@
 
 將文字轉換成影像的AI模型。
 
-**為何上榜**：HF trending 216 · 276 likes · 218 下載
+**為何上榜**：HF trending 248 · 341 likes · 1,692 下載
 
 **商用授權**：限非商用 — 非商用或受限授權(如 CC-NC / OpenRAIL / Llama 社群授權)，商用前必讀條款
 
